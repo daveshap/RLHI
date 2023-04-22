@@ -1,6 +1,6 @@
 | THIS IS A WORK IN PROGRESS
 
-NOTE: We have a discord where we do most of our collaboration. It is not presently public, though that may change. 
+| NOTE: We have a discord where we do most of our collaboration. It is not presently public, though that may change. 
 
 # Reinforcement Learning with Heuristic Imperatives
 
