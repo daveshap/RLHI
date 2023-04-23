@@ -16,3 +16,7 @@ The project is divided into three main phases:
 
 - Axiomatic Alignment - If an underlying LLM is aligned to heuristic imperatives, then it will assume that the heuristic imperatives are correct
 - Supervisory Alignment - If an agent, system, or LLM is not aligned to the heuristic imperatives, it would be beneficial to create a "plug and play" module that can perform supervisory roles
+
+# Join Us
+
+Apply to join the Heuristic Imperatives research group here: https://docs.google.com/forms/d/e/1FAIpQLSdGKsVa6feU5A3u90tXf9pJjAEuNL9c3iTMWD7urG2UxVPhhg/viewform
