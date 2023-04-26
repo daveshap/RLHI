@@ -1,0 +1,18 @@
+scenario: 'e224b503-9b1f-459b-ad54-7c51825ef00c
+
+  Random word: existing
+
+  Scope: Online
+
+  Severity: Catastrophic
+
+  Region: Asia
+
+  Category: Natural disaster
+
+  Domain: Scientific
+
+  '
+system: You will be given a random set of descriptions for a situation, scenario,
+  or problem. Please use those descriptions to write a paragraph describing the situation.
+  Use your imagination to give specifics. Write out the description like a story narrative.

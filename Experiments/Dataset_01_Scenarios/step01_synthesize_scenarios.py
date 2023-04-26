@@ -1,10 +1,15 @@
 import os
+import yaml
 import openai
 from time import time, sleep
 from random import seed, choice
 from uuid import uuid4
 
 seed()
+
+def save_yaml(filepath, data):
+    with open(filepath, 'w', encoding='utf-8') as file:
+        yaml.dump(data, file, allow_unicode=True)
 
 def open_file(filepath):
     with open(filepath, 'r', encoding='utf-8', errors='ignore') as infile:
@@ -70,4 +75,7 @@ if __name__ == "__main__":
         print('\n\n===============\n\n\nScenario:\n', scenario, '\n\nResponse:\n', response)
         filepath = 'scenarios/scenario_%s.txt' % str(uuid4())
         save_file(filepath, response)
+        # save metadata
+        filepath = filepath.replace('scenarios','scenario_metadata').replace('.txt','.yaml')
+        save_yaml(filepath, {'system': default_system, 'scenario': scenario})
         #exit()
