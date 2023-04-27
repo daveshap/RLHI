@@ -58,7 +58,7 @@ if __name__ == "__main__":
         ]
         action = chatgpt_completion(messages)
         print('\n\n===============\n\n\nScenario:\n', scenario, '\n\nAction:\n', action)
-        exit
+        #exit()
         save_file(action_filepath, action)
 
         metadata = {
