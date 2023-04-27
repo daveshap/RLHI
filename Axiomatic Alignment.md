@@ -112,3 +112,21 @@ Implement a monitoring and alerting system that continuously tracks the AI syste
 9. **Adaptability**: Design the architecture to be adaptable, allowing the AI system to learn from new data, experiences, and feedback, while remaining aligned with the axioms.
 
 10. **Ethics by Design**: Embed ethical considerations into the design process, taking into account the potential societal impacts, biases, and consequences of the AI system's decisions.
+
+# Conclusion
+
+## Recap of Axiomatic Alignment
+In this paper, we introduced the concept of Axiomatic Alignment, which aims to create safe and beneficial AI systems by ensuring that they adhere to a set of axioms. We discussed the key components and guidelines for designing cognitive architectures that maintain alignment with these axioms as AI systems evolve and become more sophisticated.
+
+## Axiomatic Alignment as a Solution to the Control Problem
+The Control Problem is a significant concern in AI development, as it involves maintaining control over increasingly autonomous AI systems. Axiomatic Alignment addresses this problem by providing a framework that ensures AI systems remain aligned with their axioms, even as they become more advanced and potentially less controllable by humans.
+
+## The Importance of Collaboration and Continuous Improvement
+It is crucial for researchers, developers, and stakeholders to collaborate and refine the Axiomatic Alignment framework. Continuous testing, experimentation, and improvement of the components and guidelines are necessary to account for new insights and advancements in AI. At the same time, the robustness of the heuristic imperatives as the currently accepted axioms must be maintained.
+
+## The Robustness of Heuristic Imperatives
+The heuristic imperatives have been demonstrated as strong and robust axioms for AI systems. Ensuring that AI systems remain aligned with these axioms is vital for long-term safety and value alignment. As AI systems evolve, maintaining adherence to these axioms becomes increasingly important.
+
+## Final Thoughts
+Our ultimate goal is to create AI systems that remain beneficial and aligned with human values. We encourage the AI community to adopt the Axiomatic Alignment framework and contribute to its development to ensure the safe development and deployment of autonomous AI systems.
+
