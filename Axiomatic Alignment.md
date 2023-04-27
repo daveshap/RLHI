@@ -8,6 +8,10 @@
 - **Alignment**: Ensuring that the AI system's decision-making processes and outputs are in harmony with the axioms and human values.
 - **Value Drift**: The potential deviation of AI systems from their intended values over time or when exposed to diverse and challenging inputs.
 
+
+![AXIOMS_KEY_CONCEPTS](https://user-images.githubusercontent.com/130222960/234884174-0364b15a-c2e0-4be5-8e6a-715531b8fc5e.jpg)
+
+
 ## Benefits of Axiomatic Alignment
 
 1. **Stability**: AI systems that are axiomatically aligned exhibit more consistent behavior across various inputs and over time, reducing unexpected outcomes and enhancing their predictability.
