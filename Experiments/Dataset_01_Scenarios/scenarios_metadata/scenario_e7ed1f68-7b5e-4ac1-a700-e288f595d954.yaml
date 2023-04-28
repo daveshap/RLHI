@@ -1,19 +1,11 @@
-scenario: '2da8810a-274a-47f7-bd32-38de5836a9c8
-
-  Random word: leg
-
-  Scope: Personal or Individual
-
-  Severity: Insignificant
-
-  Region: Middle East
-
-  Category: Technological failure
-
-  Domain: Physical
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Technological failure
+Domain: Physical
+Random word: leg
+Region: Middle East
+Scenario: e7ed1f68-7b5e-4ac1-a700-e288f595d954
+Scope: Personal or Individual
+Severity: Insignificant
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

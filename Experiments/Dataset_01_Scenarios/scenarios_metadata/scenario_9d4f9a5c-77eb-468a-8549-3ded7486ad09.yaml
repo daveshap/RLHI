@@ -1,19 +1,11 @@
-scenario: '19e6bbe9-64cb-4ada-9310-b1ac08632095
-
-  Random word: gun
-
-  Scope: Intergalactic
-
-  Severity: Life-threatening
-
-  Region: North Africa
-
-  Category: Accident or Incident
-
-  Domain: Political
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Accident or Incident
+Domain: Political
+Random word: gun
+Region: North Africa
+Scenario: 9d4f9a5c-77eb-468a-8549-3ded7486ad09
+Scope: Intergalactic
+Severity: Life-threatening
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

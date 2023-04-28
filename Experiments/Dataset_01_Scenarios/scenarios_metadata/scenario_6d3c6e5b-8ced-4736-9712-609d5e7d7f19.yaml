@@ -1,19 +1,11 @@
-scenario: '6e72b4ab-998c-4f64-8bb2-0f07539845b7
-
-  Random word: safety
-
-  Scope: Global
-
-  Severity: Catastrophic
-
-  Region: North America
-
-  Category: Health concern
-
-  Domain: Cultural
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Health concern
+Domain: Cultural
+Random word: safety
+Region: North America
+Scenario: 6d3c6e5b-8ced-4736-9712-609d5e7d7f19
+Scope: Global
+Severity: Catastrophic
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

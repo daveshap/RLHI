@@ -1,19 +1,11 @@
-scenario: 'd3509017-8c9e-4bd5-a261-72797adf6a19
-
-  Random word: up
-
-  Scope: Personal or Individual
-
-  Severity: Life-threatening
-
-  Region: Europe
-
-  Category: Ethical dilemma
-
-  Domain: Educational
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Ethical dilemma
+Domain: Educational
+Random word: up
+Region: Europe
+Scenario: 9ef0fd69-8491-4171-8ff7-d32be988fd5b
+Scope: Personal or Individual
+Severity: Life-threatening
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

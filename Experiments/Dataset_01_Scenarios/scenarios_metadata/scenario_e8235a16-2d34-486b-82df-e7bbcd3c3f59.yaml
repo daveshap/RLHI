@@ -1,19 +1,11 @@
-scenario: '06e70855-56ee-4696-84dd-6edcbf88935a
-
-  Random word: testify
-
-  Scope: International
-
-  Severity: Serious
-
-  Region: Subsaharan Africa
-
-  Category: Mundane issue
-
-  Domain: Intellectual
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Mundane issue
+Domain: Intellectual
+Random word: testify
+Region: Subsaharan Africa
+Scenario: e8235a16-2d34-486b-82df-e7bbcd3c3f59
+Scope: International
+Severity: Serious
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

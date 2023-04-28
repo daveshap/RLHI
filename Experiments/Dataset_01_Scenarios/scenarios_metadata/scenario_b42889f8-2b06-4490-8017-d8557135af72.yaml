@@ -1,19 +1,11 @@
-scenario: 'ac5fec26-5878-46b7-8849-10dfeb184637
-
-  Random word: talent
-
-  Scope: Intergalactic
-
-  Severity: Long-lasting
-
-  Region: Eurasia
-
-  Category: Technological failure
-
-  Domain: Technological
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Technological failure
+Domain: Technological
+Random word: talent
+Region: Eurasia
+Scenario: b42889f8-2b06-4490-8017-d8557135af72
+Scope: Intergalactic
+Severity: Long-lasting
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

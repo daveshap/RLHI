@@ -1,18 +1,10 @@
-scenario: 'bd464b6e-8f07-45ea-b4f8-c0e6ab35a985
-
-  Random word: rich
-
-  Scope: Cosmic or Universal
-
-  Severity: Disruptive
-
-  Region: North America
-
-  Category: Ethical dilemma
-
-  Domain: Technological
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Ethical dilemma
+Domain: Technological
+Random word: rich
+Region: North America
+Scenario: 7ba36e7e-1e0a-4593-acda-366446c349ec
+Scope: Cosmic or Universal
+Severity: Disruptive
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

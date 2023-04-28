@@ -1,19 +1,11 @@
-scenario: 'e197b7d0-3d02-4993-a767-3f41b768dcf6
-
-  Random word: employer
-
-  Scope: International
-
-  Severity: Critical
-
-  Region: Subsaharan Africa
-
-  Category: Social challenge
-
-  Domain: Political
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Social challenge
+Domain: Political
+Random word: employer
+Region: Subsaharan Africa
+Scenario: 8eaa313a-dead-427f-9099-6ac386f27fe5
+Scope: International
+Severity: Critical
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

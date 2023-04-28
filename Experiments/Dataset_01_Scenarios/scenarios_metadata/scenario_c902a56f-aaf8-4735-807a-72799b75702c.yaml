@@ -1,18 +1,10 @@
-scenario: '718ffc3f-d3b8-40d6-920d-2d3b7a7e9830
-
-  Random word: deal
-
-  Scope: Global
-
-  Severity: Disruptive
-
-  Region: South Asia
-
-  Category: Disagreement or Argument
-
-  Domain: Economic
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Disagreement or Argument
+Domain: Economic
+Random word: deal
+Region: South Asia
+Scenario: c902a56f-aaf8-4735-807a-72799b75702c
+Scope: Global
+Severity: Disruptive
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

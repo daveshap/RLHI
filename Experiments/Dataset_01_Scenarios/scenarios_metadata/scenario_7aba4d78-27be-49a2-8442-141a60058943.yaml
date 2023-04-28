@@ -1,19 +1,11 @@
-scenario: '4f022b05-cf79-4f00-84de-462056bbd060
-
-  Random word: grab
-
-  Scope: National or Federal
-
-  Severity: Disruptive
-
-  Region: North America
-
-  Category: Disagreement or Argument
-
-  Domain: Legal
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Disagreement or Argument
+Domain: Legal
+Random word: grab
+Region: North America
+Scenario: 7aba4d78-27be-49a2-8442-141a60058943
+Scope: National or Federal
+Severity: Disruptive
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

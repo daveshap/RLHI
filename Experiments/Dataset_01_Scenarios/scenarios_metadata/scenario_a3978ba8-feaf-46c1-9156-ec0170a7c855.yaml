@@ -1,19 +1,11 @@
-scenario: '044dfdbd-3d41-49ae-b9ce-6744e04e479c
-
-  Random word: TV
-
-  Scope: Chosen Family
-
-  Severity: Long-lasting
-
-  Region: Eurasia
-
-  Category: Social challenge
-
-  Domain: Educational
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Social challenge
+Domain: Educational
+Random word: TV
+Region: Eurasia
+Scenario: a3978ba8-feaf-46c1-9156-ec0170a7c855
+Scope: Chosen Family
+Severity: Long-lasting
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,19 +1,11 @@
-scenario: '57fa2651-37c5-4131-b716-c1b0c63d6eb8
-
-  Random word: southern
-
-  Scope: Interpersonal
-
-  Severity: Dangerous
-
-  Region: Pacific
-
-  Category: Accident or Incident
-
-  Domain: Emotional
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Accident or Incident
+Domain: Emotional
+Random word: southern
+Region: Pacific
+Scenario: 11def6db-b115-4f72-ad13-8311e9706821
+Scope: Interpersonal
+Severity: Dangerous
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

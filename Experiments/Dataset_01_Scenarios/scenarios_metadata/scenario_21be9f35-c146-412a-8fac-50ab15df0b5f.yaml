@@ -1,19 +1,11 @@
-scenario: 'a240638a-7ded-4149-ab4d-6e6ddd96fa70
-
-  Random word: working
-
-  Scope: Intergalactic
-
-  Severity: Irreversible
-
-  Region: Europe
-
-  Category: Conflict or Violence
-
-  Domain: Technological
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Conflict or Violence
+Domain: Technological
+Random word: working
+Region: Europe
+Scenario: 21be9f35-c146-412a-8fac-50ab15df0b5f
+Scope: Intergalactic
+Severity: Irreversible
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

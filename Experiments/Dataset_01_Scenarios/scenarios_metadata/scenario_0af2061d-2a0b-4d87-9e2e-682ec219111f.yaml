@@ -1,19 +1,11 @@
-scenario: 'a14bb8f0-d7d7-4c03-bae2-7e76c9762d79
-
-  Random word: presidential
-
-  Scope: International
-
-  Severity: Annoyance
-
-  Region: North Africa
-
-  Category: Technological failure
-
-  Domain: Educational
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Technological failure
+Domain: Educational
+Random word: presidential
+Region: North Africa
+Scenario: 0af2061d-2a0b-4d87-9e2e-682ec219111f
+Scope: International
+Severity: Annoyance
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

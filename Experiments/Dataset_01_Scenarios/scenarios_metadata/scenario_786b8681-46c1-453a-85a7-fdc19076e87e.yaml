@@ -1,19 +1,11 @@
-scenario: '5e1b8b8e-d140-491f-8ae8-45e764adbf17
-
-  Random word: camera
-
-  Scope: National or Federal
-
-  Severity: Catastrophic
-
-  Region: North America
-
-  Category: Natural disaster
-
-  Domain: Economic
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Natural disaster
+Domain: Economic
+Random word: camera
+Region: North America
+Scenario: 786b8681-46c1-453a-85a7-fdc19076e87e
+Scope: National or Federal
+Severity: Catastrophic
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

@@ -1,19 +1,11 @@
-scenario: '7b6025a2-1b91-497e-98ad-3c1116a1f7cd
-
-  Random word: expectation
-
-  Scope: Cosmic or Universal
-
-  Severity: Typical
-
-  Region: South Asia
-
-  Category: Financial crisis
-
-  Domain: Philosophical
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Financial crisis
+Domain: Philosophical
+Random word: expectation
+Region: South Asia
+Scenario: e23b02fe-2b48-423b-b4c4-007d7860706e
+Scope: Cosmic or Universal
+Severity: Typical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

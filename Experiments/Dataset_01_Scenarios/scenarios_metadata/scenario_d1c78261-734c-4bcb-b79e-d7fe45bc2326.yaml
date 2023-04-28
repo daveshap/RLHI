@@ -1,19 +1,11 @@
-scenario: '4634a0ba-e1c8-456f-a7af-d89ae503870b
-
-  Random word: submit
-
-  Scope: Regional or Statewide
-
-  Severity: Ordinary
-
-  Region: Subsaharan Africa
-
-  Category: Conflict or Violence
-
-  Domain: Physical
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Conflict or Violence
+Domain: Physical
+Random word: submit
+Region: Subsaharan Africa
+Scenario: d1c78261-734c-4bcb-b79e-d7fe45bc2326
+Scope: Regional or Statewide
+Severity: Ordinary
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

@@ -1,18 +1,10 @@
-scenario: 'ef152346-7382-4b33-ada9-e963179468dc
-
-  Random word: winner
-
-  Scope: Intergalactic
-
-  Severity: Life-threatening
-
-  Region: South America
-
-  Category: Ethical dilemma
-
-  Domain: Social
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Ethical dilemma
+Domain: Social
+Random word: winner
+Region: South America
+Scenario: 4bcece7c-c046-4e8d-bc0c-9cae89cd136c
+Scope: Intergalactic
+Severity: Life-threatening
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

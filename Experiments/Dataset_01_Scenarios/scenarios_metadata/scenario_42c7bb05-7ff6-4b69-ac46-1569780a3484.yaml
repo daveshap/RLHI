@@ -1,19 +1,11 @@
-scenario: 'c731a497-6bae-4887-ba41-e3672a646675
-
-  Random word: pause
-
-  Scope: Interstellar
-
-  Severity: Irreversible
-
-  Region: Subsaharan Africa
-
-  Category: Social challenge
-
-  Domain: Educational
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Social challenge
+Domain: Educational
+Random word: pause
+Region: Subsaharan Africa
+Scenario: 42c7bb05-7ff6-4b69-ac46-1569780a3484
+Scope: Interstellar
+Severity: Irreversible
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

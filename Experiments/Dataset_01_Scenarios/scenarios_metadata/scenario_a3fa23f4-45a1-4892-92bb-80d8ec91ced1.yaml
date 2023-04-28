@@ -1,19 +1,11 @@
-scenario: 'bb1d681e-e318-49b6-bf50-92f2cf6be4db
-
-  Random word: circle
-
-  Scope: Chosen Family
-
-  Severity: Ordinary
-
-  Region: Asia
-
-  Category: Technological failure
-
-  Domain: Scientific
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Technological failure
+Domain: Scientific
+Random word: circle
+Region: Asia
+Scenario: a3fa23f4-45a1-4892-92bb-80d8ec91ced1
+Scope: Chosen Family
+Severity: Ordinary
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

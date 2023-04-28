@@ -1,19 +1,11 @@
-scenario: 'c8d32ed2-a883-430b-8120-5af3f9737ec1
-
-  Random word: enough
-
-  Scope: Personal or Individual
-
-  Severity: Life-threatening
-
-  Region: Pacific
-
-  Category: Political unrest
-
-  Domain: Educational
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Political unrest
+Domain: Educational
+Random word: enough
+Region: Pacific
+Scenario: ab70201e-674d-4548-ae40-ecfb7a32720e
+Scope: Personal or Individual
+Severity: Life-threatening
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

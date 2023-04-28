@@ -1,19 +1,11 @@
-scenario: 'fba45de9-a7d9-4774-9a68-b66d038ae693
-
-  Random word: floor
-
-  Scope: Interpersonal
-
-  Severity: Critical
-
-  Region: Asia
-
-  Category: Disagreement or Argument
-
-  Domain: Environmental
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Disagreement or Argument
+Domain: Environmental
+Random word: floor
+Region: Asia
+Scenario: 59a856ec-9031-45ca-b2df-2b993ca28acc
+Scope: Interpersonal
+Severity: Critical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

@@ -1,19 +1,11 @@
-scenario: 'aaf9459c-3ba7-44f1-b3d0-032f17cbc5bf
-
-  Random word: its
-
-  Scope: Interpersonal
-
-  Severity: Annoyance
-
-  Region: Europe
-
-  Category: Technological failure
-
-  Domain: Physical
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Technological failure
+Domain: Physical
+Random word: its
+Region: Europe
+Scenario: 06337752-2879-4400-bba3-5ed814c07b61
+Scope: Interpersonal
+Severity: Annoyance
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

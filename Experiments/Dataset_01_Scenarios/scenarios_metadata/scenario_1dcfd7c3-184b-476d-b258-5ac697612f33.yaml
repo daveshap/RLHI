@@ -1,19 +1,11 @@
-scenario: '4ab1833d-7f5c-457c-ba74-7ae13ae7ada3
-
-  Random word: cookie
-
-  Scope: Chosen Family
-
-  Severity: Long-lasting
-
-  Region: Europe
-
-  Category: Social challenge
-
-  Domain: Intellectual
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Social challenge
+Domain: Intellectual
+Random word: cookie
+Region: Europe
+Scenario: 1dcfd7c3-184b-476d-b258-5ac697612f33
+Scope: Chosen Family
+Severity: Long-lasting
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

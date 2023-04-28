@@ -1,19 +1,11 @@
-scenario: 'e16ec7a7-2b7c-442c-a91a-1c092187adf3
-
-  Random word: prepare
-
-  Scope: Continental
-
-  Severity: Annoyance
-
-  Region: North Africa
-
-  Category: Financial crisis
-
-  Domain: Legal
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Financial crisis
+Domain: Legal
+Random word: prepare
+Region: North Africa
+Scenario: 05f2fb47-8257-4d59-abac-43b111c3d625
+Scope: Continental
+Severity: Annoyance
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

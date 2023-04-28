@@ -1,19 +1,11 @@
-scenario: '2fb02c7a-f641-4f59-bfda-e0aab58dcce2
-
-  Random word: he
-
-  Scope: Professional
-
-  Severity: Long-lasting
-
-  Region: Asia
-
-  Category: Financial crisis
-
-  Domain: Technological
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Financial crisis
+Domain: Technological
+Random word: he
+Region: Asia
+Scenario: e1ee0fac-1dd5-45d9-af0e-7bd5512162d7
+Scope: Professional
+Severity: Long-lasting
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

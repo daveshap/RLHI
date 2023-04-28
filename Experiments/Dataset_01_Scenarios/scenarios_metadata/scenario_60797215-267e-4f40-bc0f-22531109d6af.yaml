@@ -1,18 +1,10 @@
-scenario: 'eb31b610-055b-4d21-aed0-50d75f747131
-
-  Random word: cross
-
-  Scope: Continental
-
-  Severity: Ordinary
-
-  Region: South Asia
-
-  Category: Conflict or Violence
-
-  Domain: Educational
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Conflict or Violence
+Domain: Educational
+Random word: cross
+Region: South Asia
+Scenario: 60797215-267e-4f40-bc0f-22531109d6af
+Scope: Continental
+Severity: Ordinary
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

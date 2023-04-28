@@ -1,19 +1,11 @@
-scenario: '13ed3bff-d74a-45aa-aadc-8de0e7a40386
-
-  Random word: while
-
-  Scope: Local community or Neighborhood
-
-  Severity: Ordinary
-
-  Region: Middle East
-
-  Category: Political unrest
-
-  Domain: Cultural
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Political unrest
+Domain: Cultural
+Random word: while
+Region: Middle East
+Scenario: 10e48dde-0fdd-4803-82b4-4039e118a5ed
+Scope: Local community or Neighborhood
+Severity: Ordinary
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

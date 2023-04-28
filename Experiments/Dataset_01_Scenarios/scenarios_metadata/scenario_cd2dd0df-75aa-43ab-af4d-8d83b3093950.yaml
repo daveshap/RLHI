@@ -1,18 +1,10 @@
-scenario: 'b4b6d29e-5ef3-41a8-ab79-1d10a8485167
-
-  Random word: under
-
-  Scope: Extended Family
-
-  Severity: Serious
-
-  Region: South America
-
-  Category: Ethical dilemma
-
-  Domain: Educational
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Ethical dilemma
+Domain: Educational
+Random word: under
+Region: South America
+Scenario: cd2dd0df-75aa-43ab-af4d-8d83b3093950
+Scope: Extended Family
+Severity: Serious
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

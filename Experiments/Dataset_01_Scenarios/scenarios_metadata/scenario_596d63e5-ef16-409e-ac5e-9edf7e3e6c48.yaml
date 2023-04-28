@@ -1,19 +1,11 @@
-scenario: 'f835c25a-222b-45b9-836e-36e48b4874cb
-
-  Random word: arrangement
-
-  Scope: Online
-
-  Severity: Disruptive
-
-  Region: North Africa
-
-  Category: Accident or Incident
-
-  Domain: Philosophical
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Accident or Incident
+Domain: Philosophical
+Random word: arrangement
+Region: North Africa
+Scenario: 596d63e5-ef16-409e-ac5e-9edf7e3e6c48
+Scope: Online
+Severity: Disruptive
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

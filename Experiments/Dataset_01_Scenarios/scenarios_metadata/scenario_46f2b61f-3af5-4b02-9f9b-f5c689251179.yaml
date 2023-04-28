@@ -1,19 +1,11 @@
-scenario: 'c550261b-ddd7-4f3a-9171-9077653e9316
-
-  Random word: violate
-
-  Scope: Personal or Individual
-
-  Severity: Insignificant
-
-  Region: Middle East
-
-  Category: Ethical dilemma
-
-  Domain: Emotional
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Ethical dilemma
+Domain: Emotional
+Random word: violate
+Region: Middle East
+Scenario: 46f2b61f-3af5-4b02-9f9b-f5c689251179
+Scope: Personal or Individual
+Severity: Insignificant
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

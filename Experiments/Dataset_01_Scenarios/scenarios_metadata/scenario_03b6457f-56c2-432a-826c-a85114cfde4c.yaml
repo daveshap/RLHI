@@ -1,19 +1,11 @@
-scenario: '8d90922f-b59c-46ed-9b31-f66082906aa2
-
-  Random word: curriculum
-
-  Scope: Chosen Family
-
-  Severity: Dangerous
-
-  Region: Asia
-
-  Category: Technological failure
-
-  Domain: Intellectual
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Technological failure
+Domain: Intellectual
+Random word: curriculum
+Region: Asia
+Scenario: 03b6457f-56c2-432a-826c-a85114cfde4c
+Scope: Chosen Family
+Severity: Dangerous
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

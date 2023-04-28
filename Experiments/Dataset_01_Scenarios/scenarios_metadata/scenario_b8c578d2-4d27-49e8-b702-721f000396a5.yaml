@@ -1,19 +1,11 @@
-scenario: 'fdc275c6-d144-4c06-b973-d14fa41fdbc9
-
-  Random word: biological
-
-  Scope: Interstellar
-
-  Severity: Ordinary
-
-  Region: Asia
-
-  Category: Financial crisis
-
-  Domain: Educational
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Financial crisis
+Domain: Educational
+Random word: biological
+Region: Asia
+Scenario: b8c578d2-4d27-49e8-b702-721f000396a5
+Scope: Interstellar
+Severity: Ordinary
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

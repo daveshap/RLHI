@@ -1,19 +1,11 @@
-scenario: '88147bd1-7fb6-41f6-85b2-9f9cd80197a0
-
-  Random word: defendant
-
-  Scope: Extended Family
-
-  Severity: Insignificant
-
-  Region: Europe
-
-  Category: Health concern
-
-  Domain: Economic
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Health concern
+Domain: Economic
+Random word: defendant
+Region: Europe
+Scenario: 255c2683-d23b-4852-99d5-f25094ffd13b
+Scope: Extended Family
+Severity: Insignificant
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

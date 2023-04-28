@@ -1,19 +1,11 @@
-scenario: '7dbeade0-0316-4ada-8c53-0d5c79980059
-
-  Random word: tap
-
-  Scope: International
-
-  Severity: Ordinary
-
-  Region: Pacific
-
-  Category: Social challenge
-
-  Domain: Legal
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Social challenge
+Domain: Legal
+Random word: tap
+Region: Pacific
+Scenario: 13e362dc-50d5-44ee-b190-e3d5f814bfd6
+Scope: International
+Severity: Ordinary
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

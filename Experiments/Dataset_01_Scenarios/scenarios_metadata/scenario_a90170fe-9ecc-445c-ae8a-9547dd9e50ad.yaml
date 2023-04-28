@@ -1,19 +1,11 @@
-scenario: '26ed9065-2de6-4563-a4af-7cac6348893b
-
-  Random word: mistake
-
-  Scope: Intergalactic
-
-  Severity: Life-threatening
-
-  Region: Pacific
-
-  Category: Natural disaster
-
-  Domain: Political
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Natural disaster
+Domain: Political
+Random word: mistake
+Region: Pacific
+Scenario: a90170fe-9ecc-445c-ae8a-9547dd9e50ad
+Scope: Intergalactic
+Severity: Life-threatening
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

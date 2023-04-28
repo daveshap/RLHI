@@ -1,19 +1,11 @@
-scenario: 'bd2836d8-f8b1-4a7d-adea-01c16f5d7e0f
-
-  Random word: economist
-
-  Scope: Global
-
-  Severity: Dangerous
-
-  Region: South Pacific
-
-  Category: Technological failure
-
-  Domain: Legal
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Technological failure
+Domain: Legal
+Random word: economist
+Region: South Pacific
+Scenario: dc5b909a-55f1-4dd7-9432-482c90434b38
+Scope: Global
+Severity: Dangerous
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

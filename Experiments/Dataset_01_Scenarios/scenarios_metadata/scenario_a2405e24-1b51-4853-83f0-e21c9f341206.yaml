@@ -1,19 +1,11 @@
-scenario: '654edaec-77e7-455a-a867-972d445769fb
-
-  Random word: potential
-
-  Scope: Global
-
-  Severity: Irreversible
-
-  Region: Eurasia
-
-  Category: Environmental issue
-
-  Domain: Emotional
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Environmental issue
+Domain: Emotional
+Random word: potential
+Region: Eurasia
+Scenario: a2405e24-1b51-4853-83f0-e21c9f341206
+Scope: Global
+Severity: Irreversible
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

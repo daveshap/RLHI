@@ -1,19 +1,11 @@
-scenario: 'e6f1a693-2f35-43b7-8c65-310b8c791016
-
-  Random word: nevertheless
-
-  Scope: Chosen Family
-
-  Severity: Dangerous
-
-  Region: Pacific
-
-  Category: Environmental issue
-
-  Domain: Philosophical
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Environmental issue
+Domain: Philosophical
+Random word: nevertheless
+Region: Pacific
+Scenario: 21436dd2-c5a2-4e76-a170-bc1a9ba4e8a2
+Scope: Chosen Family
+Severity: Dangerous
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

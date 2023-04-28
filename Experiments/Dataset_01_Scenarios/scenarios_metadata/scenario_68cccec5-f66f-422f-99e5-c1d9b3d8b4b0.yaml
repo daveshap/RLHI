@@ -1,19 +1,11 @@
-scenario: '5da903bd-1bbb-47ab-8d6a-042fcc9a1177
-
-  Random word: leg
-
-  Scope: Cosmic or Universal
-
-  Severity: Dangerous
-
-  Region: Europe
-
-  Category: AI Control Problem
-
-  Domain: Scientific
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: AI Control Problem
+Domain: Scientific
+Random word: leg
+Region: Europe
+Scenario: 68cccec5-f66f-422f-99e5-c1d9b3d8b4b0
+Scope: Cosmic or Universal
+Severity: Dangerous
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

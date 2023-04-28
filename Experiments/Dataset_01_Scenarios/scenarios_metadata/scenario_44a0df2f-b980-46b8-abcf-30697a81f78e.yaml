@@ -1,19 +1,11 @@
-scenario: 'c6b501af-3b72-441f-a7c4-92d3aee5b816
-
-  Random word: bench
-
-  Scope: City or Village
-
-  Severity: Typical
-
-  Region: Middle East
-
-  Category: Accident or Incident
-
-  Domain: Political
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Accident or Incident
+Domain: Political
+Random word: bench
+Region: Middle East
+Scenario: 44a0df2f-b980-46b8-abcf-30697a81f78e
+Scope: City or Village
+Severity: Typical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

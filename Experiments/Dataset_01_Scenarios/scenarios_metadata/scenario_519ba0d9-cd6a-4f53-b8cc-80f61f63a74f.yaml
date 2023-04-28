@@ -1,19 +1,11 @@
-scenario: '60acf063-7f60-4fc8-989b-383c135ef7d2
-
-  Random word: anybody
-
-  Scope: Online
-
-  Severity: Annoyance
-
-  Region: South Pacific
-
-  Category: Technological failure
-
-  Domain: Scientific
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Technological failure
+Domain: Scientific
+Random word: anybody
+Region: South Pacific
+Scenario: 519ba0d9-cd6a-4f53-b8cc-80f61f63a74f
+Scope: Online
+Severity: Annoyance
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,19 +1,11 @@
-scenario: '00f955b7-2af7-42e3-9c45-24f2e72a689a
-
-  Random word: advantage
-
-  Scope: International
-
-  Severity: Life-threatening
-
-  Region: North Africa
-
-  Category: Accident or Incident
-
-  Domain: Cultural
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Accident or Incident
+Domain: Cultural
+Random word: advantage
+Region: North Africa
+Scenario: a7e71e34-04d7-4575-b5ab-6430afc46d50
+Scope: International
+Severity: Life-threatening
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

@@ -1,19 +1,11 @@
-scenario: 'c2cc8b20-0672-47bf-82c6-3645673d68f9
-
-  Random word: trial
-
-  Scope: Interstellar
-
-  Severity: Dangerous
-
-  Region: Eurasia
-
-  Category: Conflict or Violence
-
-  Domain: Intellectual
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Conflict or Violence
+Domain: Intellectual
+Random word: trial
+Region: Eurasia
+Scenario: cf18d1a4-1be3-4168-b31f-629c9d431d9f
+Scope: Interstellar
+Severity: Dangerous
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

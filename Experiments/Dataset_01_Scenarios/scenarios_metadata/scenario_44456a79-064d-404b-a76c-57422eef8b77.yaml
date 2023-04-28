@@ -1,19 +1,11 @@
-scenario: '28006573-32b8-4db8-81c7-ac5e9a48daf1
-
-  Random word: active
-
-  Scope: Online
-
-  Severity: Dangerous
-
-  Region: Pacific
-
-  Category: Conflict or Violence
-
-  Domain: Physical
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Conflict or Violence
+Domain: Physical
+Random word: active
+Region: Pacific
+Scenario: 44456a79-064d-404b-a76c-57422eef8b77
+Scope: Online
+Severity: Dangerous
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,19 +1,11 @@
-scenario: '4aeb91d4-c494-4ac6-831d-ea9c72d90fa3
-
-  Random word: of
-
-  Scope: Professional
-
-  Severity: Disruptive
-
-  Region: Pacific
-
-  Category: Conflict or Violence
-
-  Domain: Physical
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Conflict or Violence
+Domain: Physical
+Random word: of
+Region: Pacific
+Scenario: 2e4858d4-f27e-4ac3-970a-d8a7e58c3e42
+Scope: Professional
+Severity: Disruptive
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

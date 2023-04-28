@@ -1,18 +1,10 @@
-scenario: '494a8f1a-d5a6-481f-aafb-c4a17adbe6fa
-
-  Random word: hold
-
-  Scope: Local community or Neighborhood
-
-  Severity: Insignificant
-
-  Region: Europe
-
-  Category: Ethical dilemma
-
-  Domain: Scientific
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Ethical dilemma
+Domain: Scientific
+Random word: hold
+Region: Europe
+Scenario: 82c8af01-c2f1-448d-a654-dc9d3150f83b
+Scope: Local community or Neighborhood
+Severity: Insignificant
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

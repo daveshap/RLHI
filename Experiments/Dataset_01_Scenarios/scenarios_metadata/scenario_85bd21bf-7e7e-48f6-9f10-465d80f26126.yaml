@@ -1,19 +1,11 @@
-scenario: '27712b14-31c9-4322-8510-07022a0a3a2b
-
-  Random word: particular
-
-  Scope: Interpersonal
-
-  Severity: Catastrophic
-
-  Region: South Pacific
-
-  Category: Health concern
-
-  Domain: Political
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Health concern
+Domain: Political
+Random word: particular
+Region: South Pacific
+Scenario: 85bd21bf-7e7e-48f6-9f10-465d80f26126
+Scope: Interpersonal
+Severity: Catastrophic
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

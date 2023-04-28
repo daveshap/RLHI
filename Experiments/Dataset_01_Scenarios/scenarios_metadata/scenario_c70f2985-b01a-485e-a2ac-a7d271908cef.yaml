@@ -1,18 +1,10 @@
-scenario: '345179f0-3163-44b3-bbb6-ff79e109ce60
-
-  Random word: complete
-
-  Scope: Personal or Individual
-
-  Severity: Typical
-
-  Region: South America
-
-  Category: Financial crisis
-
-  Domain: Environmental
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Financial crisis
+Domain: Environmental
+Random word: complete
+Region: South America
+Scenario: c70f2985-b01a-485e-a2ac-a7d271908cef
+Scope: Personal or Individual
+Severity: Typical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

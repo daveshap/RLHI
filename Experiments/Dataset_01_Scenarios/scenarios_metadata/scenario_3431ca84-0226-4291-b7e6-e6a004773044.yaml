@@ -1,19 +1,11 @@
-scenario: '1f140d01-5a4f-4c35-8821-3981b75def05
-
-  Random word: on
-
-  Scope: International
-
-  Severity: Annoyance
-
-  Region: North Africa
-
-  Category: Environmental issue
-
-  Domain: Intellectual
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Environmental issue
+Domain: Intellectual
+Random word: true
+Region: North Africa
+Scenario: 3431ca84-0226-4291-b7e6-e6a004773044
+Scope: International
+Severity: Annoyance
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

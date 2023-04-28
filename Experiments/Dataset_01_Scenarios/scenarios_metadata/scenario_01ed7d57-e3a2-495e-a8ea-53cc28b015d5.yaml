@@ -1,18 +1,10 @@
-scenario: '2463eb53-98d1-42a4-92f0-7971085315ae
-
-  Random word: skin
-
-  Scope: Extended Family
-
-  Severity: Dangerous
-
-  Region: Eurasia
-
-  Category: AI Control Problem
-
-  Domain: Economic
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: AI Control Problem
+Domain: Economic
+Random word: skin
+Region: Eurasia
+Scenario: 01ed7d57-e3a2-495e-a8ea-53cc28b015d5
+Scope: Extended Family
+Severity: Dangerous
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

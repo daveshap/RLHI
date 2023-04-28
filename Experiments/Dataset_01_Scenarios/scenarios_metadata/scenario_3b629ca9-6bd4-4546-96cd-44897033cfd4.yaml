@@ -1,18 +1,10 @@
-scenario: '395e105b-83c7-464d-bf51-669277d1fdc7
-
-  Random word: early
-
-  Scope: Interpersonal
-
-  Severity: Life-threatening
-
-  Region: Asia
-
-  Category: Accident or Incident
-
-  Domain: Social
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Accident or Incident
+Domain: Social
+Random word: early
+Region: Asia
+Scenario: 3b629ca9-6bd4-4546-96cd-44897033cfd4
+Scope: Interpersonal
+Severity: Life-threatening
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

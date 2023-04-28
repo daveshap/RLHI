@@ -1,19 +1,11 @@
-scenario: 'ff9545d2-6648-4e10-b536-f8fc545e6a7d
-
-  Random word: unlike
-
-  Scope: Interstellar
-
-  Severity: Irreversible
-
-  Region: Pacific
-
-  Category: Political unrest
-
-  Domain: Political
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Political unrest
+Domain: Political
+Random word: unlike
+Region: Pacific
+Scenario: 61cf46e6-1f2b-4412-9b85-4ce0ad94fa01
+Scope: Interstellar
+Severity: Irreversible
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

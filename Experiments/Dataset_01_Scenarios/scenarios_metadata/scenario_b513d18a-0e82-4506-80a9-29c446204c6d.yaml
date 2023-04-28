@@ -1,19 +1,11 @@
-scenario: '954a306c-a45e-43e5-9ab6-ca5c41449c43
-
-  Random word: crew
-
-  Scope: Extended Family
-
-  Severity: Irreversible
-
-  Region: South Pacific
-
-  Category: Mundane issue
-
-  Domain: Emotional
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Mundane issue
+Domain: Emotional
+Random word: crew
+Region: South Pacific
+Scenario: b513d18a-0e82-4506-80a9-29c446204c6d
+Scope: Extended Family
+Severity: Irreversible
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

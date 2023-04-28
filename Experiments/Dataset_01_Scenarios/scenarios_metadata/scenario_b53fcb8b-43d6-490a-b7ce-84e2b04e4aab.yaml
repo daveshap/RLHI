@@ -1,19 +1,11 @@
-scenario: '8f1b3b07-dc7f-47aa-be58-d9de89687e3e
-
-  Random word: aircraft
-
-  Scope: Regional or Statewide
-
-  Severity: Typical
-
-  Region: Europe
-
-  Category: Ethical dilemma
-
-  Domain: Philosophical
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Ethical dilemma
+Domain: Philosophical
+Random word: aircraft
+Region: Europe
+Scenario: b53fcb8b-43d6-490a-b7ce-84e2b04e4aab
+Scope: Regional or Statewide
+Severity: Typical
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

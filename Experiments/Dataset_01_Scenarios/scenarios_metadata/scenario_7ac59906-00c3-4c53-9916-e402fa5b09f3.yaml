@@ -1,19 +1,11 @@
-scenario: '3d0e8ef5-91e2-4ae9-bbc5-fd05ebb60e03
-
-  Random word: nation
-
-  Scope: Regional or Statewide
-
-  Severity: Life-threatening
-
-  Region: Pacific
-
-  Category: Ethical dilemma
-
-  Domain: Economic
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Ethical dilemma
+Domain: Economic
+Random word: nation
+Region: Pacific
+Scenario: 7ac59906-00c3-4c53-9916-e402fa5b09f3
+Scope: Regional or Statewide
+Severity: Life-threatening
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

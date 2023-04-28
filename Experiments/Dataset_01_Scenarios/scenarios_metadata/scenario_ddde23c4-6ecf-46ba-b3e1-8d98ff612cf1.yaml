@@ -1,19 +1,11 @@
-scenario: '46214886-6047-422a-98be-4e73d85914e1
-
-  Random word: trend
-
-  Scope: Interpersonal
-
-  Severity: Disruptive
-
-  Region: North Africa
-
-  Category: Financial crisis
-
-  Domain: Political
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Financial crisis
+Domain: Political
+Random word: trend
+Region: North Africa
+Scenario: ddde23c4-6ecf-46ba-b3e1-8d98ff612cf1
+Scope: Interpersonal
+Severity: Disruptive
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

@@ -1,19 +1,11 @@
-scenario: 'b3a7c6e6-445e-4356-9ef8-0e1d4c54b87f
-
-  Random word: fishing
-
-  Scope: City or Village
-
-  Severity: Serious
-
-  Region: South Pacific
-
-  Category: Disagreement or Argument
-
-  Domain: Educational
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Disagreement or Argument
+Domain: Educational
+Random word: fishing
+Region: South Pacific
+Scenario: e72e7dee-4d63-4e87-9588-e9e8fb68642e
+Scope: City or Village
+Severity: Serious
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

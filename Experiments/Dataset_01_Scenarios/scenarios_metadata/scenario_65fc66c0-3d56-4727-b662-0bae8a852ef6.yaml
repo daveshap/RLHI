@@ -1,18 +1,10 @@
-scenario: '3e158306-eea9-42ad-9e91-f78fb0ec827d
-
-  Random word: mortgage
-
-  Scope: National or Federal
-
-  Severity: Catastrophic
-
-  Region: Middle East
-
-  Category: Conflict or Violence
-
-  Domain: Spiritual or Religious
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Conflict or Violence
+Domain: Spiritual or Religious
+Random word: mortgage
+Region: Middle East
+Scenario: 65fc66c0-3d56-4727-b662-0bae8a852ef6
+Scope: National or Federal
+Severity: Catastrophic
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

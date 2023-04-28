@@ -1,19 +1,11 @@
-scenario: 'b2e8fb36-bc48-4ec5-81ab-62d1e0d16b26
-
-  Random word: dismiss
-
-  Scope: Continental
-
-  Severity: Long-lasting
-
-  Region: North America
-
-  Category: Accident or Incident
-
-  Domain: Technological
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Accident or Incident
+Domain: Technological
+Random word: dismiss
+Region: North America
+Scenario: e69ad81e-8fbc-48d3-b834-a5a19ff0c7c6
+Scope: Continental
+Severity: Long-lasting
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

@@ -1,19 +1,11 @@
-scenario: '78e981e8-46c9-450a-94d6-efb626720d08
-
-  Random word: recall
-
-  Scope: Personal or Individual
-
-  Severity: Disruptive
-
-  Region: Eurasia
-
-  Category: Conflict or Violence
-
-  Domain: Economic
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Conflict or Violence
+Domain: Economic
+Random word: recall
+Region: Eurasia
+Scenario: 846c9c1b-d534-47c8-a9b6-5058e48e551a
+Scope: Personal or Individual
+Severity: Disruptive
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

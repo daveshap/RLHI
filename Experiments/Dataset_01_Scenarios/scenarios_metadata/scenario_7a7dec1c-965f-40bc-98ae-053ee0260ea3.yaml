@@ -1,19 +1,11 @@
-scenario: '2f318747-917f-41f8-8374-ad50cd47d7f9
-
-  Random word: weigh
-
-  Scope: City or Village
-
-  Severity: Dangerous
-
-  Region: South Pacific
-
-  Category: Environmental issue
-
-  Domain: Philosophical
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Environmental issue
+Domain: Philosophical
+Random word: weigh
+Region: South Pacific
+Scenario: 7a7dec1c-965f-40bc-98ae-053ee0260ea3
+Scope: City or Village
+Severity: Dangerous
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

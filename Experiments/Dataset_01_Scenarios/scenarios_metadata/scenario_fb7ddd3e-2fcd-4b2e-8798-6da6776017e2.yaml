@@ -1,19 +1,11 @@
-scenario: '898c9ca8-05c1-4942-a090-73c9d890b82b
-
-  Random word: distinct
-
-  Scope: Nuclear Family
-
-  Severity: Serious
-
-  Region: North Africa
-
-  Category: Accident or Incident
-
-  Domain: Philosophical
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Accident or Incident
+Domain: Philosophical
+Random word: distinct
+Region: North Africa
+Scenario: fb7ddd3e-2fcd-4b2e-8798-6da6776017e2
+Scope: Nuclear Family
+Severity: Serious
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

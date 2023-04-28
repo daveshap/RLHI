@@ -1,19 +1,11 @@
-scenario: '23718877-fbd7-44d8-ab47-6d511b07063f
-
-  Random word: careful
-
-  Scope: Professional
-
-  Severity: Dangerous
-
-  Region: Pacific
-
-  Category: Social challenge
-
-  Domain: Educational
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Social challenge
+Domain: Educational
+Random word: careful
+Region: Pacific
+Scenario: 49619ca2-8811-4165-959c-09848635b16e
+Scope: Professional
+Severity: Dangerous
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

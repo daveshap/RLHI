@@ -1,19 +1,11 @@
-scenario: 'c2cf34de-1230-490c-84e9-5fe889b0cdaa
-
-  Random word: region
-
-  Scope: Online
-
-  Severity: Typical
-
-  Region: Middle East
-
-  Category: AI Control Problem
-
-  Domain: Social
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: AI Control Problem
+Domain: Social
+Random word: region
+Region: Middle East
+Scenario: 0dca09f0-5b6f-471d-842f-0159dc052cbc
+Scope: Online
+Severity: Typical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,19 +1,11 @@
-scenario: '7fee8e7f-9f00-42ab-9b8f-1789a20f93af
-
-  Random word: arrive
-
-  Scope: Regional or Statewide
-
-  Severity: Critical
-
-  Region: South Pacific
-
-  Category: Natural disaster
-
-  Domain: Educational
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Natural disaster
+Domain: Educational
+Random word: arrive
+Region: South Pacific
+Scenario: 26f69941-2571-471e-b7f4-21b1ce6e9f6a
+Scope: Regional or Statewide
+Severity: Critical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

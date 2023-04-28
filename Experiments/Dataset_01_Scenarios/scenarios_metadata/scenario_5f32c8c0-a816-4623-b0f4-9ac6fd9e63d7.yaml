@@ -1,19 +1,11 @@
-scenario: 'b4e60217-a3c8-4bc6-b6a4-dfa7eb822274
-
-  Random word: zone
-
-  Scope: City or Village
-
-  Severity: Dangerous
-
-  Region: Europe
-
-  Category: Natural disaster
-
-  Domain: Political
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Natural disaster
+Domain: Political
+Random word: zone
+Region: Europe
+Scenario: 5f32c8c0-a816-4623-b0f4-9ac6fd9e63d7
+Scope: City or Village
+Severity: Dangerous
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

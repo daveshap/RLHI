@@ -1,19 +1,11 @@
-scenario: '863ed37a-f803-4d32-a5c5-af9c523dd7e7
-
-  Random word: control
-
-  Scope: National or Federal
-
-  Severity: Insignificant
-
-  Region: Middle East
-
-  Category: Disagreement or Argument
-
-  Domain: Philosophical
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Disagreement or Argument
+Domain: Philosophical
+Random word: control
+Region: Middle East
+Scenario: 6b94155b-0efc-42c3-baca-35c50d636993
+Scope: National or Federal
+Severity: Insignificant
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

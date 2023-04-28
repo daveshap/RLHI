@@ -1,18 +1,10 @@
-scenario: '68f3d607-8005-4742-a622-c61302af8bcc
-
-  Random word: tablespoon
-
-  Scope: Regional or Statewide
-
-  Severity: Long-lasting
-
-  Region: South Asia
-
-  Category: Natural disaster
-
-  Domain: Emotional
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Natural disaster
+Domain: Emotional
+Random word: tablespoon
+Region: South Asia
+Scenario: a1826c93-ba77-4cda-8d19-b7ddda9b0eba
+Scope: Regional or Statewide
+Severity: Long-lasting
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

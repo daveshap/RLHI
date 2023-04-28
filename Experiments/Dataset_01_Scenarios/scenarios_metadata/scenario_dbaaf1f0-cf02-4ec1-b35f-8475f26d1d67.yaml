@@ -1,19 +1,11 @@
-scenario: '11d7d498-f278-4fbd-a7ea-c57dc3944452
-
-  Random word: grade
-
-  Scope: Interstellar
-
-  Severity: Dangerous
-
-  Region: South America
-
-  Category: Ethical dilemma
-
-  Domain: Political
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Ethical dilemma
+Domain: Political
+Random word: grade
+Region: South America
+Scenario: dbaaf1f0-cf02-4ec1-b35f-8475f26d1d67
+Scope: Interstellar
+Severity: Dangerous
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

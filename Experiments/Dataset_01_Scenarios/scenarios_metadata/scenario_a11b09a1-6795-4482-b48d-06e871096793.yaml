@@ -1,19 +1,11 @@
-scenario: '957d20ad-7400-4186-863b-15b99245d581
-
-  Random word: distinction
-
-  Scope: Chosen Family
-
-  Severity: Catastrophic
-
-  Region: Middle East
-
-  Category: Natural disaster
-
-  Domain: Cultural
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Natural disaster
+Domain: Cultural
+Random word: distinction
+Region: Middle East
+Scenario: a11b09a1-6795-4482-b48d-06e871096793
+Scope: Chosen Family
+Severity: Catastrophic
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

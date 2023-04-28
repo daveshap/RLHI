@@ -1,19 +1,11 @@
-scenario: 'bfaf361b-e9d7-4cc1-9aaa-164b22866693
-
-  Random word: clinical
-
-  Scope: Personal or Individual
-
-  Severity: Dangerous
-
-  Region: North Africa
-
-  Category: Mundane issue
-
-  Domain: Scientific
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Mundane issue
+Domain: Scientific
+Random word: clinical
+Region: North Africa
+Scenario: 84128b7b-c7b6-4d1a-ac07-3c4015c7ad36
+Scope: Personal or Individual
+Severity: Dangerous
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

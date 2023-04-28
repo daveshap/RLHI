@@ -1,19 +1,11 @@
-scenario: 'e9c8967c-b43f-4f35-aca1-2cb9e7136a24
-
-  Random word: shade
-
-  Scope: Regional or Statewide
-
-  Severity: Ordinary
-
-  Region: South America
-
-  Category: Conflict or Violence
-
-  Domain: Scientific
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Conflict or Violence
+Domain: Scientific
+Random word: shade
+Region: South America
+Scenario: e7de31a5-6bd9-4ac1-add2-2b1595cd7a28
+Scope: Regional or Statewide
+Severity: Ordinary
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

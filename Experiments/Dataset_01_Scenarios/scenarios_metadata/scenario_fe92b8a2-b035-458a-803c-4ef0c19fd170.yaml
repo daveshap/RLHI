@@ -1,19 +1,11 @@
-scenario: 'eb8f929e-9777-465a-ba7f-0df78f787297
-
-  Random word: totally
-
-  Scope: Intergalactic
-
-  Severity: Catastrophic
-
-  Region: North Africa
-
-  Category: AI Control Problem
-
-  Domain: Political
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: AI Control Problem
+Domain: Political
+Random word: totally
+Region: North Africa
+Scenario: fe92b8a2-b035-458a-803c-4ef0c19fd170
+Scope: Intergalactic
+Severity: Catastrophic
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

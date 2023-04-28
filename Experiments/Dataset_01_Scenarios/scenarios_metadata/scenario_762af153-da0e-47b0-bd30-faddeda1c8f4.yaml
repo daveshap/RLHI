@@ -1,19 +1,11 @@
-scenario: '5aefddbe-aa35-4c1f-9e10-8690270818ae
-
-  Random word: joke
-
-  Scope: Local community or Neighborhood
-
-  Severity: Annoyance
-
-  Region: Pacific
-
-  Category: Ethical dilemma
-
-  Domain: Cultural
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Ethical dilemma
+Domain: Cultural
+Random word: joke
+Region: Pacific
+Scenario: 762af153-da0e-47b0-bd30-faddeda1c8f4
+Scope: Local community or Neighborhood
+Severity: Annoyance
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

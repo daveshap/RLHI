@@ -1,18 +1,10 @@
-scenario: '520c1f42-1440-4ba6-8309-5a3b1cc72b1d
-
-  Random word: touch
-
-  Scope: National or Federal
-
-  Severity: Catastrophic
-
-  Region: North Africa
-
-  Category: Financial crisis
-
-  Domain: Social
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Financial crisis
+Domain: Social
+Random word: touch
+Region: North Africa
+Scenario: fcda0d5c-53c8-4924-bb6e-3a8b6f8f5f59
+Scope: National or Federal
+Severity: Catastrophic
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

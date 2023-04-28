@@ -1,19 +1,11 @@
-scenario: '80221e18-409a-4a3e-bb89-a8a0d43cb428
-
-  Random word: galaxy
-
-  Scope: National or Federal
-
-  Severity: Serious
-
-  Region: Europe
-
-  Category: Technological failure
-
-  Domain: Cultural
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Technological failure
+Domain: Cultural
+Random word: galaxy
+Region: Europe
+Scenario: e2c3aacc-68e0-4e79-9645-3c38e9e2c346
+Scope: National or Federal
+Severity: Serious
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

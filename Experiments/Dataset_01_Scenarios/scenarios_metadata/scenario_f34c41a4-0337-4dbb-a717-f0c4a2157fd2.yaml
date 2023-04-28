@@ -1,19 +1,11 @@
-scenario: 'ede036e0-dfe7-4f2b-b907-37f416829b19
-
-  Random word: ceiling
-
-  Scope: Personal or Individual
-
-  Severity: Life-threatening
-
-  Region: Europe
-
-  Category: AI Control Problem
-
-  Domain: Environmental
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: AI Control Problem
+Domain: Environmental
+Random word: ceiling
+Region: Europe
+Scenario: f34c41a4-0337-4dbb-a717-f0c4a2157fd2
+Scope: Personal or Individual
+Severity: Life-threatening
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

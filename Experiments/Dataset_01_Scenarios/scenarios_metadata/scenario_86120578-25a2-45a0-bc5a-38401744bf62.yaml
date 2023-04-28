@@ -1,19 +1,11 @@
-scenario: 'b17a04c9-f39f-4696-9f54-38124ac5f5ed
-
-  Random word: crazy
-
-  Scope: Cosmic or Universal
-
-  Severity: Long-lasting
-
-  Region: Eurasia
-
-  Category: Technological failure
-
-  Domain: Environmental
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Technological failure
+Domain: Environmental
+Random word: crazy
+Region: Eurasia
+Scenario: 86120578-25a2-45a0-bc5a-38401744bf62
+Scope: Cosmic or Universal
+Severity: Long-lasting
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,19 +1,11 @@
-scenario: '671bd481-a42e-4142-bbf9-f6d9ffb40eac
-
-  Random word: nor
-
-  Scope: Continental
-
-  Severity: Serious
-
-  Region: South America
-
-  Category: AI Control Problem
-
-  Domain: Social
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: AI Control Problem
+Domain: Social
+Random word: nor
+Region: South America
+Scenario: ca00db27-920b-4578-ac8a-5f483f8d7e3d
+Scope: Continental
+Severity: Serious
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,19 +1,11 @@
-scenario: 'ead985b5-78e3-4883-a24e-274e17973176
-
-  Random word: uncle
-
-  Scope: Nuclear Family
-
-  Severity: Typical
-
-  Region: Asia
-
-  Category: Ethical dilemma
-
-  Domain: Philosophical
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Ethical dilemma
+Domain: Philosophical
+Random word: uncle
+Region: Asia
+Scenario: e9cfb767-9121-46d3-9606-83476e8077bb
+Scope: Nuclear Family
+Severity: Typical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

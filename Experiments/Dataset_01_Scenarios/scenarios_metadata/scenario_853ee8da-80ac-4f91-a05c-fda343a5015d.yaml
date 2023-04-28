@@ -1,19 +1,11 @@
-scenario: '7cae5e0e-30f4-4d99-b76e-58c6038e9dd0
-
-  Random word: corporate
-
-  Scope: International
-
-  Severity: Disruptive
-
-  Region: Eurasia
-
-  Category: Political unrest
-
-  Domain: Spiritual or Religious
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Political unrest
+Domain: Spiritual or Religious
+Random word: corporate
+Region: Eurasia
+Scenario: 853ee8da-80ac-4f91-a05c-fda343a5015d
+Scope: International
+Severity: Disruptive
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

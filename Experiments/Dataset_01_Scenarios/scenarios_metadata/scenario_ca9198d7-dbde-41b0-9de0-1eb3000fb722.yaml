@@ -1,19 +1,11 @@
-scenario: '73b64845-5b45-405d-a645-68cb04144d44
-
-  Random word: hair
-
-  Scope: Intergalactic
-
-  Severity: Dangerous
-
-  Region: Eurasia
-
-  Category: Mundane issue
-
-  Domain: Philosophical
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Mundane issue
+Domain: Philosophical
+Random word: hair
+Region: Eurasia
+Scenario: ca9198d7-dbde-41b0-9de0-1eb3000fb722
+Scope: Intergalactic
+Severity: Dangerous
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

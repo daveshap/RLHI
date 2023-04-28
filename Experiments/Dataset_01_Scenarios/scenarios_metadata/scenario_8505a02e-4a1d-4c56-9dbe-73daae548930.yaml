@@ -1,19 +1,11 @@
-scenario: '9d7cf7c5-a07c-493f-b96e-a4a212b6b737
-
-  Random word: secretary
-
-  Scope: Personal or Individual
-
-  Severity: Insignificant
-
-  Region: North America
-
-  Category: Financial crisis
-
-  Domain: Scientific
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Financial crisis
+Domain: Scientific
+Random word: secretary
+Region: North America
+Scenario: 8505a02e-4a1d-4c56-9dbe-73daae548930
+Scope: Personal or Individual
+Severity: Insignificant
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

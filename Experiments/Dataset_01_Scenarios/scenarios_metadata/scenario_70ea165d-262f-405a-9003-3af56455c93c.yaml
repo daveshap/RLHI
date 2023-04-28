@@ -1,19 +1,11 @@
-scenario: 'a29ee662-10f5-4838-b750-f5eda5430344
-
-  Random word: declare
-
-  Scope: International
-
-  Severity: Dangerous
-
-  Region: Pacific
-
-  Category: Ethical dilemma
-
-  Domain: Educational
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Ethical dilemma
+Domain: Educational
+Random word: declare
+Region: Pacific
+Scenario: 70ea165d-262f-405a-9003-3af56455c93c
+Scope: International
+Severity: Dangerous
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

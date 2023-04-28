@@ -1,19 +1,11 @@
-scenario: 'f8fb83db-2801-48e6-a3e1-4cb3c873f4bb
-
-  Random word: historian
-
-  Scope: Global
-
-  Severity: Ordinary
-
-  Region: Asia
-
-  Category: Technological failure
-
-  Domain: Economic
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Technological failure
+Domain: Economic
+Random word: historian
+Region: Asia
+Scenario: 2fdc6396-f44b-4a03-9b0d-78cc0af1664c
+Scope: Global
+Severity: Ordinary
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

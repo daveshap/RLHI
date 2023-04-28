@@ -1,19 +1,11 @@
-scenario: '54e440a3-ef46-4044-a9db-0a6fb6492b9b
-
-  Random word: prior
-
-  Scope: International
-
-  Severity: Typical
-
-  Region: South Pacific
-
-  Category: Environmental issue
-
-  Domain: Physical
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Environmental issue
+Domain: Physical
+Random word: prior
+Region: South Pacific
+Scenario: 291e87c8-2bb7-4b0d-96f0-12ec2fcb8f8a
+Scope: International
+Severity: Typical
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

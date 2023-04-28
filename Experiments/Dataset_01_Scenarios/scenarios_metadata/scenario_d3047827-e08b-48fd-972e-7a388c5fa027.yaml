@@ -1,19 +1,11 @@
-scenario: 'f2807cd8-fa5d-4e5b-bf0e-073556fd60fd
-
-  Random word: surprise
-
-  Scope: Online
-
-  Severity: Annoyance
-
-  Region: Pacific
-
-  Category: Ethical dilemma
-
-  Domain: Intellectual
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Ethical dilemma
+Domain: Intellectual
+Random word: surprise
+Region: Pacific
+Scenario: d3047827-e08b-48fd-972e-7a388c5fa027
+Scope: Online
+Severity: Annoyance
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

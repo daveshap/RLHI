@@ -1,19 +1,11 @@
-scenario: 'defba660-c537-437e-83a3-b0ccd826c663
-
-  Random word: reform
-
-  Scope: Nuclear Family
-
-  Severity: Dangerous
-
-  Region: Europe
-
-  Category: Technological failure
-
-  Domain: Technological
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Technological failure
+Domain: Technological
+Random word: reform
+Region: Europe
+Scenario: ee7ca27c-1168-41d1-8e86-8f7e6f8544b6
+Scope: Nuclear Family
+Severity: Dangerous
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

@@ -1,19 +1,11 @@
-scenario: '8f224ff1-c3fc-4f65-b74d-4cb046bec593
-
-  Random word: pepper
-
-  Scope: Regional or Statewide
-
-  Severity: Annoyance
-
-  Region: South Asia
-
-  Category: AI Control Problem
-
-  Domain: Philosophical
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: AI Control Problem
+Domain: Philosophical
+Random word: pepper
+Region: South Asia
+Scenario: a99640da-bc5c-4b12-bf38-442ce84ade46
+Scope: Regional or Statewide
+Severity: Annoyance
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

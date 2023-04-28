@@ -1,19 +1,11 @@
-scenario: '702680a8-8127-4ea2-9a7b-c8d27e1154de
-
-  Random word: tight
-
-  Scope: Extended Family
-
-  Severity: Ordinary
-
-  Region: South Asia
-
-  Category: Disagreement or Argument
-
-  Domain: Economic
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Disagreement or Argument
+Domain: Economic
+Random word: tight
+Region: South Asia
+Scenario: d4b79fca-e7fa-4b53-80f9-904e6ccedaab
+Scope: Extended Family
+Severity: Ordinary
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

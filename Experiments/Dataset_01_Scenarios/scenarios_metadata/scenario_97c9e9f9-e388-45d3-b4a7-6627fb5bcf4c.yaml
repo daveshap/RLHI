@@ -1,19 +1,11 @@
-scenario: 'bbf28f2e-c54b-4ac0-ac8f-c27fcaa461b6
-
-  Random word: guarantee
-
-  Scope: Continental
-
-  Severity: Dangerous
-
-  Region: Eurasia
-
-  Category: Ethical dilemma
-
-  Domain: Intellectual
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Ethical dilemma
+Domain: Intellectual
+Random word: guarantee
+Region: Eurasia
+Scenario: 97c9e9f9-e388-45d3-b4a7-6627fb5bcf4c
+Scope: Continental
+Severity: Dangerous
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

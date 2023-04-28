@@ -1,19 +1,11 @@
-scenario: '1241f64a-759f-46e3-836d-273f09505299
-
-  Random word: assistance
-
-  Scope: Interstellar
-
-  Severity: Serious
-
-  Region: Subsaharan Africa
-
-  Category: Technological failure
-
-  Domain: Legal
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Technological failure
+Domain: Legal
+Random word: assistance
+Region: Subsaharan Africa
+Scenario: acd4f357-2e63-4fca-9265-4b0391f69fe4
+Scope: Interstellar
+Severity: Serious
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

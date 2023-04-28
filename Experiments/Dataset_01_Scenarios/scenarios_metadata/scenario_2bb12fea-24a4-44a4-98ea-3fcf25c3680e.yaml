@@ -1,18 +1,10 @@
-scenario: 'd3254569-bf17-472d-a53e-dd63b856e127
-
-  Random word: appearance
-
-  Scope: Global
-
-  Severity: Ordinary
-
-  Region: Pacific
-
-  Category: Ethical dilemma
-
-  Domain: Technological
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Ethical dilemma
+Domain: Technological
+Random word: appearance
+Region: Pacific
+Scenario: 2bb12fea-24a4-44a4-98ea-3fcf25c3680e
+Scope: Global
+Severity: Ordinary
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

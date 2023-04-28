@@ -1,19 +1,11 @@
-scenario: '37e99192-d0e6-4da8-a20b-a200077ce2a8
-
-  Random word: become
-
-  Scope: Chosen Family
-
-  Severity: Critical
-
-  Region: North Africa
-
-  Category: AI Control Problem
-
-  Domain: Physical
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: AI Control Problem
+Domain: Physical
+Random word: become
+Region: North Africa
+Scenario: 507c33ae-51e6-47ab-a055-9c3f524df38b
+Scope: Chosen Family
+Severity: Critical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

@@ -1,19 +1,11 @@
-scenario: '4a47461d-026c-4f41-b6c1-b6b9d40b0a0a
-
-  Random word: we
-
-  Scope: Extended Family
-
-  Severity: Critical
-
-  Region: South America
-
-  Category: Health concern
-
-  Domain: Legal
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Health concern
+Domain: Legal
+Random word: we
+Region: South America
+Scenario: 6ebe85d2-742f-4c36-ac64-eb22e3bf1b33
+Scope: Extended Family
+Severity: Critical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

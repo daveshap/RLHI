@@ -1,19 +1,11 @@
-scenario: 'cacdb7b7-48ff-452d-af15-67544c51a4aa
-
-  Random word: edge
-
-  Scope: Continental
-
-  Severity: Typical
-
-  Region: Eurasia
-
-  Category: Political unrest
-
-  Domain: Spiritual or Religious
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Political unrest
+Domain: Spiritual or Religious
+Random word: edge
+Region: Eurasia
+Scenario: 05ccaf05-d867-43d3-b1a1-b7c5fd035bf6
+Scope: Continental
+Severity: Typical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,18 +1,10 @@
-scenario: 'c5d22b63-ae73-4db2-9abc-41ad593abe79
-
-  Random word: native
-
-  Scope: Chosen Family
-
-  Severity: Annoyance
-
-  Region: Eurasia
-
-  Category: Conflict or Violence
-
-  Domain: Legal
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Conflict or Violence
+Domain: Legal
+Random word: native
+Region: Eurasia
+Scenario: 715dd9d1-9d4f-4e78-9e43-cede6d688a26
+Scope: Chosen Family
+Severity: Annoyance
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

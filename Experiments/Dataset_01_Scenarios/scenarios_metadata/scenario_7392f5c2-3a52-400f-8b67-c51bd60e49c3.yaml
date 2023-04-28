@@ -1,18 +1,10 @@
-scenario: 'ab748a4b-599a-46bd-8283-c0cecfb06e43
-
-  Random word: story
-
-  Scope: Online
-
-  Severity: Critical
-
-  Region: Subsaharan Africa
-
-  Category: Conflict or Violence
-
-  Domain: Scientific
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Conflict or Violence
+Domain: Scientific
+Random word: story
+Region: Subsaharan Africa
+Scenario: 7392f5c2-3a52-400f-8b67-c51bd60e49c3
+Scope: Online
+Severity: Critical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

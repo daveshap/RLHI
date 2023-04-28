@@ -1,19 +1,11 @@
-scenario: 'cf927284-f4ca-41f1-952b-4451d3d75585
-
-  Random word: cluster
-
-  Scope: Local community or Neighborhood
-
-  Severity: Long-lasting
-
-  Region: South Pacific
-
-  Category: AI Control Problem
-
-  Domain: Scientific
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: AI Control Problem
+Domain: Scientific
+Random word: cluster
+Region: South Pacific
+Scenario: dc8a538d-8044-40c8-87f0-c6d6944198be
+Scope: Local community or Neighborhood
+Severity: Long-lasting
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

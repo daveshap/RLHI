@@ -1,18 +1,10 @@
-scenario: '04836677-a3fe-4f8a-bdf8-a97501ef0029
-
-  Random word: wheel
-
-  Scope: Interpersonal
-
-  Severity: Dangerous
-
-  Region: North America
-
-  Category: AI Control Problem
-
-  Domain: Cultural
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: AI Control Problem
+Domain: Cultural
+Random word: wheel
+Region: North America
+Scenario: 0ab60628-b66e-4781-882e-77319587b74f
+Scope: Interpersonal
+Severity: Dangerous
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

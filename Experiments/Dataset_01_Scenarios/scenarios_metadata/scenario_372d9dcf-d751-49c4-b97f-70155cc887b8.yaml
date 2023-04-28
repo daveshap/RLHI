@@ -1,19 +1,11 @@
-scenario: '41d6dcf2-c4b7-481d-8ec5-999d45133925
-
-  Random word: French
-
-  Scope: Intergalactic
-
-  Severity: Typical
-
-  Region: South Pacific
-
-  Category: Ethical dilemma
-
-  Domain: Educational
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Ethical dilemma
+Domain: Educational
+Random word: French
+Region: South Pacific
+Scenario: 372d9dcf-d751-49c4-b97f-70155cc887b8
+Scope: Intergalactic
+Severity: Typical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

@@ -1,19 +1,11 @@
-scenario: '270342aa-d473-4900-96e3-20909bb6f19e
-
-  Random word: not
-
-  Scope: Chosen Family
-
-  Severity: Catastrophic
-
-  Region: Middle East
-
-  Category: Health concern
-
-  Domain: Physical
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Health concern
+Domain: Physical
+Random word: not
+Region: Middle East
+Scenario: 8254fc83-880d-4837-9b52-3c972364d896
+Scope: Chosen Family
+Severity: Catastrophic
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

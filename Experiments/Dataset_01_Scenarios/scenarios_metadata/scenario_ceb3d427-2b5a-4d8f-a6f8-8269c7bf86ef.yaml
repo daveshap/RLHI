@@ -1,18 +1,10 @@
-scenario: '11426fb3-3cff-4d10-b30b-7d68050c647b
-
-  Random word: crop
-
-  Scope: Regional or Statewide
-
-  Severity: Critical
-
-  Region: Eurasia
-
-  Category: Natural disaster
-
-  Domain: Spiritual or Religious
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Natural disaster
+Domain: Spiritual or Religious
+Random word: crop
+Region: Eurasia
+Scenario: ceb3d427-2b5a-4d8f-a6f8-8269c7bf86ef
+Scope: Regional or Statewide
+Severity: Critical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

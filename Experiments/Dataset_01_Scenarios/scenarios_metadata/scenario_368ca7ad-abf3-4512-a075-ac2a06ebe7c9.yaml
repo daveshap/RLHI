@@ -1,18 +1,10 @@
-scenario: '87766c24-cfa9-4d9a-9a8f-58b1410cad96
-
-  Random word: team
-
-  Scope: Regional or Statewide
-
-  Severity: Catastrophic
-
-  Region: Europe
-
-  Category: Mundane issue
-
-  Domain: Legal
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Mundane issue
+Domain: Legal
+Random word: team
+Region: Europe
+Scenario: 368ca7ad-abf3-4512-a075-ac2a06ebe7c9
+Scope: Regional or Statewide
+Severity: Catastrophic
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

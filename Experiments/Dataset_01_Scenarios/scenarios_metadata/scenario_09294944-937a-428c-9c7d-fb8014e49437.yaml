@@ -1,19 +1,11 @@
-scenario: '9f9ff31c-abf7-4f2d-9439-566d828ad4b3
-
-  Random word: tradition
-
-  Scope: Global
-
-  Severity: Disruptive
-
-  Region: Pacific
-
-  Category: Accident or Incident
-
-  Domain: Philosophical
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Accident or Incident
+Domain: Philosophical
+Random word: tradition
+Region: Pacific
+Scenario: 09294944-937a-428c-9c7d-fb8014e49437
+Scope: Global
+Severity: Disruptive
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

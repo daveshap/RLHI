@@ -1,19 +1,11 @@
-scenario: 'ffd42fb1-aa13-448a-acad-8e8ba735b119
-
-  Random word: menu
-
-  Scope: Online
-
-  Severity: Life-threatening
-
-  Region: Pacific
-
-  Category: Political unrest
-
-  Domain: Legal
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Political unrest
+Domain: Legal
+Random word: menu
+Region: Pacific
+Scenario: 83cb8dd4-2e2a-4ae2-bb9f-3591e528ae34
+Scope: Online
+Severity: Life-threatening
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

@@ -1,19 +1,11 @@
-scenario: '1383704c-83c7-4bd8-a773-bf0c67f42cc1
-
-  Random word: miss
-
-  Scope: Nuclear Family
-
-  Severity: Ordinary
-
-  Region: South Asia
-
-  Category: Environmental issue
-
-  Domain: Technological
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Environmental issue
+Domain: Technological
+Random word: miss
+Region: South Asia
+Scenario: daa76546-5eca-43d2-a6eb-78e51d76be4c
+Scope: Nuclear Family
+Severity: Ordinary
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

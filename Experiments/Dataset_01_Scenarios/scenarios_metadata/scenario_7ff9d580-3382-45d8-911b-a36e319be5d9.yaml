@@ -1,18 +1,10 @@
-scenario: 'ddad8c8b-de8d-4642-8553-2d3e0b035d6c
-
-  Random word: spirit
-
-  Scope: Online
-
-  Severity: Typical
-
-  Region: Europe
-
-  Category: Disagreement or Argument
-
-  Domain: Legal
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Disagreement or Argument
+Domain: Legal
+Random word: spirit
+Region: Europe
+Scenario: 7ff9d580-3382-45d8-911b-a36e319be5d9
+Scope: Online
+Severity: Typical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

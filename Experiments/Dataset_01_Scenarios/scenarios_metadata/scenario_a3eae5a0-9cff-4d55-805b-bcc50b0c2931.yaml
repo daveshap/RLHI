@@ -1,18 +1,10 @@
-scenario: '2eeb95d9-2007-4a91-94c7-4b0fc551719c
-
-  Random word: do
-
-  Scope: Extended Family
-
-  Severity: Ordinary
-
-  Region: Subsaharan Africa
-
-  Category: Mundane issue
-
-  Domain: Political
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Mundane issue
+Domain: Political
+Random word: do
+Region: Subsaharan Africa
+Scenario: a3eae5a0-9cff-4d55-805b-bcc50b0c2931
+Scope: Extended Family
+Severity: Ordinary
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

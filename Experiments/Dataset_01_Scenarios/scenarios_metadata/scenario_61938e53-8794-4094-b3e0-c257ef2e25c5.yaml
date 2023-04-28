@@ -1,19 +1,11 @@
-scenario: '431a858d-73b9-4b79-9549-c2e32aefc7b2
-
-  Random word: approximately
-
-  Scope: Global
-
-  Severity: Critical
-
-  Region: Eurasia
-
-  Category: Disagreement or Argument
-
-  Domain: Scientific
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Disagreement or Argument
+Domain: Scientific
+Random word: approximately
+Region: Eurasia
+Scenario: 61938e53-8794-4094-b3e0-c257ef2e25c5
+Scope: Global
+Severity: Critical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

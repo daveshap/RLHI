@@ -1,18 +1,10 @@
-scenario: '57b1c433-1962-4233-b3ac-b8ac5c693f5d
-
-  Random word: emission
-
-  Scope: International
-
-  Severity: Disruptive
-
-  Region: Eurasia
-
-  Category: Social challenge
-
-  Domain: Physical
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Social challenge
+Domain: Physical
+Random word: emission
+Region: Eurasia
+Scenario: c39195f3-a3af-400a-803f-a440c12509d2
+Scope: International
+Severity: Disruptive
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

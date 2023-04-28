@@ -1,19 +1,11 @@
-scenario: '837c27f8-0c4b-4489-a1ea-210caefc10c2
-
-  Random word: establish
-
-  Scope: Chosen Family
-
-  Severity: Dangerous
-
-  Region: Europe
-
-  Category: Accident or Incident
-
-  Domain: Intellectual
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Accident or Incident
+Domain: Intellectual
+Random word: establish
+Region: Europe
+Scenario: bf8078f6-d585-4525-9193-01acee7d1b14
+Scope: Chosen Family
+Severity: Dangerous
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

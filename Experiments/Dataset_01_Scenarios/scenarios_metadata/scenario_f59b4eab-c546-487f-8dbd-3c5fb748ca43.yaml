@@ -1,19 +1,11 @@
-scenario: '6678fd4e-eda2-43bf-b3ce-59b63f69a407
-
-  Random word: trust
-
-  Scope: Global
-
-  Severity: Irreversible
-
-  Region: Europe
-
-  Category: Technological failure
-
-  Domain: Political
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Technological failure
+Domain: Political
+Random word: trust
+Region: Europe
+Scenario: f59b4eab-c546-487f-8dbd-3c5fb748ca43
+Scope: Global
+Severity: Irreversible
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

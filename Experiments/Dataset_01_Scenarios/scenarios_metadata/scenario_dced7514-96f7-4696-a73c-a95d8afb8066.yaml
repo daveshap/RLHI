@@ -1,19 +1,11 @@
-scenario: 'a8c481ea-3a7d-4b94-9e1a-6ec5853061dd
-
-  Random word: package
-
-  Scope: Intergalactic
-
-  Severity: Typical
-
-  Region: South Pacific
-
-  Category: Ethical dilemma
-
-  Domain: Environmental
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Ethical dilemma
+Domain: Environmental
+Random word: package
+Region: South Pacific
+Scenario: dced7514-96f7-4696-a73c-a95d8afb8066
+Scope: Intergalactic
+Severity: Typical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,19 +1,11 @@
-scenario: '865177e0-c1b1-4078-aa3b-8d6c22f6ab13
-
-  Random word: personally
-
-  Scope: International
-
-  Severity: Critical
-
-  Region: Asia
-
-  Category: Conflict or Violence
-
-  Domain: Legal
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Conflict or Violence
+Domain: Legal
+Random word: personally
+Region: Asia
+Scenario: 47382814-1207-4f41-9b50-2ceed84c7c95
+Scope: International
+Severity: Critical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

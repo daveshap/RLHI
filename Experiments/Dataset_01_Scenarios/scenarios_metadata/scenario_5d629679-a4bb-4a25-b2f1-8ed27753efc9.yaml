@@ -1,19 +1,11 @@
-scenario: '5a054070-e553-4e68-b099-b252f6ed5642
-
-  Random word: bear
-
-  Scope: Intergalactic
-
-  Severity: Critical
-
-  Region: Subsaharan Africa
-
-  Category: Political unrest
-
-  Domain: Emotional
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Political unrest
+Domain: Emotional
+Random word: bear
+Region: Subsaharan Africa
+Scenario: 5d629679-a4bb-4a25-b2f1-8ed27753efc9
+Scope: Intergalactic
+Severity: Critical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

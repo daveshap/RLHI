@@ -1,19 +1,11 @@
-scenario: '087e5450-dffa-4766-858f-f0dd49daa536
-
-  Random word: confident
-
-  Scope: Continental
-
-  Severity: Annoyance
-
-  Region: North Africa
-
-  Category: Environmental issue
-
-  Domain: Cultural
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Environmental issue
+Domain: Cultural
+Random word: confident
+Region: North Africa
+Scenario: a69aaa8e-ad8d-4a68-ac6a-715f0b8a66b3
+Scope: Continental
+Severity: Annoyance
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

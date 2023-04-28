@@ -1,19 +1,11 @@
-scenario: 'b911d742-3bd2-4d2a-a662-c527593e14b0
-
-  Random word: straight
-
-  Scope: Online
-
-  Severity: Serious
-
-  Region: South America
-
-  Category: Financial crisis
-
-  Domain: Social
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Financial crisis
+Domain: Social
+Random word: straight
+Region: South America
+Scenario: f02bb552-fb7f-4326-ac4c-a2e4d03f4932
+Scope: Online
+Severity: Serious
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

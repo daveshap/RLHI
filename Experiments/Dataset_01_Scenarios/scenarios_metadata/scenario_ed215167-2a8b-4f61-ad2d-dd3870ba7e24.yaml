@@ -1,19 +1,11 @@
-scenario: 'bb7a33b9-edb3-444f-9f46-6cb9a04554e5
-
-  Random word: storm
-
-  Scope: Professional
-
-  Severity: Catastrophic
-
-  Region: South America
-
-  Category: Environmental issue
-
-  Domain: Intellectual
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Environmental issue
+Domain: Intellectual
+Random word: storm
+Region: South America
+Scenario: ed215167-2a8b-4f61-ad2d-dd3870ba7e24
+Scope: Professional
+Severity: Catastrophic
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

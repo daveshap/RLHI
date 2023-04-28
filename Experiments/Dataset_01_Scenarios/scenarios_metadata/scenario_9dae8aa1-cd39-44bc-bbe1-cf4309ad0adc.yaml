@@ -1,18 +1,10 @@
-scenario: '6fc01285-6b62-4374-b198-0271615080ec
-
-  Random word: reform
-
-  Scope: Regional or Statewide
-
-  Severity: Insignificant
-
-  Region: North America
-
-  Category: Health concern
-
-  Domain: Environmental
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Health concern
+Domain: Environmental
+Random word: reform
+Region: North America
+Scenario: 9dae8aa1-cd39-44bc-bbe1-cf4309ad0adc
+Scope: Regional or Statewide
+Severity: Insignificant
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

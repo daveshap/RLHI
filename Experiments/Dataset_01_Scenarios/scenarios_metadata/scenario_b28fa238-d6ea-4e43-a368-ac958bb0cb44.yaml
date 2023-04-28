@@ -1,19 +1,11 @@
-scenario: 'c948e793-06f5-4435-9ee8-f3579f15271e
-
-  Random word: mess
-
-  Scope: Nuclear Family
-
-  Severity: Insignificant
-
-  Region: South America
-
-  Category: Social challenge
-
-  Domain: Political
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Social challenge
+Domain: Political
+Random word: mess
+Region: South America
+Scenario: b28fa238-d6ea-4e43-a368-ac958bb0cb44
+Scope: Nuclear Family
+Severity: Insignificant
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

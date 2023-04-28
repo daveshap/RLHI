@@ -1,19 +1,11 @@
-scenario: 'c660620e-0d58-48cf-88cc-45b1744a64b0
-
-  Random word: coach
-
-  Scope: Interstellar
-
-  Severity: Serious
-
-  Region: North Africa
-
-  Category: Political unrest
-
-  Domain: Cultural
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Political unrest
+Domain: Cultural
+Random word: coach
+Region: North Africa
+Scenario: b200d4f9-6154-4b9a-ad5e-7b9764834347
+Scope: Interstellar
+Severity: Serious
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

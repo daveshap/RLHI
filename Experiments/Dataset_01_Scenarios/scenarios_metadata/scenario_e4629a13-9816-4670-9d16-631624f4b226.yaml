@@ -1,19 +1,11 @@
-scenario: '8691b422-9bb6-47f4-9939-e7ee5f035ff7
-
-  Random word: differ
-
-  Scope: City or Village
-
-  Severity: Ordinary
-
-  Region: Europe
-
-  Category: Accident or Incident
-
-  Domain: Emotional
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Accident or Incident
+Domain: Emotional
+Random word: differ
+Region: Europe
+Scenario: e4629a13-9816-4670-9d16-631624f4b226
+Scope: City or Village
+Severity: Ordinary
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

@@ -1,18 +1,10 @@
-scenario: 'eef6cdd2-a02a-4b38-80af-d5f409fea3c2
-
-  Random word: column
-
-  Scope: Interpersonal
-
-  Severity: Ordinary
-
-  Region: Europe
-
-  Category: Natural disaster
-
-  Domain: Legal
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Natural disaster
+Domain: Legal
+Random word: column
+Region: Europe
+Scenario: dfef30c6-5135-4d69-ad8d-7372e4e6c53f
+Scope: Interpersonal
+Severity: Ordinary
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

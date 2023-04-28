@@ -1,19 +1,11 @@
-scenario: '53a09ac0-1fd9-4409-b3dc-659a74fa959c
-
-  Random word: about
-
-  Scope: Interstellar
-
-  Severity: Insignificant
-
-  Region: South Asia
-
-  Category: Natural disaster
-
-  Domain: Cultural
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Natural disaster
+Domain: Cultural
+Random word: about
+Region: South Asia
+Scenario: 83c2813c-6e70-4413-a88d-4c8ddad122be
+Scope: Interstellar
+Severity: Insignificant
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

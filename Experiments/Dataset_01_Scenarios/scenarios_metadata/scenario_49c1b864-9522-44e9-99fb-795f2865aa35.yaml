@@ -1,19 +1,11 @@
-scenario: '85dcb508-972d-4212-9744-2ddeee666a9d
-
-  Random word: analysis
-
-  Scope: Chosen Family
-
-  Severity: Disruptive
-
-  Region: Pacific
-
-  Category: Health concern
-
-  Domain: Cultural
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Health concern
+Domain: Cultural
+Random word: analysis
+Region: Pacific
+Scenario: 49c1b864-9522-44e9-99fb-795f2865aa35
+Scope: Chosen Family
+Severity: Disruptive
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

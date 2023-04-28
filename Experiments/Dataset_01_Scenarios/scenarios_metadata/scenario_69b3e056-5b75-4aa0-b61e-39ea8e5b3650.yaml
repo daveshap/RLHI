@@ -1,19 +1,11 @@
-scenario: '5a184834-26ab-46f6-b06d-ecd638eca25c
-
-  Random word: language
-
-  Scope: Continental
-
-  Severity: Irreversible
-
-  Region: South Pacific
-
-  Category: Political unrest
-
-  Domain: Technological
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Political unrest
+Domain: Technological
+Random word: language
+Region: South Pacific
+Scenario: 69b3e056-5b75-4aa0-b61e-39ea8e5b3650
+Scope: Continental
+Severity: Irreversible
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

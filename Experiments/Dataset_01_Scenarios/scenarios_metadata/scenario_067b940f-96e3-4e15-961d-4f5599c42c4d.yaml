@@ -1,18 +1,10 @@
-scenario: 'fed89129-133e-4834-bc9f-c70649f8ba28
-
-  Random word: person
-
-  Scope: Interstellar
-
-  Severity: Catastrophic
-
-  Region: North Africa
-
-  Category: Environmental issue
-
-  Domain: Cultural
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Environmental issue
+Domain: Cultural
+Random word: person
+Region: North Africa
+Scenario: 067b940f-96e3-4e15-961d-4f5599c42c4d
+Scope: Interstellar
+Severity: Catastrophic
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

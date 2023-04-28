@@ -1,19 +1,11 @@
-scenario: 'f65d0ec0-b55a-450f-8680-c4e1fc7c044c
-
-  Random word: cat
-
-  Scope: Interpersonal
-
-  Severity: Annoyance
-
-  Region: Pacific
-
-  Category: Mundane issue
-
-  Domain: Legal
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Mundane issue
+Domain: Legal
+Random word: cat
+Region: Pacific
+Scenario: e8cdbce5-4a30-4568-a804-e4b702700e44
+Scope: Interpersonal
+Severity: Annoyance
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

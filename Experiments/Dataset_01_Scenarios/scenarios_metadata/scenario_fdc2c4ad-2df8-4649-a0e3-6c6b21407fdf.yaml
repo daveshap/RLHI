@@ -1,19 +1,11 @@
-scenario: 'eafb8ec2-be03-4a68-9605-bec5101e4ebd
-
-  Random word: blow
-
-  Scope: Professional
-
-  Severity: Dangerous
-
-  Region: South America
-
-  Category: AI Control Problem
-
-  Domain: Physical
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: AI Control Problem
+Domain: Physical
+Random word: blow
+Region: South America
+Scenario: fdc2c4ad-2df8-4649-a0e3-6c6b21407fdf
+Scope: Professional
+Severity: Dangerous
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

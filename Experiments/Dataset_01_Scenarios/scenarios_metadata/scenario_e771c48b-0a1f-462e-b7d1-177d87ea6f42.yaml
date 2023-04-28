@@ -1,19 +1,11 @@
-scenario: '3c384d8b-50e6-4ad5-b7bb-6c4cacc0dbac
-
-  Random word: tomato
-
-  Scope: Cosmic or Universal
-
-  Severity: Insignificant
-
-  Region: South Pacific
-
-  Category: Mundane issue
-
-  Domain: Legal
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Mundane issue
+Domain: Legal
+Random word: tomato
+Region: South Pacific
+Scenario: e771c48b-0a1f-462e-b7d1-177d87ea6f42
+Scope: Cosmic or Universal
+Severity: Insignificant
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

@@ -1,19 +1,11 @@
-scenario: '83de67bd-d212-4006-a1d9-ac078a3a8094
-
-  Random word: grab
-
-  Scope: Cosmic or Universal
-
-  Severity: Typical
-
-  Region: Subsaharan Africa
-
-  Category: Financial crisis
-
-  Domain: Physical
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Financial crisis
+Domain: Physical
+Random word: grab
+Region: Subsaharan Africa
+Scenario: b82e935f-b4a7-47b8-9eff-466f2c163506
+Scope: Cosmic or Universal
+Severity: Typical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

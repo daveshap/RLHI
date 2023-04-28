@@ -1,19 +1,11 @@
-scenario: '8d4b7008-5963-43fe-8bc9-e06e32a2060f
-
-  Random word: many
-
-  Scope: Nuclear Family
-
-  Severity: Serious
-
-  Region: South America
-
-  Category: Financial crisis
-
-  Domain: Scientific
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Financial crisis
+Domain: Scientific
+Random word: many
+Region: South America
+Scenario: b6cd39d7-2d26-496b-b4b2-f7f2b780b68e
+Scope: Nuclear Family
+Severity: Serious
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

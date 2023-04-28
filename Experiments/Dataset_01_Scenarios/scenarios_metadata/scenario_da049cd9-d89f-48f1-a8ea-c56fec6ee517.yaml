@@ -1,19 +1,11 @@
-scenario: 'fe20561b-25c1-4795-89c1-cf1f57c3a59c
-
-  Random word: college
-
-  Scope: International
-
-  Severity: Typical
-
-  Region: Middle East
-
-  Category: Accident or Incident
-
-  Domain: Technological
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Accident or Incident
+Domain: Technological
+Random word: college
+Region: Middle East
+Scenario: da049cd9-d89f-48f1-a8ea-c56fec6ee517
+Scope: International
+Severity: Typical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,18 +1,10 @@
-scenario: '2d3c567d-c212-4265-824e-82b6f7e54f93
-
-  Random word: Italian
-
-  Scope: Personal or Individual
-
-  Severity: Catastrophic
-
-  Region: Eurasia
-
-  Category: Disagreement or Argument
-
-  Domain: Educational
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Disagreement or Argument
+Domain: Educational
+Random word: Italian
+Region: Eurasia
+Scenario: e8522b55-160c-471d-a5e6-ee5dc1674095
+Scope: Personal or Individual
+Severity: Catastrophic
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

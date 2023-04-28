@@ -1,19 +1,11 @@
-scenario: 'bc771bac-fa75-4962-bfc8-1dfed9a73739
-
-  Random word: shoulder
-
-  Scope: Online
-
-  Severity: Annoyance
-
-  Region: North Africa
-
-  Category: Technological failure
-
-  Domain: Economic
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Technological failure
+Domain: Economic
+Random word: shoulder
+Region: North Africa
+Scenario: d5c3362e-64e8-4f96-ace1-9bb516e1aa8c
+Scope: Online
+Severity: Annoyance
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

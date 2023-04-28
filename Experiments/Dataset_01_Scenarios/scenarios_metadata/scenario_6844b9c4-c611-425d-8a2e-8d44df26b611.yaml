@@ -1,19 +1,11 @@
-scenario: 'bdd31509-f472-4f7c-8560-fea9ad339587
-
-  Random word: laboratory
-
-  Scope: Intergalactic
-
-  Severity: Typical
-
-  Region: South America
-
-  Category: Accident or Incident
-
-  Domain: Social
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Accident or Incident
+Domain: Social
+Random word: laboratory
+Region: South America
+Scenario: 6844b9c4-c611-425d-8a2e-8d44df26b611
+Scope: Intergalactic
+Severity: Typical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

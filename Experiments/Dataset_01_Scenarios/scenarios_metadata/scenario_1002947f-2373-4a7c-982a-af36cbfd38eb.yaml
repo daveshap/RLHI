@@ -1,19 +1,11 @@
-scenario: 'e26c6be6-5f3c-4329-8116-0dc5677ae74d
-
-  Random word: thin
-
-  Scope: Regional or Statewide
-
-  Severity: Dangerous
-
-  Region: Asia
-
-  Category: Conflict or Violence
-
-  Domain: Social
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Conflict or Violence
+Domain: Social
+Random word: thin
+Region: Asia
+Scenario: 1002947f-2373-4a7c-982a-af36cbfd38eb
+Scope: Regional or Statewide
+Severity: Dangerous
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

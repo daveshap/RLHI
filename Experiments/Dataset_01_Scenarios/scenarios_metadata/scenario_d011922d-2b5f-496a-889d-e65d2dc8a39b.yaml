@@ -1,18 +1,10 @@
-scenario: '03179e92-2a3f-4552-8694-6652714cc18b
-
-  Random word: standard
-
-  Scope: Chosen Family
-
-  Severity: Serious
-
-  Region: Middle East
-
-  Category: AI Control Problem
-
-  Domain: Social
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: AI Control Problem
+Domain: Social
+Random word: standard
+Region: Middle East
+Scenario: d011922d-2b5f-496a-889d-e65d2dc8a39b
+Scope: Chosen Family
+Severity: Serious
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

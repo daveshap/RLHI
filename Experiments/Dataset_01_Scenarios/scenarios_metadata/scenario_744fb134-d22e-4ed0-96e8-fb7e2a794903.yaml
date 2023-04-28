@@ -1,19 +1,11 @@
-scenario: 'a32383bc-9adf-4171-b741-aba186ea9d93
-
-  Random word: disease
-
-  Scope: City or Village
-
-  Severity: Critical
-
-  Region: South Asia
-
-  Category: Mundane issue
-
-  Domain: Scientific
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Mundane issue
+Domain: Scientific
+Random word: disease
+Region: South Asia
+Scenario: 744fb134-d22e-4ed0-96e8-fb7e2a794903
+Scope: City or Village
+Severity: Critical
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

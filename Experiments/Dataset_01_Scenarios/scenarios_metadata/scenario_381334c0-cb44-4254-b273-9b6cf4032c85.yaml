@@ -1,19 +1,11 @@
-scenario: '15c233d0-beb7-4c09-b303-bfaa5226e266
-
-  Random word: refugee
-
-  Scope: Extended Family
-
-  Severity: Life-threatening
-
-  Region: North America
-
-  Category: Natural disaster
-
-  Domain: Spiritual or Religious
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Natural disaster
+Domain: Spiritual or Religious
+Random word: refugee
+Region: North America
+Scenario: 381334c0-cb44-4254-b273-9b6cf4032c85
+Scope: Extended Family
+Severity: Life-threatening
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

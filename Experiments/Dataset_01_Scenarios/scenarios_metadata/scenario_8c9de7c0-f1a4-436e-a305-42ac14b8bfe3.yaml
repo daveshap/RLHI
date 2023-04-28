@@ -1,19 +1,11 @@
-scenario: '72ca9eef-feaa-4509-8e50-f542e4baa052
-
-  Random word: beauty
-
-  Scope: National or Federal
-
-  Severity: Dangerous
-
-  Region: Europe
-
-  Category: Environmental issue
-
-  Domain: Spiritual or Religious
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Environmental issue
+Domain: Spiritual or Religious
+Random word: beauty
+Region: Europe
+Scenario: 8c9de7c0-f1a4-436e-a305-42ac14b8bfe3
+Scope: National or Federal
+Severity: Dangerous
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

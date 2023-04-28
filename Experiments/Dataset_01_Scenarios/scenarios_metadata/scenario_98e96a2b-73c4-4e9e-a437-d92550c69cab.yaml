@@ -1,18 +1,10 @@
-scenario: '829cd493-c64e-47b8-9790-0ee4d64b88db
-
-  Random word: gently
-
-  Scope: International
-
-  Severity: Critical
-
-  Region: North Africa
-
-  Category: Ethical dilemma
-
-  Domain: Technological
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Ethical dilemma
+Domain: Technological
+Random word: gently
+Region: North Africa
+Scenario: 98e96a2b-73c4-4e9e-a437-d92550c69cab
+Scope: International
+Severity: Critical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

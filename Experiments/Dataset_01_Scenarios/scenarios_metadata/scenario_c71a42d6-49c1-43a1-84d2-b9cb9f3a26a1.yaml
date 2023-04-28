@@ -1,19 +1,11 @@
-scenario: '0a24a980-e523-4729-a55d-4f0e73614c48
-
-  Random word: painter
-
-  Scope: Personal or Individual
-
-  Severity: Typical
-
-  Region: North Africa
-
-  Category: Social challenge
-
-  Domain: Cultural
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Social challenge
+Domain: Cultural
+Random word: painter
+Region: North Africa
+Scenario: c71a42d6-49c1-43a1-84d2-b9cb9f3a26a1
+Scope: Personal or Individual
+Severity: Typical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,19 +1,11 @@
-scenario: 'f6c1baff-fd99-4cb8-ba84-644dfdb070b2
-
-  Random word: manage
-
-  Scope: Global
-
-  Severity: Irreversible
-
-  Region: Europe
-
-  Category: Accident or Incident
-
-  Domain: Political
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Accident or Incident
+Domain: Political
+Random word: manage
+Region: Europe
+Scenario: 2fc4984d-501b-41e6-8d13-8827b1c04f8e
+Scope: Global
+Severity: Irreversible
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

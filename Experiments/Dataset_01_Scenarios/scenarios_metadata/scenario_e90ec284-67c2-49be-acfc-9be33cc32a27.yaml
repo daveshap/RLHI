@@ -1,19 +1,11 @@
-scenario: '00b74008-55d5-4a1f-889f-f33a682b4170
-
-  Random word: framework
-
-  Scope: Professional
-
-  Severity: Disruptive
-
-  Region: South America
-
-  Category: Ethical dilemma
-
-  Domain: Economic
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Ethical dilemma
+Domain: Economic
+Random word: framework
+Region: South America
+Scenario: e90ec284-67c2-49be-acfc-9be33cc32a27
+Scope: Professional
+Severity: Disruptive
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

@@ -1,19 +1,11 @@
-scenario: '8d631bc9-e807-4c1f-8fa3-dc3baf2d6370
-
-  Random word: tool
-
-  Scope: Professional
-
-  Severity: Catastrophic
-
-  Region: North America
-
-  Category: Health concern
-
-  Domain: Philosophical
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Health concern
+Domain: Philosophical
+Random word: tool
+Region: North America
+Scenario: e1ba8912-48ec-47fd-8167-b5fd80475314
+Scope: Professional
+Severity: Catastrophic
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

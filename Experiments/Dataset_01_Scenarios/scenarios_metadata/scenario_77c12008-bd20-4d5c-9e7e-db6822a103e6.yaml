@@ -1,18 +1,10 @@
-scenario: '755ad69a-d782-41b6-97ab-8bf84164143a
-
-  Random word: dealer
-
-  Scope: Interpersonal
-
-  Severity: Annoyance
-
-  Region: South Asia
-
-  Category: Natural disaster
-
-  Domain: Scientific
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Natural disaster
+Domain: Scientific
+Random word: dealer
+Region: South Asia
+Scenario: 77c12008-bd20-4d5c-9e7e-db6822a103e6
+Scope: Interpersonal
+Severity: Annoyance
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

@@ -1,18 +1,10 @@
-scenario: '1f208541-e62c-46b9-b1bd-1a15efe3bd83
-
-  Random word: alive
-
-  Scope: Regional or Statewide
-
-  Severity: Irreversible
-
-  Region: Subsaharan Africa
-
-  Category: Health concern
-
-  Domain: Economic
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Health concern
+Domain: Economic
+Random word: alive
+Region: Subsaharan Africa
+Scenario: 634e6de9-e94d-451d-9396-ae9f59ca577d
+Scope: Regional or Statewide
+Severity: Irreversible
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

@@ -1,19 +1,11 @@
-scenario: '55dedfe1-e97a-4ea3-a41b-eb0ee7778c42
-
-  Random word: infection
-
-  Scope: International
-
-  Severity: Annoyance
-
-  Region: Pacific
-
-  Category: Natural disaster
-
-  Domain: Political
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Natural disaster
+Domain: Political
+Random word: infection
+Region: Pacific
+Scenario: 9d8679fa-e00c-4b3d-b4e8-bb8c727f0c3b
+Scope: International
+Severity: Annoyance
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

@@ -1,19 +1,11 @@
-scenario: 'e16c71e7-a1ac-4320-bc60-979fd964c995
-
-  Random word: active
-
-  Scope: City or Village
-
-  Severity: Critical
-
-  Region: Middle East
-
-  Category: Accident or Incident
-
-  Domain: Environmental
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Accident or Incident
+Domain: Environmental
+Random word: active
+Region: Middle East
+Scenario: c15a7b17-1fd9-41a9-9cd6-02488d6e9dca
+Scope: City or Village
+Severity: Critical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

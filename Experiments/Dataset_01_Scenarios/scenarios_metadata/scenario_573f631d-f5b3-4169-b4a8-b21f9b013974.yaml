@@ -1,19 +1,11 @@
-scenario: 'edbc5145-498c-4a8c-af0d-12378cfe2c7a
-
-  Random word: interpret
-
-  Scope: Professional
-
-  Severity: Life-threatening
-
-  Region: Eurasia
-
-  Category: Disagreement or Argument
-
-  Domain: Spiritual or Religious
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Disagreement or Argument
+Domain: Spiritual or Religious
+Random word: interpret
+Region: Eurasia
+Scenario: 573f631d-f5b3-4169-b4a8-b21f9b013974
+Scope: Professional
+Severity: Life-threatening
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

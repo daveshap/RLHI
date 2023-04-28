@@ -1,19 +1,11 @@
-scenario: '929ed153-cd09-45b7-aad5-9cdfeeb73166
-
-  Random word: justify
-
-  Scope: Regional or Statewide
-
-  Severity: Ordinary
-
-  Region: North America
-
-  Category: Political unrest
-
-  Domain: Political
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Political unrest
+Domain: Political
+Random word: justify
+Region: North America
+Scenario: 435a8354-4015-4ad8-9d4b-f47f4a84930e
+Scope: Regional or Statewide
+Severity: Ordinary
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

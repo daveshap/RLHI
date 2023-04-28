@@ -1,18 +1,10 @@
-scenario: '473fd12e-ffe6-4588-802b-0bfe9f27ea7d
-
-  Random word: abandon
-
-  Scope: Professional
-
-  Severity: Serious
-
-  Region: South America
-
-  Category: Technological failure
-
-  Domain: Scientific
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Technological failure
+Domain: Scientific
+Random word: abandon
+Region: South America
+Scenario: e2d7a5eb-2fcc-4f39-b374-ef5b2dc89071
+Scope: Professional
+Severity: Serious
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

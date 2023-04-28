@@ -1,18 +1,10 @@
-scenario: '07c34379-d20b-45bc-b76c-22d37b1e1907
-
-  Random word: though
-
-  Scope: Intergalactic
-
-  Severity: Serious
-
-  Region: South Pacific
-
-  Category: Conflict or Violence
-
-  Domain: Social
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Conflict or Violence
+Domain: Social
+Random word: though
+Region: South Pacific
+Scenario: 4cc2820c-fed9-488f-9f12-f8ce2a11e7f4
+Scope: Intergalactic
+Severity: Serious
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

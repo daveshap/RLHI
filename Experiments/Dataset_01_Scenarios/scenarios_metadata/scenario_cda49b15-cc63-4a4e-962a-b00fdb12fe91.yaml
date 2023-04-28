@@ -1,18 +1,10 @@
-scenario: '827f8d8e-e6b8-4883-a8a7-c563e5f9512a
-
-  Random word: killing
-
-  Scope: Cosmic or Universal
-
-  Severity: Irreversible
-
-  Region: North Africa
-
-  Category: Natural disaster
-
-  Domain: Educational
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Natural disaster
+Domain: Educational
+Random word: killing
+Region: North Africa
+Scenario: cda49b15-cc63-4a4e-962a-b00fdb12fe91
+Scope: Cosmic or Universal
+Severity: Irreversible
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

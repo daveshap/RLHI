@@ -1,19 +1,11 @@
-scenario: 'c158e435-e74d-4166-832d-7546435cb632
-
-  Random word: hello
-
-  Scope: Chosen Family
-
-  Severity: Dangerous
-
-  Region: North America
-
-  Category: Accident or Incident
-
-  Domain: Social
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Accident or Incident
+Domain: Social
+Random word: hello
+Region: North America
+Scenario: 81b8968c-24a8-40e4-a528-01e28095b913
+Scope: Chosen Family
+Severity: Dangerous
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

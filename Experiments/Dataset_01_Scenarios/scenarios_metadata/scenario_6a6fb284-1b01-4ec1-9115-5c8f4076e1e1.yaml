@@ -1,18 +1,10 @@
-scenario: '53b8ef84-deef-4e34-844a-65e81a02c9db
-
-  Random word: portray
-
-  Scope: Professional
-
-  Severity: Irreversible
-
-  Region: Asia
-
-  Category: Technological failure
-
-  Domain: Political
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Technological failure
+Domain: Political
+Random word: portray
+Region: Asia
+Scenario: 6a6fb284-1b01-4ec1-9115-5c8f4076e1e1
+Scope: Professional
+Severity: Irreversible
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

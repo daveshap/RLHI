@@ -1,19 +1,11 @@
-scenario: '61ad3298-e366-4720-953b-0800845e2dd8
-
-  Random word: usual
-
-  Scope: Continental
-
-  Severity: Catastrophic
-
-  Region: North Africa
-
-  Category: Natural disaster
-
-  Domain: Technological
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Natural disaster
+Domain: Technological
+Random word: usual
+Region: North Africa
+Scenario: 3e3229af-faea-462f-ad70-079a01d4c3eb
+Scope: Continental
+Severity: Catastrophic
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

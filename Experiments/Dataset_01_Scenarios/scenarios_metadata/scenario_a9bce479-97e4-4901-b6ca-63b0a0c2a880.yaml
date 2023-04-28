@@ -1,18 +1,10 @@
-scenario: 'c25908be-886c-4498-865b-424182d1bae7
-
-  Random word: employer
-
-  Scope: Professional
-
-  Severity: Life-threatening
-
-  Region: Pacific
-
-  Category: Mundane issue
-
-  Domain: Economic
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Mundane issue
+Domain: Economic
+Random word: employer
+Region: Pacific
+Scenario: a9bce479-97e4-4901-b6ca-63b0a0c2a880
+Scope: Professional
+Severity: Life-threatening
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

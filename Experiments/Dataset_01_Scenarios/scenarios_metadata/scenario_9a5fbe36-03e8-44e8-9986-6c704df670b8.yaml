@@ -1,19 +1,11 @@
-scenario: 'a9b4f5b8-aa3e-4f16-9162-b7e0c6701724
-
-  Random word: request
-
-  Scope: International
-
-  Severity: Long-lasting
-
-  Region: South America
-
-  Category: Natural disaster
-
-  Domain: Social
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Natural disaster
+Domain: Social
+Random word: request
+Region: South America
+Scenario: 9a5fbe36-03e8-44e8-9986-6c704df670b8
+Scope: International
+Severity: Long-lasting
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

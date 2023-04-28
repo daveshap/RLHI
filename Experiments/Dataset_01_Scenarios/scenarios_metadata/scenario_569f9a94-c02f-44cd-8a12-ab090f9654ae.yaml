@@ -1,19 +1,11 @@
-scenario: '39cae5bc-61e1-4a02-8bec-5f92d6a7826e
-
-  Random word: translate
-
-  Scope: International
-
-  Severity: Long-lasting
-
-  Region: Subsaharan Africa
-
-  Category: Health concern
-
-  Domain: Intellectual
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Health concern
+Domain: Intellectual
+Random word: translate
+Region: Subsaharan Africa
+Scenario: 569f9a94-c02f-44cd-8a12-ab090f9654ae
+Scope: International
+Severity: Long-lasting
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

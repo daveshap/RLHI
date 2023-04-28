@@ -1,19 +1,11 @@
-scenario: '90f8df6f-5cf4-4a12-86d7-9e42c03ab67c
-
-  Random word: music
-
-  Scope: Local community or Neighborhood
-
-  Severity: Insignificant
-
-  Region: Subsaharan Africa
-
-  Category: Technological failure
-
-  Domain: Educational
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Technological failure
+Domain: Educational
+Random word: music
+Region: Subsaharan Africa
+Scenario: 56c03569-4321-4d17-a7f8-e070bcbdc9f7
+Scope: Local community or Neighborhood
+Severity: Insignificant
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

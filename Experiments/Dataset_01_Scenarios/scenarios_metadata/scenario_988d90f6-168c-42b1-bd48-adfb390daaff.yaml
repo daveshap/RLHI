@@ -1,19 +1,11 @@
-scenario: 'f0805804-f94d-4ec2-96a4-97cfbeaa821c
-
-  Random word: stick
-
-  Scope: Online
-
-  Severity: Ordinary
-
-  Region: Asia
-
-  Category: Accident or Incident
-
-  Domain: Political
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Accident or Incident
+Domain: Political
+Random word: stick
+Region: Asia
+Scenario: 988d90f6-168c-42b1-bd48-adfb390daaff
+Scope: Online
+Severity: Ordinary
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

@@ -1,19 +1,11 @@
-scenario: 'f9a46e96-6513-4a5a-afec-95c3664f196e
-
-  Random word: combination
-
-  Scope: Professional
-
-  Severity: Annoyance
-
-  Region: Subsaharan Africa
-
-  Category: Health concern
-
-  Domain: Physical
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Health concern
+Domain: Physical
+Random word: combination
+Region: Subsaharan Africa
+Scenario: 42db2fa6-5858-42f9-9609-2312578e2391
+Scope: Professional
+Severity: Annoyance
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

@@ -1,19 +1,11 @@
-scenario: 'e9f88631-9e27-485b-9dea-3ffe7949db1d
-
-  Random word: sir
-
-  Scope: Personal or Individual
-
-  Severity: Ordinary
-
-  Region: South America
-
-  Category: Health concern
-
-  Domain: Political
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Health concern
+Domain: Political
+Random word: sir
+Region: South America
+Scenario: 6f630251-9e09-4481-9e12-83d932528413
+Scope: Personal or Individual
+Severity: Ordinary
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

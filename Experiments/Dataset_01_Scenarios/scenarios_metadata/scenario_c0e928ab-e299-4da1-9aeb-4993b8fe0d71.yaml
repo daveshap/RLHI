@@ -1,19 +1,11 @@
-scenario: '9a2434d8-f021-4a43-858c-38feba90aabd
-
-  Random word: color
-
-  Scope: International
-
-  Severity: Ordinary
-
-  Region: North America
-
-  Category: Political unrest
-
-  Domain: Environmental
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Political unrest
+Domain: Environmental
+Random word: color
+Region: North America
+Scenario: c0e928ab-e299-4da1-9aeb-4993b8fe0d71
+Scope: International
+Severity: Ordinary
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

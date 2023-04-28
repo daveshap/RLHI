@@ -1,19 +1,11 @@
-scenario: 'fb2c71a9-1056-4721-83e2-c471d2374128
-
-  Random word: radical
-
-  Scope: Professional
-
-  Severity: Serious
-
-  Region: Pacific
-
-  Category: Technological failure
-
-  Domain: Environmental
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Technological failure
+Domain: Environmental
+Random word: radical
+Region: Pacific
+Scenario: 569b5261-e619-44e3-9206-97e3dad2e565
+Scope: Professional
+Severity: Serious
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

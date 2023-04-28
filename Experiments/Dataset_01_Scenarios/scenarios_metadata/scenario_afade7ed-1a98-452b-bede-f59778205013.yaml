@@ -1,19 +1,11 @@
-scenario: 'c59f5f44-a625-4b60-be6a-0c73e55e572c
-
-  Random word: risk
-
-  Scope: Online
-
-  Severity: Typical
-
-  Region: Pacific
-
-  Category: Mundane issue
-
-  Domain: Educational
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Mundane issue
+Domain: Educational
+Random word: risk
+Region: Pacific
+Scenario: afade7ed-1a98-452b-bede-f59778205013
+Scope: Online
+Severity: Typical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

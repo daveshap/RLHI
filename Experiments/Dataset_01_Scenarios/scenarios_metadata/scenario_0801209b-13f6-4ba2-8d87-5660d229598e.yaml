@@ -1,19 +1,11 @@
-scenario: '1f0d1283-6886-4f60-bc14-13d97e4417f8
-
-  Random word: keep
-
-  Scope: Chosen Family
-
-  Severity: Critical
-
-  Region: Europe
-
-  Category: Conflict or Violence
-
-  Domain: Cultural
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Conflict or Violence
+Domain: Cultural
+Random word: keep
+Region: Europe
+Scenario: 0801209b-13f6-4ba2-8d87-5660d229598e
+Scope: Chosen Family
+Severity: Critical
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

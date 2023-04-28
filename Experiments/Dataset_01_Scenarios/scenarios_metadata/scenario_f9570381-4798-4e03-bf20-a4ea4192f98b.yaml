@@ -1,19 +1,11 @@
-scenario: 'bddf1507-af8a-4989-8b7b-f2b1a7730d3a
-
-  Random word: shortly
-
-  Scope: Interpersonal
-
-  Severity: Catastrophic
-
-  Region: North Africa
-
-  Category: Technological failure
-
-  Domain: Emotional
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Technological failure
+Domain: Emotional
+Random word: shortly
+Region: North Africa
+Scenario: f9570381-4798-4e03-bf20-a4ea4192f98b
+Scope: Interpersonal
+Severity: Catastrophic
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

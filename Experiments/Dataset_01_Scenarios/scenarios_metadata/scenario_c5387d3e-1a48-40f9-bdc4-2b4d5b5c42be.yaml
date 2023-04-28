@@ -1,19 +1,11 @@
-scenario: '2b66a73e-627c-489c-9462-b8d40fa022bb
-
-  Random word: cost
-
-  Scope: International
-
-  Severity: Catastrophic
-
-  Region: South America
-
-  Category: Health concern
-
-  Domain: Educational
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Health concern
+Domain: Educational
+Random word: cost
+Region: South America
+Scenario: c5387d3e-1a48-40f9-bdc4-2b4d5b5c42be
+Scope: International
+Severity: Catastrophic
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

@@ -1,19 +1,11 @@
-scenario: '888afbe0-d40f-4337-a5cf-e291e0e4c110
-
-  Random word: sun
-
-  Scope: Professional
-
-  Severity: Annoyance
-
-  Region: Subsaharan Africa
-
-  Category: Mundane issue
-
-  Domain: Physical
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Mundane issue
+Domain: Physical
+Random word: sun
+Region: Subsaharan Africa
+Scenario: 1f5cbd1a-789f-4b86-a84c-44954621f53f
+Scope: Professional
+Severity: Annoyance
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

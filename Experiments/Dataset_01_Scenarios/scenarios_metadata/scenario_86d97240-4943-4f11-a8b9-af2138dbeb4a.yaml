@@ -1,18 +1,10 @@
-scenario: 'a1984238-d990-4c3e-aa47-847661dd6027
-
-  Random word: obligation
-
-  Scope: Global
-
-  Severity: Irreversible
-
-  Region: South Asia
-
-  Category: Ethical dilemma
-
-  Domain: Legal
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Ethical dilemma
+Domain: Legal
+Random word: obligation
+Region: South Asia
+Scenario: 86d97240-4943-4f11-a8b9-af2138dbeb4a
+Scope: Global
+Severity: Irreversible
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

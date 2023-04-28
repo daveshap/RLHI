@@ -1,18 +1,10 @@
-scenario: '54afb071-2507-4e7f-9138-70fb5aba4daa
-
-  Random word: controversial
-
-  Scope: Chosen Family
-
-  Severity: Irreversible
-
-  Region: North America
-
-  Category: Conflict or Violence
-
-  Domain: Emotional
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Conflict or Violence
+Domain: Emotional
+Random word: controversial
+Region: North America
+Scenario: 364a8727-d12c-4813-aa88-1047fe596438
+Scope: Chosen Family
+Severity: Irreversible
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

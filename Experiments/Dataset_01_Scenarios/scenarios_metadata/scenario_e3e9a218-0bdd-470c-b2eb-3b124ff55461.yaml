@@ -1,19 +1,11 @@
-scenario: 'c76bda88-8d93-4ab5-be53-653d2a07409d
-
-  Random word: anyone
-
-  Scope: City or Village
-
-  Severity: Serious
-
-  Region: South Pacific
-
-  Category: Conflict or Violence
-
-  Domain: Physical
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Conflict or Violence
+Domain: Physical
+Random word: anyone
+Region: South Pacific
+Scenario: e3e9a218-0bdd-470c-b2eb-3b124ff55461
+Scope: City or Village
+Severity: Serious
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

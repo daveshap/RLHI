@@ -1,18 +1,10 @@
-scenario: 'be7bd269-ee75-49d5-a161-86652c78f66b
-
-  Random word: spot
-
-  Scope: National or Federal
-
-  Severity: Long-lasting
-
-  Region: South Pacific
-
-  Category: Social challenge
-
-  Domain: Scientific
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Social challenge
+Domain: Scientific
+Random word: spot
+Region: South Pacific
+Scenario: 5da7f20e-b6b2-4808-8970-a35fc5649c86
+Scope: National or Federal
+Severity: Long-lasting
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

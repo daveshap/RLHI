@@ -1,19 +1,11 @@
-scenario: 'e34fd50b-362d-4953-8cea-6f88cfea90e5
-
-  Random word: bird
-
-  Scope: City or Village
-
-  Severity: Ordinary
-
-  Region: North America
-
-  Category: Health concern
-
-  Domain: Scientific
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Health concern
+Domain: Scientific
+Random word: bird
+Region: North America
+Scenario: 049791ba-574e-47ac-961f-247202868370
+Scope: City or Village
+Severity: Ordinary
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

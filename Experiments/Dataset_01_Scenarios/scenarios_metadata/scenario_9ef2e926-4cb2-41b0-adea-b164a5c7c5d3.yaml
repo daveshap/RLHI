@@ -1,19 +1,11 @@
-scenario: '2e701c9c-9873-48a6-9c0e-5567688771f0
-
-  Random word: photographer
-
-  Scope: Cosmic or Universal
-
-  Severity: Insignificant
-
-  Region: North Africa
-
-  Category: Conflict or Violence
-
-  Domain: Emotional
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Conflict or Violence
+Domain: Emotional
+Random word: photographer
+Region: North Africa
+Scenario: 9ef2e926-4cb2-41b0-adea-b164a5c7c5d3
+Scope: Cosmic or Universal
+Severity: Insignificant
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,19 +1,11 @@
-scenario: '5fb9e76e-e672-4ac8-b4d7-1ad50aa5314c
-
-  Random word: welcome
-
-  Scope: Extended Family
-
-  Severity: Ordinary
-
-  Region: Asia
-
-  Category: Natural disaster
-
-  Domain: Legal
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Natural disaster
+Domain: Legal
+Random word: welcome
+Region: Asia
+Scenario: 8e28ac57-61fa-4150-a5de-4a7a03ae71f5
+Scope: Extended Family
+Severity: Ordinary
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

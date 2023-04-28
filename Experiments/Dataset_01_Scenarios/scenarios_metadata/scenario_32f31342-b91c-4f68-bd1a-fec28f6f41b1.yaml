@@ -1,19 +1,11 @@
-scenario: '57e21330-fc09-4180-890f-703df22bb24f
-
-  Random word: sick
-
-  Scope: Intergalactic
-
-  Severity: Ordinary
-
-  Region: Middle East
-
-  Category: Conflict or Violence
-
-  Domain: Legal
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Conflict or Violence
+Domain: Legal
+Random word: sick
+Region: Middle East
+Scenario: 32f31342-b91c-4f68-bd1a-fec28f6f41b1
+Scope: Intergalactic
+Severity: Ordinary
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

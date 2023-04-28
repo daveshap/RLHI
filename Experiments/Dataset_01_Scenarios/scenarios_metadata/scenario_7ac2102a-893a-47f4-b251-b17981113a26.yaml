@@ -1,19 +1,11 @@
-scenario: '6c40f2d7-516f-43bc-ba7e-16ed292d0099
-
-  Random word: ready
-
-  Scope: Professional
-
-  Severity: Ordinary
-
-  Region: Eurasia
-
-  Category: Disagreement or Argument
-
-  Domain: Intellectual
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Disagreement or Argument
+Domain: Intellectual
+Random word: ready
+Region: Eurasia
+Scenario: 7ac2102a-893a-47f4-b251-b17981113a26
+Scope: Professional
+Severity: Ordinary
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

@@ -1,19 +1,11 @@
-scenario: 'f1fc8378-e35a-43b0-8802-2632797c2dda
-
-  Random word: variable
-
-  Scope: Extended Family
-
-  Severity: Life-threatening
-
-  Region: Middle East
-
-  Category: Social challenge
-
-  Domain: Philosophical
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Social challenge
+Domain: Philosophical
+Random word: variable
+Region: Middle East
+Scenario: 97e63163-68b8-4305-943f-b8e3376c1fd6
+Scope: Extended Family
+Severity: Life-threatening
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

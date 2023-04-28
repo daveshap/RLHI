@@ -1,19 +1,11 @@
-scenario: '471f12da-7086-4ce3-be6b-4f9364febb1a
-
-  Random word: body
-
-  Scope: Interstellar
-
-  Severity: Annoyance
-
-  Region: South America
-
-  Category: Financial crisis
-
-  Domain: Scientific
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Financial crisis
+Domain: Scientific
+Random word: body
+Region: South America
+Scenario: 1af1b6f8-b090-4bdb-a3d8-a4a13200c414
+Scope: Interstellar
+Severity: Annoyance
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

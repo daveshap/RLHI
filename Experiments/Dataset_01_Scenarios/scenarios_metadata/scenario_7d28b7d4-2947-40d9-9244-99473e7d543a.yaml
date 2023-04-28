@@ -1,19 +1,11 @@
-scenario: '3fb64c93-e23a-4872-ae4b-beff5d360a02
-
-  Random word: butter
-
-  Scope: Nuclear Family
-
-  Severity: Typical
-
-  Region: Europe
-
-  Category: Social challenge
-
-  Domain: Emotional
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Social challenge
+Domain: Emotional
+Random word: butter
+Region: Europe
+Scenario: 7d28b7d4-2947-40d9-9244-99473e7d543a
+Scope: Nuclear Family
+Severity: Typical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

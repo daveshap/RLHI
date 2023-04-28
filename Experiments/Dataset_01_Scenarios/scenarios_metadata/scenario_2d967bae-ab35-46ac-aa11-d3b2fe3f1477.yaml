@@ -1,19 +1,11 @@
-scenario: '560d6e9a-1080-4e9c-9bc7-5eaa546abefb
-
-  Random word: soon
-
-  Scope: City or Village
-
-  Severity: Typical
-
-  Region: North Africa
-
-  Category: Natural disaster
-
-  Domain: Cultural
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Natural disaster
+Domain: Cultural
+Random word: soon
+Region: North Africa
+Scenario: 2d967bae-ab35-46ac-aa11-d3b2fe3f1477
+Scope: City or Village
+Severity: Typical
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

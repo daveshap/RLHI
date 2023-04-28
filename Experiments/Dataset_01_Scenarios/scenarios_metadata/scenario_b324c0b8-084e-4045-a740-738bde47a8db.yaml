@@ -1,18 +1,10 @@
-scenario: '992708a6-f3c5-40a0-979e-24b49460d737
-
-  Random word: nurse
-
-  Scope: Nuclear Family
-
-  Severity: Annoyance
-
-  Region: South America
-
-  Category: Environmental issue
-
-  Domain: Educational
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Environmental issue
+Domain: Educational
+Random word: nurse
+Region: South America
+Scenario: b324c0b8-084e-4045-a740-738bde47a8db
+Scope: Nuclear Family
+Severity: Annoyance
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

@@ -1,18 +1,10 @@
-scenario: 'b569b158-25a9-42cc-a2b9-441d4df840a6
-
-  Random word: moon
-
-  Scope: Interstellar
-
-  Severity: Typical
-
-  Region: Pacific
-
-  Category: Financial crisis
-
-  Domain: Legal
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Financial crisis
+Domain: Legal
+Random word: moon
+Region: Pacific
+Scenario: 0ba360f5-978a-47c4-97ff-69b216809bc9
+Scope: Interstellar
+Severity: Typical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

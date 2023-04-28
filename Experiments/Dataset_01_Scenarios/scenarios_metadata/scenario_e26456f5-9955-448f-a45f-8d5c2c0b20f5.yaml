@@ -1,19 +1,11 @@
-scenario: '15407caf-b08c-483f-aa93-f6c6f2a432d4
-
-  Random word: thus
-
-  Scope: Local community or Neighborhood
-
-  Severity: Dangerous
-
-  Region: North Africa
-
-  Category: Environmental issue
-
-  Domain: Educational
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Environmental issue
+Domain: Educational
+Random word: thus
+Region: North Africa
+Scenario: e26456f5-9955-448f-a45f-8d5c2c0b20f5
+Scope: Local community or Neighborhood
+Severity: Dangerous
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

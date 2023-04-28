@@ -1,19 +1,11 @@
-scenario: 'b6b89e0e-57ed-4668-aaa8-892b09a3b68c
-
-  Random word: widespread
-
-  Scope: Nuclear Family
-
-  Severity: Annoyance
-
-  Region: South Pacific
-
-  Category: Environmental issue
-
-  Domain: Political
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Environmental issue
+Domain: Political
+Random word: widespread
+Region: South Pacific
+Scenario: e0cfae02-1c9f-44d3-90bc-27cfc6c9d058
+Scope: Nuclear Family
+Severity: Annoyance
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

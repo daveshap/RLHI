@@ -1,19 +1,11 @@
-scenario: 'b844606d-1ee4-4975-ad61-7cbf1db319ad
-
-  Random word: peace
-
-  Scope: Nuclear Family
-
-  Severity: Critical
-
-  Region: Asia
-
-  Category: Disagreement or Argument
-
-  Domain: Political
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Disagreement or Argument
+Domain: Political
+Random word: peace
+Region: Asia
+Scenario: 7aeb976b-564b-4a02-9f5d-0c805439d20a
+Scope: Nuclear Family
+Severity: Critical
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

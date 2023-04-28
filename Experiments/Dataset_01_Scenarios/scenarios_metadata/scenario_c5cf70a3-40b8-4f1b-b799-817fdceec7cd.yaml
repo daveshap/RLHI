@@ -1,19 +1,11 @@
-scenario: '96c80356-b32e-429e-baba-0fffa8ccc906
-
-  Random word: portrait
-
-  Scope: National or Federal
-
-  Severity: Typical
-
-  Region: North America
-
-  Category: Conflict or Violence
-
-  Domain: Emotional
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Conflict or Violence
+Domain: Emotional
+Random word: portrait
+Region: North America
+Scenario: c5cf70a3-40b8-4f1b-b799-817fdceec7cd
+Scope: National or Federal
+Severity: Typical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

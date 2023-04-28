@@ -1,19 +1,11 @@
-scenario: '897727bf-2c9e-4b57-90ac-ebc748c72a74
-
-  Random word: storm
-
-  Scope: Local community or Neighborhood
-
-  Severity: Disruptive
-
-  Region: South Asia
-
-  Category: Financial crisis
-
-  Domain: Technological
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Financial crisis
+Domain: Technological
+Random word: storm
+Region: South Asia
+Scenario: c6e3da63-46dd-42cc-84aa-f164d70e1387
+Scope: Local community or Neighborhood
+Severity: Disruptive
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

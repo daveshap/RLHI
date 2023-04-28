@@ -1,19 +1,11 @@
-scenario: '61546a7a-e8d9-4315-925b-c2c2bc859a32
-
-  Random word: small
-
-  Scope: Interpersonal
-
-  Severity: Serious
-
-  Region: Subsaharan Africa
-
-  Category: Natural disaster
-
-  Domain: Cultural
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Natural disaster
+Domain: Cultural
+Random word: small
+Region: Subsaharan Africa
+Scenario: dff67455-95f2-4b38-891f-564f9f4c050d
+Scope: Interpersonal
+Severity: Serious
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

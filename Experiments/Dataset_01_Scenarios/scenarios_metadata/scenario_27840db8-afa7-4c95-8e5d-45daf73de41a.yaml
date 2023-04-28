@@ -1,19 +1,11 @@
-scenario: '9e4380ff-6b8b-4b52-ae53-76e098e89d05
-
-  Random word: abortion
-
-  Scope: Local community or Neighborhood
-
-  Severity: Dangerous
-
-  Region: Pacific
-
-  Category: Ethical dilemma
-
-  Domain: Social
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Ethical dilemma
+Domain: Social
+Random word: abortion
+Region: Pacific
+Scenario: 27840db8-afa7-4c95-8e5d-45daf73de41a
+Scope: Local community or Neighborhood
+Severity: Dangerous
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

@@ -1,19 +1,11 @@
-scenario: '3eeb0fdd-f2fa-4653-b82b-359e3d10230a
-
-  Random word: identify
-
-  Scope: Online
-
-  Severity: Insignificant
-
-  Region: Europe
-
-  Category: Political unrest
-
-  Domain: Legal
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Political unrest
+Domain: Legal
+Random word: identify
+Region: Europe
+Scenario: 936129f3-60c0-4e4f-a172-e3d22651bd1c
+Scope: Online
+Severity: Insignificant
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

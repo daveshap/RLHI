@@ -1,19 +1,11 @@
-scenario: '8a8ab726-ae7c-4a5d-87ab-b72f75a42cf7
-
-  Random word: describe
-
-  Scope: Local community or Neighborhood
-
-  Severity: Insignificant
-
-  Region: North Africa
-
-  Category: Natural disaster
-
-  Domain: Social
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Natural disaster
+Domain: Social
+Random word: describe
+Region: North Africa
+Scenario: f0fa33fc-196c-410f-932e-8b979e8e2ff2
+Scope: Local community or Neighborhood
+Severity: Insignificant
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

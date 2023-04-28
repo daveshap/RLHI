@@ -1,18 +1,10 @@
-scenario: '3bb4ba29-a599-44ac-8ab1-33d94e0ca84d
-
-  Random word: Democrat
-
-  Scope: Interpersonal
-
-  Severity: Annoyance
-
-  Region: South Asia
-
-  Category: Health concern
-
-  Domain: Scientific
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Health concern
+Domain: Scientific
+Random word: Democrat
+Region: South Asia
+Scenario: 842bc747-4ad7-4465-a0eb-6d6604253abf
+Scope: Interpersonal
+Severity: Annoyance
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

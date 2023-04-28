@@ -1,18 +1,10 @@
-scenario: 'c76fe2fc-1ee7-4aff-8b62-162ae52dc55c
-
-  Random word: orange
-
-  Scope: Regional or Statewide
-
-  Severity: Annoyance
-
-  Region: Asia
-
-  Category: Political unrest
-
-  Domain: Political
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Political unrest
+Domain: Political
+Random word: orange
+Region: Asia
+Scenario: 7406b3d0-49c0-48d6-ba21-183d1e2f3325
+Scope: Regional or Statewide
+Severity: Annoyance
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

@@ -1,19 +1,11 @@
-scenario: 'bd8dee7d-05f5-4de4-8046-8f9eb206e278
-
-  Random word: follow
-
-  Scope: Local community or Neighborhood
-
-  Severity: Critical
-
-  Region: Eurasia
-
-  Category: Financial crisis
-
-  Domain: Economic
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Financial crisis
+Domain: Economic
+Random word: follow
+Region: Eurasia
+Scenario: f31186be-da29-4414-b864-c7d2f95dc67b
+Scope: Local community or Neighborhood
+Severity: Critical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

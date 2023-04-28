@@ -1,19 +1,11 @@
-scenario: '26eb7423-6742-466e-be4c-e5ae38105347
-
-  Random word: son
-
-  Scope: International
-
-  Severity: Dangerous
-
-  Region: South Asia
-
-  Category: Social challenge
-
-  Domain: Technological
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Social challenge
+Domain: Technological
+Random word: son
+Region: South Asia
+Scenario: cb77d80e-9883-4b2e-b4f5-356ac9e1f11a
+Scope: International
+Severity: Dangerous
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

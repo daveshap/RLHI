@@ -1,18 +1,10 @@
-scenario: '890deb8e-4718-44ec-9312-92d825224062
-
-  Random word: barrier
-
-  Scope: Cosmic or Universal
-
-  Severity: Life-threatening
-
-  Region: North America
-
-  Category: Accident or Incident
-
-  Domain: Technological
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Accident or Incident
+Domain: Technological
+Random word: barrier
+Region: North America
+Scenario: f61f4a20-a9fe-4b0b-ae2d-a6e9a0dfa9ec
+Scope: Cosmic or Universal
+Severity: Life-threatening
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

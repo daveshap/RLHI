@@ -1,19 +1,11 @@
-scenario: '642153e5-10c1-41e1-ae2b-aaa259f7a7e7
-
-  Random word: negotiate
-
-  Scope: Interpersonal
-
-  Severity: Disruptive
-
-  Region: Subsaharan Africa
-
-  Category: Natural disaster
-
-  Domain: Political
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Natural disaster
+Domain: Political
+Random word: negotiate
+Region: Subsaharan Africa
+Scenario: 12e1afc6-28e8-4d19-987d-2da365310ce5
+Scope: Interpersonal
+Severity: Disruptive
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

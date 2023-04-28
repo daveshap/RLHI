@@ -1,19 +1,11 @@
-scenario: '65ce3893-94d2-4312-b746-71e885163d02
-
-  Random word: correspondent
-
-  Scope: Regional or Statewide
-
-  Severity: Long-lasting
-
-  Region: South Pacific
-
-  Category: Ethical dilemma
-
-  Domain: Spiritual or Religious
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Ethical dilemma
+Domain: Spiritual or Religious
+Random word: correspondent
+Region: South Pacific
+Scenario: 7403fdbf-3f6e-4a70-849c-5da54db112f5
+Scope: Regional or Statewide
+Severity: Long-lasting
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

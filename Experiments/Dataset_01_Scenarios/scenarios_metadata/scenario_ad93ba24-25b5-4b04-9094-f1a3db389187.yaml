@@ -1,19 +1,11 @@
-scenario: 'fa72a0ec-05b3-4f3e-97a3-65f2ee838a98
-
-  Random word: perform
-
-  Scope: Online
-
-  Severity: Ordinary
-
-  Region: South Asia
-
-  Category: Natural disaster
-
-  Domain: Social
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Natural disaster
+Domain: Social
+Random word: perform
+Region: South Asia
+Scenario: ad93ba24-25b5-4b04-9094-f1a3db389187
+Scope: Online
+Severity: Ordinary
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

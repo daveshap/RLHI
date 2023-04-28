@@ -1,19 +1,11 @@
-scenario: '40788de7-24fc-45cc-9f89-1a541549ba45
-
-  Random word: psychological
-
-  Scope: National or Federal
-
-  Severity: Catastrophic
-
-  Region: North Africa
-
-  Category: Political unrest
-
-  Domain: Educational
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Political unrest
+Domain: Educational
+Random word: psychological
+Region: North Africa
+Scenario: 64369e05-5d22-48ec-ad5d-808120ab9a44
+Scope: National or Federal
+Severity: Catastrophic
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

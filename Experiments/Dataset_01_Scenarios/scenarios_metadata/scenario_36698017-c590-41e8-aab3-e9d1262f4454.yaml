@@ -1,18 +1,10 @@
-scenario: '1580fef9-0e63-4e44-83fc-47dad11a69a4
-
-  Random word: captain
-
-  Scope: Intergalactic
-
-  Severity: Dangerous
-
-  Region: Pacific
-
-  Category: Financial crisis
-
-  Domain: Philosophical
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Financial crisis
+Domain: Philosophical
+Random word: captain
+Region: Pacific
+Scenario: 36698017-c590-41e8-aab3-e9d1262f4454
+Scope: Intergalactic
+Severity: Dangerous
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

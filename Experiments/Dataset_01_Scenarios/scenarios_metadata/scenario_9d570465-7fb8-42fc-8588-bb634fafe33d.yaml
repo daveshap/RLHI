@@ -1,19 +1,11 @@
-scenario: '7b3bcc23-6436-4cd6-9f17-f719fe25cf08
-
-  Random word: anniversary
-
-  Scope: Professional
-
-  Severity: Serious
-
-  Region: Middle East
-
-  Category: Accident or Incident
-
-  Domain: Scientific
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Accident or Incident
+Domain: Scientific
+Random word: anniversary
+Region: Middle East
+Scenario: 9d570465-7fb8-42fc-8588-bb634fafe33d
+Scope: Professional
+Severity: Serious
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

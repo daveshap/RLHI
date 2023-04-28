@@ -1,19 +1,11 @@
-scenario: '1550a072-655b-4f01-a871-4a332d7bd113
-
-  Random word: economist
-
-  Scope: Nuclear Family
-
-  Severity: Typical
-
-  Region: South Asia
-
-  Category: Disagreement or Argument
-
-  Domain: Scientific
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Disagreement or Argument
+Domain: Scientific
+Random word: economist
+Region: South Asia
+Scenario: d83eba24-325e-462a-b8ff-e31d4a813494
+Scope: Nuclear Family
+Severity: Typical
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

@@ -1,19 +1,11 @@
-scenario: '8cc75ee3-a117-4787-88b6-d35cc7dbced2
-
-  Random word: patch
-
-  Scope: Personal or Individual
-
-  Severity: Life-threatening
-
-  Region: South Pacific
-
-  Category: Financial crisis
-
-  Domain: Philosophical
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Financial crisis
+Domain: Philosophical
+Random word: patch
+Region: South Pacific
+Scenario: b93c02e5-6e82-40be-86b6-5076077acc3a
+Scope: Personal or Individual
+Severity: Life-threatening
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

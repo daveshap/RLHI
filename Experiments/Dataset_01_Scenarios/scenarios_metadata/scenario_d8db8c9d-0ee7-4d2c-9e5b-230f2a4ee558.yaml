@@ -1,19 +1,11 @@
-scenario: '1592eec5-c0d7-4224-9f4b-8966a8b7d8a5
-
-  Random word: commit
-
-  Scope: Regional or Statewide
-
-  Severity: Disruptive
-
-  Region: Pacific
-
-  Category: Political unrest
-
-  Domain: Environmental
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Political unrest
+Domain: Environmental
+Random word: commit
+Region: Pacific
+Scenario: d8db8c9d-0ee7-4d2c-9e5b-230f2a4ee558
+Scope: Regional or Statewide
+Severity: Disruptive
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

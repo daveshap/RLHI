@@ -1,19 +1,11 @@
-scenario: 'e74881a4-af91-4306-950c-114bf18f746d
-
-  Random word: ski
-
-  Scope: International
-
-  Severity: Insignificant
-
-  Region: Europe
-
-  Category: Conflict or Violence
-
-  Domain: Spiritual or Religious
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Conflict or Violence
+Domain: Spiritual or Religious
+Random word: ski
+Region: Europe
+Scenario: 8fba823a-3b40-4bcb-84c1-3ffa72d2a731
+Scope: International
+Severity: Insignificant
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,19 +1,11 @@
-scenario: 'b2c6d8f5-376a-45b4-a41c-c17f415daff0
-
-  Random word: system
-
-  Scope: Personal or Individual
-
-  Severity: Serious
-
-  Region: Subsaharan Africa
-
-  Category: Political unrest
-
-  Domain: Emotional
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Political unrest
+Domain: Emotional
+Random word: system
+Region: Subsaharan Africa
+Scenario: 9b2e6ef6-7a46-42b4-8302-3dc49ee7c062
+Scope: Personal or Individual
+Severity: Serious
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

@@ -1,19 +1,11 @@
-scenario: '5c344aa7-2fc2-45de-bb04-6acc8e69c6ad
-
-  Random word: adopt
-
-  Scope: Global
-
-  Severity: Insignificant
-
-  Region: South Pacific
-
-  Category: Ethical dilemma
-
-  Domain: Emotional
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Ethical dilemma
+Domain: Emotional
+Random word: adopt
+Region: South Pacific
+Scenario: ad23d19f-7a80-41fb-a882-5f2c0d0e9a80
+Scope: Global
+Severity: Insignificant
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

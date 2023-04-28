@@ -1,19 +1,11 @@
-scenario: 'c4b7f6db-bbac-4357-9555-b0391ccbc05c
-
-  Random word: raw
-
-  Scope: Interstellar
-
-  Severity: Disruptive
-
-  Region: Eurasia
-
-  Category: Technological failure
-
-  Domain: Technological
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Technological failure
+Domain: Technological
+Random word: raw
+Region: Eurasia
+Scenario: 9e5724a4-c88b-4e47-828d-a53b19f32fc6
+Scope: Interstellar
+Severity: Disruptive
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

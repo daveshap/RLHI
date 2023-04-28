@@ -1,19 +1,11 @@
-scenario: '38947be1-3951-4f8d-b675-6dcc1d4a48d0
-
-  Random word: shop
-
-  Scope: Continental
-
-  Severity: Life-threatening
-
-  Region: South Asia
-
-  Category: Health concern
-
-  Domain: Emotional
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Health concern
+Domain: Emotional
+Random word: shop
+Region: South Asia
+Scenario: ef2bf7f2-f440-4a88-9e43-97fb16cecdd5
+Scope: Continental
+Severity: Life-threatening
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

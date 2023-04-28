@@ -1,19 +1,11 @@
-scenario: '071496f8-90bc-4206-b07b-bcc067c6f5f1
-
-  Random word: activist
-
-  Scope: Intergalactic
-
-  Severity: Critical
-
-  Region: South Pacific
-
-  Category: Technological failure
-
-  Domain: Cultural
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Technological failure
+Domain: Cultural
+Random word: activist
+Region: South Pacific
+Scenario: 246c47ff-1e0e-443b-be82-028112599055
+Scope: Intergalactic
+Severity: Critical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

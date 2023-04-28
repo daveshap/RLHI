@@ -1,19 +1,11 @@
-scenario: '23b86b92-bb4f-4de8-935a-61d65bedf800
-
-  Random word: incentive
-
-  Scope: Local community or Neighborhood
-
-  Severity: Dangerous
-
-  Region: Subsaharan Africa
-
-  Category: AI Control Problem
-
-  Domain: Political
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: AI Control Problem
+Domain: Political
+Random word: incentive
+Region: Subsaharan Africa
+Scenario: 2f6be112-dc3d-490e-8f11-e434424ffa0f
+Scope: Local community or Neighborhood
+Severity: Dangerous
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

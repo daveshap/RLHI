@@ -1,19 +1,11 @@
-scenario: '3ebf102d-4fab-433b-a0b2-515d2f606533
-
-  Random word: somewhat
-
-  Scope: Chosen Family
-
-  Severity: Dangerous
-
-  Region: Pacific
-
-  Category: Social challenge
-
-  Domain: Educational
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Social challenge
+Domain: Educational
+Random word: somewhat
+Region: Pacific
+Scenario: 14687936-79f4-4a75-9d73-2c9718a5c1f0
+Scope: Chosen Family
+Severity: Dangerous
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

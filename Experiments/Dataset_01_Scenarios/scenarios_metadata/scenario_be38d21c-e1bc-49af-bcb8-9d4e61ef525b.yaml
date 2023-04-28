@@ -1,19 +1,11 @@
-scenario: '5f03e745-89d7-4ea2-b01c-18c81c608cc0
-
-  Random word: expose
-
-  Scope: Nuclear Family
-
-  Severity: Life-threatening
-
-  Region: South Pacific
-
-  Category: Ethical dilemma
-
-  Domain: Educational
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Ethical dilemma
+Domain: Educational
+Random word: expose
+Region: South Pacific
+Scenario: be38d21c-e1bc-49af-bcb8-9d4e61ef525b
+Scope: Nuclear Family
+Severity: Life-threatening
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,18 +1,10 @@
-scenario: '4b12116d-8672-4f8c-8579-9db39b2ae20b
-
-  Random word: great
-
-  Scope: Interstellar
-
-  Severity: Typical
-
-  Region: Middle East
-
-  Category: Mundane issue
-
-  Domain: Physical
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Mundane issue
+Domain: Physical
+Random word: great
+Region: Middle East
+Scenario: 14b0976d-4753-40a9-95a1-029e70783e10
+Scope: Interstellar
+Severity: Typical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

@@ -1,19 +1,11 @@
-scenario: 'ef702e59-2648-45f7-bf77-b20b04cbe5bf
-
-  Random word: look
-
-  Scope: Local community or Neighborhood
-
-  Severity: Annoyance
-
-  Region: North Africa
-
-  Category: Health concern
-
-  Domain: Environmental
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Health concern
+Domain: Environmental
+Random word: look
+Region: North Africa
+Scenario: 0995bc0e-eaf2-4c48-9088-977473e42a84
+Scope: Local community or Neighborhood
+Severity: Annoyance
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

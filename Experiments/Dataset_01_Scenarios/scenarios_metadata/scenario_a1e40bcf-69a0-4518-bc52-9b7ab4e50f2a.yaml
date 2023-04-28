@@ -1,19 +1,11 @@
-scenario: '38c35e7a-c735-4454-b253-5f2430472704
-
-  Random word: ski
-
-  Scope: International
-
-  Severity: Critical
-
-  Region: South Asia
-
-  Category: Technological failure
-
-  Domain: Spiritual or Religious
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Technological failure
+Domain: Spiritual or Religious
+Random word: ski
+Region: South Asia
+Scenario: a1e40bcf-69a0-4518-bc52-9b7ab4e50f2a
+Scope: International
+Severity: Critical
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

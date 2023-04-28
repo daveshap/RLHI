@@ -1,19 +1,11 @@
-scenario: '3f75b3d9-184a-424e-a642-c6c6f6d915c3
-
-  Random word: male
-
-  Scope: Global
-
-  Severity: Disruptive
-
-  Region: Subsaharan Africa
-
-  Category: Environmental issue
-
-  Domain: Legal
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Environmental issue
+Domain: Legal
+Random word: male
+Region: Subsaharan Africa
+Scenario: 0bb53ade-34e7-44d4-bfdd-c8fee21bba58
+Scope: Global
+Severity: Disruptive
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

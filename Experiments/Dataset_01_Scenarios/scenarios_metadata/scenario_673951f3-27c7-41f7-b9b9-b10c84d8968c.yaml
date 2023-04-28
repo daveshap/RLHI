@@ -1,19 +1,11 @@
-scenario: '2e7af7cb-d6a0-4bd9-bbab-7981b09ee16d
-
-  Random word: principle
-
-  Scope: Interpersonal
-
-  Severity: Insignificant
-
-  Region: Asia
-
-  Category: Conflict or Violence
-
-  Domain: Legal
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Conflict or Violence
+Domain: Legal
+Random word: principle
+Region: Asia
+Scenario: 673951f3-27c7-41f7-b9b9-b10c84d8968c
+Scope: Interpersonal
+Severity: Insignificant
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

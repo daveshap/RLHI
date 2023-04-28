@@ -1,19 +1,11 @@
-scenario: 'd420e714-2825-4688-bf18-4079e529d104
-
-  Random word: blue
-
-  Scope: Chosen Family
-
-  Severity: Irreversible
-
-  Region: Asia
-
-  Category: AI Control Problem
-
-  Domain: Scientific
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: AI Control Problem
+Domain: Scientific
+Random word: blue
+Region: Asia
+Scenario: 55865212-6162-43c0-9d9d-85306cafb2ec
+Scope: Chosen Family
+Severity: Irreversible
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,19 +1,11 @@
-scenario: '4442f1e5-1db8-4965-989e-ffb8353229d0
-
-  Random word: feature
-
-  Scope: Cosmic or Universal
-
-  Severity: Catastrophic
-
-  Region: South Pacific
-
-  Category: Health concern
-
-  Domain: Philosophical
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Health concern
+Domain: Philosophical
+Random word: feature
+Region: South Pacific
+Scenario: 8c6f569b-1dc2-4102-bd88-f311ab5202a9
+Scope: Cosmic or Universal
+Severity: Catastrophic
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

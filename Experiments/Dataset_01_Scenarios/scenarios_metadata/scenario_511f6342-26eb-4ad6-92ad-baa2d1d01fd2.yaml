@@ -1,18 +1,10 @@
-scenario: '71928fdd-f6a9-4bc8-b97a-0d1317088640
-
-  Random word: craft
-
-  Scope: Extended Family
-
-  Severity: Irreversible
-
-  Region: Pacific
-
-  Category: Ethical dilemma
-
-  Domain: Physical
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Ethical dilemma
+Domain: Physical
+Random word: craft
+Region: Pacific
+Scenario: 511f6342-26eb-4ad6-92ad-baa2d1d01fd2
+Scope: Extended Family
+Severity: Irreversible
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

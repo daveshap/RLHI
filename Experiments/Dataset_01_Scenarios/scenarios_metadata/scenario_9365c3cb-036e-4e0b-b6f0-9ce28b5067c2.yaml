@@ -1,18 +1,10 @@
-scenario: '7a1ffcbb-d114-416a-a6ee-46aedf19d22b
-
-  Random word: confidence
-
-  Scope: Professional
-
-  Severity: Irreversible
-
-  Region: Subsaharan Africa
-
-  Category: Technological failure
-
-  Domain: Political
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Technological failure
+Domain: Political
+Random word: confidence
+Region: Subsaharan Africa
+Scenario: 9365c3cb-036e-4e0b-b6f0-9ce28b5067c2
+Scope: Professional
+Severity: Irreversible
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

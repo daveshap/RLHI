@@ -1,19 +1,11 @@
-scenario: 'c13478fe-6546-4d11-9bce-0b0993a5a655
-
-  Random word: port
-
-  Scope: Personal or Individual
-
-  Severity: Ordinary
-
-  Region: Eurasia
-
-  Category: Natural disaster
-
-  Domain: Physical
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Natural disaster
+Domain: Physical
+Random word: port
+Region: Eurasia
+Scenario: f583b868-90a3-46eb-9515-0a175d832533
+Scope: Personal or Individual
+Severity: Ordinary
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

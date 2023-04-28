@@ -1,18 +1,10 @@
-scenario: '56dfb8bd-fc22-4f5a-a77e-19004e0e7055
-
-  Random word: language
-
-  Scope: Intergalactic
-
-  Severity: Disruptive
-
-  Region: South America
-
-  Category: Financial crisis
-
-  Domain: Educational
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Financial crisis
+Domain: Educational
+Random word: language
+Region: South America
+Scenario: 93a79d70-b317-417b-ac19-37125015bc7d
+Scope: Intergalactic
+Severity: Disruptive
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

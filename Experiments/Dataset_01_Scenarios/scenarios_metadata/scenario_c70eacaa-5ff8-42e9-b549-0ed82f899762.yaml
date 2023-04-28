@@ -1,19 +1,11 @@
-scenario: '5e04eacf-7748-4c95-982c-74c7b30b35a6
-
-  Random word: rely
-
-  Scope: Global
-
-  Severity: Ordinary
-
-  Region: South Asia
-
-  Category: Accident or Incident
-
-  Domain: Emotional
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Accident or Incident
+Domain: Emotional
+Random word: rely
+Region: South Asia
+Scenario: c70eacaa-5ff8-42e9-b549-0ed82f899762
+Scope: Global
+Severity: Ordinary
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

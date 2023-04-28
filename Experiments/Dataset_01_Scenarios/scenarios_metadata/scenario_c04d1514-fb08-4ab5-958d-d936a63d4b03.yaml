@@ -1,19 +1,11 @@
-scenario: '7e9a270d-daa9-4151-9668-9068d9e35844
-
-  Random word: diet
-
-  Scope: International
-
-  Severity: Serious
-
-  Region: Subsaharan Africa
-
-  Category: Technological failure
-
-  Domain: Environmental
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Technological failure
+Domain: Environmental
+Random word: diet
+Region: Subsaharan Africa
+Scenario: c04d1514-fb08-4ab5-958d-d936a63d4b03
+Scope: International
+Severity: Serious
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

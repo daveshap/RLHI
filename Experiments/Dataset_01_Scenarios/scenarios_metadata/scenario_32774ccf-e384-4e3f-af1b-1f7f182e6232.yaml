@@ -1,19 +1,11 @@
-scenario: '9421dc51-8c44-446d-bb36-d15b46facbd5
-
-  Random word: many
-
-  Scope: Professional
-
-  Severity: Critical
-
-  Region: Eurasia
-
-  Category: Health concern
-
-  Domain: Social
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Health concern
+Domain: Social
+Random word: many
+Region: Eurasia
+Scenario: 32774ccf-e384-4e3f-af1b-1f7f182e6232
+Scope: Professional
+Severity: Critical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

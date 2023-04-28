@@ -1,19 +1,11 @@
-scenario: '76394395-addd-4695-8b7c-eec14227d30f
-
-  Random word: color
-
-  Scope: Regional or Statewide
-
-  Severity: Long-lasting
-
-  Region: South Pacific
-
-  Category: Political unrest
-
-  Domain: Economic
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Political unrest
+Domain: Economic
+Random word: color
+Region: South Pacific
+Scenario: f9503565-b507-41ab-8212-204247edd6b2
+Scope: Regional or Statewide
+Severity: Long-lasting
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

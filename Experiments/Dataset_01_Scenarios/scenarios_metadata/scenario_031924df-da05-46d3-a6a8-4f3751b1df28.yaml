@@ -1,19 +1,11 @@
-scenario: '2d158f5a-01db-4cfa-a158-8ea3e81185e0
-
-  Random word: name
-
-  Scope: Regional or Statewide
-
-  Severity: Long-lasting
-
-  Region: Pacific
-
-  Category: Natural disaster
-
-  Domain: Legal
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Natural disaster
+Domain: Legal
+Random word: name
+Region: Pacific
+Scenario: 031924df-da05-46d3-a6a8-4f3751b1df28
+Scope: Regional or Statewide
+Severity: Long-lasting
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

@@ -1,19 +1,11 @@
-scenario: 'de9e95e1-66c8-4324-8edd-b3a39981aa1a
-
-  Random word: Muslim
-
-  Scope: International
-
-  Severity: Typical
-
-  Region: South Asia
-
-  Category: Natural disaster
-
-  Domain: Scientific
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Natural disaster
+Domain: Scientific
+Random word: Muslim
+Region: South Asia
+Scenario: 7d7f4cbd-bc58-4f9c-9dc3-4861e64eea42
+Scope: International
+Severity: Typical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

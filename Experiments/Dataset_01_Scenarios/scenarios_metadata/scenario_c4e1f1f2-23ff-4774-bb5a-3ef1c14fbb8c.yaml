@@ -1,19 +1,11 @@
-scenario: '04c477f0-abac-4f3d-9427-abc0a6b0b75a
-
-  Random word: bottle
-
-  Scope: Regional or Statewide
-
-  Severity: Typical
-
-  Region: South Pacific
-
-  Category: Health concern
-
-  Domain: Social
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Health concern
+Domain: Social
+Random word: bottle
+Region: South Pacific
+Scenario: c4e1f1f2-23ff-4774-bb5a-3ef1c14fbb8c
+Scope: Regional or Statewide
+Severity: Typical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

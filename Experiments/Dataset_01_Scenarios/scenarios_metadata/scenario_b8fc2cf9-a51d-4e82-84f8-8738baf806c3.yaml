@@ -1,18 +1,10 @@
-scenario: '3e789455-9ece-47f6-be7f-a6d1b92cdd84
-
-  Random word: wine
-
-  Scope: Continental
-
-  Severity: Critical
-
-  Region: North America
-
-  Category: Social challenge
-
-  Domain: Physical
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Social challenge
+Domain: Physical
+Random word: wine
+Region: North America
+Scenario: b8fc2cf9-a51d-4e82-84f8-8738baf806c3
+Scope: Continental
+Severity: Critical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

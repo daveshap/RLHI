@@ -1,19 +1,11 @@
-scenario: 'f429265a-b7e3-425a-8c66-c313195a9495
-
-  Random word: something
-
-  Scope: Continental
-
-  Severity: Disruptive
-
-  Region: Middle East
-
-  Category: Health concern
-
-  Domain: Educational
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Health concern
+Domain: Educational
+Random word: something
+Region: Middle East
+Scenario: fcb2c3e6-c6dd-422f-adf2-b6d2d185ceee
+Scope: Continental
+Severity: Disruptive
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

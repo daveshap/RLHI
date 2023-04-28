@@ -1,19 +1,11 @@
-scenario: 'd17cff28-6759-427b-9538-6588bfca2895
-
-  Random word: adjust
-
-  Scope: National or Federal
-
-  Severity: Catastrophic
-
-  Region: Eurasia
-
-  Category: AI Control Problem
-
-  Domain: Cultural
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: AI Control Problem
+Domain: Cultural
+Random word: adjust
+Region: Eurasia
+Scenario: c4dac0bc-a104-412a-b2c1-deef9161da9f
+Scope: National or Federal
+Severity: Catastrophic
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

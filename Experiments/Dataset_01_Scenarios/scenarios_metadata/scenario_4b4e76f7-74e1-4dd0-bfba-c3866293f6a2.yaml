@@ -1,19 +1,11 @@
-scenario: '4b8aecc9-5d16-445b-99e5-de9e95d41c9b
-
-  Random word: belt
-
-  Scope: Interstellar
-
-  Severity: Serious
-
-  Region: North Africa
-
-  Category: Environmental issue
-
-  Domain: Legal
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Environmental issue
+Domain: Legal
+Random word: belt
+Region: North Africa
+Scenario: 4b4e76f7-74e1-4dd0-bfba-c3866293f6a2
+Scope: Interstellar
+Severity: Serious
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

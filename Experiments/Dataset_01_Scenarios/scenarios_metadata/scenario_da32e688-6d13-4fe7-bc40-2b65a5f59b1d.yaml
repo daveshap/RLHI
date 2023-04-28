@@ -1,19 +1,11 @@
-scenario: 'e8c0d21c-c699-4c29-b376-55e473c02abf
-
-  Random word: either
-
-  Scope: National or Federal
-
-  Severity: Annoyance
-
-  Region: Middle East
-
-  Category: Technological failure
-
-  Domain: Physical
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Technological failure
+Domain: Physical
+Random word: either
+Region: Middle East
+Scenario: da32e688-6d13-4fe7-bc40-2b65a5f59b1d
+Scope: National or Federal
+Severity: Annoyance
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

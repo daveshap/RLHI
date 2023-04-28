@@ -1,19 +1,11 @@
-scenario: 'cdb29997-3ab2-4142-9ee8-a066d1086817
-
-  Random word: successful
-
-  Scope: City or Village
-
-  Severity: Critical
-
-  Region: Middle East
-
-  Category: Social challenge
-
-  Domain: Scientific
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Social challenge
+Domain: Scientific
+Random word: successful
+Region: Middle East
+Scenario: a6bade93-91fd-489f-869c-0c2fa574fb6f
+Scope: City or Village
+Severity: Critical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

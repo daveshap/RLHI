@@ -1,19 +1,11 @@
-scenario: 'ee35e58f-6d17-4afd-a159-5c60e5066f52
-
-  Random word: correct
-
-  Scope: Continental
-
-  Severity: Irreversible
-
-  Region: Subsaharan Africa
-
-  Category: Environmental issue
-
-  Domain: Cultural
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Environmental issue
+Domain: Cultural
+Random word: correct
+Region: Subsaharan Africa
+Scenario: f25b261a-f961-4f92-96b7-8c7221f79f0f
+Scope: Continental
+Severity: Irreversible
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

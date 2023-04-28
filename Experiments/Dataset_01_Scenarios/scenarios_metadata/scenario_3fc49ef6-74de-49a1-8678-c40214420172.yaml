@@ -1,19 +1,11 @@
-scenario: 'a56b4446-f713-42b3-847f-0f83a50f1e52
-
-  Random word: false
-
-  Scope: Chosen Family
-
-  Severity: Catastrophic
-
-  Region: Asia
-
-  Category: Environmental issue
-
-  Domain: Social
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Environmental issue
+Domain: Social
+Random word: false
+Region: Asia
+Scenario: 3fc49ef6-74de-49a1-8678-c40214420172
+Scope: Chosen Family
+Severity: Catastrophic
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

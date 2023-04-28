@@ -1,19 +1,11 @@
-scenario: '0ec08053-a5e4-406b-91db-4faec46f9766
-
-  Random word: coast
-
-  Scope: Intergalactic
-
-  Severity: Typical
-
-  Region: Europe
-
-  Category: Conflict or Violence
-
-  Domain: Economic
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Conflict or Violence
+Domain: Economic
+Random word: coast
+Region: Europe
+Scenario: a88b52e8-cf72-4a19-90fb-73fbc9a06e48
+Scope: Intergalactic
+Severity: Typical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

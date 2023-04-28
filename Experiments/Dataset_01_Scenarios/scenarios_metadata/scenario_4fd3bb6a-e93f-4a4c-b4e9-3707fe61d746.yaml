@@ -1,18 +1,10 @@
-scenario: '64f16522-9fef-406f-b995-ecf793275004
-
-  Random word: tooth
-
-  Scope: Nuclear Family
-
-  Severity: Catastrophic
-
-  Region: North America
-
-  Category: Technological failure
-
-  Domain: Philosophical
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Technological failure
+Domain: Philosophical
+Random word: tooth
+Region: North America
+Scenario: 4fd3bb6a-e93f-4a4c-b4e9-3707fe61d746
+Scope: Nuclear Family
+Severity: Catastrophic
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

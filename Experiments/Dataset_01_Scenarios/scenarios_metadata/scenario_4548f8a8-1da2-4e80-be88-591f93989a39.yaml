@@ -1,19 +1,11 @@
-scenario: 'd986fbe6-335c-48e6-aa83-2974371f13d4
-
-  Random word: emphasis
-
-  Scope: Global
-
-  Severity: Irreversible
-
-  Region: Europe
-
-  Category: Social challenge
-
-  Domain: Political
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Social challenge
+Domain: Political
+Random word: emphasis
+Region: Europe
+Scenario: 4548f8a8-1da2-4e80-be88-591f93989a39
+Scope: Global
+Severity: Irreversible
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

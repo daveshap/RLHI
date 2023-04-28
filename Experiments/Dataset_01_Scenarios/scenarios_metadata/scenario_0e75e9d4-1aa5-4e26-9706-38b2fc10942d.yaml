@@ -1,19 +1,11 @@
-scenario: '50201f60-0565-43f9-a9b8-c8a2d510915d
-
-  Random word: technology
-
-  Scope: Online
-
-  Severity: Life-threatening
-
-  Region: Europe
-
-  Category: Natural disaster
-
-  Domain: Environmental
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Natural disaster
+Domain: Environmental
+Random word: technology
+Region: Europe
+Scenario: 0e75e9d4-1aa5-4e26-9706-38b2fc10942d
+Scope: Online
+Severity: Life-threatening
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

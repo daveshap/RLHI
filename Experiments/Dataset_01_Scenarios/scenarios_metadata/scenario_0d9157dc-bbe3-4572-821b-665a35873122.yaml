@@ -1,19 +1,11 @@
-scenario: 'e6255f6e-d9be-495d-ae87-0f3936d454e2
-
-  Random word: depending
-
-  Scope: Extended Family
-
-  Severity: Catastrophic
-
-  Region: Asia
-
-  Category: AI Control Problem
-
-  Domain: Intellectual
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: AI Control Problem
+Domain: Intellectual
+Random word: depending
+Region: Asia
+Scenario: 0d9157dc-bbe3-4572-821b-665a35873122
+Scope: Extended Family
+Severity: Catastrophic
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

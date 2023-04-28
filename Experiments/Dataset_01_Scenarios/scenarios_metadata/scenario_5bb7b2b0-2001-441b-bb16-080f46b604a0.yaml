@@ -1,19 +1,11 @@
-scenario: 'af2241a7-fa21-4274-8029-20325c62646a
-
-  Random word: approximately
-
-  Scope: Extended Family
-
-  Severity: Critical
-
-  Region: Subsaharan Africa
-
-  Category: Conflict or Violence
-
-  Domain: Physical
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Conflict or Violence
+Domain: Physical
+Random word: approximately
+Region: Subsaharan Africa
+Scenario: 5bb7b2b0-2001-441b-bb16-080f46b604a0
+Scope: Extended Family
+Severity: Critical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

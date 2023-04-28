@@ -1,19 +1,11 @@
-scenario: 'dc8f3074-f08b-4498-8965-f234b4a97926
-
-  Random word: finish
-
-  Scope: Professional
-
-  Severity: Catastrophic
-
-  Region: North America
-
-  Category: Conflict or Violence
-
-  Domain: Cultural
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Conflict or Violence
+Domain: Cultural
+Random word: finish
+Region: North America
+Scenario: 3820a0ec-e3d0-497c-b06e-d0a2254f70ab
+Scope: Professional
+Severity: Catastrophic
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

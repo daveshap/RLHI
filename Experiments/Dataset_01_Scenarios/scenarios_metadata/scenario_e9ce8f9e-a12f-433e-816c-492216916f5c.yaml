@@ -1,19 +1,11 @@
-scenario: 'facc98f9-7032-49e7-aab4-6dc6b85baa37
-
-  Random word: everyone
-
-  Scope: City or Village
-
-  Severity: Critical
-
-  Region: Middle East
-
-  Category: Financial crisis
-
-  Domain: Cultural
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Financial crisis
+Domain: Cultural
+Random word: everyone
+Region: Middle East
+Scenario: e9ce8f9e-a12f-433e-816c-492216916f5c
+Scope: City or Village
+Severity: Critical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

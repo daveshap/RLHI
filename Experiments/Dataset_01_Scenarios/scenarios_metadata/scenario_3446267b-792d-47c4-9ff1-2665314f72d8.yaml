@@ -1,19 +1,11 @@
-scenario: 'fe6cd0e7-c6a5-4971-a2b9-b0d0363d2146
-
-  Random word: friendly
-
-  Scope: Extended Family
-
-  Severity: Disruptive
-
-  Region: Asia
-
-  Category: Health concern
-
-  Domain: Environmental
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Health concern
+Domain: Environmental
+Random word: friendly
+Region: Asia
+Scenario: 3446267b-792d-47c4-9ff1-2665314f72d8
+Scope: Extended Family
+Severity: Disruptive
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

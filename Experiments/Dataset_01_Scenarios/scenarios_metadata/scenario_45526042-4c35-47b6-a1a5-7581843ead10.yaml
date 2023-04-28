@@ -1,19 +1,11 @@
-scenario: '68a858c4-bf2c-4df8-bef5-651f9f7b0028
-
-  Random word: send
-
-  Scope: Global
-
-  Severity: Life-threatening
-
-  Region: Middle East
-
-  Category: AI Control Problem
-
-  Domain: Physical
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: AI Control Problem
+Domain: Physical
+Random word: send
+Region: Middle East
+Scenario: 45526042-4c35-47b6-a1a5-7581843ead10
+Scope: Global
+Severity: Life-threatening
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

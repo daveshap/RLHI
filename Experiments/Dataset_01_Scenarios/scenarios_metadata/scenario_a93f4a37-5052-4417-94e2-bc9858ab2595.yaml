@@ -1,19 +1,11 @@
-scenario: 'd1057479-c9dd-4c8d-9ce4-2d61d16da49e
-
-  Random word: universe
-
-  Scope: Chosen Family
-
-  Severity: Life-threatening
-
-  Region: Europe
-
-  Category: Mundane issue
-
-  Domain: Environmental
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Mundane issue
+Domain: Environmental
+Random word: universe
+Region: Europe
+Scenario: a93f4a37-5052-4417-94e2-bc9858ab2595
+Scope: Chosen Family
+Severity: Life-threatening
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

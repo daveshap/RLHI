@@ -1,19 +1,11 @@
-scenario: '205bea8b-2abb-4b21-af9d-b37a0e6cadd5
-
-  Random word: willing
-
-  Scope: Extended Family
-
-  Severity: Life-threatening
-
-  Region: Asia
-
-  Category: Conflict or Violence
-
-  Domain: Economic
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Conflict or Violence
+Domain: Economic
+Random word: willing
+Region: Asia
+Scenario: 02a7e801-d7b5-45dc-94ac-92868ddbd97f
+Scope: Extended Family
+Severity: Life-threatening
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

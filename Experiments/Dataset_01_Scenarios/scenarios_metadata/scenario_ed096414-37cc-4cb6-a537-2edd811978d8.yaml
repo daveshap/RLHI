@@ -1,19 +1,11 @@
-scenario: 'd120edd9-fb7e-438d-9237-88c654792583
-
-  Random word: tragedy
-
-  Scope: Regional or Statewide
-
-  Severity: Long-lasting
-
-  Region: North America
-
-  Category: Health concern
-
-  Domain: Technological
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Health concern
+Domain: Technological
+Random word: tragedy
+Region: North America
+Scenario: ed096414-37cc-4cb6-a537-2edd811978d8
+Scope: Regional or Statewide
+Severity: Long-lasting
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

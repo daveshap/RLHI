@@ -1,19 +1,11 @@
-scenario: 'f424cf04-dbc2-4a31-9583-2251c2662d7e
-
-  Random word: county
-
-  Scope: National or Federal
-
-  Severity: Dangerous
-
-  Region: Eurasia
-
-  Category: AI Control Problem
-
-  Domain: Cultural
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: AI Control Problem
+Domain: Cultural
+Random word: county
+Region: Eurasia
+Scenario: 0a3db74a-a7e3-4c57-95cf-f2a6f845a5e5
+Scope: National or Federal
+Severity: Dangerous
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

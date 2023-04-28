@@ -1,18 +1,10 @@
-scenario: 'e6eb9d68-1c06-4ad3-a6c8-d58248274cb5
-
-  Random word: oppose
-
-  Scope: Extended Family
-
-  Severity: Ordinary
-
-  Region: Eurasia
-
-  Category: Accident or Incident
-
-  Domain: Intellectual
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Accident or Incident
+Domain: Intellectual
+Random word: oppose
+Region: Eurasia
+Scenario: d66f3132-1749-4578-b0ac-8cc5a0bac6b0
+Scope: Extended Family
+Severity: Ordinary
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

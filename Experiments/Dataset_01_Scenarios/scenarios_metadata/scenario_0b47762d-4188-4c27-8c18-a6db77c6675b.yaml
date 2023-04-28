@@ -1,19 +1,11 @@
-scenario: '35232661-6263-453d-be28-007d2f319db9
-
-  Random word: assistant
-
-  Scope: Local community or Neighborhood
-
-  Severity: Typical
-
-  Region: North America
-
-  Category: AI Control Problem
-
-  Domain: Educational
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: AI Control Problem
+Domain: Educational
+Random word: assistant
+Region: North America
+Scenario: 0b47762d-4188-4c27-8c18-a6db77c6675b
+Scope: Local community or Neighborhood
+Severity: Typical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

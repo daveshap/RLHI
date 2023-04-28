@@ -1,18 +1,10 @@
-scenario: 'e79b3552-9058-4b52-805c-49e29a180b54
-
-  Random word: bike
-
-  Scope: Continental
-
-  Severity: Critical
-
-  Region: South Asia
-
-  Category: Disagreement or Argument
-
-  Domain: Cultural
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Disagreement or Argument
+Domain: Cultural
+Random word: bike
+Region: South Asia
+Scenario: be72ecf6-8907-4007-bc23-34f4e1a1a0d0
+Scope: Continental
+Severity: Critical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

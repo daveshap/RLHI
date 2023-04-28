@@ -1,19 +1,11 @@
-scenario: '4cd24918-3098-4132-b319-5cfdaf95e8e1
-
-  Random word: control
-
-  Scope: Regional or Statewide
-
-  Severity: Irreversible
-
-  Region: Subsaharan Africa
-
-  Category: Social challenge
-
-  Domain: Emotional
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Social challenge
+Domain: Emotional
+Random word: control
+Region: Subsaharan Africa
+Scenario: 4afd797e-6636-4872-9357-b7f6c7f1e0d3
+Scope: Regional or Statewide
+Severity: Irreversible
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

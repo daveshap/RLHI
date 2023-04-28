@@ -1,18 +1,10 @@
-scenario: '275b5689-4b86-4d6f-bf06-9f7596ef20e1
-
-  Random word: explore
-
-  Scope: Online
-
-  Severity: Long-lasting
-
-  Region: North Africa
-
-  Category: Health concern
-
-  Domain: Emotional
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Health concern
+Domain: Emotional
+Random word: explore
+Region: North Africa
+Scenario: 913a257a-dd28-4116-b5cf-c36427089cc2
+Scope: Online
+Severity: Long-lasting
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

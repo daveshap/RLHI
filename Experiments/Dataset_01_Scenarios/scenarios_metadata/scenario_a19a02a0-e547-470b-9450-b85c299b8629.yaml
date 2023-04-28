@@ -1,19 +1,11 @@
-scenario: '14ac62d9-3c74-4706-b26b-0665cfc0398b
-
-  Random word: steady
-
-  Scope: National or Federal
-
-  Severity: Long-lasting
-
-  Region: Eurasia
-
-  Category: Political unrest
-
-  Domain: Philosophical
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Political unrest
+Domain: Philosophical
+Random word: steady
+Region: Eurasia
+Scenario: a19a02a0-e547-470b-9450-b85c299b8629
+Scope: National or Federal
+Severity: Long-lasting
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

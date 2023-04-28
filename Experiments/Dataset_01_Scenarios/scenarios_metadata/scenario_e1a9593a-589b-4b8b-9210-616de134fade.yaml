@@ -1,19 +1,11 @@
-scenario: '9c883d97-98b0-4ab6-a792-51254d01fbfe
-
-  Random word: consume
-
-  Scope: Chosen Family
-
-  Severity: Typical
-
-  Region: South Pacific
-
-  Category: Ethical dilemma
-
-  Domain: Social
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Ethical dilemma
+Domain: Social
+Random word: consume
+Region: South Pacific
+Scenario: e1a9593a-589b-4b8b-9210-616de134fade
+Scope: Chosen Family
+Severity: Typical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

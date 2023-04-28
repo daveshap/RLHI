@@ -1,19 +1,11 @@
-scenario: '7352aad5-db2a-4043-ad38-1b046a853b35
-
-  Random word: incentive
-
-  Scope: Interstellar
-
-  Severity: Dangerous
-
-  Region: Europe
-
-  Category: Accident or Incident
-
-  Domain: Intellectual
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Accident or Incident
+Domain: Intellectual
+Random word: incentive
+Region: Europe
+Scenario: 4d09f42c-7440-4521-9d5d-033d31fc336a
+Scope: Interstellar
+Severity: Dangerous
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

@@ -1,19 +1,11 @@
-scenario: 'ec653249-1ffb-4df4-b6e2-9b4612d5e77d
-
-  Random word: detailed
-
-  Scope: National or Federal
-
-  Severity: Critical
-
-  Region: Pacific
-
-  Category: Environmental issue
-
-  Domain: Intellectual
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Environmental issue
+Domain: Intellectual
+Random word: detailed
+Region: Pacific
+Scenario: 3ba85e8b-c768-4f11-ac4a-a31d1071b466
+Scope: National or Federal
+Severity: Critical
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

@@ -1,18 +1,10 @@
-scenario: '6a1f348b-6c42-40c6-8638-86367a581cb2
-
-  Random word: try
-
-  Scope: National or Federal
-
-  Severity: Life-threatening
-
-  Region: South Asia
-
-  Category: Accident or Incident
-
-  Domain: Spiritual or Religious
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Accident or Incident
+Domain: Spiritual or Religious
+Random word: try
+Region: South Asia
+Scenario: bb77a0c8-d98b-4905-92e8-4fa5b1ec3b21
+Scope: National or Federal
+Severity: Life-threatening
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

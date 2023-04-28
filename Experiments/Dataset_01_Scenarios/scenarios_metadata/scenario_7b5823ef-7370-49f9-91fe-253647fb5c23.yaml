@@ -1,19 +1,11 @@
-scenario: 'c064e91c-bad3-4432-ae96-8624006658b5
-
-  Random word: normal
-
-  Scope: Extended Family
-
-  Severity: Serious
-
-  Region: Pacific
-
-  Category: Political unrest
-
-  Domain: Cultural
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Political unrest
+Domain: Cultural
+Random word: normal
+Region: Pacific
+Scenario: 7b5823ef-7370-49f9-91fe-253647fb5c23
+Scope: Extended Family
+Severity: Serious
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

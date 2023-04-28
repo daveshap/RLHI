@@ -1,19 +1,11 @@
-scenario: '48ea2996-81fd-4dcf-ba90-45af13217f35
-
-  Random word: sir
-
-  Scope: Professional
-
-  Severity: Insignificant
-
-  Region: Subsaharan Africa
-
-  Category: Health concern
-
-  Domain: Spiritual or Religious
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Health concern
+Domain: Spiritual or Religious
+Random word: sir
+Region: Subsaharan Africa
+Scenario: c6387a3a-0ec7-4fb3-8c80-8bba2b860258
+Scope: Professional
+Severity: Insignificant
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

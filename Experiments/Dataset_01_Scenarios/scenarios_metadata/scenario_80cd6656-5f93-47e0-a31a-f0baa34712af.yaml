@@ -1,19 +1,11 @@
-scenario: '1b42f5a5-7820-4884-aa2a-d60c0d338347
-
-  Random word: wheel
-
-  Scope: Nuclear Family
-
-  Severity: Typical
-
-  Region: Subsaharan Africa
-
-  Category: Health concern
-
-  Domain: Social
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Health concern
+Domain: Social
+Random word: wheel
+Region: Subsaharan Africa
+Scenario: 80cd6656-5f93-47e0-a31a-f0baa34712af
+Scope: Nuclear Family
+Severity: Typical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

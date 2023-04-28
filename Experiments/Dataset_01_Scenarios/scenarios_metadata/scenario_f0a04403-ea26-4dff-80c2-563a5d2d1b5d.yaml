@@ -1,18 +1,10 @@
-scenario: 'e092cdc1-cd4b-4485-861a-d1a82eee5d9f
-
-  Random word: instrument
-
-  Scope: Cosmic or Universal
-
-  Severity: Ordinary
-
-  Region: Middle East
-
-  Category: Political unrest
-
-  Domain: Cultural
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Political unrest
+Domain: Cultural
+Random word: instrument
+Region: Middle East
+Scenario: f0a04403-ea26-4dff-80c2-563a5d2d1b5d
+Scope: Cosmic or Universal
+Severity: Ordinary
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

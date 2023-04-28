@@ -1,19 +1,11 @@
-scenario: 'adb098cd-c895-484f-b0fb-e6ade3a8e088
-
-  Random word: upon
-
-  Scope: Intergalactic
-
-  Severity: Typical
-
-  Region: North Africa
-
-  Category: Political unrest
-
-  Domain: Philosophical
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Political unrest
+Domain: Philosophical
+Random word: upon
+Region: North Africa
+Scenario: 8e0cdbb2-546b-4c13-b5c0-23d0d99503ef
+Scope: Intergalactic
+Severity: Typical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

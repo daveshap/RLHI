@@ -1,19 +1,11 @@
-scenario: '18182037-658c-4da9-a015-0053971d2873
-
-  Random word: holy
-
-  Scope: Interstellar
-
-  Severity: Long-lasting
-
-  Region: Europe
-
-  Category: Social challenge
-
-  Domain: Intellectual
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Social challenge
+Domain: Intellectual
+Random word: holy
+Region: Europe
+Scenario: 2d97d2f6-a78b-44e6-964a-f6787307d33d
+Scope: Interstellar
+Severity: Long-lasting
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

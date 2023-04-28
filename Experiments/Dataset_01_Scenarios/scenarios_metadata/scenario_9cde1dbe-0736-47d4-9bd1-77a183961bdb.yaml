@@ -1,19 +1,11 @@
-scenario: '333b5baa-01a2-4982-bec3-3f427aa66fcd
-
-  Random word: strategy
-
-  Scope: Local community or Neighborhood
-
-  Severity: Life-threatening
-
-  Region: Europe
-
-  Category: Conflict or Violence
-
-  Domain: Scientific
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Conflict or Violence
+Domain: Scientific
+Random word: strategy
+Region: Europe
+Scenario: 9cde1dbe-0736-47d4-9bd1-77a183961bdb
+Scope: Local community or Neighborhood
+Severity: Life-threatening
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

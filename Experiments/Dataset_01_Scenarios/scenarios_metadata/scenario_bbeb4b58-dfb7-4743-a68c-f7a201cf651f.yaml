@@ -1,19 +1,11 @@
-scenario: 'a8615416-e35e-48f7-9e9a-1fdeff2f0c93
-
-  Random word: throat
-
-  Scope: Continental
-
-  Severity: Typical
-
-  Region: Europe
-
-  Category: Social challenge
-
-  Domain: Educational
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Social challenge
+Domain: Educational
+Random word: throat
+Region: Europe
+Scenario: bbeb4b58-dfb7-4743-a68c-f7a201cf651f
+Scope: Continental
+Severity: Typical
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

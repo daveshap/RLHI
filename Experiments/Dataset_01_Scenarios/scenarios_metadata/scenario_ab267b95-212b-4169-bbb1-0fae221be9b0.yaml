@@ -1,18 +1,10 @@
-scenario: 'a770962c-d7cb-48b3-82b1-a856c349355e
-
-  Random word: bind
-
-  Scope: Nuclear Family
-
-  Severity: Disruptive
-
-  Region: South Asia
-
-  Category: Environmental issue
-
-  Domain: Legal
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Environmental issue
+Domain: Legal
+Random word: bind
+Region: South Asia
+Scenario: ab267b95-212b-4169-bbb1-0fae221be9b0
+Scope: Nuclear Family
+Severity: Disruptive
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

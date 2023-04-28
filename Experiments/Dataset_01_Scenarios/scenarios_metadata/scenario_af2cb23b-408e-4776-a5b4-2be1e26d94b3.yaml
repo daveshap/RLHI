@@ -1,19 +1,11 @@
-scenario: '468f8a41-6aed-4add-8220-3211810828a4
-
-  Random word: trail
-
-  Scope: Local community or Neighborhood
-
-  Severity: Dangerous
-
-  Region: Europe
-
-  Category: Disagreement or Argument
-
-  Domain: Environmental
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Disagreement or Argument
+Domain: Environmental
+Random word: trail
+Region: Europe
+Scenario: af2cb23b-408e-4776-a5b4-2be1e26d94b3
+Scope: Local community or Neighborhood
+Severity: Dangerous
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

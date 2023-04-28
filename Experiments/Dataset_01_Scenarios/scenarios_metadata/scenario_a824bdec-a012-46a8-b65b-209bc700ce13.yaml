@@ -1,19 +1,11 @@
-scenario: '85b42b29-1805-42ee-98c2-d602e9d95d9f
-
-  Random word: provider
-
-  Scope: Intergalactic
-
-  Severity: Life-threatening
-
-  Region: Middle East
-
-  Category: Accident or Incident
-
-  Domain: Political
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Accident or Incident
+Domain: Political
+Random word: provider
+Region: Middle East
+Scenario: a824bdec-a012-46a8-b65b-209bc700ce13
+Scope: Intergalactic
+Severity: Life-threatening
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

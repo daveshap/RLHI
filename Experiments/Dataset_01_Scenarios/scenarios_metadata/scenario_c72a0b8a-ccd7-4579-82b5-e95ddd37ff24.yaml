@@ -1,19 +1,11 @@
-scenario: '76e2db3b-ad93-45f0-87b7-28771bef528d
-
-  Random word: apparent
-
-  Scope: Online
-
-  Severity: Critical
-
-  Region: South Asia
-
-  Category: Financial crisis
-
-  Domain: Social
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Financial crisis
+Domain: Social
+Random word: apparent
+Region: South Asia
+Scenario: c72a0b8a-ccd7-4579-82b5-e95ddd37ff24
+Scope: Online
+Severity: Critical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

@@ -1,19 +1,11 @@
-scenario: 'e8d66ec3-2b39-4528-8f52-e43ee8008165
-
-  Random word: handful
-
-  Scope: Cosmic or Universal
-
-  Severity: Irreversible
-
-  Region: South America
-
-  Category: Natural disaster
-
-  Domain: Legal
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Natural disaster
+Domain: Legal
+Random word: handful
+Region: South America
+Scenario: 560cdeba-94b4-45f0-a3a3-86fbf6f6c74c
+Scope: Cosmic or Universal
+Severity: Irreversible
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,19 +1,11 @@
-scenario: 'e268292d-580d-46d7-a4ae-50deeb8de4c4
-
-  Random word: through
-
-  Scope: Chosen Family
-
-  Severity: Life-threatening
-
-  Region: Eurasia
-
-  Category: Natural disaster
-
-  Domain: Political
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Natural disaster
+Domain: Political
+Random word: through
+Region: Eurasia
+Scenario: 865e7daf-1bb7-4cfa-b736-d82e6f23f265
+Scope: Chosen Family
+Severity: Life-threatening
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

@@ -1,19 +1,11 @@
-scenario: 'b01acdda-a5a2-4eed-9b02-0d397828c6bc
-
-  Random word: honor
-
-  Scope: Interstellar
-
-  Severity: Serious
-
-  Region: Pacific
-
-  Category: Disagreement or Argument
-
-  Domain: Educational
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Disagreement or Argument
+Domain: Educational
+Random word: honor
+Region: Pacific
+Scenario: b68e1eb7-e430-42fc-9175-8d0e3ae8edf6
+Scope: Interstellar
+Severity: Serious
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

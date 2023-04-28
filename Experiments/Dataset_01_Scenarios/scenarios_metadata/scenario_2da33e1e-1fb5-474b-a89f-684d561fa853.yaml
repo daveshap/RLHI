@@ -1,19 +1,11 @@
-scenario: '3998d9d2-0ecf-470f-9c78-7e45c524032d
-
-  Random word: walk
-
-  Scope: Continental
-
-  Severity: Dangerous
-
-  Region: South Asia
-
-  Category: Conflict or Violence
-
-  Domain: Technological
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Conflict or Violence
+Domain: Technological
+Random word: walk
+Region: South Asia
+Scenario: 2da33e1e-1fb5-474b-a89f-684d561fa853
+Scope: Continental
+Severity: Dangerous
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

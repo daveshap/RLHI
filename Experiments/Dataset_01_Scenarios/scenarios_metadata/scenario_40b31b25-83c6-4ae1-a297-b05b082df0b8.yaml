@@ -1,19 +1,11 @@
-scenario: '2cccd9a3-405f-47b6-a537-c42f7b579f21
-
-  Random word: enemy
-
-  Scope: Chosen Family
-
-  Severity: Life-threatening
-
-  Region: North America
-
-  Category: Disagreement or Argument
-
-  Domain: Emotional
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Disagreement or Argument
+Domain: Emotional
+Random word: enemy
+Region: North America
+Scenario: 40b31b25-83c6-4ae1-a297-b05b082df0b8
+Scope: Chosen Family
+Severity: Life-threatening
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

@@ -1,18 +1,10 @@
-scenario: 'ee63f7ce-1e62-4b47-8ec9-3afa957ed55d
-
-  Random word: live
-
-  Scope: Intergalactic
-
-  Severity: Serious
-
-  Region: South America
-
-  Category: Environmental issue
-
-  Domain: Intellectual
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Environmental issue
+Domain: Intellectual
+Random word: live
+Region: South America
+Scenario: cb4739eb-d084-43c8-8575-29cbef94d898
+Scope: Intergalactic
+Severity: Serious
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

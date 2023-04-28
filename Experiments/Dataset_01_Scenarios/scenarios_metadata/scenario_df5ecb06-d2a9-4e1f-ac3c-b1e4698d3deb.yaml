@@ -1,19 +1,11 @@
-scenario: '2bc66afe-9430-44cd-b865-e18ae3cbe554
-
-  Random word: player
-
-  Scope: Interpersonal
-
-  Severity: Life-threatening
-
-  Region: Eurasia
-
-  Category: Social challenge
-
-  Domain: Scientific
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Social challenge
+Domain: Scientific
+Random word: player
+Region: Eurasia
+Scenario: df5ecb06-d2a9-4e1f-ac3c-b1e4698d3deb
+Scope: Interpersonal
+Severity: Life-threatening
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

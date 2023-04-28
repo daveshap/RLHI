@@ -1,19 +1,11 @@
-scenario: '5474d47e-b48b-4735-80fc-a6924cf92fc1
-
-  Random word: bike
-
-  Scope: Intergalactic
-
-  Severity: Critical
-
-  Region: South Asia
-
-  Category: Ethical dilemma
-
-  Domain: Social
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Ethical dilemma
+Domain: Social
+Random word: bike
+Region: South Asia
+Scenario: b8221326-f463-4234-9bd3-23d0524f0e58
+Scope: Intergalactic
+Severity: Critical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,18 +1,10 @@
-scenario: '146e0608-7e2f-4fd7-8d58-189c24e8231c
-
-  Random word: battery
-
-  Scope: Local community or Neighborhood
-
-  Severity: Dangerous
-
-  Region: Middle East
-
-  Category: Natural disaster
-
-  Domain: Spiritual or Religious
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Natural disaster
+Domain: Spiritual or Religious
+Random word: battery
+Region: Middle East
+Scenario: 686b4c28-ff87-4630-a583-f6cc4369f92a
+Scope: Local community or Neighborhood
+Severity: Dangerous
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

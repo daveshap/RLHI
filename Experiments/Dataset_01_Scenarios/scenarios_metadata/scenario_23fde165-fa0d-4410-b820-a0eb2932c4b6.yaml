@@ -1,18 +1,10 @@
-scenario: '24403660-f183-4baa-940a-88ed04454e08
-
-  Random word: distribute
-
-  Scope: International
-
-  Severity: Annoyance
-
-  Region: North Africa
-
-  Category: Conflict or Violence
-
-  Domain: Social
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Conflict or Violence
+Domain: Social
+Random word: distribute
+Region: North Africa
+Scenario: 23fde165-fa0d-4410-b820-a0eb2932c4b6
+Scope: International
+Severity: Annoyance
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

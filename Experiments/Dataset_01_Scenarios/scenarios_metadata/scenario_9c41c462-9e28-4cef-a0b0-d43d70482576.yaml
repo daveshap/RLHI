@@ -1,18 +1,10 @@
-scenario: 'fbb6e600-dbde-4af0-b668-f9c124c8f40b
-
-  Random word: busy
-
-  Scope: Global
-
-  Severity: Typical
-
-  Region: South America
-
-  Category: Natural disaster
-
-  Domain: Spiritual or Religious
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Natural disaster
+Domain: Spiritual or Religious
+Random word: busy
+Region: South America
+Scenario: 9c41c462-9e28-4cef-a0b0-d43d70482576
+Scope: Global
+Severity: Typical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

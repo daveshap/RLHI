@@ -1,19 +1,11 @@
-scenario: 'a807b70b-988a-462c-b6e2-b1fe16451d13
-
-  Random word: worried
-
-  Scope: Interpersonal
-
-  Severity: Critical
-
-  Region: South Pacific
-
-  Category: Technological failure
-
-  Domain: Technological
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Technological failure
+Domain: Technological
+Random word: worried
+Region: South Pacific
+Scenario: dab44e6a-59b5-4e2a-8357-d27d53212629
+Scope: Interpersonal
+Severity: Critical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

@@ -1,19 +1,11 @@
-scenario: '1c87bafc-f0e5-4e49-a663-01ed26193ce4
-
-  Random word: combine
-
-  Scope: City or Village
-
-  Severity: Critical
-
-  Region: Pacific
-
-  Category: Political unrest
-
-  Domain: Social
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Political unrest
+Domain: Social
+Random word: combine
+Region: Pacific
+Scenario: 1fbb822c-5d46-4e1a-aadc-572ccb9adf55
+Scope: City or Village
+Severity: Critical
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

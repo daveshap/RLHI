@@ -1,19 +1,11 @@
-scenario: '5ed2f061-f58a-4e7b-ac10-9de934b7de88
-
-  Random word: follow
-
-  Scope: Online
-
-  Severity: Catastrophic
-
-  Region: Subsaharan Africa
-
-  Category: Natural disaster
-
-  Domain: Cultural
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Natural disaster
+Domain: Cultural
+Random word: follow
+Region: Subsaharan Africa
+Scenario: 68de42b2-040b-4d5d-9841-25befecd3bc2
+Scope: Online
+Severity: Catastrophic
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

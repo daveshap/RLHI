@@ -1,19 +1,11 @@
-scenario: '05cdb26d-33a3-4a1e-b6c1-7c536d8f1580
-
-  Random word: pop
-
-  Scope: Interpersonal
-
-  Severity: Irreversible
-
-  Region: Pacific
-
-  Category: Conflict or Violence
-
-  Domain: Social
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Conflict or Violence
+Domain: Social
+Random word: pop
+Region: Pacific
+Scenario: 61552059-9469-4ccf-abc8-878f94de6ddf
+Scope: Interpersonal
+Severity: Irreversible
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

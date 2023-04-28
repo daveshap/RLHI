@@ -1,19 +1,11 @@
-scenario: '3d5260f3-842c-4d45-8051-7b225c3fde2a
-
-  Random word: enemy
-
-  Scope: Professional
-
-  Severity: Dangerous
-
-  Region: South Pacific
-
-  Category: Political unrest
-
-  Domain: Scientific
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Political unrest
+Domain: Scientific
+Random word: enemy
+Region: South Pacific
+Scenario: 53ffae27-92b6-42dc-bf36-acbef5610064
+Scope: Professional
+Severity: Dangerous
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

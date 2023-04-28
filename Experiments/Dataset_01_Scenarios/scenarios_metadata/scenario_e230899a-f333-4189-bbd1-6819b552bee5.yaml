@@ -1,19 +1,11 @@
-scenario: '0e26a613-fce8-4396-a07c-551efecb0645
-
-  Random word: text
-
-  Scope: Regional or Statewide
-
-  Severity: Critical
-
-  Region: North America
-
-  Category: Health concern
-
-  Domain: Environmental
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Health concern
+Domain: Environmental
+Random word: text
+Region: North America
+Scenario: e230899a-f333-4189-bbd1-6819b552bee5
+Scope: Regional or Statewide
+Severity: Critical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

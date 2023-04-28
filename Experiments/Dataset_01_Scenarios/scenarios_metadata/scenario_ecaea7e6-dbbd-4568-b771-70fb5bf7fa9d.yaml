@@ -1,19 +1,11 @@
-scenario: '9b54c4bb-bc1c-45df-b921-fca593bacf41
-
-  Random word: cry
-
-  Scope: Nuclear Family
-
-  Severity: Critical
-
-  Region: Subsaharan Africa
-
-  Category: Political unrest
-
-  Domain: Political
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Political unrest
+Domain: Political
+Random word: cry
+Region: Subsaharan Africa
+Scenario: ecaea7e6-dbbd-4568-b771-70fb5bf7fa9d
+Scope: Nuclear Family
+Severity: Critical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

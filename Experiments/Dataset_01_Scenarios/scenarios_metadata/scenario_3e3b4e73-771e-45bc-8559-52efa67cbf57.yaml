@@ -1,18 +1,10 @@
-scenario: 'd3f124b8-c0cb-4b78-91f7-83f916b699f4
-
-  Random word: warm
-
-  Scope: Regional or Statewide
-
-  Severity: Disruptive
-
-  Region: Subsaharan Africa
-
-  Category: Ethical dilemma
-
-  Domain: Economic
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Ethical dilemma
+Domain: Economic
+Random word: warm
+Region: Subsaharan Africa
+Scenario: 3e3b4e73-771e-45bc-8559-52efa67cbf57
+Scope: Regional or Statewide
+Severity: Disruptive
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

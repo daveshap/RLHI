@@ -1,18 +1,10 @@
-scenario: 'b4fd7057-14a2-4ae9-8993-7b7357308088
-
-  Random word: himself
-
-  Scope: Regional or Statewide
-
-  Severity: Annoyance
-
-  Region: Europe
-
-  Category: Financial crisis
-
-  Domain: Philosophical
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Financial crisis
+Domain: Philosophical
+Random word: himself
+Region: Europe
+Scenario: 6655c63a-4fb6-4b70-9af3-5c0689a3875a
+Scope: Regional or Statewide
+Severity: Annoyance
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

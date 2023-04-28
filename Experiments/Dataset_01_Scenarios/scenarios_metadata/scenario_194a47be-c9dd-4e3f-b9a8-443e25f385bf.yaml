@@ -1,19 +1,11 @@
-scenario: '60bad922-5024-4b89-a7c9-8c50802285cd
-
-  Random word: whisper
-
-  Scope: Continental
-
-  Severity: Serious
-
-  Region: Subsaharan Africa
-
-  Category: Health concern
-
-  Domain: Physical
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Health concern
+Domain: Physical
+Random word: whisper
+Region: Subsaharan Africa
+Scenario: 194a47be-c9dd-4e3f-b9a8-443e25f385bf
+Scope: Continental
+Severity: Serious
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

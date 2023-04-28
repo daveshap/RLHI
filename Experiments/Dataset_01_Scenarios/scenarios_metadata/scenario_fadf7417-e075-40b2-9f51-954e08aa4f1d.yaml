@@ -1,19 +1,11 @@
-scenario: 'd38d883b-9328-477d-82d7-11853cefb728
-
-  Random word: finally
-
-  Scope: Global
-
-  Severity: Typical
-
-  Region: Middle East
-
-  Category: Ethical dilemma
-
-  Domain: Physical
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Ethical dilemma
+Domain: Physical
+Random word: finally
+Region: Middle East
+Scenario: fadf7417-e075-40b2-9f51-954e08aa4f1d
+Scope: Global
+Severity: Typical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

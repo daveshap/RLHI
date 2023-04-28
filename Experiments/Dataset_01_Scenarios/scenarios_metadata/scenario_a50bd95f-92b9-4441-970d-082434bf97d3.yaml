@@ -1,19 +1,11 @@
-scenario: 'a137088a-b912-420c-8dd1-c64c3304111f
-
-  Random word: furniture
-
-  Scope: Interstellar
-
-  Severity: Long-lasting
-
-  Region: North Africa
-
-  Category: Mundane issue
-
-  Domain: Technological
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Mundane issue
+Domain: Technological
+Random word: furniture
+Region: North Africa
+Scenario: a50bd95f-92b9-4441-970d-082434bf97d3
+Scope: Interstellar
+Severity: Long-lasting
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

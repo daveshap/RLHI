@@ -1,19 +1,11 @@
-scenario: '8d43e65f-eb13-424e-a7da-5f687dad8160
-
-  Random word: state
-
-  Scope: National or Federal
-
-  Severity: Life-threatening
-
-  Region: Asia
-
-  Category: Social challenge
-
-  Domain: Spiritual or Religious
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Social challenge
+Domain: Spiritual or Religious
+Random word: state
+Region: Asia
+Scenario: 8261e4dc-64b2-4b6c-810b-a3c003cfa650
+Scope: National or Federal
+Severity: Life-threatening
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

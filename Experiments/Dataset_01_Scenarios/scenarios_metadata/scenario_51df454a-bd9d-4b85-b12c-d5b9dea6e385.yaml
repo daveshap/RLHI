@@ -1,18 +1,10 @@
-scenario: '8af65d7b-38e8-4b44-8aca-7275e1e11b45
-
-  Random word: gun
-
-  Scope: Cosmic or Universal
-
-  Severity: Serious
-
-  Region: Eurasia
-
-  Category: Health concern
-
-  Domain: Environmental
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Health concern
+Domain: Environmental
+Random word: gun
+Region: Eurasia
+Scenario: 51df454a-bd9d-4b85-b12c-d5b9dea6e385
+Scope: Cosmic or Universal
+Severity: Serious
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

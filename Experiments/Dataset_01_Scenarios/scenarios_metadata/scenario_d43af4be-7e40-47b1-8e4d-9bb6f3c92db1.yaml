@@ -1,19 +1,11 @@
-scenario: '2c346de8-9ae3-48c5-83df-a7da161c93c0
-
-  Random word: purpose
-
-  Scope: City or Village
-
-  Severity: Insignificant
-
-  Region: North America
-
-  Category: Conflict or Violence
-
-  Domain: Legal
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Conflict or Violence
+Domain: Legal
+Random word: purpose
+Region: North America
+Scenario: d43af4be-7e40-47b1-8e4d-9bb6f3c92db1
+Scope: City or Village
+Severity: Insignificant
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

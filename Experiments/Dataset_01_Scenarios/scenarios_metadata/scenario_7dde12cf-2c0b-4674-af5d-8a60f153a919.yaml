@@ -1,18 +1,10 @@
-scenario: '070c19bc-41fc-4730-aade-26d56f359ea3
-
-  Random word: president
-
-  Scope: National or Federal
-
-  Severity: Insignificant
-
-  Region: Middle East
-
-  Category: Social challenge
-
-  Domain: Intellectual
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Social challenge
+Domain: Intellectual
+Random word: president
+Region: Middle East
+Scenario: 7dde12cf-2c0b-4674-af5d-8a60f153a919
+Scope: National or Federal
+Severity: Insignificant
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

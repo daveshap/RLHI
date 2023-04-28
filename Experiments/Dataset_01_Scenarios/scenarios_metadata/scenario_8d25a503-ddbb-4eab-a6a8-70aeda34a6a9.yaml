@@ -1,19 +1,11 @@
-scenario: '8ee9e1f4-c763-4355-a7a3-9fd65cd9e894
-
-  Random word: shelf
-
-  Scope: Regional or Statewide
-
-  Severity: Typical
-
-  Region: Europe
-
-  Category: Mundane issue
-
-  Domain: Technological
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Mundane issue
+Domain: Technological
+Random word: shelf
+Region: Europe
+Scenario: 8d25a503-ddbb-4eab-a6a8-70aeda34a6a9
+Scope: Regional or Statewide
+Severity: Typical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

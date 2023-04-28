@@ -1,19 +1,11 @@
-scenario: '4149072a-0352-4732-8391-78182cf2fea1
-
-  Random word: deer
-
-  Scope: Cosmic or Universal
-
-  Severity: Catastrophic
-
-  Region: Middle East
-
-  Category: Health concern
-
-  Domain: Physical
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Health concern
+Domain: Physical
+Random word: deer
+Region: Middle East
+Scenario: 5eb98c34-e623-437a-938e-35b2ae89b194
+Scope: Cosmic or Universal
+Severity: Catastrophic
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

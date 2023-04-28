@@ -1,19 +1,11 @@
-scenario: '5e9a1f80-b6e4-4a76-a47d-4dcb8b783178
-
-  Random word: intention
-
-  Scope: Intergalactic
-
-  Severity: Irreversible
-
-  Region: Eurasia
-
-  Category: Political unrest
-
-  Domain: Legal
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Political unrest
+Domain: Legal
+Random word: intention
+Region: Eurasia
+Scenario: 9fae605c-3887-4b73-ac24-d14cc3c5d49f
+Scope: Intergalactic
+Severity: Irreversible
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

@@ -1,19 +1,11 @@
-scenario: 'a87dd06a-cc43-482d-b0e9-3a14014f5e79
-
-  Random word: variation
-
-  Scope: Personal or Individual
-
-  Severity: Long-lasting
-
-  Region: South Pacific
-
-  Category: Environmental issue
-
-  Domain: Social
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Environmental issue
+Domain: Social
+Random word: variation
+Region: South Pacific
+Scenario: f86c6228-b0fd-4d85-a71a-8eaebacb0660
+Scope: Personal or Individual
+Severity: Long-lasting
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

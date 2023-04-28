@@ -1,19 +1,11 @@
-scenario: '7ce1b0cf-60bf-483a-bfee-b704d88bc92d
-
-  Random word: relate
-
-  Scope: International
-
-  Severity: Catastrophic
-
-  Region: South America
-
-  Category: Political unrest
-
-  Domain: Physical
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Political unrest
+Domain: Physical
+Random word: relate
+Region: South America
+Scenario: 0ff1a59b-f4a1-4ac5-8873-3cb578dd81e3
+Scope: International
+Severity: Catastrophic
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

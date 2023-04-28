@@ -1,19 +1,11 @@
-scenario: 'd1d8ee82-cb70-4e07-930a-b1183349ba5f
-
-  Random word: cheese
-
-  Scope: Intergalactic
-
-  Severity: Serious
-
-  Region: North America
-
-  Category: Health concern
-
-  Domain: Political
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Health concern
+Domain: Political
+Random word: cheese
+Region: North America
+Scenario: 7460ae8b-a583-411f-9272-d9a6d308a6ea
+Scope: Intergalactic
+Severity: Serious
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

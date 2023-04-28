@@ -1,18 +1,10 @@
-scenario: '0ad26bed-59ab-46be-ba98-8e99b0e74c14
-
-  Random word: self
-
-  Scope: Continental
-
-  Severity: Irreversible
-
-  Region: South Asia
-
-  Category: Natural disaster
-
-  Domain: Intellectual
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Natural disaster
+Domain: Intellectual
+Random word: self
+Region: South Asia
+Scenario: c5c8fa80-7dd7-4916-bc62-212de27d8de9
+Scope: Continental
+Severity: Irreversible
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

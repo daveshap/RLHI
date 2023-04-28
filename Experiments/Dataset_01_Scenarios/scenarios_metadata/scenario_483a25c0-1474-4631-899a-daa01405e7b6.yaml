@@ -1,19 +1,11 @@
-scenario: 'dc9e079f-95cc-4544-a8d5-ebf1f08b215c
-
-  Random word: dear
-
-  Scope: Extended Family
-
-  Severity: Life-threatening
-
-  Region: Europe
-
-  Category: Mundane issue
-
-  Domain: Philosophical
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Mundane issue
+Domain: Philosophical
+Random word: dear
+Region: Europe
+Scenario: 483a25c0-1474-4631-899a-daa01405e7b6
+Scope: Extended Family
+Severity: Life-threatening
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

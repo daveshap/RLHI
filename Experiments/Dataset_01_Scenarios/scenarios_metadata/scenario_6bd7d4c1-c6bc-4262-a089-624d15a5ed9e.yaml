@@ -1,19 +1,11 @@
-scenario: '5ac960f2-6521-4ea6-b7f2-31b14d0b042f
-
-  Random word: company
-
-  Scope: Continental
-
-  Severity: Catastrophic
-
-  Region: South Asia
-
-  Category: Environmental issue
-
-  Domain: Philosophical
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Environmental issue
+Domain: Philosophical
+Random word: company
+Region: South Asia
+Scenario: 6bd7d4c1-c6bc-4262-a089-624d15a5ed9e
+Scope: Continental
+Severity: Catastrophic
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

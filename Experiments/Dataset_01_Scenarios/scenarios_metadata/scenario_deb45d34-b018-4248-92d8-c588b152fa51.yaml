@@ -1,19 +1,11 @@
-scenario: '9e81eeba-fb08-4628-bf25-cc0836ea3fe3
-
-  Random word: assist
-
-  Scope: National or Federal
-
-  Severity: Annoyance
-
-  Region: Eurasia
-
-  Category: Conflict or Violence
-
-  Domain: Economic
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Conflict or Violence
+Domain: Economic
+Random word: assist
+Region: Eurasia
+Scenario: deb45d34-b018-4248-92d8-c588b152fa51
+Scope: National or Federal
+Severity: Annoyance
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

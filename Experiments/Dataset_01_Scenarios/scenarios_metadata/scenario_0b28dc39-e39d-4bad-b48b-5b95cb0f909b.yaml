@@ -1,19 +1,11 @@
-scenario: '408631ee-cd47-41c7-b698-d295cf2893ef
-
-  Random word: chairman
-
-  Scope: Extended Family
-
-  Severity: Long-lasting
-
-  Region: South America
-
-  Category: Political unrest
-
-  Domain: Philosophical
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Political unrest
+Domain: Philosophical
+Random word: chairman
+Region: South America
+Scenario: 0b28dc39-e39d-4bad-b48b-5b95cb0f909b
+Scope: Extended Family
+Severity: Long-lasting
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

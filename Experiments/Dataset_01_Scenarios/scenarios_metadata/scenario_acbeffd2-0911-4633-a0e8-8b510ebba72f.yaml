@@ -1,19 +1,11 @@
-scenario: '8271947b-1d91-472c-9e53-b6e7f04d0ae2
-
-  Random word: avoid
-
-  Scope: Local community or Neighborhood
-
-  Severity: Critical
-
-  Region: Subsaharan Africa
-
-  Category: Natural disaster
-
-  Domain: Physical
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Natural disaster
+Domain: Physical
+Random word: avoid
+Region: Subsaharan Africa
+Scenario: acbeffd2-0911-4633-a0e8-8b510ebba72f
+Scope: Local community or Neighborhood
+Severity: Critical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

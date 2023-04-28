@@ -1,19 +1,11 @@
-scenario: '4d6ed7c5-a67e-448b-825b-81eb2ea7fbd7
-
-  Random word: belong
-
-  Scope: Global
-
-  Severity: Disruptive
-
-  Region: North America
-
-  Category: Health concern
-
-  Domain: Spiritual or Religious
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Health concern
+Domain: Spiritual or Religious
+Random word: belong
+Region: North America
+Scenario: c3f5ad99-ab6a-4643-b6b1-a32624f8a591
+Scope: Global
+Severity: Disruptive
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,19 +1,11 @@
-scenario: 'e46cef73-ff70-48a6-b198-1e5aff14f644
-
-  Random word: criticism
-
-  Scope: International
-
-  Severity: Disruptive
-
-  Region: North Africa
-
-  Category: Ethical dilemma
-
-  Domain: Social
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Ethical dilemma
+Domain: Social
+Random word: criticism
+Region: North Africa
+Scenario: 3a24f834-0bad-4d07-8e84-26862668901a
+Scope: International
+Severity: Disruptive
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

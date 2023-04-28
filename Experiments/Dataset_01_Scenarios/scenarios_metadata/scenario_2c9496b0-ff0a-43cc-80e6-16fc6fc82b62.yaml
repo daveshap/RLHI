@@ -1,19 +1,11 @@
-scenario: '2867ff79-a7ac-4f3c-a64d-10a97b96ce19
-
-  Random word: drug
-
-  Scope: Local community or Neighborhood
-
-  Severity: Insignificant
-
-  Region: South Asia
-
-  Category: Financial crisis
-
-  Domain: Scientific
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Financial crisis
+Domain: Scientific
+Random word: drug
+Region: South Asia
+Scenario: 2c9496b0-ff0a-43cc-80e6-16fc6fc82b62
+Scope: Local community or Neighborhood
+Severity: Insignificant
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

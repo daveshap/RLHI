@@ -1,19 +1,11 @@
-scenario: 'a4b3108a-5eb0-44c0-8dd4-a4356f5a9f18
-
-  Random word: scale
-
-  Scope: Regional or Statewide
-
-  Severity: Long-lasting
-
-  Region: Pacific
-
-  Category: Environmental issue
-
-  Domain: Social
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Environmental issue
+Domain: Social
+Random word: scale
+Region: Pacific
+Scenario: 862a4f35-a9c7-4542-8dfc-686526307b42
+Scope: Regional or Statewide
+Severity: Long-lasting
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

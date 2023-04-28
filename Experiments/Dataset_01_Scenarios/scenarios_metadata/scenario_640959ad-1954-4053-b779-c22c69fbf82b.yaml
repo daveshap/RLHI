@@ -1,19 +1,11 @@
-scenario: 'c60eb4bb-25f6-40ad-bdcb-31c33448f319
-
-  Random word: leaf
-
-  Scope: Interpersonal
-
-  Severity: Irreversible
-
-  Region: Asia
-
-  Category: Natural disaster
-
-  Domain: Intellectual
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Natural disaster
+Domain: Intellectual
+Random word: leaf
+Region: Asia
+Scenario: 640959ad-1954-4053-b779-c22c69fbf82b
+Scope: Interpersonal
+Severity: Irreversible
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

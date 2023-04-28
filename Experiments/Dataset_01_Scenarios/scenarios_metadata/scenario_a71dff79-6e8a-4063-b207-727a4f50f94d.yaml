@@ -1,18 +1,10 @@
-scenario: 'fb86b33b-a068-42db-a2cf-53902b0f4bb6
-
-  Random word: fantasy
-
-  Scope: Online
-
-  Severity: Catastrophic
-
-  Region: North America
-
-  Category: Technological failure
-
-  Domain: Political
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Technological failure
+Domain: Political
+Random word: fantasy
+Region: North America
+Scenario: a71dff79-6e8a-4063-b207-727a4f50f94d
+Scope: Online
+Severity: Catastrophic
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

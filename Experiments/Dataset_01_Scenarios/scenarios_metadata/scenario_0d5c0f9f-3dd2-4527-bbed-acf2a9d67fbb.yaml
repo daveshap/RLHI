@@ -1,19 +1,11 @@
-scenario: '03ad9151-9d14-493a-8cb0-2273e34896a0
-
-  Random word: small
-
-  Scope: Chosen Family
-
-  Severity: Typical
-
-  Region: Asia
-
-  Category: Social challenge
-
-  Domain: Economic
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Social challenge
+Domain: Economic
+Random word: small
+Region: Asia
+Scenario: 0d5c0f9f-3dd2-4527-bbed-acf2a9d67fbb
+Scope: Chosen Family
+Severity: Typical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

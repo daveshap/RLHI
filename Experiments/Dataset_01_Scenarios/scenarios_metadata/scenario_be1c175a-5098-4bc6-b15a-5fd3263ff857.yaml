@@ -1,19 +1,11 @@
-scenario: 'a4bef92c-b613-446d-9479-b2de64c17aa6
-
-  Random word: stress
-
-  Scope: Global
-
-  Severity: Critical
-
-  Region: South Pacific
-
-  Category: Accident or Incident
-
-  Domain: Emotional
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Accident or Incident
+Domain: Emotional
+Random word: stress
+Region: South Pacific
+Scenario: be1c175a-5098-4bc6-b15a-5fd3263ff857
+Scope: Global
+Severity: Critical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,18 +1,10 @@
-scenario: '5f1fe656-7d59-4495-ac80-79c97b9b8166
-
-  Random word: potential
-
-  Scope: Interpersonal
-
-  Severity: Serious
-
-  Region: North America
-
-  Category: Social challenge
-
-  Domain: Social
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Social challenge
+Domain: Social
+Random word: potential
+Region: North America
+Scenario: 63c91563-3506-47e6-87d9-d570e4d4cf78
+Scope: Interpersonal
+Severity: Serious
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

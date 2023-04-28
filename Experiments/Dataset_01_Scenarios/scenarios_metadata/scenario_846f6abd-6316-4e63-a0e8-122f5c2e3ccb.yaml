@@ -1,19 +1,11 @@
-scenario: 'c52007a6-1059-4d5d-8e72-c08832119523
-
-  Random word: double
-
-  Scope: City or Village
-
-  Severity: Dangerous
-
-  Region: Middle East
-
-  Category: AI Control Problem
-
-  Domain: Cultural
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: AI Control Problem
+Domain: Cultural
+Random word: double
+Region: Middle East
+Scenario: 846f6abd-6316-4e63-a0e8-122f5c2e3ccb
+Scope: City or Village
+Severity: Dangerous
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

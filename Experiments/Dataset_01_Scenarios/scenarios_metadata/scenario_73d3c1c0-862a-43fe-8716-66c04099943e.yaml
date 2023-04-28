@@ -1,19 +1,11 @@
-scenario: '33cfcd81-d345-4f55-a6cb-21a0e6fd8554
-
-  Random word: grave
-
-  Scope: City or Village
-
-  Severity: Dangerous
-
-  Region: North America
-
-  Category: Health concern
-
-  Domain: Environmental
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Health concern
+Domain: Environmental
+Random word: grave
+Region: North America
+Scenario: 73d3c1c0-862a-43fe-8716-66c04099943e
+Scope: City or Village
+Severity: Dangerous
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

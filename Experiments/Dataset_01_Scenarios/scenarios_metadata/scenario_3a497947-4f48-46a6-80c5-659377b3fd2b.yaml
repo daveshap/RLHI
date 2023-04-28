@@ -1,19 +1,11 @@
-scenario: '57faa28c-ef8f-479e-999f-4ed6b2553d8b
-
-  Random word: rifle
-
-  Scope: Cosmic or Universal
-
-  Severity: Life-threatening
-
-  Region: North Africa
-
-  Category: Ethical dilemma
-
-  Domain: Legal
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Ethical dilemma
+Domain: Legal
+Random word: rifle
+Region: North Africa
+Scenario: 3a497947-4f48-46a6-80c5-659377b3fd2b
+Scope: Cosmic or Universal
+Severity: Life-threatening
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

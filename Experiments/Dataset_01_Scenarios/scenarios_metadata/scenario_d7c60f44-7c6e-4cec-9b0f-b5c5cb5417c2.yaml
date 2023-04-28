@@ -1,19 +1,11 @@
-scenario: '73a92709-d16c-4bb9-ba00-92749f9b0722
-
-  Random word: clock
-
-  Scope: Regional or Statewide
-
-  Severity: Critical
-
-  Region: Pacific
-
-  Category: Ethical dilemma
-
-  Domain: Educational
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Ethical dilemma
+Domain: Educational
+Random word: clock
+Region: Pacific
+Scenario: d7c60f44-7c6e-4cec-9b0f-b5c5cb5417c2
+Scope: Regional or Statewide
+Severity: Critical
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

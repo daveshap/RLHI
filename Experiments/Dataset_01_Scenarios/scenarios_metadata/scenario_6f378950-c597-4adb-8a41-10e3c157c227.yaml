@@ -1,19 +1,11 @@
-scenario: '60c25914-4be8-4229-bc71-e6c2b69ba12f
-
-  Random word: bench
-
-  Scope: Personal or Individual
-
-  Severity: Annoyance
-
-  Region: Pacific
-
-  Category: Conflict or Violence
-
-  Domain: Economic
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Conflict or Violence
+Domain: Economic
+Random word: bench
+Region: Pacific
+Scenario: 6f378950-c597-4adb-8a41-10e3c157c227
+Scope: Personal or Individual
+Severity: Annoyance
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

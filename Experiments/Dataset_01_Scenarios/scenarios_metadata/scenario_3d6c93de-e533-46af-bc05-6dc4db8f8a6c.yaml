@@ -1,19 +1,11 @@
-scenario: 'facd4cd9-a5be-4da2-a2e7-f08a8cf7c1ba
-
-  Random word: behind
-
-  Scope: International
-
-  Severity: Dangerous
-
-  Region: South Asia
-
-  Category: Mundane issue
-
-  Domain: Technological
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Mundane issue
+Domain: Technological
+Random word: behind
+Region: South Asia
+Scenario: 3d6c93de-e533-46af-bc05-6dc4db8f8a6c
+Scope: International
+Severity: Dangerous
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

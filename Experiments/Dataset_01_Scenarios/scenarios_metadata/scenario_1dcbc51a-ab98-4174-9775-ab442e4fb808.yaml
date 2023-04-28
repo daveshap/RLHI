@@ -1,19 +1,11 @@
-scenario: '889c5cc7-9c97-4cfe-a0c3-f641348d5216
-
-  Random word: give
-
-  Scope: Professional
-
-  Severity: Typical
-
-  Region: South Pacific
-
-  Category: Ethical dilemma
-
-  Domain: Political
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Ethical dilemma
+Domain: Political
+Random word: give
+Region: South Pacific
+Scenario: 1dcbc51a-ab98-4174-9775-ab442e4fb808
+Scope: Professional
+Severity: Typical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

@@ -1,19 +1,11 @@
-scenario: '18476892-eefe-46a6-b6a3-29f452722c2a
-
-  Random word: gas
-
-  Scope: International
-
-  Severity: Long-lasting
-
-  Region: South Asia
-
-  Category: Social challenge
-
-  Domain: Legal
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Social challenge
+Domain: Legal
+Random word: gas
+Region: South Asia
+Scenario: 7afcad30-ed8d-4c90-b7bd-4849b2e0cb5a
+Scope: International
+Severity: Long-lasting
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

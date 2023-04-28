@@ -1,19 +1,11 @@
-scenario: 'fd095331-48f2-4ef5-bd67-57d6899c8b2f
-
-  Random word: discovery
-
-  Scope: International
-
-  Severity: Annoyance
-
-  Region: Eurasia
-
-  Category: Social challenge
-
-  Domain: Social
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Social challenge
+Domain: Social
+Random word: discovery
+Region: Eurasia
+Scenario: 9928b73d-d7ba-4a3f-8ed8-4efc2b61c484
+Scope: International
+Severity: Annoyance
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

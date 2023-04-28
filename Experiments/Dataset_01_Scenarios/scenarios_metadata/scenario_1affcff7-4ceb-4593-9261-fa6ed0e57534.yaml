@@ -1,18 +1,10 @@
-scenario: '391d01d2-e165-4b7c-a171-9910dbcf3ccd
-
-  Random word: expose
-
-  Scope: Online
-
-  Severity: Critical
-
-  Region: Middle East
-
-  Category: Technological failure
-
-  Domain: Scientific
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Technological failure
+Domain: Scientific
+Random word: expose
+Region: Middle East
+Scenario: 1affcff7-4ceb-4593-9261-fa6ed0e57534
+Scope: Online
+Severity: Critical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

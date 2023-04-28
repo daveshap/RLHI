@@ -1,19 +1,11 @@
-scenario: '19f3e635-060d-429e-a8c1-a2e49551e198
-
-  Random word: rhythm
-
-  Scope: Intergalactic
-
-  Severity: Life-threatening
-
-  Region: Eurasia
-
-  Category: Environmental issue
-
-  Domain: Physical
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Environmental issue
+Domain: Physical
+Random word: rhythm
+Region: Eurasia
+Scenario: d7c078c7-d34d-411f-8e70-10726b346b57
+Scope: Intergalactic
+Severity: Life-threatening
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

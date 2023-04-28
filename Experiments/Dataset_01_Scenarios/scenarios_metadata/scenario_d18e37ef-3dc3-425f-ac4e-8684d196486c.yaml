@@ -1,18 +1,10 @@
-scenario: '4d8d5633-8a16-4bc8-b9e1-b8cda6c156eb
-
-  Random word: reporter
-
-  Scope: Interpersonal
-
-  Severity: Irreversible
-
-  Region: South Pacific
-
-  Category: AI Control Problem
-
-  Domain: Political
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: AI Control Problem
+Domain: Political
+Random word: reporter
+Region: South Pacific
+Scenario: d18e37ef-3dc3-425f-ac4e-8684d196486c
+Scope: Interpersonal
+Severity: Irreversible
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

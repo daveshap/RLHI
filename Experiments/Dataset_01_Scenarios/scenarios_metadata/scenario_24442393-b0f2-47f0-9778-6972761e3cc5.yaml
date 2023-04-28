@@ -1,19 +1,11 @@
-scenario: 'ffa3be76-a9cd-4b50-9812-aae226472257
-
-  Random word: pressure
-
-  Scope: Interpersonal
-
-  Severity: Annoyance
-
-  Region: North America
-
-  Category: Conflict or Violence
-
-  Domain: Technological
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Conflict or Violence
+Domain: Technological
+Random word: pressure
+Region: North America
+Scenario: 24442393-b0f2-47f0-9778-6972761e3cc5
+Scope: Interpersonal
+Severity: Annoyance
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

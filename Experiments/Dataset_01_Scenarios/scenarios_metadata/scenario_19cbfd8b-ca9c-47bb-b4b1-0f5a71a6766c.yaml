@@ -1,18 +1,10 @@
-scenario: 'efb1ecf8-00de-4a60-9c8d-46df42be2783
-
-  Random word: sense
-
-  Scope: City or Village
-
-  Severity: Disruptive
-
-  Region: South Asia
-
-  Category: Social challenge
-
-  Domain: Political
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Social challenge
+Domain: Political
+Random word: sense
+Region: South Asia
+Scenario: 19cbfd8b-ca9c-47bb-b4b1-0f5a71a6766c
+Scope: City or Village
+Severity: Disruptive
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

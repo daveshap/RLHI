@@ -1,18 +1,10 @@
-scenario: '456b9d73-bd6c-4090-9d91-19657986a6c1
-
-  Random word: risk
-
-  Scope: Local community or Neighborhood
-
-  Severity: Disruptive
-
-  Region: Pacific
-
-  Category: Conflict or Violence
-
-  Domain: Technological
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Conflict or Violence
+Domain: Technological
+Random word: risk
+Region: Pacific
+Scenario: de9cff7c-8737-4704-99cd-a531f77bc30b
+Scope: Local community or Neighborhood
+Severity: Disruptive
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

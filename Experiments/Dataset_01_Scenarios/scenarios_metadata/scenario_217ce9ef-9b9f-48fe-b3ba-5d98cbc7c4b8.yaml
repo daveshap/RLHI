@@ -1,19 +1,11 @@
-scenario: '04af701f-c28d-4809-be8e-aa60e131d403
-
-  Random word: cell
-
-  Scope: Interstellar
-
-  Severity: Typical
-
-  Region: Middle East
-
-  Category: Social challenge
-
-  Domain: Legal
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Social challenge
+Domain: Legal
+Random word: cell
+Region: Middle East
+Scenario: 217ce9ef-9b9f-48fe-b3ba-5d98cbc7c4b8
+Scope: Interstellar
+Severity: Typical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

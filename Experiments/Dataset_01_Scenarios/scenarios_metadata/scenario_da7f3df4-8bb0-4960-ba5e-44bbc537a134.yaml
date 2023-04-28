@@ -1,19 +1,11 @@
-scenario: '21a1f683-89f1-4bd3-89dd-c8cd75c49e16
-
-  Random word: mean
-
-  Scope: Chosen Family
-
-  Severity: Irreversible
-
-  Region: Eurasia
-
-  Category: Accident or Incident
-
-  Domain: Physical
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Accident or Incident
+Domain: Physical
+Random word: mean
+Region: Eurasia
+Scenario: da7f3df4-8bb0-4960-ba5e-44bbc537a134
+Scope: Chosen Family
+Severity: Irreversible
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

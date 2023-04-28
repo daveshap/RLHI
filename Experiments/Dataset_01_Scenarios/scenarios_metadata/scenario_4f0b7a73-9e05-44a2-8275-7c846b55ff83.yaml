@@ -1,19 +1,11 @@
-scenario: '1f2e5c70-21f4-4a26-9f5a-443729f9de5c
-
-  Random word: approach
-
-  Scope: Interpersonal
-
-  Severity: Serious
-
-  Region: South America
-
-  Category: Mundane issue
-
-  Domain: Environmental
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Mundane issue
+Domain: Environmental
+Random word: approach
+Region: South America
+Scenario: 4f0b7a73-9e05-44a2-8275-7c846b55ff83
+Scope: Interpersonal
+Severity: Serious
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

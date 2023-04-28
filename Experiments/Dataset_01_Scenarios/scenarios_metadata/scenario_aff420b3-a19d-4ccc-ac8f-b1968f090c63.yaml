@@ -1,19 +1,11 @@
-scenario: 'b5503c33-f607-4a72-92ca-92e8f1ae1fce
-
-  Random word: listen
-
-  Scope: Interpersonal
-
-  Severity: Insignificant
-
-  Region: Asia
-
-  Category: Political unrest
-
-  Domain: Scientific
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Political unrest
+Domain: Scientific
+Random word: listen
+Region: Asia
+Scenario: aff420b3-a19d-4ccc-ac8f-b1968f090c63
+Scope: Interpersonal
+Severity: Insignificant
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

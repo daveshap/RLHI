@@ -1,18 +1,10 @@
-scenario: '548834fa-1b5d-4ceb-ac3e-65c588a3b7b3
-
-  Random word: check
-
-  Scope: Extended Family
-
-  Severity: Ordinary
-
-  Region: Subsaharan Africa
-
-  Category: Ethical dilemma
-
-  Domain: Cultural
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Ethical dilemma
+Domain: Cultural
+Random word: check
+Region: Subsaharan Africa
+Scenario: bce6be97-52a1-4eb8-a95f-a5f8039f91a1
+Scope: Extended Family
+Severity: Ordinary
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

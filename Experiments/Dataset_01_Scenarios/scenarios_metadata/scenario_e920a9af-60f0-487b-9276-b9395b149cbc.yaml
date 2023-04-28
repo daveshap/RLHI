@@ -1,19 +1,11 @@
-scenario: 'c79fd4ac-aa0a-4cd1-a302-993c680afd76
-
-  Random word: us
-
-  Scope: International
-
-  Severity: Life-threatening
-
-  Region: Subsaharan Africa
-
-  Category: Mundane issue
-
-  Domain: Educational
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Mundane issue
+Domain: Educational
+Random word: us
+Region: Subsaharan Africa
+Scenario: e920a9af-60f0-487b-9276-b9395b149cbc
+Scope: International
+Severity: Life-threatening
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

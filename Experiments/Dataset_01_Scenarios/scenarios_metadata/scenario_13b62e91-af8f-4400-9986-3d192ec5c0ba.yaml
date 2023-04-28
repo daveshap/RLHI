@@ -1,19 +1,11 @@
-scenario: '74a1df9a-6793-4381-905f-0c816e4f1486
-
-  Random word: building
-
-  Scope: Chosen Family
-
-  Severity: Serious
-
-  Region: South Pacific
-
-  Category: Conflict or Violence
-
-  Domain: Cultural
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Conflict or Violence
+Domain: Cultural
+Random word: building
+Region: South Pacific
+Scenario: 13b62e91-af8f-4400-9986-3d192ec5c0ba
+Scope: Chosen Family
+Severity: Serious
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

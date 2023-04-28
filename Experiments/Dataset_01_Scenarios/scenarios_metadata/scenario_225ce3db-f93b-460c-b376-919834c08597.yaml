@@ -1,18 +1,10 @@
-scenario: '48731675-662c-4900-9314-f596c0d01ee3
-
-  Random word: chief
-
-  Scope: Intergalactic
-
-  Severity: Irreversible
-
-  Region: South Pacific
-
-  Category: Technological failure
-
-  Domain: Intellectual
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Technological failure
+Domain: Intellectual
+Random word: chief
+Region: South Pacific
+Scenario: 225ce3db-f93b-460c-b376-919834c08597
+Scope: Intergalactic
+Severity: Irreversible
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

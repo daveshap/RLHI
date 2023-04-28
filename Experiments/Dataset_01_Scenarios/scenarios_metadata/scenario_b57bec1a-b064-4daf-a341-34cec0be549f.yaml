@@ -1,19 +1,11 @@
-scenario: '1b9ae441-5832-4af6-81e5-ce60161827f3
-
-  Random word: few
-
-  Scope: Regional or Statewide
-
-  Severity: Catastrophic
-
-  Region: Subsaharan Africa
-
-  Category: Technological failure
-
-  Domain: Legal
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Technological failure
+Domain: Legal
+Random word: few
+Region: Subsaharan Africa
+Scenario: b57bec1a-b064-4daf-a341-34cec0be549f
+Scope: Regional or Statewide
+Severity: Catastrophic
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

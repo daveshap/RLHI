@@ -1,19 +1,11 @@
-scenario: '63523bc6-3c03-423c-8ddf-7b3c6b303dea
-
-  Random word: ought
-
-  Scope: Extended Family
-
-  Severity: Ordinary
-
-  Region: South Pacific
-
-  Category: Accident or Incident
-
-  Domain: Physical
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Accident or Incident
+Domain: Physical
+Random word: ought
+Region: South Pacific
+Scenario: eab3203f-8f6a-4238-ba35-609bfbbf5e75
+Scope: Extended Family
+Severity: Ordinary
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

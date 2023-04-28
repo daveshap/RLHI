@@ -1,18 +1,10 @@
-scenario: '7304044e-0a09-4704-ac04-70572387da37
-
-  Random word: brain
-
-  Scope: Continental
-
-  Severity: Serious
-
-  Region: South Pacific
-
-  Category: Conflict or Violence
-
-  Domain: Economic
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Conflict or Violence
+Domain: Economic
+Random word: brain
+Region: South Pacific
+Scenario: 49c8f259-7782-4b1f-a2d9-1e851366bb96
+Scope: Continental
+Severity: Serious
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

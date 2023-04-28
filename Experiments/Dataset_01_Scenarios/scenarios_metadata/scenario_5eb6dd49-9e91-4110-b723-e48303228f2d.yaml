@@ -1,19 +1,11 @@
-scenario: 'dddf0a68-1f4b-46dc-87b6-15688c54f4f4
-
-  Random word: note
-
-  Scope: Interstellar
-
-  Severity: Life-threatening
-
-  Region: Europe
-
-  Category: Disagreement or Argument
-
-  Domain: Technological
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Disagreement or Argument
+Domain: Technological
+Random word: note
+Region: Europe
+Scenario: 5eb6dd49-9e91-4110-b723-e48303228f2d
+Scope: Interstellar
+Severity: Life-threatening
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

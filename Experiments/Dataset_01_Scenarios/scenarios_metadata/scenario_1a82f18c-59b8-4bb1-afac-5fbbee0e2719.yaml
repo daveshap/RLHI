@@ -1,18 +1,10 @@
-scenario: '914d94c9-76ef-4862-b5ca-ea215a111a91
-
-  Random word: cell
-
-  Scope: Personal or Individual
-
-  Severity: Typical
-
-  Region: South Asia
-
-  Category: Conflict or Violence
-
-  Domain: Physical
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Conflict or Violence
+Domain: Physical
+Random word: cell
+Region: South Asia
+Scenario: 1a82f18c-59b8-4bb1-afac-5fbbee0e2719
+Scope: Personal or Individual
+Severity: Typical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

@@ -1,19 +1,11 @@
-scenario: 'af1974c0-27d6-4d91-966e-3185485f2ba5
-
-  Random word: competitive
-
-  Scope: Personal or Individual
-
-  Severity: Typical
-
-  Region: Middle East
-
-  Category: AI Control Problem
-
-  Domain: Philosophical
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: AI Control Problem
+Domain: Philosophical
+Random word: competitive
+Region: Middle East
+Scenario: c7422051-a0a2-41ce-8dae-868cc6cc41f0
+Scope: Personal or Individual
+Severity: Typical
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

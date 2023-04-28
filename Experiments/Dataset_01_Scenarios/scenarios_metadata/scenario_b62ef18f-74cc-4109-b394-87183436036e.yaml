@@ -1,19 +1,11 @@
-scenario: 'dc6f6f7b-40f4-41eb-b434-d8347310b8b8
-
-  Random word: examine
-
-  Scope: Personal or Individual
-
-  Severity: Ordinary
-
-  Region: South America
-
-  Category: Technological failure
-
-  Domain: Legal
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Technological failure
+Domain: Legal
+Random word: examine
+Region: South America
+Scenario: b62ef18f-74cc-4109-b394-87183436036e
+Scope: Personal or Individual
+Severity: Ordinary
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

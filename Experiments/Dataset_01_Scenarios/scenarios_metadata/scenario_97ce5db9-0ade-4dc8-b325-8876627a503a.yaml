@@ -1,19 +1,11 @@
-scenario: 'b97f0bc4-19cf-4088-ac53-ca66cd888f6a
-
-  Random word: stranger
-
-  Scope: Extended Family
-
-  Severity: Irreversible
-
-  Region: North America
-
-  Category: Mundane issue
-
-  Domain: Economic
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Mundane issue
+Domain: Economic
+Random word: stranger
+Region: North America
+Scenario: 97ce5db9-0ade-4dc8-b325-8876627a503a
+Scope: Extended Family
+Severity: Irreversible
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

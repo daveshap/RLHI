@@ -1,18 +1,10 @@
-scenario: '2c013f9a-c969-4579-aaee-5b8d8158a0d0
-
-  Random word: guideline
-
-  Scope: Extended Family
-
-  Severity: Catastrophic
-
-  Region: Europe
-
-  Category: Accident or Incident
-
-  Domain: Cultural
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Accident or Incident
+Domain: Cultural
+Random word: guideline
+Region: Europe
+Scenario: 42b19721-bb18-4c83-9a2c-e850125d8e7d
+Scope: Extended Family
+Severity: Catastrophic
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

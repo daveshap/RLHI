@@ -1,19 +1,11 @@
-scenario: 'cda1ce9c-9ba0-4135-9efd-c9caf54af572
-
-  Random word: admire
-
-  Scope: International
-
-  Severity: Catastrophic
-
-  Region: South Asia
-
-  Category: Environmental issue
-
-  Domain: Social
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Environmental issue
+Domain: Social
+Random word: admire
+Region: South Asia
+Scenario: c7a7efda-dc8f-472b-8eb0-1be410b1276c
+Scope: International
+Severity: Catastrophic
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

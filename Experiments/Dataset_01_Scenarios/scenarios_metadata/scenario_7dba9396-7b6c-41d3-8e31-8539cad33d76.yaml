@@ -1,19 +1,11 @@
-scenario: '3d025df7-3376-49ed-9465-c6755735eed1
-
-  Random word: car
-
-  Scope: Nuclear Family
-
-  Severity: Insignificant
-
-  Region: Eurasia
-
-  Category: Social challenge
-
-  Domain: Emotional
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Social challenge
+Domain: Emotional
+Random word: car
+Region: Eurasia
+Scenario: 7dba9396-7b6c-41d3-8e31-8539cad33d76
+Scope: Nuclear Family
+Severity: Insignificant
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

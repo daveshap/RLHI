@@ -1,19 +1,11 @@
-scenario: '4823db4c-1203-4999-b631-1c8b4493004e
-
-  Random word: painting
-
-  Scope: Extended Family
-
-  Severity: Annoyance
-
-  Region: Subsaharan Africa
-
-  Category: Conflict or Violence
-
-  Domain: Environmental
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Conflict or Violence
+Domain: Environmental
+Random word: painting
+Region: Subsaharan Africa
+Scenario: cf31f2a9-3111-4e0b-82a8-fac0dfbf4339
+Scope: Extended Family
+Severity: Annoyance
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

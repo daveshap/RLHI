@@ -1,18 +1,10 @@
-scenario: '0c4ab381-da24-4d5d-b8f7-ea61581b53d7
-
-  Random word: pitch
-
-  Scope: Interstellar
-
-  Severity: Serious
-
-  Region: Subsaharan Africa
-
-  Category: Social challenge
-
-  Domain: Social
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Social challenge
+Domain: Social
+Random word: pitch
+Region: Subsaharan Africa
+Scenario: 92d4aad5-c91a-4a50-9f7e-08ff597fdd04
+Scope: Interstellar
+Severity: Serious
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

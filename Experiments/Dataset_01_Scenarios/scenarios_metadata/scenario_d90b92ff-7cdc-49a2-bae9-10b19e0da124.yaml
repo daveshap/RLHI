@@ -1,19 +1,11 @@
-scenario: '22fa3238-5ba7-4462-9187-327dba269f68
-
-  Random word: Japanese
-
-  Scope: Extended Family
-
-  Severity: Long-lasting
-
-  Region: Subsaharan Africa
-
-  Category: Mundane issue
-
-  Domain: Cultural
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Mundane issue
+Domain: Cultural
+Random word: Japanese
+Region: Subsaharan Africa
+Scenario: d90b92ff-7cdc-49a2-bae9-10b19e0da124
+Scope: Extended Family
+Severity: Long-lasting
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

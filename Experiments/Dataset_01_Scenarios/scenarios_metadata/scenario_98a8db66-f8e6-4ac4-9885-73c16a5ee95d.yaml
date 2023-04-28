@@ -1,19 +1,11 @@
-scenario: '9d324698-5909-4db4-8a4e-4c8b972b883e
-
-  Random word: potato
-
-  Scope: Local community or Neighborhood
-
-  Severity: Critical
-
-  Region: South Asia
-
-  Category: Political unrest
-
-  Domain: Environmental
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Political unrest
+Domain: Environmental
+Random word: potato
+Region: South Asia
+Scenario: 98a8db66-f8e6-4ac4-9885-73c16a5ee95d
+Scope: Local community or Neighborhood
+Severity: Critical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

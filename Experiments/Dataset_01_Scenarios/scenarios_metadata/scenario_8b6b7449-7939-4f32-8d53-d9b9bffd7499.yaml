@@ -1,19 +1,11 @@
-scenario: '2fd2fbff-e336-413c-87de-b516d83c1afc
-
-  Random word: Ms
-
-  Scope: City or Village
-
-  Severity: Insignificant
-
-  Region: Europe
-
-  Category: Disagreement or Argument
-
-  Domain: Emotional
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Disagreement or Argument
+Domain: Emotional
+Random word: Ms
+Region: Europe
+Scenario: 8b6b7449-7939-4f32-8d53-d9b9bffd7499
+Scope: City or Village
+Severity: Insignificant
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

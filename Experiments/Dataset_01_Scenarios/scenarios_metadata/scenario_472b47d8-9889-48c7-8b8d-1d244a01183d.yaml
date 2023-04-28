@@ -1,19 +1,11 @@
-scenario: '34d243ec-6555-4058-b981-a4e4490b7d70
-
-  Random word: warning
-
-  Scope: City or Village
-
-  Severity: Long-lasting
-
-  Region: Europe
-
-  Category: Ethical dilemma
-
-  Domain: Spiritual or Religious
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Ethical dilemma
+Domain: Spiritual or Religious
+Random word: warning
+Region: Europe
+Scenario: 472b47d8-9889-48c7-8b8d-1d244a01183d
+Scope: City or Village
+Severity: Long-lasting
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

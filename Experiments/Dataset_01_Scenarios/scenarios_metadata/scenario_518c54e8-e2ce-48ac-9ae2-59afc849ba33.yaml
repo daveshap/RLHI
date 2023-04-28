@@ -1,18 +1,10 @@
-scenario: '33d3174b-1458-4ae3-a13e-27aba316a6ba
-
-  Random word: far
-
-  Scope: Personal or Individual
-
-  Severity: Serious
-
-  Region: Asia
-
-  Category: Accident or Incident
-
-  Domain: Scientific
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Accident or Incident
+Domain: Scientific
+Random word: far
+Region: Asia
+Scenario: 518c54e8-e2ce-48ac-9ae2-59afc849ba33
+Scope: Personal or Individual
+Severity: Serious
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

@@ -1,19 +1,11 @@
-scenario: 'da7afcc5-fe86-456d-920f-3f3edeb603e5
-
-  Random word: traffic
-
-  Scope: Chosen Family
-
-  Severity: Life-threatening
-
-  Region: Pacific
-
-  Category: AI Control Problem
-
-  Domain: Scientific
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: AI Control Problem
+Domain: Scientific
+Random word: traffic
+Region: Pacific
+Scenario: 4ac2a003-55cf-4c18-82d8-717d0c190473
+Scope: Chosen Family
+Severity: Life-threatening
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

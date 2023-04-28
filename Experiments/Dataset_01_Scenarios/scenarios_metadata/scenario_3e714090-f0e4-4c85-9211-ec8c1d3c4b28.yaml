@@ -1,18 +1,10 @@
-scenario: '24a6df09-b28d-48e8-9f0c-36e734eed5af
-
-  Random word: desperate
-
-  Scope: Online
-
-  Severity: Irreversible
-
-  Region: South Pacific
-
-  Category: Accident or Incident
-
-  Domain: Emotional
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Accident or Incident
+Domain: Emotional
+Random word: desperate
+Region: South Pacific
+Scenario: 3e714090-f0e4-4c85-9211-ec8c1d3c4b28
+Scope: Online
+Severity: Irreversible
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

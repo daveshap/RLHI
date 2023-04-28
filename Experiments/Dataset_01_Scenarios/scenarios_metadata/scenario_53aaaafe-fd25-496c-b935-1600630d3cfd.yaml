@@ -1,19 +1,11 @@
-scenario: 'f5f1e937-fd55-42ee-86bb-8bc913f22620
-
-  Random word: competitor
-
-  Scope: Professional
-
-  Severity: Typical
-
-  Region: Europe
-
-  Category: Health concern
-
-  Domain: Political
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Health concern
+Domain: Political
+Random word: competitor
+Region: Europe
+Scenario: 53aaaafe-fd25-496c-b935-1600630d3cfd
+Scope: Professional
+Severity: Typical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

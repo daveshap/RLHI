@@ -1,19 +1,11 @@
-scenario: '2bf4afcd-8a7c-4f02-9beb-82eee84344a5
-
-  Random word: grain
-
-  Scope: Regional or Statewide
-
-  Severity: Life-threatening
-
-  Region: Middle East
-
-  Category: AI Control Problem
-
-  Domain: Educational
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: AI Control Problem
+Domain: Educational
+Random word: grain
+Region: Middle East
+Scenario: 8b66c979-f967-4b98-89c0-85f3d102c147
+Scope: Regional or Statewide
+Severity: Life-threatening
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

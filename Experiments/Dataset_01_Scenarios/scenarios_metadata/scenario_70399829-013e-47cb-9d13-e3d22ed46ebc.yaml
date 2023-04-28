@@ -1,18 +1,10 @@
-scenario: 'c3fab7a2-72c6-4952-93ac-6ec613aa3728
-
-  Random word: factor
-
-  Scope: Professional
-
-  Severity: Irreversible
-
-  Region: South Pacific
-
-  Category: Social challenge
-
-  Domain: Educational
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Social challenge
+Domain: Educational
+Random word: factor
+Region: South Pacific
+Scenario: 70399829-013e-47cb-9d13-e3d22ed46ebc
+Scope: Professional
+Severity: Irreversible
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

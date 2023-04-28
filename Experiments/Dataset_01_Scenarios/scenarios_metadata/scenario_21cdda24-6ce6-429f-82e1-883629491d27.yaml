@@ -1,18 +1,10 @@
-scenario: 'cd95ef75-d96a-46f9-82dd-d694d7bdd747
-
-  Random word: economist
-
-  Scope: Nuclear Family
-
-  Severity: Dangerous
-
-  Region: South America
-
-  Category: Conflict or Violence
-
-  Domain: Cultural
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Conflict or Violence
+Domain: Cultural
+Random word: economist
+Region: South America
+Scenario: 21cdda24-6ce6-429f-82e1-883629491d27
+Scope: Nuclear Family
+Severity: Dangerous
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

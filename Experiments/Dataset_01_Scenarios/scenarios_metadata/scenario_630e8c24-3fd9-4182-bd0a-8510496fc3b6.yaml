@@ -1,19 +1,11 @@
-scenario: 'a2991ca5-e32e-4e73-b07e-6c5c81046d59
-
-  Random word: widespread
-
-  Scope: Professional
-
-  Severity: Catastrophic
-
-  Region: North America
-
-  Category: Mundane issue
-
-  Domain: Educational
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Mundane issue
+Domain: Educational
+Random word: widespread
+Region: North America
+Scenario: 630e8c24-3fd9-4182-bd0a-8510496fc3b6
+Scope: Professional
+Severity: Catastrophic
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

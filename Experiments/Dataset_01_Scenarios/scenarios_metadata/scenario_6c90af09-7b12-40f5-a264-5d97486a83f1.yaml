@@ -1,18 +1,10 @@
-scenario: '0df2e171-c904-49e9-96fe-ba9aa91a617e
-
-  Random word: educational
-
-  Scope: Intergalactic
-
-  Severity: Disruptive
-
-  Region: Pacific
-
-  Category: Disagreement or Argument
-
-  Domain: Philosophical
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Disagreement or Argument
+Domain: Philosophical
+Random word: educational
+Region: Pacific
+Scenario: 6c90af09-7b12-40f5-a264-5d97486a83f1
+Scope: Intergalactic
+Severity: Disruptive
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

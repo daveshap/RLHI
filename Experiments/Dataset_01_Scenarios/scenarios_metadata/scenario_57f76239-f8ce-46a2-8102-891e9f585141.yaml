@@ -1,19 +1,11 @@
-scenario: '21bd38bf-20af-4978-a23d-550c3d806116
-
-  Random word: assess
-
-  Scope: Online
-
-  Severity: Critical
-
-  Region: South Asia
-
-  Category: Technological failure
-
-  Domain: Scientific
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Technological failure
+Domain: Scientific
+Random word: assess
+Region: South Asia
+Scenario: 57f76239-f8ce-46a2-8102-891e9f585141
+Scope: Online
+Severity: Critical
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

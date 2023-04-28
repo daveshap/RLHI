@@ -1,19 +1,11 @@
-scenario: 'de61d5ac-50e6-4994-9027-09767d1a2243
-
-  Random word: strongly
-
-  Scope: Local community or Neighborhood
-
-  Severity: Annoyance
-
-  Region: Europe
-
-  Category: Natural disaster
-
-  Domain: Environmental
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Natural disaster
+Domain: Environmental
+Random word: strongly
+Region: Europe
+Scenario: 98e41657-fff1-4e9c-918b-eee0b2e94f43
+Scope: Local community or Neighborhood
+Severity: Annoyance
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

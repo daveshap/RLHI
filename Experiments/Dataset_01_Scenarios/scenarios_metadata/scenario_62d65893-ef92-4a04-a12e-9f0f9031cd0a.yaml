@@ -1,19 +1,11 @@
-scenario: '526493d8-4d60-450b-acf8-b3356397ec4e
-
-  Random word: sea
-
-  Scope: National or Federal
-
-  Severity: Typical
-
-  Region: Subsaharan Africa
-
-  Category: Technological failure
-
-  Domain: Political
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Technological failure
+Domain: Political
+Random word: sea
+Region: Subsaharan Africa
+Scenario: 62d65893-ef92-4a04-a12e-9f0f9031cd0a
+Scope: National or Federal
+Severity: Typical
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

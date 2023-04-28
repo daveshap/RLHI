@@ -1,19 +1,11 @@
-scenario: 'a91781c5-e717-47a9-986c-ea03d54f501e
-
-  Random word: preference
-
-  Scope: Regional or Statewide
-
-  Severity: Annoyance
-
-  Region: Eurasia
-
-  Category: Natural disaster
-
-  Domain: Economic
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Natural disaster
+Domain: Economic
+Random word: preference
+Region: Eurasia
+Scenario: b645814a-580b-4859-ad57-b7c64982d6e3
+Scope: Regional or Statewide
+Severity: Annoyance
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

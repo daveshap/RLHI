@@ -1,18 +1,10 @@
-scenario: '45a20899-6c4a-4fbe-88b2-f2a718de348f
-
-  Random word: counter
-
-  Scope: International
-
-  Severity: Critical
-
-  Region: South America
-
-  Category: Disagreement or Argument
-
-  Domain: Cultural
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Disagreement or Argument
+Domain: Cultural
+Random word: counter
+Region: South America
+Scenario: 714be3a3-3c7f-44a3-9413-9810c1f347e7
+Scope: International
+Severity: Critical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

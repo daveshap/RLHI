@@ -1,19 +1,11 @@
-scenario: 'fa48ed2a-d5df-483c-a728-103e7f22e499
-
-  Random word: draft
-
-  Scope: Professional
-
-  Severity: Long-lasting
-
-  Region: Middle East
-
-  Category: Environmental issue
-
-  Domain: Political
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Environmental issue
+Domain: Political
+Random word: draft
+Region: Middle East
+Scenario: 0f48cc31-264d-4161-8b31-b142327320fd
+Scope: Professional
+Severity: Long-lasting
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

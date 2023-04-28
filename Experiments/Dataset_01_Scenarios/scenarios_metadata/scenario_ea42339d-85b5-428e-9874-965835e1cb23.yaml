@@ -1,19 +1,11 @@
-scenario: 'a25d3fbf-84b1-4f52-86af-9ff3ecc0d846
-
-  Random word: knife
-
-  Scope: International
-
-  Severity: Ordinary
-
-  Region: Eurasia
-
-  Category: Political unrest
-
-  Domain: Cultural
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Political unrest
+Domain: Cultural
+Random word: knife
+Region: Eurasia
+Scenario: ea42339d-85b5-428e-9874-965835e1cb23
+Scope: International
+Severity: Ordinary
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

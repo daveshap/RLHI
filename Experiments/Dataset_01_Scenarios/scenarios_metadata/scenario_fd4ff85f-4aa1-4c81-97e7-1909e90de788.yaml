@@ -1,18 +1,10 @@
-scenario: 'bb54301b-c9ba-4729-9815-b7d7a65b37d3
-
-  Random word: cycle
-
-  Scope: Interstellar
-
-  Severity: Irreversible
-
-  Region: Europe
-
-  Category: Disagreement or Argument
-
-  Domain: Scientific
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Disagreement or Argument
+Domain: Scientific
+Random word: cycle
+Region: Europe
+Scenario: fd4ff85f-4aa1-4c81-97e7-1909e90de788
+Scope: Interstellar
+Severity: Irreversible
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

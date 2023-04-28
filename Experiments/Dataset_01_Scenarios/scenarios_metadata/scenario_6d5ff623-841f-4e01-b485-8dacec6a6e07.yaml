@@ -1,19 +1,11 @@
-scenario: 'd4de7bdf-9f30-4755-89df-e43895b89167
-
-  Random word: surface
-
-  Scope: Interstellar
-
-  Severity: Ordinary
-
-  Region: South Pacific
-
-  Category: Ethical dilemma
-
-  Domain: Emotional
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Ethical dilemma
+Domain: Emotional
+Random word: surface
+Region: South Pacific
+Scenario: 6d5ff623-841f-4e01-b485-8dacec6a6e07
+Scope: Interstellar
+Severity: Ordinary
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

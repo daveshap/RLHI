@@ -1,19 +1,11 @@
-scenario: '1d678741-f92a-4436-bdd5-7921e960b0d3
-
-  Random word: belong
-
-  Scope: Personal or Individual
-
-  Severity: Serious
-
-  Region: Pacific
-
-  Category: Health concern
-
-  Domain: Political
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Health concern
+Domain: Political
+Random word: belong
+Region: Pacific
+Scenario: 0b36a31f-1e3d-4711-91bf-0e2a4db00ef7
+Scope: Personal or Individual
+Severity: Serious
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

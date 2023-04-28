@@ -1,19 +1,11 @@
-scenario: '31c56ec9-e5c9-4456-9447-eb58e8715704
-
-  Random word: contain
-
-  Scope: Cosmic or Universal
-
-  Severity: Critical
-
-  Region: South America
-
-  Category: Political unrest
-
-  Domain: Environmental
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Political unrest
+Domain: Environmental
+Random word: contain
+Region: South America
+Scenario: f6c4b427-a236-477c-8ff2-617402b473ca
+Scope: Cosmic or Universal
+Severity: Critical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

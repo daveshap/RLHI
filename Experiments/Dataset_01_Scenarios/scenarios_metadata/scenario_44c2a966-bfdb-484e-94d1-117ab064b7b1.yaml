@@ -1,19 +1,11 @@
-scenario: '2231250a-7377-4ef3-871a-6d2c4a8a336c
-
-  Random word: motion
-
-  Scope: National or Federal
-
-  Severity: Irreversible
-
-  Region: Subsaharan Africa
-
-  Category: Ethical dilemma
-
-  Domain: Environmental
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Ethical dilemma
+Domain: Environmental
+Random word: motion
+Region: Subsaharan Africa
+Scenario: 44c2a966-bfdb-484e-94d1-117ab064b7b1
+Scope: National or Federal
+Severity: Irreversible
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

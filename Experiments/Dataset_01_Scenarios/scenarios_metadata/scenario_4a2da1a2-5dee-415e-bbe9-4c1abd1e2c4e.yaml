@@ -1,19 +1,11 @@
-scenario: '87167ddc-ac8b-4f4d-b00a-f06edc3f56a9
-
-  Random word: sink
-
-  Scope: Continental
-
-  Severity: Annoyance
-
-  Region: Asia
-
-  Category: Disagreement or Argument
-
-  Domain: Cultural
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Disagreement or Argument
+Domain: Cultural
+Random word: sink
+Region: Asia
+Scenario: 4a2da1a2-5dee-415e-bbe9-4c1abd1e2c4e
+Scope: Continental
+Severity: Annoyance
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

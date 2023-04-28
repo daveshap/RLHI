@@ -1,19 +1,11 @@
-scenario: 'c8ed43b8-2ce9-44b8-a2cf-6ba5b8560d9c
-
-  Random word: broad
-
-  Scope: Online
-
-  Severity: Insignificant
-
-  Region: Middle East
-
-  Category: Accident or Incident
-
-  Domain: Philosophical
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Accident or Incident
+Domain: Philosophical
+Random word: broad
+Region: Middle East
+Scenario: 1118f648-9dfd-4dca-92df-dd6cc7450a1f
+Scope: Online
+Severity: Insignificant
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

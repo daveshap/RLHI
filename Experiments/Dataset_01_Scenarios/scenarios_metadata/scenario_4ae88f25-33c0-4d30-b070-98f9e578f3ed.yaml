@@ -1,18 +1,10 @@
-scenario: '89808a43-ed6f-4396-b63d-bddd5d1730e3
-
-  Random word: obvious
-
-  Scope: National or Federal
-
-  Severity: Annoyance
-
-  Region: South Asia
-
-  Category: Technological failure
-
-  Domain: Political
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Technological failure
+Domain: Political
+Random word: obvious
+Region: South Asia
+Scenario: 4ae88f25-33c0-4d30-b070-98f9e578f3ed
+Scope: National or Federal
+Severity: Annoyance
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

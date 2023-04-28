@@ -1,19 +1,11 @@
-scenario: 'e5d5eeeb-7bbc-44d9-9625-cfb10828dd62
-
-  Random word: secretary
-
-  Scope: Nuclear Family
-
-  Severity: Annoyance
-
-  Region: North Africa
-
-  Category: Natural disaster
-
-  Domain: Philosophical
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Natural disaster
+Domain: Philosophical
+Random word: secretary
+Region: North Africa
+Scenario: b71926e5-810d-44ad-8477-9053addb32b0
+Scope: Nuclear Family
+Severity: Annoyance
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

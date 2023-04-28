@@ -1,19 +1,11 @@
-scenario: 'ec7b272d-9f3f-4d20-abbb-bb737a7a4924
-
-  Random word: inquiry
-
-  Scope: Continental
-
-  Severity: Life-threatening
-
-  Region: South America
-
-  Category: Disagreement or Argument
-
-  Domain: Emotional
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Disagreement or Argument
+Domain: Emotional
+Random word: inquiry
+Region: South America
+Scenario: 007104e5-72e4-48df-b643-446418214f44
+Scope: Continental
+Severity: Life-threatening
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

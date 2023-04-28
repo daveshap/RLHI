@@ -1,19 +1,11 @@
-scenario: 'b28e1f70-7137-4e03-968e-471ba7b9c629
-
-  Random word: work
-
-  Scope: City or Village
-
-  Severity: Catastrophic
-
-  Region: Pacific
-
-  Category: Mundane issue
-
-  Domain: Scientific
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Mundane issue
+Domain: Scientific
+Random word: work
+Region: Pacific
+Scenario: 1d85e89a-1fef-4d5c-a140-d12f31088a0c
+Scope: City or Village
+Severity: Catastrophic
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

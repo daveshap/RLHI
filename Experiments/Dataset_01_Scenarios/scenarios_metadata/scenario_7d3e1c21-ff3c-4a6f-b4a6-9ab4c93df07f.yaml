@@ -1,19 +1,11 @@
-scenario: '383eba8a-79d9-4eda-983e-457135bd1454
-
-  Random word: funeral
-
-  Scope: Professional
-
-  Severity: Critical
-
-  Region: South America
-
-  Category: Natural disaster
-
-  Domain: Legal
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Natural disaster
+Domain: Legal
+Random word: funeral
+Region: South America
+Scenario: 7d3e1c21-ff3c-4a6f-b4a6-9ab4c93df07f
+Scope: Professional
+Severity: Critical
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

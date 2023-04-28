@@ -1,19 +1,11 @@
-scenario: '354f6f67-a30c-4cdb-bde5-2112f628ddee
-
-  Random word: lip
-
-  Scope: Professional
-
-  Severity: Long-lasting
-
-  Region: Pacific
-
-  Category: Ethical dilemma
-
-  Domain: Environmental
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Ethical dilemma
+Domain: Environmental
+Random word: lip
+Region: Pacific
+Scenario: be6c6e9d-d301-4771-be23-af358ce7d468
+Scope: Professional
+Severity: Long-lasting
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

@@ -1,19 +1,11 @@
-scenario: 'f544492e-0a9d-4c5d-8728-29d364cea5e2
-
-  Random word: ask
-
-  Scope: Local community or Neighborhood
-
-  Severity: Dangerous
-
-  Region: South Asia
-
-  Category: Mundane issue
-
-  Domain: Social
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Mundane issue
+Domain: Social
+Random word: ask
+Region: South Asia
+Scenario: b402abe7-6e20-4cbf-a681-1b825406627d
+Scope: Local community or Neighborhood
+Severity: Dangerous
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

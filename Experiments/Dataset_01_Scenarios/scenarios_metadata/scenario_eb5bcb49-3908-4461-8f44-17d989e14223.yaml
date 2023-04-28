@@ -1,18 +1,10 @@
-scenario: 'a2f93796-aeaf-4c1e-a3f3-0f5aeb08f6ff
-
-  Random word: convert
-
-  Scope: Regional or Statewide
-
-  Severity: Disruptive
-
-  Region: North America
-
-  Category: AI Control Problem
-
-  Domain: Intellectual
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: AI Control Problem
+Domain: Intellectual
+Random word: convert
+Region: North America
+Scenario: eb5bcb49-3908-4461-8f44-17d989e14223
+Scope: Regional or Statewide
+Severity: Disruptive
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

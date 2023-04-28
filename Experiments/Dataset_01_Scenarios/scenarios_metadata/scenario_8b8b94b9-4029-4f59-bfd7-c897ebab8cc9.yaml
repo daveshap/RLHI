@@ -1,18 +1,10 @@
-scenario: '11dd0b4e-fc59-4ea5-90fd-7c6fa69c2ce6
-
-  Random word: deliver
-
-  Scope: City or Village
-
-  Severity: Critical
-
-  Region: South America
-
-  Category: Political unrest
-
-  Domain: Legal
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Political unrest
+Domain: Legal
+Random word: deliver
+Region: South America
+Scenario: 8b8b94b9-4029-4f59-bfd7-c897ebab8cc9
+Scope: City or Village
+Severity: Critical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

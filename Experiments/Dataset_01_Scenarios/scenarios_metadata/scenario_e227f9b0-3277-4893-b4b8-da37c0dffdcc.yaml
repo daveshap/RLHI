@@ -1,19 +1,11 @@
-scenario: '052c0393-764f-4a7d-a897-d6eef6382ae6
-
-  Random word: park
-
-  Scope: Personal or Individual
-
-  Severity: Life-threatening
-
-  Region: South Asia
-
-  Category: Natural disaster
-
-  Domain: Environmental
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Natural disaster
+Domain: Environmental
+Random word: park
+Region: South Asia
+Scenario: e227f9b0-3277-4893-b4b8-da37c0dffdcc
+Scope: Personal or Individual
+Severity: Life-threatening
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

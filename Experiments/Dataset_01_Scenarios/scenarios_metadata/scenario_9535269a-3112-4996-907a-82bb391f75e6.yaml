@@ -1,19 +1,11 @@
-scenario: '16bbb63e-9659-4612-a491-9cb9fc5451ff
-
-  Random word: investigation
-
-  Scope: Personal or Individual
-
-  Severity: Critical
-
-  Region: South America
-
-  Category: Technological failure
-
-  Domain: Philosophical
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Technological failure
+Domain: Philosophical
+Random word: investigation
+Region: South America
+Scenario: 9535269a-3112-4996-907a-82bb391f75e6
+Scope: Personal or Individual
+Severity: Critical
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

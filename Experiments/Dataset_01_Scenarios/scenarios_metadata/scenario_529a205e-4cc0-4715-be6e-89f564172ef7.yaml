@@ -1,19 +1,11 @@
-scenario: '5563e8cd-5db0-48d5-9e88-4399a8c40dc1
-
-  Random word: upper
-
-  Scope: Local community or Neighborhood
-
-  Severity: Catastrophic
-
-  Region: Pacific
-
-  Category: Financial crisis
-
-  Domain: Spiritual or Religious
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Financial crisis
+Domain: Spiritual or Religious
+Random word: upper
+Region: Pacific
+Scenario: 529a205e-4cc0-4715-be6e-89f564172ef7
+Scope: Local community or Neighborhood
+Severity: Catastrophic
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

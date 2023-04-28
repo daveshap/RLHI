@@ -1,19 +1,11 @@
-scenario: '1688a102-9bfd-4a73-92f8-a990c403aa5b
-
-  Random word: week
-
-  Scope: Intergalactic
-
-  Severity: Typical
-
-  Region: North Africa
-
-  Category: Health concern
-
-  Domain: Political
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Health concern
+Domain: Political
+Random word: week
+Region: North Africa
+Scenario: af10b9e6-13f6-445d-8329-7dd91697942c
+Scope: Intergalactic
+Severity: Typical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

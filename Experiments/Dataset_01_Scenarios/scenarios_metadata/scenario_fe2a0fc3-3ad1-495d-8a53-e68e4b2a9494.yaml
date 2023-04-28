@@ -1,19 +1,11 @@
-scenario: '951d0060-6a61-45b0-95ca-731e4eba39b5
-
-  Random word: prison
-
-  Scope: Personal or Individual
-
-  Severity: Annoyance
-
-  Region: Asia
-
-  Category: Mundane issue
-
-  Domain: Spiritual or Religious
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Mundane issue
+Domain: Spiritual or Religious
+Random word: prison
+Region: Asia
+Scenario: fe2a0fc3-3ad1-495d-8a53-e68e4b2a9494
+Scope: Personal or Individual
+Severity: Annoyance
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

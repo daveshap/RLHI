@@ -1,19 +1,11 @@
-scenario: '8367e901-300f-4138-b7b4-d5734ef9c082
-
-  Random word: efficiency
-
-  Scope: National or Federal
-
-  Severity: Typical
-
-  Region: Subsaharan Africa
-
-  Category: Environmental issue
-
-  Domain: Legal
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Environmental issue
+Domain: Legal
+Random word: efficiency
+Region: Subsaharan Africa
+Scenario: 67f988cc-c84a-472e-98a5-e8a2ca4a8e4a
+Scope: National or Federal
+Severity: Typical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

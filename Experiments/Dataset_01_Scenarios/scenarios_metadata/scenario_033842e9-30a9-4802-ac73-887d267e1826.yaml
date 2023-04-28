@@ -1,19 +1,11 @@
-scenario: 'c4cddb13-f0c1-45d6-976a-7236e72e3d50
-
-  Random word: easy
-
-  Scope: International
-
-  Severity: Ordinary
-
-  Region: Europe
-
-  Category: Technological failure
-
-  Domain: Educational
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Technological failure
+Domain: Educational
+Random word: easy
+Region: Europe
+Scenario: 033842e9-30a9-4802-ac73-887d267e1826
+Scope: International
+Severity: Ordinary
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

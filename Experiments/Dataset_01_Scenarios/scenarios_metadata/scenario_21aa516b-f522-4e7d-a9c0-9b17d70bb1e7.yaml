@@ -1,19 +1,11 @@
-scenario: '959d6597-99bd-404f-bc60-50b3d91b3a6c
-
-  Random word: loan
-
-  Scope: Online
-
-  Severity: Irreversible
-
-  Region: Pacific
-
-  Category: Political unrest
-
-  Domain: Political
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Political unrest
+Domain: Political
+Random word: loan
+Region: Pacific
+Scenario: 21aa516b-f522-4e7d-a9c0-9b17d70bb1e7
+Scope: Online
+Severity: Irreversible
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

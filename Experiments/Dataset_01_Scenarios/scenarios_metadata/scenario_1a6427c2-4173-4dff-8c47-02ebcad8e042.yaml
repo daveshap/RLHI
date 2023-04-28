@@ -1,19 +1,11 @@
-scenario: '52613646-bb98-4a85-a410-ec88b19c2486
-
-  Random word: temporary
-
-  Scope: Continental
-
-  Severity: Typical
-
-  Region: Eurasia
-
-  Category: Technological failure
-
-  Domain: Technological
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Technological failure
+Domain: Technological
+Random word: temporary
+Region: Eurasia
+Scenario: 1a6427c2-4173-4dff-8c47-02ebcad8e042
+Scope: Continental
+Severity: Typical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

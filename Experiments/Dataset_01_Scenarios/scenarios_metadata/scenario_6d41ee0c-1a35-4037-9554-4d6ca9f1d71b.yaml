@@ -1,19 +1,11 @@
-scenario: 'dcf291e2-edb6-4ef4-8782-a5e144ae972c
-
-  Random word: rid
-
-  Scope: International
-
-  Severity: Serious
-
-  Region: Pacific
-
-  Category: Accident or Incident
-
-  Domain: Technological
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Accident or Incident
+Domain: Technological
+Random word: rid
+Region: Pacific
+Scenario: 6d41ee0c-1a35-4037-9554-4d6ca9f1d71b
+Scope: International
+Severity: Serious
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

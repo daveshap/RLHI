@@ -1,19 +1,11 @@
-scenario: '7f28dbbc-d89e-4fbb-a48e-c91682ca0b47
-
-  Random word: purpose
-
-  Scope: Intergalactic
-
-  Severity: Ordinary
-
-  Region: South America
-
-  Category: Environmental issue
-
-  Domain: Scientific
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Environmental issue
+Domain: Scientific
+Random word: purpose
+Region: South America
+Scenario: 9f057022-c7b6-4698-a2da-bcfc4a58966c
+Scope: Intergalactic
+Severity: Ordinary
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

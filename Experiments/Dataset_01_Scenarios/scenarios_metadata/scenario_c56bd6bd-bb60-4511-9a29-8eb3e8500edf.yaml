@@ -1,19 +1,11 @@
-scenario: '33080334-bad3-4c65-bcb9-d1803f42cb67
-
-  Random word: helpful
-
-  Scope: Continental
-
-  Severity: Long-lasting
-
-  Region: Eurasia
-
-  Category: Natural disaster
-
-  Domain: Environmental
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Natural disaster
+Domain: Environmental
+Random word: helpful
+Region: Eurasia
+Scenario: c56bd6bd-bb60-4511-9a29-8eb3e8500edf
+Scope: Continental
+Severity: Long-lasting
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

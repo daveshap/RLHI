@@ -1,19 +1,11 @@
-scenario: '0ffe8606-3cbc-404f-a3e3-00c505eadae7
-
-  Random word: kill
-
-  Scope: City or Village
-
-  Severity: Life-threatening
-
-  Region: Asia
-
-  Category: AI Control Problem
-
-  Domain: Technological
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: AI Control Problem
+Domain: Technological
+Random word: kill
+Region: Asia
+Scenario: 18a84e02-e1e6-4c4f-8352-aff5deb266a7
+Scope: City or Village
+Severity: Life-threatening
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

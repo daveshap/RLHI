@@ -1,18 +1,10 @@
-scenario: '84bd46f5-f919-4fd1-b530-1aac0c14b838
-
-  Random word: presidential
-
-  Scope: National or Federal
-
-  Severity: Insignificant
-
-  Region: North America
-
-  Category: Political unrest
-
-  Domain: Intellectual
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Political unrest
+Domain: Intellectual
+Random word: presidential
+Region: North America
+Scenario: 0d852219-fe80-4db6-930d-7e592d1d7591
+Scope: National or Federal
+Severity: Insignificant
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

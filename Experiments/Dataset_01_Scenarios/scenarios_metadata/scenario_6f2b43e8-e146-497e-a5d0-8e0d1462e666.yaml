@@ -1,19 +1,11 @@
-scenario: '2e726b04-37b5-4d2f-915c-82206ecc4902
-
-  Random word: height
-
-  Scope: Continental
-
-  Severity: Critical
-
-  Region: South America
-
-  Category: Social challenge
-
-  Domain: Emotional
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Social challenge
+Domain: Emotional
+Random word: height
+Region: South America
+Scenario: 6f2b43e8-e146-497e-a5d0-8e0d1462e666
+Scope: Continental
+Severity: Critical
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

@@ -1,19 +1,11 @@
-scenario: '4a8c5331-6a54-47cb-892d-e7c84f3adee9
-
-  Random word: crew
-
-  Scope: City or Village
-
-  Severity: Critical
-
-  Region: North America
-
-  Category: AI Control Problem
-
-  Domain: Emotional
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: AI Control Problem
+Domain: Emotional
+Random word: crew
+Region: North America
+Scenario: c5fe12d8-c1fd-45ff-a37a-19a78eb2ea36
+Scope: City or Village
+Severity: Critical
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

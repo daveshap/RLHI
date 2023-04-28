@@ -1,19 +1,11 @@
-scenario: '13362786-4f7e-49f6-9632-58faee4665fc
-
-  Random word: life
-
-  Scope: Nuclear Family
-
-  Severity: Insignificant
-
-  Region: South Pacific
-
-  Category: Natural disaster
-
-  Domain: Political
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Natural disaster
+Domain: Political
+Random word: life
+Region: South Pacific
+Scenario: 86f03e85-1fc8-461a-8dfb-72bc4e2673f7
+Scope: Nuclear Family
+Severity: Insignificant
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

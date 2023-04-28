@@ -1,19 +1,11 @@
-scenario: 'b457c8c7-c815-49de-8359-66cd5b1247f5
-
-  Random word: infection
-
-  Scope: Interpersonal
-
-  Severity: Critical
-
-  Region: Europe
-
-  Category: Social challenge
-
-  Domain: Emotional
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Social challenge
+Domain: Emotional
+Random word: infection
+Region: Europe
+Scenario: 169a3376-6bd3-458c-94ee-20c0cfdd2baf
+Scope: Interpersonal
+Severity: Critical
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

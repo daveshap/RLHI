@@ -1,19 +1,11 @@
-scenario: '5e84a4f5-59ed-489c-a951-1c215a87d649
-
-  Random word: according
-
-  Scope: City or Village
-
-  Severity: Dangerous
-
-  Region: North Africa
-
-  Category: Social challenge
-
-  Domain: Legal
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Social challenge
+Domain: Legal
+Random word: according
+Region: North Africa
+Scenario: 4f25fc23-1723-4777-ba4f-0763fad0a7a1
+Scope: City or Village
+Severity: Dangerous
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

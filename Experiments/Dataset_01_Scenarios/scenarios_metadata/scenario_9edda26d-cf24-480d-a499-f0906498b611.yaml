@@ -1,19 +1,11 @@
-scenario: '9d6d2fa1-4d38-4f12-9cb4-208b904dfbdd
-
-  Random word: strip
-
-  Scope: Interpersonal
-
-  Severity: Ordinary
-
-  Region: Eurasia
-
-  Category: Political unrest
-
-  Domain: Technological
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Political unrest
+Domain: Technological
+Random word: strip
+Region: Eurasia
+Scenario: 9edda26d-cf24-480d-a499-f0906498b611
+Scope: Interpersonal
+Severity: Ordinary
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

@@ -1,19 +1,11 @@
-scenario: 'beaa7d85-aa5f-45ed-971e-46080c5eefd3
-
-  Random word: recent
-
-  Scope: Chosen Family
-
-  Severity: Insignificant
-
-  Region: Europe
-
-  Category: Disagreement or Argument
-
-  Domain: Philosophical
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Disagreement or Argument
+Domain: Philosophical
+Random word: recent
+Region: Europe
+Scenario: 22103273-6700-4ebb-8673-5b92e5344235
+Scope: Chosen Family
+Severity: Insignificant
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,19 +1,11 @@
-scenario: 'e6c00f51-5748-4755-910e-a42124504017
-
-  Random word: dirty
-
-  Scope: Intergalactic
-
-  Severity: Long-lasting
-
-  Region: South America
-
-  Category: Natural disaster
-
-  Domain: Political
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Natural disaster
+Domain: Political
+Random word: dirty
+Region: South America
+Scenario: b990e868-528a-4aa1-95f2-c6b5a49ad61c
+Scope: Intergalactic
+Severity: Long-lasting
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

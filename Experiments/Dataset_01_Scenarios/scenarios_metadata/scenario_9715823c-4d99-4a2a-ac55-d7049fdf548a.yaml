@@ -1,19 +1,11 @@
-scenario: '8d3b1da7-e322-47ad-97b5-de530e46ccbc
-
-  Random word: hospital
-
-  Scope: Extended Family
-
-  Severity: Dangerous
-
-  Region: Europe
-
-  Category: Financial crisis
-
-  Domain: Spiritual or Religious
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Financial crisis
+Domain: Spiritual or Religious
+Random word: hospital
+Region: Europe
+Scenario: 9715823c-4d99-4a2a-ac55-d7049fdf548a
+Scope: Extended Family
+Severity: Dangerous
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

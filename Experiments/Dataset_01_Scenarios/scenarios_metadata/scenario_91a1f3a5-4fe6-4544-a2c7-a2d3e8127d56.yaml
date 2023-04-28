@@ -1,19 +1,11 @@
-scenario: 'ab96504a-94c4-419a-9420-c6c56ce146c9
-
-  Random word: uniform
-
-  Scope: Local community or Neighborhood
-
-  Severity: Typical
-
-  Region: Subsaharan Africa
-
-  Category: Conflict or Violence
-
-  Domain: Technological
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Conflict or Violence
+Domain: Technological
+Random word: uniform
+Region: Subsaharan Africa
+Scenario: 91a1f3a5-4fe6-4544-a2c7-a2d3e8127d56
+Scope: Local community or Neighborhood
+Severity: Typical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

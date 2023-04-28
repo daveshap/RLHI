@@ -1,18 +1,10 @@
-scenario: '738f8835-ff2c-4763-a542-88796dc328e2
-
-  Random word: provision
-
-  Scope: Professional
-
-  Severity: Life-threatening
-
-  Region: Europe
-
-  Category: Mundane issue
-
-  Domain: Economic
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Mundane issue
+Domain: Economic
+Random word: provision
+Region: Europe
+Scenario: 2e3c79e8-6534-466c-9b66-20c4e8b88931
+Scope: Professional
+Severity: Life-threatening
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

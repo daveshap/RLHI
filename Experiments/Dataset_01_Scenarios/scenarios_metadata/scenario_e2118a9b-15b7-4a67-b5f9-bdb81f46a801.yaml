@@ -1,18 +1,10 @@
-scenario: '6b87fe48-3ef2-43ba-a99c-ff4cb7278663
-
-  Random word: inquiry
-
-  Scope: City or Village
-
-  Severity: Life-threatening
-
-  Region: Europe
-
-  Category: Political unrest
-
-  Domain: Economic
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Political unrest
+Domain: Economic
+Random word: inquiry
+Region: Europe
+Scenario: e2118a9b-15b7-4a67-b5f9-bdb81f46a801
+Scope: City or Village
+Severity: Life-threatening
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

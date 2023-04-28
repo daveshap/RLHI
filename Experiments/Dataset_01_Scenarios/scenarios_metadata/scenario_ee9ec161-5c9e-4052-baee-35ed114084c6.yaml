@@ -1,19 +1,11 @@
-scenario: 'f4decd02-2191-4def-9545-4630d905974e
-
-  Random word: lean
-
-  Scope: Local community or Neighborhood
-
-  Severity: Life-threatening
-
-  Region: Asia
-
-  Category: Social challenge
-
-  Domain: Political
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Social challenge
+Domain: Political
+Random word: lean
+Region: Asia
+Scenario: ee9ec161-5c9e-4052-baee-35ed114084c6
+Scope: Local community or Neighborhood
+Severity: Life-threatening
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

@@ -1,19 +1,11 @@
-scenario: 'be0cf4cc-7a88-4185-bbd3-3344dc478789
-
-  Random word: lawyer
-
-  Scope: Regional or Statewide
-
-  Severity: Disruptive
-
-  Region: Europe
-
-  Category: Ethical dilemma
-
-  Domain: Spiritual or Religious
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Ethical dilemma
+Domain: Spiritual or Religious
+Random word: lawyer
+Region: Europe
+Scenario: a923e0d1-ee70-4fbd-ab9f-66ff31e6a09d
+Scope: Regional or Statewide
+Severity: Disruptive
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

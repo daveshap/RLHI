@@ -1,19 +1,11 @@
-scenario: '1131eabd-b53c-4b10-a499-2e0306b44a58
-
-  Random word: forever
-
-  Scope: City or Village
-
-  Severity: Critical
-
-  Region: South Pacific
-
-  Category: AI Control Problem
-
-  Domain: Educational
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: AI Control Problem
+Domain: Educational
+Random word: forever
+Region: South Pacific
+Scenario: da91b731-6b22-4e05-a3c8-d9e106967ac2
+Scope: City or Village
+Severity: Critical
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

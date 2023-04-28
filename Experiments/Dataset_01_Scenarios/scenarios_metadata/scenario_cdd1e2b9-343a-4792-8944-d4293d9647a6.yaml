@@ -1,19 +1,11 @@
-scenario: '57254b18-b3ee-4ac2-8b36-e227ab33111e
-
-  Random word: bend
-
-  Scope: Extended Family
-
-  Severity: Life-threatening
-
-  Region: Pacific
-
-  Category: Financial crisis
-
-  Domain: Physical
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Financial crisis
+Domain: Physical
+Random word: bend
+Region: Pacific
+Scenario: cdd1e2b9-343a-4792-8944-d4293d9647a6
+Scope: Extended Family
+Severity: Life-threatening
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

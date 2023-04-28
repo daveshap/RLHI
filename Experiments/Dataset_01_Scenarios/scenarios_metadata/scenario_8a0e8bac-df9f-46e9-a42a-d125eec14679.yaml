@@ -1,18 +1,10 @@
-scenario: '6ac320df-afc0-4807-9f0e-483ca14fc4e8
-
-  Random word: cost
-
-  Scope: Interstellar
-
-  Severity: Catastrophic
-
-  Region: Pacific
-
-  Category: Ethical dilemma
-
-  Domain: Cultural
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Ethical dilemma
+Domain: Cultural
+Random word: cost
+Region: Pacific
+Scenario: 8a0e8bac-df9f-46e9-a42a-d125eec14679
+Scope: Interstellar
+Severity: Catastrophic
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

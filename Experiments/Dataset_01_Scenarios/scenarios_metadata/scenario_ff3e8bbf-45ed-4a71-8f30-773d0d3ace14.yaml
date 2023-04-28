@@ -1,19 +1,11 @@
-scenario: 'dd63e101-0631-444a-8207-2dab514186a5
-
-  Random word: straight
-
-  Scope: Local community or Neighborhood
-
-  Severity: Typical
-
-  Region: Middle East
-
-  Category: Natural disaster
-
-  Domain: Legal
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Natural disaster
+Domain: Legal
+Random word: straight
+Region: Middle East
+Scenario: ff3e8bbf-45ed-4a71-8f30-773d0d3ace14
+Scope: Local community or Neighborhood
+Severity: Typical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

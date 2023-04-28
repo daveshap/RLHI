@@ -1,19 +1,11 @@
-scenario: 'cebe765b-860e-4316-bf85-ca5533496e81
-
-  Random word: breathe
-
-  Scope: Regional or Statewide
-
-  Severity: Insignificant
-
-  Region: South America
-
-  Category: Disagreement or Argument
-
-  Domain: Philosophical
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Disagreement or Argument
+Domain: Philosophical
+Random word: breathe
+Region: South America
+Scenario: b81d086b-9d1c-4def-9dc5-61b456c59c03
+Scope: Regional or Statewide
+Severity: Insignificant
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

@@ -1,19 +1,11 @@
-scenario: '6ddb0040-02a2-40d3-94b4-3536452d6c1e
-
-  Random word: occasionally
-
-  Scope: Chosen Family
-
-  Severity: Disruptive
-
-  Region: Asia
-
-  Category: Health concern
-
-  Domain: Social
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Health concern
+Domain: Social
+Random word: occasionally
+Region: Asia
+Scenario: 3e51413b-02e7-46c0-8084-bb0ac38b3280
+Scope: Chosen Family
+Severity: Disruptive
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

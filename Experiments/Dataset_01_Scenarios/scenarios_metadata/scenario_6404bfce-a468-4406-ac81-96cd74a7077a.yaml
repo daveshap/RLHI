@@ -1,18 +1,10 @@
-scenario: 'bc54cdb9-3c2a-4632-a3b7-594e9185d4f0
-
-  Random word: raise
-
-  Scope: Regional or Statewide
-
-  Severity: Catastrophic
-
-  Region: Subsaharan Africa
-
-  Category: Political unrest
-
-  Domain: Educational
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Political unrest
+Domain: Educational
+Random word: raise
+Region: Subsaharan Africa
+Scenario: 6404bfce-a468-4406-ac81-96cd74a7077a
+Scope: Regional or Statewide
+Severity: Catastrophic
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

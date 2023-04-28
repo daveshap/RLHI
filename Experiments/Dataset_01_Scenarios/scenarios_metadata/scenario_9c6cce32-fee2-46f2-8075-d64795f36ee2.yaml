@@ -1,19 +1,11 @@
-scenario: '46d7b7d9-2186-430c-a375-489ffd410aab
-
-  Random word: handle
-
-  Scope: Chosen Family
-
-  Severity: Life-threatening
-
-  Region: South Pacific
-
-  Category: Environmental issue
-
-  Domain: Educational
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Environmental issue
+Domain: Educational
+Random word: handle
+Region: South Pacific
+Scenario: 9c6cce32-fee2-46f2-8075-d64795f36ee2
+Scope: Chosen Family
+Severity: Life-threatening
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

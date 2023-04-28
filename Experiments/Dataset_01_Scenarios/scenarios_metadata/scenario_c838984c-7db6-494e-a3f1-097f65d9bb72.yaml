@@ -1,19 +1,11 @@
-scenario: '547602a1-49f5-4219-a011-9445acd21cd2
-
-  Random word: greatest
-
-  Scope: Intergalactic
-
-  Severity: Disruptive
-
-  Region: Eurasia
-
-  Category: Mundane issue
-
-  Domain: Emotional
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Mundane issue
+Domain: Emotional
+Random word: greatest
+Region: Eurasia
+Scenario: c838984c-7db6-494e-a3f1-097f65d9bb72
+Scope: Intergalactic
+Severity: Disruptive
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

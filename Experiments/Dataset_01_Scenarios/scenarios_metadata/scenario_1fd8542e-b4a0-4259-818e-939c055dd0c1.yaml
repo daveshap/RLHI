@@ -1,18 +1,10 @@
-scenario: '827a13a8-c867-45b2-b167-81ebb5b0aaab
-
-  Random word: sport
-
-  Scope: Chosen Family
-
-  Severity: Disruptive
-
-  Region: South Asia
-
-  Category: Technological failure
-
-  Domain: Philosophical
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Technological failure
+Domain: Philosophical
+Random word: sport
+Region: South Asia
+Scenario: 1fd8542e-b4a0-4259-818e-939c055dd0c1
+Scope: Chosen Family
+Severity: Disruptive
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

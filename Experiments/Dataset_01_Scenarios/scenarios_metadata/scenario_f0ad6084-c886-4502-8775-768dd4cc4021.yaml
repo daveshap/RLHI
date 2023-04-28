@@ -1,19 +1,11 @@
-scenario: '92bd9fd0-94d6-439b-9c45-17bd18f513e8
-
-  Random word: shape
-
-  Scope: Continental
-
-  Severity: Disruptive
-
-  Region: North Africa
-
-  Category: Financial crisis
-
-  Domain: Political
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Financial crisis
+Domain: Political
+Random word: shape
+Region: North Africa
+Scenario: f0ad6084-c886-4502-8775-768dd4cc4021
+Scope: Continental
+Severity: Disruptive
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

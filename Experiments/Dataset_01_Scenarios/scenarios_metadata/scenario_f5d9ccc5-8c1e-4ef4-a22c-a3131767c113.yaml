@@ -1,18 +1,10 @@
-scenario: '325ffd92-df92-469c-84b8-47fbb7a8450b
-
-  Random word: transfer
-
-  Scope: Online
-
-  Severity: Long-lasting
-
-  Region: North Africa
-
-  Category: Conflict or Violence
-
-  Domain: Scientific
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Conflict or Violence
+Domain: Scientific
+Random word: transfer
+Region: North Africa
+Scenario: f5d9ccc5-8c1e-4ef4-a22c-a3131767c113
+Scope: Online
+Severity: Long-lasting
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

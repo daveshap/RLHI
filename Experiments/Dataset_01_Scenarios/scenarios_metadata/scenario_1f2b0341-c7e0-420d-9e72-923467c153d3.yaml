@@ -1,19 +1,11 @@
-scenario: '6218aa3d-c7cf-4d15-bb44-6977b69e8b2e
-
-  Random word: rather
-
-  Scope: Cosmic or Universal
-
-  Severity: Irreversible
-
-  Region: Pacific
-
-  Category: Financial crisis
-
-  Domain: Philosophical
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Financial crisis
+Domain: Philosophical
+Random word: rather
+Region: Pacific
+Scenario: 1f2b0341-c7e0-420d-9e72-923467c153d3
+Scope: Cosmic or Universal
+Severity: Irreversible
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

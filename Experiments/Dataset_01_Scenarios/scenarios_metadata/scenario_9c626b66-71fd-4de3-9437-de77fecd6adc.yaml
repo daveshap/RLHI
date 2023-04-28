@@ -1,19 +1,11 @@
-scenario: 'd5e27e39-0ef5-4351-8b5d-d1cbc0261eaf
-
-  Random word: rating
-
-  Scope: Extended Family
-
-  Severity: Long-lasting
-
-  Region: Asia
-
-  Category: Disagreement or Argument
-
-  Domain: Philosophical
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Disagreement or Argument
+Domain: Philosophical
+Random word: rating
+Region: Asia
+Scenario: 9c626b66-71fd-4de3-9437-de77fecd6adc
+Scope: Extended Family
+Severity: Long-lasting
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

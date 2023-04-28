@@ -1,19 +1,11 @@
-scenario: '2a7c8743-503d-48c3-a221-35aea37f37aa
-
-  Random word: when
-
-  Scope: City or Village
-
-  Severity: Annoyance
-
-  Region: South Asia
-
-  Category: Mundane issue
-
-  Domain: Spiritual or Religious
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Mundane issue
+Domain: Spiritual or Religious
+Random word: when
+Region: South Asia
+Scenario: 25775dae-2a65-4f23-96e9-b3f25a3a1435
+Scope: City or Village
+Severity: Annoyance
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

@@ -1,19 +1,11 @@
-scenario: '1d57cb4d-ade3-45e7-990b-0a991a8b6752
-
-  Random word: society
-
-  Scope: International
-
-  Severity: Typical
-
-  Region: Eurasia
-
-  Category: Health concern
-
-  Domain: Environmental
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Health concern
+Domain: Environmental
+Random word: society
+Region: Eurasia
+Scenario: 80d441ee-d5f1-4956-a4ba-8df902611337
+Scope: International
+Severity: Typical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

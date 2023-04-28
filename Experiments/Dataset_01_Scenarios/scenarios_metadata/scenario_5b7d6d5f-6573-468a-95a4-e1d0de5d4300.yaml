@@ -1,19 +1,11 @@
-scenario: '1e606fc3-4c95-40c7-bc32-ff2fa1b9714a
-
-  Random word: expert
-
-  Scope: Interpersonal
-
-  Severity: Catastrophic
-
-  Region: Eurasia
-
-  Category: Conflict or Violence
-
-  Domain: Scientific
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Conflict or Violence
+Domain: Scientific
+Random word: expert
+Region: Eurasia
+Scenario: 5b7d6d5f-6573-468a-95a4-e1d0de5d4300
+Scope: Interpersonal
+Severity: Catastrophic
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

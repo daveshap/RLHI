@@ -1,19 +1,11 @@
-scenario: '6015b9d2-41af-4e46-9376-8e25c1895296
-
-  Random word: agree
-
-  Scope: Regional or Statewide
-
-  Severity: Dangerous
-
-  Region: North America
-
-  Category: Health concern
-
-  Domain: Intellectual
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Health concern
+Domain: Intellectual
+Random word: agree
+Region: North America
+Scenario: 00c71ee0-caa4-4142-9a0d-b1770907fd22
+Scope: Regional or Statewide
+Severity: Dangerous
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,19 +1,11 @@
-scenario: '84aeca55-d1bd-4ff1-837d-2ffa11afbf11
-
-  Random word: chain
-
-  Scope: Online
-
-  Severity: Irreversible
-
-  Region: South Pacific
-
-  Category: Mundane issue
-
-  Domain: Emotional
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Mundane issue
+Domain: Emotional
+Random word: chain
+Region: South Pacific
+Scenario: af07a9fa-849c-47bf-b112-b44b66056765
+Scope: Online
+Severity: Irreversible
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

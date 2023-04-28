@@ -1,18 +1,10 @@
-scenario: '0b465c92-51e5-47f2-b072-706396d513fe
-
-  Random word: condition
-
-  Scope: National or Federal
-
-  Severity: Disruptive
-
-  Region: South Pacific
-
-  Category: Disagreement or Argument
-
-  Domain: Educational
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Disagreement or Argument
+Domain: Educational
+Random word: condition
+Region: South Pacific
+Scenario: 46fc44c3-ea0c-4ba6-bc9f-70ea48f9dc40
+Scope: National or Federal
+Severity: Disruptive
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

@@ -1,19 +1,11 @@
-scenario: '5192480f-0606-49c8-b691-9e8d93c4a8c6
-
-  Random word: collect
-
-  Scope: Global
-
-  Severity: Insignificant
-
-  Region: South Asia
-
-  Category: Technological failure
-
-  Domain: Emotional
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Technological failure
+Domain: Emotional
+Random word: collect
+Region: South Asia
+Scenario: 26fb0417-f73a-46b0-b4db-ebadb46c61cf
+Scope: Global
+Severity: Insignificant
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

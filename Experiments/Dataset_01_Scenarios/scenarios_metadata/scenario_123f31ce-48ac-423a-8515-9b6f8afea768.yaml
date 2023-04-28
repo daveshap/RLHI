@@ -1,19 +1,11 @@
-scenario: 'acd7b1a4-1b86-453f-a17f-e3d49fbee50a
-
-  Random word: coalition
-
-  Scope: Continental
-
-  Severity: Ordinary
-
-  Region: South Pacific
-
-  Category: Technological failure
-
-  Domain: Philosophical
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Technological failure
+Domain: Philosophical
+Random word: coalition
+Region: South Pacific
+Scenario: 123f31ce-48ac-423a-8515-9b6f8afea768
+Scope: Continental
+Severity: Ordinary
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

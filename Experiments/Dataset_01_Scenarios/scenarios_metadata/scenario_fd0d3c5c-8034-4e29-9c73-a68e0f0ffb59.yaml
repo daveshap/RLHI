@@ -1,19 +1,11 @@
-scenario: '86dd6ce3-d5cb-4952-bfdf-67c62204e909
-
-  Random word: sale
-
-  Scope: Extended Family
-
-  Severity: Irreversible
-
-  Region: Middle East
-
-  Category: Environmental issue
-
-  Domain: Legal
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Environmental issue
+Domain: Legal
+Random word: sale
+Region: Middle East
+Scenario: fd0d3c5c-8034-4e29-9c73-a68e0f0ffb59
+Scope: Extended Family
+Severity: Irreversible
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

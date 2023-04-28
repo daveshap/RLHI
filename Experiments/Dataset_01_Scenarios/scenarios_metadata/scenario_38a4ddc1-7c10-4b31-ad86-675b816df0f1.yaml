@@ -1,19 +1,11 @@
-scenario: '0b14ef7c-b117-4af1-b39a-a23d81ae7517
-
-  Random word: locate
-
-  Scope: Regional or Statewide
-
-  Severity: Disruptive
-
-  Region: Europe
-
-  Category: Technological failure
-
-  Domain: Educational
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Technological failure
+Domain: Educational
+Random word: locate
+Region: Europe
+Scenario: 38a4ddc1-7c10-4b31-ad86-675b816df0f1
+Scope: Regional or Statewide
+Severity: Disruptive
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

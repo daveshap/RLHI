@@ -1,19 +1,11 @@
-scenario: '2fbf80f3-c264-4fcb-932f-e6ab21f646bc
-
-  Random word: adult
-
-  Scope: Intergalactic
-
-  Severity: Dangerous
-
-  Region: Middle East
-
-  Category: Social challenge
-
-  Domain: Economic
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Social challenge
+Domain: Economic
+Random word: adult
+Region: Middle East
+Scenario: d6952c43-be16-432a-ad57-bd568cb830d5
+Scope: Intergalactic
+Severity: Dangerous
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

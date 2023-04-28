@@ -1,19 +1,11 @@
-scenario: 'f3a55226-9a7a-441b-a65e-f993d60eb80c
-
-  Random word: attorney
-
-  Scope: Continental
-
-  Severity: Long-lasting
-
-  Region: North Africa
-
-  Category: Ethical dilemma
-
-  Domain: Technological
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Ethical dilemma
+Domain: Technological
+Random word: attorney
+Region: North Africa
+Scenario: e4c6cb67-8f64-4582-bbaa-781cf7075299
+Scope: Continental
+Severity: Long-lasting
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

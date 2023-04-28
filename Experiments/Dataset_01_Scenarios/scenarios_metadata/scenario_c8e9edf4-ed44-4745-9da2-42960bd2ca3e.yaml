@@ -1,19 +1,11 @@
-scenario: '7da5cec9-55c7-4c26-bde6-e43dd0bec96c
-
-  Random word: bake
-
-  Scope: Interstellar
-
-  Severity: Critical
-
-  Region: Middle East
-
-  Category: Accident or Incident
-
-  Domain: Scientific
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Accident or Incident
+Domain: Scientific
+Random word: bake
+Region: Middle East
+Scenario: c8e9edf4-ed44-4745-9da2-42960bd2ca3e
+Scope: Interstellar
+Severity: Critical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

@@ -1,19 +1,11 @@
-scenario: 'e0da6b5c-46cd-4647-9061-b86c540d7838
-
-  Random word: grandmother
-
-  Scope: Regional or Statewide
-
-  Severity: Irreversible
-
-  Region: South Asia
-
-  Category: Natural disaster
-
-  Domain: Scientific
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Natural disaster
+Domain: Scientific
+Random word: grandmother
+Region: South Asia
+Scenario: 00bc4162-4c9b-408c-8b81-e98d4b953688
+Scope: Regional or Statewide
+Severity: Irreversible
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

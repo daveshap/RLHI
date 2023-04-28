@@ -1,18 +1,10 @@
-scenario: '8a0806f5-4d9d-4254-b364-e5023512fb98
-
-  Random word: incredible
-
-  Scope: Extended Family
-
-  Severity: Annoyance
-
-  Region: South Asia
-
-  Category: Financial crisis
-
-  Domain: Intellectual
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Financial crisis
+Domain: Intellectual
+Random word: incredible
+Region: South Asia
+Scenario: 6287837b-0c85-4507-88e1-ff76d443ecea
+Scope: Extended Family
+Severity: Annoyance
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

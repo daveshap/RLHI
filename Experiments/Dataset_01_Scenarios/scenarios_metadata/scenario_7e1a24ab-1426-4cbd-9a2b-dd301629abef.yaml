@@ -1,19 +1,11 @@
-scenario: '767e73d6-dd23-47d6-9852-0a27ba2fa4a0
-
-  Random word: frequent
-
-  Scope: Professional
-
-  Severity: Dangerous
-
-  Region: Eurasia
-
-  Category: AI Control Problem
-
-  Domain: Political
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: AI Control Problem
+Domain: Political
+Random word: frequent
+Region: Eurasia
+Scenario: 7e1a24ab-1426-4cbd-9a2b-dd301629abef
+Scope: Professional
+Severity: Dangerous
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

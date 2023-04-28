@@ -1,19 +1,11 @@
-scenario: '814f1e72-c28b-4bc1-a49a-fb736b6a8b64
-
-  Random word: similarly
-
-  Scope: Intergalactic
-
-  Severity: Disruptive
-
-  Region: South America
-
-  Category: Health concern
-
-  Domain: Cultural
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Health concern
+Domain: Cultural
+Random word: similarly
+Region: South America
+Scenario: 3f2cc198-9874-4e2b-b16a-d9d469ec5468
+Scope: Intergalactic
+Severity: Disruptive
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

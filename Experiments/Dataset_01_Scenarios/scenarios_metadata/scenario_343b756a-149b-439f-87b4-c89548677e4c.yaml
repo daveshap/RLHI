@@ -1,19 +1,11 @@
-scenario: 'e9627917-76a8-4daa-82d8-031b5164d36f
-
-  Random word: time
-
-  Scope: International
-
-  Severity: Typical
-
-  Region: Middle East
-
-  Category: Environmental issue
-
-  Domain: Legal
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Environmental issue
+Domain: Legal
+Random word: time
+Region: Middle East
+Scenario: 343b756a-149b-439f-87b4-c89548677e4c
+Scope: International
+Severity: Typical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

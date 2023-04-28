@@ -1,19 +1,11 @@
-scenario: '6da49105-db31-4cda-8bed-0f0fe50438b1
-
-  Random word: occasionally
-
-  Scope: Global
-
-  Severity: Insignificant
-
-  Region: South Asia
-
-  Category: Environmental issue
-
-  Domain: Economic
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Environmental issue
+Domain: Economic
+Random word: occasionally
+Region: South Asia
+Scenario: cf9dcebb-88dc-4cce-aef5-c646ae9e3f68
+Scope: Global
+Severity: Insignificant
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

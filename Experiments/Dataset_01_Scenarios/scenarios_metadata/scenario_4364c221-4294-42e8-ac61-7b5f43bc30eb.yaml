@@ -1,19 +1,11 @@
-scenario: 'f8c89ccf-6ee5-40ce-aacf-7b7c38fe0647
-
-  Random word: convince
-
-  Scope: Interstellar
-
-  Severity: Long-lasting
-
-  Region: Pacific
-
-  Category: Mundane issue
-
-  Domain: Environmental
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Mundane issue
+Domain: Environmental
+Random word: convince
+Region: Pacific
+Scenario: 4364c221-4294-42e8-ac61-7b5f43bc30eb
+Scope: Interstellar
+Severity: Long-lasting
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

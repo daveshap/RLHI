@@ -1,19 +1,11 @@
-scenario: '0195a7c6-1c0f-4830-a9ff-49bf05f2f088
-
-  Random word: health
-
-  Scope: Professional
-
-  Severity: Dangerous
-
-  Region: Middle East
-
-  Category: Conflict or Violence
-
-  Domain: Legal
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Conflict or Violence
+Domain: Legal
+Random word: health
+Region: Middle East
+Scenario: ee5f2572-c838-41c4-b60a-deb7079272af
+Scope: Professional
+Severity: Dangerous
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

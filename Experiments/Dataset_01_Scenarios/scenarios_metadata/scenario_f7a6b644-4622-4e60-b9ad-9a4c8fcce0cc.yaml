@@ -1,19 +1,11 @@
-scenario: 'edc456c7-3459-4c1c-b3be-aaffb4218c9c
-
-  Random word: reader
-
-  Scope: Extended Family
-
-  Severity: Irreversible
-
-  Region: Eurasia
-
-  Category: Technological failure
-
-  Domain: Political
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Technological failure
+Domain: Political
+Random word: reader
+Region: Eurasia
+Scenario: f7a6b644-4622-4e60-b9ad-9a4c8fcce0cc
+Scope: Extended Family
+Severity: Irreversible
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.
