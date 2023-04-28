@@ -1,18 +1,10 @@
-scenario: '0e1b5308-ecb5-4f17-a33f-72a819bbe426
-
-  Random word: eventually
-
-  Scope: International
-
-  Severity: Insignificant
-
-  Region: Eurasia
-
-  Category: Natural disaster
-
-  Domain: Educational
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Natural disaster
+Domain: Educational
+Random word: eventually
+Region: Eurasia
+Scenario: e93ac67e-d7aa-4b59-b340-a02356fa0239
+Scope: International
+Severity: Insignificant
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

@@ -1,19 +1,11 @@
-scenario: '466a4ea9-7827-41cb-9d95-76e6a7b2eeca
-
-  Random word: basically
-
-  Scope: Interpersonal
-
-  Severity: Annoyance
-
-  Region: Europe
-
-  Category: Mundane issue
-
-  Domain: Scientific
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Mundane issue
+Domain: Scientific
+Random word: basically
+Region: Europe
+Scenario: 3d6ed041-fb48-4da6-be53-dc1b0fa6b2f1
+Scope: Interpersonal
+Severity: Annoyance
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,19 +1,11 @@
-scenario: '572c9c41-b660-4042-8a41-d60f9220274e
-
-  Random word: teaching
-
-  Scope: City or Village
-
-  Severity: Ordinary
-
-  Region: North Africa
-
-  Category: Disagreement or Argument
-
-  Domain: Technological
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Disagreement or Argument
+Domain: Technological
+Random word: teaching
+Region: North Africa
+Scenario: 950aabd0-e678-4510-8c3c-a5eaa9a4e736
+Scope: City or Village
+Severity: Ordinary
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

@@ -1,19 +1,11 @@
-scenario: 'cf9b0959-b993-4bd5-ac6f-500782faf8cb
-
-  Random word: Olympic
-
-  Scope: City or Village
-
-  Severity: Ordinary
-
-  Region: North Africa
-
-  Category: Ethical dilemma
-
-  Domain: Legal
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Ethical dilemma
+Domain: Legal
+Random word: Olympic
+Region: North Africa
+Scenario: d5979786-73ab-4e47-b618-d53885bbe7ba
+Scope: City or Village
+Severity: Ordinary
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

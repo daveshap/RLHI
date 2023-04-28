@@ -1,19 +1,11 @@
-scenario: 'b6bf42df-3207-45c9-bc19-19a34a9b4570
-
-  Random word: potential
-
-  Scope: City or Village
-
-  Severity: Life-threatening
-
-  Region: South America
-
-  Category: Environmental issue
-
-  Domain: Philosophical
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Environmental issue
+Domain: Philosophical
+Random word: potential
+Region: South America
+Scenario: b06766e6-aad1-4f76-8881-7b57996cf480
+Scope: City or Village
+Severity: Life-threatening
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

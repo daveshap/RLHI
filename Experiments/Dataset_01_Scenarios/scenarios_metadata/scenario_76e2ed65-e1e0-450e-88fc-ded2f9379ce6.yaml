@@ -1,19 +1,11 @@
-scenario: '326fa791-c417-449e-8686-1d5416c07a22
-
-  Random word: constant
-
-  Scope: City or Village
-
-  Severity: Dangerous
-
-  Region: South America
-
-  Category: Technological failure
-
-  Domain: Educational
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Technological failure
+Domain: Educational
+Random word: constant
+Region: South America
+Scenario: 76e2ed65-e1e0-450e-88fc-ded2f9379ce6
+Scope: City or Village
+Severity: Dangerous
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

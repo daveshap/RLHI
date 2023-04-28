@@ -1,18 +1,10 @@
-scenario: '3fb20648-4c70-46a5-b1cb-02d368b5d454
-
-  Random word: habit
-
-  Scope: Continental
-
-  Severity: Catastrophic
-
-  Region: South America
-
-  Category: Natural disaster
-
-  Domain: Technological
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Natural disaster
+Domain: Technological
+Random word: habit
+Region: South America
+Scenario: a7e7dd47-3beb-49ff-8df2-84006e9c3b15
+Scope: Continental
+Severity: Catastrophic
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

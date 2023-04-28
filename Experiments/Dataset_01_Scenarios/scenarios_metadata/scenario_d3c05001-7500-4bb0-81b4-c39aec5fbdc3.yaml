@@ -1,19 +1,11 @@
-scenario: '3ac0f794-f0f4-4dee-a165-2911350de976
-
-  Random word: penalty
-
-  Scope: Interstellar
-
-  Severity: Irreversible
-
-  Region: Eurasia
-
-  Category: Ethical dilemma
-
-  Domain: Technological
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Ethical dilemma
+Domain: Technological
+Random word: penalty
+Region: Eurasia
+Scenario: d3c05001-7500-4bb0-81b4-c39aec5fbdc3
+Scope: Interstellar
+Severity: Irreversible
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

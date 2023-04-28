@@ -1,19 +1,11 @@
-scenario: '8b070272-de50-4e35-84c7-7e997388db92
-
-  Random word: concept
-
-  Scope: Personal or Individual
-
-  Severity: Serious
-
-  Region: North America
-
-  Category: AI Control Problem
-
-  Domain: Intellectual
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: AI Control Problem
+Domain: Intellectual
+Random word: concept
+Region: North America
+Scenario: d4e5e2d3-661d-41ce-a2be-fd9895655607
+Scope: Personal or Individual
+Severity: Serious
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

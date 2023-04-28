@@ -1,19 +1,11 @@
-scenario: 'c279fa32-f866-410c-a383-32efe3e3f561
-
-  Random word: later
-
-  Scope: Intergalactic
-
-  Severity: Catastrophic
-
-  Region: Asia
-
-  Category: Social challenge
-
-  Domain: Emotional
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Social challenge
+Domain: Emotional
+Random word: later
+Region: Asia
+Scenario: 088b8d40-ad5e-4d95-8b72-18b894d9c2ee
+Scope: Intergalactic
+Severity: Catastrophic
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

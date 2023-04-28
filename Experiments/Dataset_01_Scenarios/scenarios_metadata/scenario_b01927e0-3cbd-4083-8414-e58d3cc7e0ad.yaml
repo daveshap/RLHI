@@ -1,19 +1,11 @@
-scenario: '7124d1d2-661e-46ce-9d7d-b394c855a890
-
-  Random word: doubt
-
-  Scope: International
-
-  Severity: Long-lasting
-
-  Region: Subsaharan Africa
-
-  Category: Natural disaster
-
-  Domain: Legal
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Natural disaster
+Domain: Legal
+Random word: doubt
+Region: Subsaharan Africa
+Scenario: b01927e0-3cbd-4083-8414-e58d3cc7e0ad
+Scope: International
+Severity: Long-lasting
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

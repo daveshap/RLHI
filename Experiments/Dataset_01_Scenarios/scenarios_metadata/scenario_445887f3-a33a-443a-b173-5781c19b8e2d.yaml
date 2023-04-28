@@ -1,19 +1,11 @@
-scenario: '2e998d62-c3b2-4cff-bb7d-431f512eb9f3
-
-  Random word: supply
-
-  Scope: Global
-
-  Severity: Life-threatening
-
-  Region: North Africa
-
-  Category: Environmental issue
-
-  Domain: Scientific
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Environmental issue
+Domain: Scientific
+Random word: supply
+Region: North Africa
+Scenario: 445887f3-a33a-443a-b173-5781c19b8e2d
+Scope: Global
+Severity: Life-threatening
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

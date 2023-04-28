@@ -1,19 +1,11 @@
-scenario: '0d1f7d32-6045-4be2-adf7-64724752ea88
-
-  Random word: yellow
-
-  Scope: Continental
-
-  Severity: Critical
-
-  Region: North America
-
-  Category: AI Control Problem
-
-  Domain: Scientific
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: AI Control Problem
+Domain: Scientific
+Random word: yellow
+Region: North America
+Scenario: bbf11adf-b03b-4598-b9d5-8ad41b1727ef
+Scope: Continental
+Severity: Critical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

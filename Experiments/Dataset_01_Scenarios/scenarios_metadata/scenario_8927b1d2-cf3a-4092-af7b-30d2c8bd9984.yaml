@@ -1,18 +1,10 @@
-scenario: 'bc43e5e6-7747-4e8f-b5f7-5fbf0a0a3602
-
-  Random word: mortgage
-
-  Scope: Continental
-
-  Severity: Long-lasting
-
-  Region: Asia
-
-  Category: Financial crisis
-
-  Domain: Scientific
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Financial crisis
+Domain: Scientific
+Random word: mortgage
+Region: Asia
+Scenario: 8927b1d2-cf3a-4092-af7b-30d2c8bd9984
+Scope: Continental
+Severity: Long-lasting
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

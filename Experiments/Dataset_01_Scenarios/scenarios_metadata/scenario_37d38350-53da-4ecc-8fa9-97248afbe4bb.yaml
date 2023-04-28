@@ -1,19 +1,11 @@
-scenario: '519ba847-44e3-4677-9549-431bdbf083eb
-
-  Random word: move
-
-  Scope: Professional
-
-  Severity: Typical
-
-  Region: Eurasia
-
-  Category: Health concern
-
-  Domain: Technological
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Health concern
+Domain: Technological
+Random word: move
+Region: Eurasia
+Scenario: 37d38350-53da-4ecc-8fa9-97248afbe4bb
+Scope: Professional
+Severity: Typical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

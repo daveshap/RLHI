@@ -1,19 +1,11 @@
-scenario: 'cf08507c-669d-479c-9cfa-0d920fb471b3
-
-  Random word: identity
-
-  Scope: Personal or Individual
-
-  Severity: Serious
-
-  Region: North Africa
-
-  Category: Ethical dilemma
-
-  Domain: Emotional
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Ethical dilemma
+Domain: Emotional
+Random word: identity
+Region: North Africa
+Scenario: 76e08182-779d-448e-8bd0-c69d8e193a50
+Scope: Personal or Individual
+Severity: Serious
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

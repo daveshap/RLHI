@@ -1,18 +1,10 @@
-scenario: 'c218f04a-0e67-4fb8-915e-4d62068f7498
-
-  Random word: cold
-
-  Scope: Extended Family
-
-  Severity: Annoyance
-
-  Region: Subsaharan Africa
-
-  Category: Technological failure
-
-  Domain: Cultural
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Technological failure
+Domain: Cultural
+Random word: cold
+Region: Subsaharan Africa
+Scenario: 5ad5d00e-72e8-4281-8720-023f77129a58
+Scope: Extended Family
+Severity: Annoyance
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

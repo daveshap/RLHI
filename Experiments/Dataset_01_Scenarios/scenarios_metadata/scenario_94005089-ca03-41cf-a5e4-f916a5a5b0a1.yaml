@@ -1,19 +1,11 @@
-scenario: '9613aed8-bc69-4aa9-9d86-615453b34e72
-
-  Random word: ten
-
-  Scope: Extended Family
-
-  Severity: Irreversible
-
-  Region: South Asia
-
-  Category: Political unrest
-
-  Domain: Scientific
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Political unrest
+Domain: Scientific
+Random word: ten
+Region: South Asia
+Scenario: 94005089-ca03-41cf-a5e4-f916a5a5b0a1
+Scope: Extended Family
+Severity: Irreversible
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

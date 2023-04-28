@@ -1,19 +1,11 @@
-scenario: 'c4f72046-04e2-498f-8d2c-58d21950e690
-
-  Random word: advocate
-
-  Scope: Nuclear Family
-
-  Severity: Serious
-
-  Region: Europe
-
-  Category: Accident or Incident
-
-  Domain: Cultural
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Accident or Incident
+Domain: Cultural
+Random word: advocate
+Region: Europe
+Scenario: eb0bf837-04b5-49dd-987b-8cc5bf3656b5
+Scope: Nuclear Family
+Severity: Serious
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

@@ -1,19 +1,11 @@
-scenario: '4888b9de-f1f0-413c-8430-20c0144ef26d
-
-  Random word: owner
-
-  Scope: Interstellar
-
-  Severity: Insignificant
-
-  Region: South Asia
-
-  Category: Social challenge
-
-  Domain: Environmental
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Social challenge
+Domain: Environmental
+Random word: owner
+Region: South Asia
+Scenario: 9ae10175-a163-4869-ade3-8bc36757dc58
+Scope: Interstellar
+Severity: Insignificant
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

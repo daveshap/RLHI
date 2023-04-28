@@ -1,19 +1,11 @@
-scenario: 'bcf5338e-c8a5-4446-8e1a-c309ccd411ad
-
-  Random word: suit
-
-  Scope: Nuclear Family
-
-  Severity: Critical
-
-  Region: North America
-
-  Category: Disagreement or Argument
-
-  Domain: Political
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Disagreement or Argument
+Domain: Political
+Random word: suit
+Region: North America
+Scenario: e5380b36-96d6-48c8-82a2-e882553d5d23
+Scope: Nuclear Family
+Severity: Critical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

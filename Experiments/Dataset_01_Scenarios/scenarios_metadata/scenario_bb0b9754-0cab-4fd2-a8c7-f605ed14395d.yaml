@@ -1,18 +1,10 @@
-scenario: 'f7bb8019-8edd-4066-ac3e-87092455be21
-
-  Random word: fresh
-
-  Scope: Global
-
-  Severity: Critical
-
-  Region: Europe
-
-  Category: Health concern
-
-  Domain: Technological
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Health concern
+Domain: Technological
+Random word: fresh
+Region: Europe
+Scenario: bb0b9754-0cab-4fd2-a8c7-f605ed14395d
+Scope: Global
+Severity: Critical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

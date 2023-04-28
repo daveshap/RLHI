@@ -1,19 +1,11 @@
-scenario: '1fa79899-3836-4c60-ad1b-2012af7db580
-
-  Random word: ought
-
-  Scope: International
-
-  Severity: Long-lasting
-
-  Region: South Asia
-
-  Category: Social challenge
-
-  Domain: Intellectual
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Social challenge
+Domain: Intellectual
+Random word: ought
+Region: South Asia
+Scenario: 4eb03e46-bf85-4fde-8175-e8e7c655fc28
+Scope: International
+Severity: Long-lasting
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

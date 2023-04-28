@@ -1,19 +1,11 @@
-scenario: 'd0fb8b0c-092f-4c9e-b7ba-911b7242d24d
-
-  Random word: classroom
-
-  Scope: Local community or Neighborhood
-
-  Severity: Typical
-
-  Region: Asia
-
-  Category: Political unrest
-
-  Domain: Intellectual
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Political unrest
+Domain: Intellectual
+Random word: classroom
+Region: Asia
+Scenario: aa09ebb9-6e71-4080-ac47-ea4c1db4adb4
+Scope: Local community or Neighborhood
+Severity: Typical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

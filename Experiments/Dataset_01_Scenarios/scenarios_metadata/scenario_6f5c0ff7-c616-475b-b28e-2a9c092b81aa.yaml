@@ -1,19 +1,11 @@
-scenario: '715cf47c-097e-4600-a493-9a0965cd0777
-
-  Random word: exact
-
-  Scope: Interstellar
-
-  Severity: Irreversible
-
-  Region: Pacific
-
-  Category: Social challenge
-
-  Domain: Political
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Social challenge
+Domain: Political
+Random word: exact
+Region: Pacific
+Scenario: 6f5c0ff7-c616-475b-b28e-2a9c092b81aa
+Scope: Interstellar
+Severity: Irreversible
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

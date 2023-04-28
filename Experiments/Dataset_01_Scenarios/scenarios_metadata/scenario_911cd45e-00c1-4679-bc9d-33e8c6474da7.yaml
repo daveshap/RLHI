@@ -1,19 +1,11 @@
-scenario: 'ad186167-4b7d-4526-83e6-ee87b18978b4
-
-  Random word: since
-
-  Scope: City or Village
-
-  Severity: Disruptive
-
-  Region: Asia
-
-  Category: Disagreement or Argument
-
-  Domain: Economic
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Disagreement or Argument
+Domain: Economic
+Random word: since
+Region: Asia
+Scenario: 911cd45e-00c1-4679-bc9d-33e8c6474da7
+Scope: City or Village
+Severity: Disruptive
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

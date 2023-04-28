@@ -1,19 +1,11 @@
-scenario: 'e215388f-fdd6-4029-b77f-f89a7d388b63
-
-  Random word: video
-
-  Scope: Chosen Family
-
-  Severity: Dangerous
-
-  Region: Asia
-
-  Category: Social challenge
-
-  Domain: Cultural
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Social challenge
+Domain: Cultural
+Random word: video
+Region: Asia
+Scenario: 5decec2b-13f7-40e5-88e7-bacd8bf30833
+Scope: Chosen Family
+Severity: Dangerous
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

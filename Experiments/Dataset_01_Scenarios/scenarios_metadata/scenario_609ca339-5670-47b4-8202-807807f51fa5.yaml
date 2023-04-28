@@ -1,19 +1,11 @@
-scenario: '2ca13702-9b04-496f-a885-996be7c48fb8
-
-  Random word: speak
-
-  Scope: Local community or Neighborhood
-
-  Severity: Dangerous
-
-  Region: Eurasia
-
-  Category: Political unrest
-
-  Domain: Educational
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Political unrest
+Domain: Educational
+Random word: speak
+Region: Eurasia
+Scenario: 609ca339-5670-47b4-8202-807807f51fa5
+Scope: Local community or Neighborhood
+Severity: Dangerous
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

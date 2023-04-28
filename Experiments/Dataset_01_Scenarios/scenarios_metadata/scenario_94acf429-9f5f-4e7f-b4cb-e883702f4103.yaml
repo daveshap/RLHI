@@ -1,19 +1,11 @@
-scenario: 'cc6ef627-fb84-464d-b87a-f0a965b63f80
-
-  Random word: reflection
-
-  Scope: International
-
-  Severity: Disruptive
-
-  Region: South Asia
-
-  Category: Mundane issue
-
-  Domain: Educational
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Mundane issue
+Domain: Educational
+Random word: reflection
+Region: South Asia
+Scenario: 94acf429-9f5f-4e7f-b4cb-e883702f4103
+Scope: International
+Severity: Disruptive
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

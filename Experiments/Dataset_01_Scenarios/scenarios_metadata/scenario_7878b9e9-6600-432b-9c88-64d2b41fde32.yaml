@@ -1,18 +1,10 @@
-scenario: 'd21689c4-a15f-4d2d-8ab7-2c905939c21e
-
-  Random word: voice
-
-  Scope: Professional
-
-  Severity: Critical
-
-  Region: North Africa
-
-  Category: Health concern
-
-  Domain: Social
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Health concern
+Domain: Social
+Random word: voice
+Region: North Africa
+Scenario: 7878b9e9-6600-432b-9c88-64d2b41fde32
+Scope: Professional
+Severity: Critical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

@@ -1,19 +1,11 @@
-scenario: '65bda1a9-fe85-4a7a-bf2a-92407ff8bb47
-
-  Random word: hungry
-
-  Scope: National or Federal
-
-  Severity: Annoyance
-
-  Region: North Africa
-
-  Category: Accident or Incident
-
-  Domain: Social
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Accident or Incident
+Domain: Social
+Random word: hungry
+Region: North Africa
+Scenario: 0721b1bf-0c34-4634-b427-5a3e9f9dcb41
+Scope: National or Federal
+Severity: Annoyance
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

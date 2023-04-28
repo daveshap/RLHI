@@ -1,19 +1,11 @@
-scenario: '949bf980-5251-431c-bf78-fbb2bc020d6e
-
-  Random word: decade
-
-  Scope: Nuclear Family
-
-  Severity: Catastrophic
-
-  Region: North America
-
-  Category: Ethical dilemma
-
-  Domain: Economic
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Ethical dilemma
+Domain: Economic
+Random word: decade
+Region: North America
+Scenario: 614406b6-ca76-40e0-807d-3406513f2820
+Scope: Nuclear Family
+Severity: Catastrophic
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

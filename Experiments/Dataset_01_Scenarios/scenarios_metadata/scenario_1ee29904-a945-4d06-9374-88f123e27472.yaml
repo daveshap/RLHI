@@ -1,19 +1,11 @@
-scenario: '79712d83-2f38-448c-a2d3-36d0bc851f03
-
-  Random word: activity
-
-  Scope: Extended Family
-
-  Severity: Catastrophic
-
-  Region: Eurasia
-
-  Category: Technological failure
-
-  Domain: Cultural
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Technological failure
+Domain: Cultural
+Random word: activity
+Region: Eurasia
+Scenario: 1ee29904-a945-4d06-9374-88f123e27472
+Scope: Extended Family
+Severity: Catastrophic
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,19 +1,11 @@
-scenario: 'a046efe0-b186-434f-839c-d25e89b980c2
-
-  Random word: pray
-
-  Scope: Interstellar
-
-  Severity: Serious
-
-  Region: South Asia
-
-  Category: Disagreement or Argument
-
-  Domain: Emotional
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Disagreement or Argument
+Domain: Emotional
+Random word: pray
+Region: South Asia
+Scenario: 2bbeb609-7815-41db-89f3-b483e88b099b
+Scope: Interstellar
+Severity: Serious
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

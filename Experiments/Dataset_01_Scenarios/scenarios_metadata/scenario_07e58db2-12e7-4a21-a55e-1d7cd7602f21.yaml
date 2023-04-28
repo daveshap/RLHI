@@ -1,19 +1,11 @@
-scenario: '6cabcf9e-df7a-481a-9df7-089bdbd83aec
-
-  Random word: extensive
-
-  Scope: Personal or Individual
-
-  Severity: Long-lasting
-
-  Region: Europe
-
-  Category: Health concern
-
-  Domain: Economic
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Health concern
+Domain: Economic
+Random word: extensive
+Region: Europe
+Scenario: 07e58db2-12e7-4a21-a55e-1d7cd7602f21
+Scope: Personal or Individual
+Severity: Long-lasting
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

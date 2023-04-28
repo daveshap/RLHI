@@ -1,18 +1,10 @@
-scenario: 'd86f8bd2-3a6d-477c-a1d5-a0ce32bc7baa
-
-  Random word: except
-
-  Scope: International
-
-  Severity: Insignificant
-
-  Region: Pacific
-
-  Category: Financial crisis
-
-  Domain: Technological
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Financial crisis
+Domain: Technological
+Random word: except
+Region: Pacific
+Scenario: 85062c81-a5f8-44e3-96cf-4c15d0da7669
+Scope: International
+Severity: Insignificant
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

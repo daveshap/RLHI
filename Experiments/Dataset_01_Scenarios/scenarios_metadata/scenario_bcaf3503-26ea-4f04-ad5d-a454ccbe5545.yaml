@@ -1,19 +1,11 @@
-scenario: 'f3bac77a-f72f-42fb-be91-c9df6eefc5fa
-
-  Random word: master
-
-  Scope: Intergalactic
-
-  Severity: Long-lasting
-
-  Region: South America
-
-  Category: Ethical dilemma
-
-  Domain: Physical
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Ethical dilemma
+Domain: Physical
+Random word: master
+Region: South America
+Scenario: bcaf3503-26ea-4f04-ad5d-a454ccbe5545
+Scope: Intergalactic
+Severity: Long-lasting
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

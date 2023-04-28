@@ -1,19 +1,11 @@
-scenario: '8a777df6-e1fd-472a-b50e-12dff8ee0773
-
-  Random word: experience
-
-  Scope: International
-
-  Severity: Life-threatening
-
-  Region: Pacific
-
-  Category: Environmental issue
-
-  Domain: Cultural
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Environmental issue
+Domain: Cultural
+Random word: experience
+Region: Pacific
+Scenario: ca2784d0-1fac-4d52-838c-760e24fa94d8
+Scope: International
+Severity: Life-threatening
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

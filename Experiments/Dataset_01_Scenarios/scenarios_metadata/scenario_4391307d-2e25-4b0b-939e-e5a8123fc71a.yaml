@@ -1,19 +1,11 @@
-scenario: '9d28fbcd-65de-47b0-a0a0-3232d326bfbe
-
-  Random word: but
-
-  Scope: Intergalactic
-
-  Severity: Irreversible
-
-  Region: South Pacific
-
-  Category: Ethical dilemma
-
-  Domain: Cultural
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Ethical dilemma
+Domain: Cultural
+Random word: but
+Region: South Pacific
+Scenario: 4391307d-2e25-4b0b-939e-e5a8123fc71a
+Scope: Intergalactic
+Severity: Irreversible
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

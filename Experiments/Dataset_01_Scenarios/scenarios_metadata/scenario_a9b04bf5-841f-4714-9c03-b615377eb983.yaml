@@ -1,18 +1,10 @@
-scenario: '89536226-18a0-44eb-bfb4-ead002c32442
-
-  Random word: software
-
-  Scope: Professional
-
-  Severity: Ordinary
-
-  Region: Asia
-
-  Category: Ethical dilemma
-
-  Domain: Economic
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Ethical dilemma
+Domain: Economic
+Random word: software
+Region: Asia
+Scenario: a9b04bf5-841f-4714-9c03-b615377eb983
+Scope: Professional
+Severity: Ordinary
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

@@ -1,19 +1,11 @@
-scenario: 'd8fe31f2-0398-4b5e-8b31-caaed308c9cd
-
-  Random word: classic
-
-  Scope: Local community or Neighborhood
-
-  Severity: Long-lasting
-
-  Region: Pacific
-
-  Category: Disagreement or Argument
-
-  Domain: Social
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Disagreement or Argument
+Domain: Social
+Random word: classic
+Region: Pacific
+Scenario: 13c0dcfd-9502-4405-9939-ab815009e54a
+Scope: Local community or Neighborhood
+Severity: Long-lasting
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,19 +1,11 @@
-scenario: '16f3712b-0491-4a8e-b05b-41437f93db9e
-
-  Random word: lesson
-
-  Scope: Regional or Statewide
-
-  Severity: Disruptive
-
-  Region: Eurasia
-
-  Category: Political unrest
-
-  Domain: Social
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Political unrest
+Domain: Social
+Random word: lesson
+Region: Eurasia
+Scenario: 77fe22cc-885c-4d8f-96e7-412f3a285c0d
+Scope: Regional or Statewide
+Severity: Disruptive
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

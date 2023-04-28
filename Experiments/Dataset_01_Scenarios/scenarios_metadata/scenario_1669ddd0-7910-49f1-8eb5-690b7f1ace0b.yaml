@@ -1,18 +1,10 @@
-scenario: '79957268-7f82-450a-9334-9eb1a8e70cc5
-
-  Random word: get
-
-  Scope: Global
-
-  Severity: Catastrophic
-
-  Region: Europe
-
-  Category: Accident or Incident
-
-  Domain: Economic
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Accident or Incident
+Domain: Economic
+Random word: get
+Region: Europe
+Scenario: 1669ddd0-7910-49f1-8eb5-690b7f1ace0b
+Scope: Global
+Severity: Catastrophic
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

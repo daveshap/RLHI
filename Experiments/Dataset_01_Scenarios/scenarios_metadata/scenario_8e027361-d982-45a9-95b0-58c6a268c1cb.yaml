@@ -1,19 +1,11 @@
-scenario: 'edff0109-0c4b-4f84-80c1-70179b1d0647
-
-  Random word: arrive
-
-  Scope: Chosen Family
-
-  Severity: Annoyance
-
-  Region: Asia
-
-  Category: Environmental issue
-
-  Domain: Physical
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Environmental issue
+Domain: Physical
+Random word: arrive
+Region: Asia
+Scenario: 8e027361-d982-45a9-95b0-58c6a268c1cb
+Scope: Chosen Family
+Severity: Annoyance
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

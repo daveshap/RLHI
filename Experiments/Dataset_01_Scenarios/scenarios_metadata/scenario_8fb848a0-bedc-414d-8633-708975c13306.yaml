@@ -1,19 +1,11 @@
-scenario: '2a8847fe-799c-4a36-8a0e-e94c1233917f
-
-  Random word: explanation
-
-  Scope: Extended Family
-
-  Severity: Serious
-
-  Region: North Africa
-
-  Category: Mundane issue
-
-  Domain: Emotional
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Mundane issue
+Domain: Emotional
+Random word: explanation
+Region: North Africa
+Scenario: 8fb848a0-bedc-414d-8633-708975c13306
+Scope: Extended Family
+Severity: Serious
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

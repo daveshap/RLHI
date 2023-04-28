@@ -1,19 +1,11 @@
-scenario: '6ca255a8-26d0-4bbb-903f-866fce78e858
-
-  Random word: counter
-
-  Scope: City or Village
-
-  Severity: Irreversible
-
-  Region: South America
-
-  Category: Technological failure
-
-  Domain: Physical
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Technological failure
+Domain: Physical
+Random word: counter
+Region: South America
+Scenario: fc2292e2-d2c5-47fc-83f7-26dfb24e9202
+Scope: City or Village
+Severity: Irreversible
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

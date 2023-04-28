@@ -1,19 +1,11 @@
-scenario: 'bd21e1bd-8910-47a5-ab90-8c68240487e4
-
-  Random word: future
-
-  Scope: International
-
-  Severity: Serious
-
-  Region: North America
-
-  Category: Social challenge
-
-  Domain: Intellectual
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Social challenge
+Domain: Intellectual
+Random word: future
+Region: North America
+Scenario: ac987c12-0854-4f31-835b-a8032815fdf3
+Scope: International
+Severity: Serious
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

@@ -1,19 +1,11 @@
-scenario: '983008c0-b31b-4753-916f-34fe1ee551b4
-
-  Random word: mouse
-
-  Scope: Online
-
-  Severity: Dangerous
-
-  Region: Middle East
-
-  Category: AI Control Problem
-
-  Domain: Philosophical
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: AI Control Problem
+Domain: Philosophical
+Random word: mouse
+Region: Middle East
+Scenario: d87e0647-5e23-4197-8e34-4f30aeaffca3
+Scope: Online
+Severity: Dangerous
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

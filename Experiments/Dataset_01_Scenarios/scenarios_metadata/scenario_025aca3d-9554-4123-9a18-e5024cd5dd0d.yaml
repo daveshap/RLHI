@@ -1,19 +1,11 @@
-scenario: 'd9c108e7-643f-4432-9dbd-6267e7ae5bbb
-
-  Random word: permission
-
-  Scope: Local community or Neighborhood
-
-  Severity: Critical
-
-  Region: South Asia
-
-  Category: Disagreement or Argument
-
-  Domain: Emotional
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Disagreement or Argument
+Domain: Emotional
+Random word: permission
+Region: South Asia
+Scenario: 025aca3d-9554-4123-9a18-e5024cd5dd0d
+Scope: Local community or Neighborhood
+Severity: Critical
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

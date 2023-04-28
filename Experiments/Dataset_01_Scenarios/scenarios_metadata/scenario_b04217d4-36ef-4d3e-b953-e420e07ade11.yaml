@@ -1,18 +1,10 @@
-scenario: '2018817e-ed11-4436-adc9-eebba86b18a7
-
-  Random word: accurate
-
-  Scope: Local community or Neighborhood
-
-  Severity: Ordinary
-
-  Region: Pacific
-
-  Category: Conflict or Violence
-
-  Domain: Economic
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Conflict or Violence
+Domain: Economic
+Random word: accurate
+Region: Pacific
+Scenario: b04217d4-36ef-4d3e-b953-e420e07ade11
+Scope: Local community or Neighborhood
+Severity: Ordinary
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

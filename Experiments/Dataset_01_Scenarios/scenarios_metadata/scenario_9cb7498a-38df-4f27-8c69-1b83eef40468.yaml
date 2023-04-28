@@ -1,19 +1,11 @@
-scenario: '6246b946-5f71-48dd-8598-c00236d934ea
-
-  Random word: shape
-
-  Scope: Interstellar
-
-  Severity: Dangerous
-
-  Region: Europe
-
-  Category: Health concern
-
-  Domain: Legal
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Health concern
+Domain: Legal
+Random word: shape
+Region: Europe
+Scenario: 9cb7498a-38df-4f27-8c69-1b83eef40468
+Scope: Interstellar
+Severity: Dangerous
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

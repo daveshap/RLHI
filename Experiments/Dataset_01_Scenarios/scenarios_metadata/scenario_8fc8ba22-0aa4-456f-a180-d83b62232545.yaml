@@ -1,19 +1,11 @@
-scenario: 'd430d74c-a53f-4c15-b500-10f6d691f5c1
-
-  Random word: skin
-
-  Scope: Professional
-
-  Severity: Critical
-
-  Region: North America
-
-  Category: Political unrest
-
-  Domain: Spiritual or Religious
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Political unrest
+Domain: Spiritual or Religious
+Random word: skin
+Region: North America
+Scenario: 8fc8ba22-0aa4-456f-a180-d83b62232545
+Scope: Professional
+Severity: Critical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

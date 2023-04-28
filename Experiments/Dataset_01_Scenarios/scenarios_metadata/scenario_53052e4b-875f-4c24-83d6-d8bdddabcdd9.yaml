@@ -1,19 +1,11 @@
-scenario: '14ff55c9-a718-4257-afbb-154539c92116
-
-  Random word: but
-
-  Scope: Online
-
-  Severity: Disruptive
-
-  Region: Subsaharan Africa
-
-  Category: Natural disaster
-
-  Domain: Cultural
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Natural disaster
+Domain: Cultural
+Random word: but
+Region: Subsaharan Africa
+Scenario: 53052e4b-875f-4c24-83d6-d8bdddabcdd9
+Scope: Online
+Severity: Disruptive
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

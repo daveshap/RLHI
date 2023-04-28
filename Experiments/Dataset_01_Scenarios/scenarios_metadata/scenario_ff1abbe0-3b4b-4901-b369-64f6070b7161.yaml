@@ -1,18 +1,10 @@
-scenario: 'e7b431a5-6913-4d9e-99b6-928ac78e4a72
-
-  Random word: indeed
-
-  Scope: Continental
-
-  Severity: Disruptive
-
-  Region: North America
-
-  Category: Health concern
-
-  Domain: Social
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Health concern
+Domain: Social
+Random word: indeed
+Region: North America
+Scenario: ff1abbe0-3b4b-4901-b369-64f6070b7161
+Scope: Continental
+Severity: Disruptive
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

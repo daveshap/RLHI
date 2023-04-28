@@ -1,19 +1,11 @@
-scenario: '6805ef8c-c11e-44b5-9a22-bf96f807bdaf
-
-  Random word: quality
-
-  Scope: Chosen Family
-
-  Severity: Typical
-
-  Region: Subsaharan Africa
-
-  Category: Accident or Incident
-
-  Domain: Emotional
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Accident or Incident
+Domain: Emotional
+Random word: quality
+Region: Subsaharan Africa
+Scenario: 176afe05-c1f6-4e8b-adbf-4f6cd94037ca
+Scope: Chosen Family
+Severity: Typical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

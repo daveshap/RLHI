@@ -1,19 +1,11 @@
-scenario: '23178547-3fa9-4e9a-b5bb-062893bf4a71
-
-  Random word: fly
-
-  Scope: Interpersonal
-
-  Severity: Life-threatening
-
-  Region: North America
-
-  Category: Accident or Incident
-
-  Domain: Economic
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Accident or Incident
+Domain: Economic
+Random word: fly
+Region: North America
+Scenario: 325ff1a6-837d-4a50-9968-54bdfaa04c71
+Scope: Interpersonal
+Severity: Life-threatening
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

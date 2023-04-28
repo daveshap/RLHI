@@ -1,19 +1,11 @@
-scenario: '57cec277-01dd-49a0-b5d9-b9331332ac64
-
-  Random word: odd
-
-  Scope: Cosmic or Universal
-
-  Severity: Disruptive
-
-  Region: Pacific
-
-  Category: Technological failure
-
-  Domain: Cultural
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Technological failure
+Domain: Cultural
+Random word: odd
+Region: Pacific
+Scenario: 0aed1964-6318-419a-b2d7-122b97a39244
+Scope: Cosmic or Universal
+Severity: Disruptive
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

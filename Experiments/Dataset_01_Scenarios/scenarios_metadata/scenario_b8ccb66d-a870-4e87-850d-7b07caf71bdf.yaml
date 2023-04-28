@@ -1,19 +1,11 @@
-scenario: 'c0547d18-3506-40f3-95e1-a8f3a1a1648a
-
-  Random word: classroom
-
-  Scope: Personal or Individual
-
-  Severity: Critical
-
-  Region: Pacific
-
-  Category: Disagreement or Argument
-
-  Domain: Social
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Disagreement or Argument
+Domain: Social
+Random word: classroom
+Region: Pacific
+Scenario: b8ccb66d-a870-4e87-850d-7b07caf71bdf
+Scope: Personal or Individual
+Severity: Critical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

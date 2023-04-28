@@ -1,19 +1,11 @@
-scenario: 'd23a2248-1aa8-4d25-bc42-7c9ea98ae28c
-
-  Random word: egg
-
-  Scope: National or Federal
-
-  Severity: Disruptive
-
-  Region: North America
-
-  Category: Natural disaster
-
-  Domain: Emotional
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Natural disaster
+Domain: Emotional
+Random word: egg
+Region: North America
+Scenario: 5c3bc6ae-6897-4464-82ee-bf9e91a8e3d7
+Scope: National or Federal
+Severity: Disruptive
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

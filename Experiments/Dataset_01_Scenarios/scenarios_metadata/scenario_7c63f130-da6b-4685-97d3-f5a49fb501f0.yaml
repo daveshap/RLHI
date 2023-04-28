@@ -1,19 +1,11 @@
-scenario: '50f62564-7843-44c6-961f-f13e9249e904
-
-  Random word: repeatedly
-
-  Scope: Cosmic or Universal
-
-  Severity: Life-threatening
-
-  Region: Pacific
-
-  Category: Technological failure
-
-  Domain: Cultural
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Technological failure
+Domain: Cultural
+Random word: repeatedly
+Region: Pacific
+Scenario: 7c63f130-da6b-4685-97d3-f5a49fb501f0
+Scope: Cosmic or Universal
+Severity: Life-threatening
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

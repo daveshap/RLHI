@@ -1,18 +1,10 @@
-scenario: '0b3cebca-bcce-40a7-9235-54fb9dde12cc
-
-  Random word: none
-
-  Scope: Continental
-
-  Severity: Typical
-
-  Region: South America
-
-  Category: Technological failure
-
-  Domain: Physical
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Technological failure
+Domain: Physical
+Random word: none
+Region: South America
+Scenario: af543c51-e620-43c0-bfae-c78ff96fd864
+Scope: Continental
+Severity: Typical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

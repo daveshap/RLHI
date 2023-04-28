@@ -1,18 +1,10 @@
-scenario: '40231e46-f575-47f6-9dc3-4894998257a4
-
-  Random word: courage
-
-  Scope: Regional or Statewide
-
-  Severity: Serious
-
-  Region: South Asia
-
-  Category: Technological failure
-
-  Domain: Political
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Technological failure
+Domain: Political
+Random word: courage
+Region: South Asia
+Scenario: af0709e1-9fe7-4655-80d2-fa6f062da362
+Scope: Regional or Statewide
+Severity: Serious
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

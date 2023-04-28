@@ -1,18 +1,10 @@
-scenario: '589ad641-840d-4d19-960d-34636185e9cc
-
-  Random word: percentage
-
-  Scope: City or Village
-
-  Severity: Irreversible
-
-  Region: Subsaharan Africa
-
-  Category: Health concern
-
-  Domain: Political
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Health concern
+Domain: Political
+Random word: percentage
+Region: Subsaharan Africa
+Scenario: a427e473-013a-4130-b8b1-4df8bfb84926
+Scope: City or Village
+Severity: Irreversible
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

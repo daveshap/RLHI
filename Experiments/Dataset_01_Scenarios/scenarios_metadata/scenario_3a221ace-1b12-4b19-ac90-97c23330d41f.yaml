@@ -1,19 +1,11 @@
-scenario: 'cac049a8-279a-433c-8c9e-a72fa4c84168
-
-  Random word: such
-
-  Scope: Professional
-
-  Severity: Annoyance
-
-  Region: Eurasia
-
-  Category: Financial crisis
-
-  Domain: Educational
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Financial crisis
+Domain: Educational
+Random word: such
+Region: Eurasia
+Scenario: 3a221ace-1b12-4b19-ac90-97c23330d41f
+Scope: Professional
+Severity: Annoyance
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

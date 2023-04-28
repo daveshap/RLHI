@@ -1,19 +1,11 @@
-scenario: '14093d71-f4ce-4138-b1b3-e4be9a87f3d7
-
-  Random word: tragedy
-
-  Scope: Continental
-
-  Severity: Typical
-
-  Region: Middle East
-
-  Category: Ethical dilemma
-
-  Domain: Intellectual
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Ethical dilemma
+Domain: Intellectual
+Random word: tragedy
+Region: Middle East
+Scenario: cce30bfb-c282-42c8-bd8f-afc6bdd038a3
+Scope: Continental
+Severity: Typical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

@@ -1,19 +1,11 @@
-scenario: 'f8947e4a-576e-4d78-9e58-3172ad2b3e9f
-
-  Random word: concern
-
-  Scope: City or Village
-
-  Severity: Irreversible
-
-  Region: Eurasia
-
-  Category: Technological failure
-
-  Domain: Scientific
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Technological failure
+Domain: Scientific
+Random word: concern
+Region: Eurasia
+Scenario: 21b46ee8-79e4-46f3-8c4f-c3de30d1dbe1
+Scope: City or Village
+Severity: Irreversible
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

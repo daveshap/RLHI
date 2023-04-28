@@ -1,18 +1,10 @@
-scenario: '83f75254-5231-4a2c-8999-fddde0dc8c3b
-
-  Random word: senior
-
-  Scope: Personal or Individual
-
-  Severity: Typical
-
-  Region: North America
-
-  Category: Conflict or Violence
-
-  Domain: Environmental
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Conflict or Violence
+Domain: Environmental
+Random word: senior
+Region: North America
+Scenario: 985a24fb-5cf6-4a77-ab39-c52061e515ca
+Scope: Personal or Individual
+Severity: Typical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

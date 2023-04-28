@@ -1,19 +1,11 @@
-scenario: 'b3d5b4f5-d2a6-40c2-b813-651afc78888c
-
-  Random word: physical
-
-  Scope: Local community or Neighborhood
-
-  Severity: Insignificant
-
-  Region: South America
-
-  Category: Ethical dilemma
-
-  Domain: Social
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Ethical dilemma
+Domain: Social
+Random word: physical
+Region: South America
+Scenario: d5533bdf-6044-451c-b094-b736681beed6
+Scope: Local community or Neighborhood
+Severity: Insignificant
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

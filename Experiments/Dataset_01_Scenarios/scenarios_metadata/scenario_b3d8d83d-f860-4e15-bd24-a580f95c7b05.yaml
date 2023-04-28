@@ -1,19 +1,11 @@
-scenario: '60d7d70c-0da7-4922-ba9b-7cdf521393be
-
-  Random word: presentation
-
-  Scope: Chosen Family
-
-  Severity: Irreversible
-
-  Region: Europe
-
-  Category: Financial crisis
-
-  Domain: Political
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Financial crisis
+Domain: Political
+Random word: presentation
+Region: Europe
+Scenario: b3d8d83d-f860-4e15-bd24-a580f95c7b05
+Scope: Chosen Family
+Severity: Irreversible
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

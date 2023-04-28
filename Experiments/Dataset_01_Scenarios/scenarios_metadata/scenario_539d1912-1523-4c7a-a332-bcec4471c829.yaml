@@ -1,19 +1,11 @@
-scenario: 'c6b9e57c-073a-497e-a271-130d6117fbc3
-
-  Random word: marketing
-
-  Scope: Regional or Statewide
-
-  Severity: Long-lasting
-
-  Region: North America
-
-  Category: Technological failure
-
-  Domain: Emotional
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Technological failure
+Domain: Emotional
+Random word: marketing
+Region: North America
+Scenario: 539d1912-1523-4c7a-a332-bcec4471c829
+Scope: Regional or Statewide
+Severity: Long-lasting
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

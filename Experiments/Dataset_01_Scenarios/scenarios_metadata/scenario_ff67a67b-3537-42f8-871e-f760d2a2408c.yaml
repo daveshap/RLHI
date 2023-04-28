@@ -1,18 +1,10 @@
-scenario: '23183c5f-36f4-4a3d-b1fc-57ad4524c843
-
-  Random word: hair
-
-  Scope: Cosmic or Universal
-
-  Severity: Irreversible
-
-  Region: South America
-
-  Category: Health concern
-
-  Domain: Emotional
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Health concern
+Domain: Emotional
+Random word: hair
+Region: South America
+Scenario: ff67a67b-3537-42f8-871e-f760d2a2408c
+Scope: Cosmic or Universal
+Severity: Irreversible
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

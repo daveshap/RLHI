@@ -1,18 +1,10 @@
-scenario: 'b8cb8e98-3e38-4504-a4bc-dce854bff32c
-
-  Random word: process
-
-  Scope: Global
-
-  Severity: Serious
-
-  Region: Eurasia
-
-  Category: Conflict or Violence
-
-  Domain: Cultural
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Conflict or Violence
+Domain: Cultural
+Random word: process
+Region: Eurasia
+Scenario: 12b5b0ca-3205-47e3-8cc8-6ae11997c05e
+Scope: Global
+Severity: Serious
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

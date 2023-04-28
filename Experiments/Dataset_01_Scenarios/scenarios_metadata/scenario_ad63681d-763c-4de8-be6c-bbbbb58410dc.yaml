@@ -1,19 +1,11 @@
-scenario: '72d8dc02-5ae5-49ec-aed8-84ad67a9eecb
-
-  Random word: employer
-
-  Scope: City or Village
-
-  Severity: Life-threatening
-
-  Region: Pacific
-
-  Category: Health concern
-
-  Domain: Physical
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Health concern
+Domain: Physical
+Random word: employer
+Region: Pacific
+Scenario: ad63681d-763c-4de8-be6c-bbbbb58410dc
+Scope: City or Village
+Severity: Life-threatening
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

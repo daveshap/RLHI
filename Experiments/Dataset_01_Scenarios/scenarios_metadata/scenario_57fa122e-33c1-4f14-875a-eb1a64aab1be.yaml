@@ -1,19 +1,11 @@
-scenario: 'bfe36e2e-dbe8-450a-bee7-d96df9cbc1ba
-
-  Random word: diet
-
-  Scope: Extended Family
-
-  Severity: Insignificant
-
-  Region: North America
-
-  Category: Ethical dilemma
-
-  Domain: Social
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Ethical dilemma
+Domain: Social
+Random word: diet
+Region: North America
+Scenario: 57fa122e-33c1-4f14-875a-eb1a64aab1be
+Scope: Extended Family
+Severity: Insignificant
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

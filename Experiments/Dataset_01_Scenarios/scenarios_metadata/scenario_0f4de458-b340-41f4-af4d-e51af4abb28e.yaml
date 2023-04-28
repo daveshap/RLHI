@@ -1,18 +1,10 @@
-scenario: '77e275c5-1caa-466c-b775-b78a79b2c505
-
-  Random word: wealthy
-
-  Scope: Online
-
-  Severity: Catastrophic
-
-  Region: Middle East
-
-  Category: Financial crisis
-
-  Domain: Technological
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Financial crisis
+Domain: Technological
+Random word: wealthy
+Region: Middle East
+Scenario: 0f4de458-b340-41f4-af4d-e51af4abb28e
+Scope: Online
+Severity: Catastrophic
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

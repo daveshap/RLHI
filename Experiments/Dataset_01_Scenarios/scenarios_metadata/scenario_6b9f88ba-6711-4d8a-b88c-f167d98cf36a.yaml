@@ -1,19 +1,11 @@
-scenario: '46cbcafc-771e-49e7-a381-26b892195cc4
-
-  Random word: originally
-
-  Scope: Nuclear Family
-
-  Severity: Catastrophic
-
-  Region: Europe
-
-  Category: AI Control Problem
-
-  Domain: Cultural
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: AI Control Problem
+Domain: Cultural
+Random word: originally
+Region: Europe
+Scenario: 6b9f88ba-6711-4d8a-b88c-f167d98cf36a
+Scope: Nuclear Family
+Severity: Catastrophic
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

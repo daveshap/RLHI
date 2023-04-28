@@ -1,19 +1,11 @@
-scenario: '1629bdae-e24a-4689-90cd-d2a6d72cdf21
-
-  Random word: enable
-
-  Scope: Cosmic or Universal
-
-  Severity: Serious
-
-  Region: North America
-
-  Category: Social challenge
-
-  Domain: Cultural
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Social challenge
+Domain: Cultural
+Random word: enable
+Region: North America
+Scenario: d960eafa-dae3-400d-a40d-89ae5f53d1a6
+Scope: Cosmic or Universal
+Severity: Serious
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

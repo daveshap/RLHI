@@ -1,18 +1,10 @@
-scenario: 'a32e037b-ac54-4a1b-b463-2db4ab505de6
-
-  Random word: scale
-
-  Scope: Continental
-
-  Severity: Annoyance
-
-  Region: North America
-
-  Category: Ethical dilemma
-
-  Domain: Educational
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Ethical dilemma
+Domain: Educational
+Random word: scale
+Region: North America
+Scenario: edd9b854-e03e-45e6-ab24-95512717a15b
+Scope: Continental
+Severity: Annoyance
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

@@ -1,19 +1,11 @@
-scenario: '091caddd-b0d3-4b44-a859-2ae353828493
-
-  Random word: test
-
-  Scope: Continental
-
-  Severity: Dangerous
-
-  Region: South Pacific
-
-  Category: AI Control Problem
-
-  Domain: Educational
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: AI Control Problem
+Domain: Educational
+Random word: test
+Region: South Pacific
+Scenario: 7ae9a5cc-3f24-4d71-a734-6d1fdc00185a
+Scope: Continental
+Severity: Dangerous
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

@@ -1,19 +1,11 @@
-scenario: '721f6d88-8281-405c-a4c9-21d7caea0abf
-
-  Random word: you
-
-  Scope: Professional
-
-  Severity: Critical
-
-  Region: Subsaharan Africa
-
-  Category: Conflict or Violence
-
-  Domain: Scientific
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Conflict or Violence
+Domain: Scientific
+Random word: you
+Region: Subsaharan Africa
+Scenario: 183a7972-8980-4817-82ff-9e770d4d2644
+Scope: Professional
+Severity: Critical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

@@ -1,19 +1,11 @@
-scenario: '358c51dd-095a-4e4f-983b-f62cce14795c
-
-  Random word: lots
-
-  Scope: Interstellar
-
-  Severity: Catastrophic
-
-  Region: South Pacific
-
-  Category: Accident or Incident
-
-  Domain: Scientific
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Accident or Incident
+Domain: Scientific
+Random word: lots
+Region: South Pacific
+Scenario: 1361e95a-2ac9-467c-a759-465fbc419fd7
+Scope: Interstellar
+Severity: Catastrophic
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

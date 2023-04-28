@@ -1,19 +1,11 @@
-scenario: 'e5456243-2d82-4318-8bc3-00000fff71f4
-
-  Random word: central
-
-  Scope: City or Village
-
-  Severity: Serious
-
-  Region: South America
-
-  Category: Financial crisis
-
-  Domain: Spiritual or Religious
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Financial crisis
+Domain: Spiritual or Religious
+Random word: central
+Region: South America
+Scenario: 37156871-45ed-4016-ad6d-9b599c5861d8
+Scope: City or Village
+Severity: Serious
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

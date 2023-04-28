@@ -1,19 +1,11 @@
-scenario: '126150e9-c9c4-40da-a7c2-a83f373d148d
-
-  Random word: believe
-
-  Scope: Professional
-
-  Severity: Typical
-
-  Region: South America
-
-  Category: Disagreement or Argument
-
-  Domain: Physical
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Disagreement or Argument
+Domain: Physical
+Random word: believe
+Region: South America
+Scenario: 0b613fb6-2ac7-4463-8db8-df24a2ff7a33
+Scope: Professional
+Severity: Typical
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

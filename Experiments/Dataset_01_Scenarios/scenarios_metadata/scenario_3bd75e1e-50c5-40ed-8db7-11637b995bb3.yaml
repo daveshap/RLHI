@@ -1,19 +1,11 @@
-scenario: '94bbda60-5137-4f6f-8866-ae2267b526c0
-
-  Random word: explanation
-
-  Scope: Professional
-
-  Severity: Ordinary
-
-  Region: North America
-
-  Category: Natural disaster
-
-  Domain: Scientific
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Natural disaster
+Domain: Scientific
+Random word: explanation
+Region: North America
+Scenario: 3bd75e1e-50c5-40ed-8db7-11637b995bb3
+Scope: Professional
+Severity: Ordinary
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

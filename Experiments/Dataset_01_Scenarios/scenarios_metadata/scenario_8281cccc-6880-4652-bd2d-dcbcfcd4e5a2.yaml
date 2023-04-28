@@ -1,18 +1,10 @@
-scenario: '68de3d9b-49fe-402b-87b1-1d8dc1b0a9ca
-
-  Random word: afternoon
-
-  Scope: Regional or Statewide
-
-  Severity: Critical
-
-  Region: Europe
-
-  Category: Environmental issue
-
-  Domain: Scientific
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Environmental issue
+Domain: Scientific
+Random word: afternoon
+Region: Europe
+Scenario: 8281cccc-6880-4652-bd2d-dcbcfcd4e5a2
+Scope: Regional or Statewide
+Severity: Critical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

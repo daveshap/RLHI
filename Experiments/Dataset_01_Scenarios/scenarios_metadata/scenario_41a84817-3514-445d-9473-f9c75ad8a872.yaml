@@ -1,19 +1,11 @@
-scenario: 'a212be6e-c1b2-48be-a268-dd669875b8d5
-
-  Random word: note
-
-  Scope: Cosmic or Universal
-
-  Severity: Dangerous
-
-  Region: South Asia
-
-  Category: Natural disaster
-
-  Domain: Environmental
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Natural disaster
+Domain: Environmental
+Random word: note
+Region: South Asia
+Scenario: 41a84817-3514-445d-9473-f9c75ad8a872
+Scope: Cosmic or Universal
+Severity: Dangerous
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

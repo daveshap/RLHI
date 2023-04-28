@@ -1,19 +1,11 @@
-scenario: 'ebfb8bbb-5b2d-47dc-9930-27c5ceed872a
-
-  Random word: water
-
-  Scope: Local community or Neighborhood
-
-  Severity: Critical
-
-  Region: South Asia
-
-  Category: Ethical dilemma
-
-  Domain: Emotional
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Ethical dilemma
+Domain: Emotional
+Random word: water
+Region: South Asia
+Scenario: 6da90aac-c21f-4133-8cff-a05986bcb20f
+Scope: Local community or Neighborhood
+Severity: Critical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

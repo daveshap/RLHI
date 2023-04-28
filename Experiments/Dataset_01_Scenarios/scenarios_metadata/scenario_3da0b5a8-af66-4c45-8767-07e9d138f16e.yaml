@@ -1,19 +1,11 @@
-scenario: '25ebc2b9-57e0-4a80-a0c6-17b6f24eb0f1
-
-  Random word: determine
-
-  Scope: Regional or Statewide
-
-  Severity: Annoyance
-
-  Region: Subsaharan Africa
-
-  Category: Natural disaster
-
-  Domain: Economic
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Natural disaster
+Domain: Economic
+Random word: determine
+Region: Subsaharan Africa
+Scenario: 3da0b5a8-af66-4c45-8767-07e9d138f16e
+Scope: Regional or Statewide
+Severity: Annoyance
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

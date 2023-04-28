@@ -1,19 +1,11 @@
-scenario: 'ae353110-2725-49f3-83f1-2be1f614de83
-
-  Random word: reveal
-
-  Scope: Online
-
-  Severity: Critical
-
-  Region: Middle East
-
-  Category: Financial crisis
-
-  Domain: Spiritual or Religious
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Financial crisis
+Domain: Spiritual or Religious
+Random word: reveal
+Region: Middle East
+Scenario: 0cd1f2c5-b0bf-4686-8943-0a84eb43b6f1
+Scope: Online
+Severity: Critical
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

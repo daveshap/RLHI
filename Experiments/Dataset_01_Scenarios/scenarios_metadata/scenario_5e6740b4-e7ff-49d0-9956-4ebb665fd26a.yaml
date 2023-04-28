@@ -1,19 +1,11 @@
-scenario: '40801b06-7469-4d99-a35e-c093bd52c8e5
-
-  Random word: employ
-
-  Scope: Local community or Neighborhood
-
-  Severity: Disruptive
-
-  Region: Eurasia
-
-  Category: Conflict or Violence
-
-  Domain: Cultural
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Conflict or Violence
+Domain: Cultural
+Random word: employ
+Region: Eurasia
+Scenario: 5e6740b4-e7ff-49d0-9956-4ebb665fd26a
+Scope: Local community or Neighborhood
+Severity: Disruptive
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

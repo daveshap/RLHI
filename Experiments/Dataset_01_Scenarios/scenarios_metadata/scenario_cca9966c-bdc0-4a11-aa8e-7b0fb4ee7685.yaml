@@ -1,19 +1,11 @@
-scenario: 'fb96adaa-e24b-4072-af4d-e4207a6cc011
-
-  Random word: swear
-
-  Scope: Cosmic or Universal
-
-  Severity: Dangerous
-
-  Region: Pacific
-
-  Category: Financial crisis
-
-  Domain: Environmental
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Financial crisis
+Domain: Environmental
+Random word: swear
+Region: Pacific
+Scenario: cca9966c-bdc0-4a11-aa8e-7b0fb4ee7685
+Scope: Cosmic or Universal
+Severity: Dangerous
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

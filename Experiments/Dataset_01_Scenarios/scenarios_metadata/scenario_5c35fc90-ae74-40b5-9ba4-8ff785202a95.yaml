@@ -1,19 +1,11 @@
-scenario: 'c4855e4d-24e7-405a-aac8-94284e70ff9f
-
-  Random word: wrap
-
-  Scope: City or Village
-
-  Severity: Life-threatening
-
-  Region: Subsaharan Africa
-
-  Category: Financial crisis
-
-  Domain: Philosophical
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Financial crisis
+Domain: Philosophical
+Random word: wrap
+Region: Subsaharan Africa
+Scenario: 5c35fc90-ae74-40b5-9ba4-8ff785202a95
+Scope: City or Village
+Severity: Life-threatening
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

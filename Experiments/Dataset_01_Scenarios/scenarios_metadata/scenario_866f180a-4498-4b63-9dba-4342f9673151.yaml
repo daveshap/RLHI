@@ -1,18 +1,10 @@
-scenario: 'c04e23ce-9e9b-42f0-996d-43675d4cc21d
-
-  Random word: fish
-
-  Scope: Regional or Statewide
-
-  Severity: Critical
-
-  Region: Subsaharan Africa
-
-  Category: Conflict or Violence
-
-  Domain: Political
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Conflict or Violence
+Domain: Political
+Random word: fish
+Region: Subsaharan Africa
+Scenario: 866f180a-4498-4b63-9dba-4342f9673151
+Scope: Regional or Statewide
+Severity: Critical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

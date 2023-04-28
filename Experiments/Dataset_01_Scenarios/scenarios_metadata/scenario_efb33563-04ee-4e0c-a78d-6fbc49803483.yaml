@@ -1,19 +1,11 @@
-scenario: '12f3f2e8-397e-48a6-9478-fdbf567017bb
-
-  Random word: rich
-
-  Scope: Nuclear Family
-
-  Severity: Annoyance
-
-  Region: South Asia
-
-  Category: Financial crisis
-
-  Domain: Legal
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Financial crisis
+Domain: Legal
+Random word: rich
+Region: South Asia
+Scenario: efb33563-04ee-4e0c-a78d-6fbc49803483
+Scope: Nuclear Family
+Severity: Annoyance
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,19 +1,11 @@
-scenario: 'd10cc3ed-dea8-4888-907a-57fcb3d52d47
-
-  Random word: client
-
-  Scope: Continental
-
-  Severity: Dangerous
-
-  Region: South Pacific
-
-  Category: Health concern
-
-  Domain: Intellectual
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Health concern
+Domain: Intellectual
+Random word: client
+Region: South Pacific
+Scenario: d6de5d0c-075b-45d3-8481-85c5ae1b17ef
+Scope: Continental
+Severity: Dangerous
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

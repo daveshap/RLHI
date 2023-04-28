@@ -1,19 +1,11 @@
-scenario: '86b2fcc7-8ba1-41b6-b483-e18c072627aa
-
-  Random word: role
-
-  Scope: Personal or Individual
-
-  Severity: Critical
-
-  Region: North Africa
-
-  Category: Environmental issue
-
-  Domain: Legal
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Environmental issue
+Domain: Legal
+Random word: role
+Region: North Africa
+Scenario: d56d2a26-7d12-458f-81d8-addb53403697
+Scope: Personal or Individual
+Severity: Critical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

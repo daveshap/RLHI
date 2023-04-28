@@ -1,19 +1,11 @@
-scenario: '8d65e0d4-47f0-427b-8cfb-424cf00cd5d0
-
-  Random word: blood
-
-  Scope: Intergalactic
-
-  Severity: Disruptive
-
-  Region: North Africa
-
-  Category: Environmental issue
-
-  Domain: Intellectual
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Environmental issue
+Domain: Intellectual
+Random word: blood
+Region: North Africa
+Scenario: f2a5329e-bfcb-4dfe-b84d-2669cf3fc29d
+Scope: Intergalactic
+Severity: Disruptive
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

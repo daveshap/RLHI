@@ -1,19 +1,11 @@
-scenario: 'f12ae92c-8834-4dd0-abf4-123f9656c14d
-
-  Random word: electronic
-
-  Scope: International
-
-  Severity: Long-lasting
-
-  Region: Eurasia
-
-  Category: Mundane issue
-
-  Domain: Spiritual or Religious
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Mundane issue
+Domain: Spiritual or Religious
+Random word: electronic
+Region: Eurasia
+Scenario: 6150edfe-3a28-46d0-bbff-19d8b62df8fa
+Scope: International
+Severity: Long-lasting
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

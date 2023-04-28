@@ -1,19 +1,11 @@
-scenario: '59a309dc-92e1-41a3-aced-abfa2f59562d
-
-  Random word: exact
-
-  Scope: Global
-
-  Severity: Serious
-
-  Region: Asia
-
-  Category: Political unrest
-
-  Domain: Educational
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Political unrest
+Domain: Educational
+Random word: exact
+Region: Asia
+Scenario: 6c826243-272c-4d65-8678-3ce8a5fa893b
+Scope: Global
+Severity: Serious
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

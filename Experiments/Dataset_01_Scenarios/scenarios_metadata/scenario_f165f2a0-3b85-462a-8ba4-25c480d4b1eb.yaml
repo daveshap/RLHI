@@ -1,19 +1,11 @@
-scenario: '8713293d-d55f-453c-99a0-54aee7fa9a82
-
-  Random word: consider
-
-  Scope: Local community or Neighborhood
-
-  Severity: Ordinary
-
-  Region: South Asia
-
-  Category: Health concern
-
-  Domain: Philosophical
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Health concern
+Domain: Philosophical
+Random word: consider
+Region: South Asia
+Scenario: f165f2a0-3b85-462a-8ba4-25c480d4b1eb
+Scope: Local community or Neighborhood
+Severity: Ordinary
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

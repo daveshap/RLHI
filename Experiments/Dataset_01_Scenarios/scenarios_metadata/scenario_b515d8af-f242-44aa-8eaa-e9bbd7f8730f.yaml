@@ -1,19 +1,11 @@
-scenario: 'a516092e-a4a4-4bbf-8938-ad05e4b637fe
-
-  Random word: domestic
-
-  Scope: Intergalactic
-
-  Severity: Insignificant
-
-  Region: Eurasia
-
-  Category: Financial crisis
-
-  Domain: Physical
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Financial crisis
+Domain: Physical
+Random word: domestic
+Region: Eurasia
+Scenario: b515d8af-f242-44aa-8eaa-e9bbd7f8730f
+Scope: Intergalactic
+Severity: Insignificant
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

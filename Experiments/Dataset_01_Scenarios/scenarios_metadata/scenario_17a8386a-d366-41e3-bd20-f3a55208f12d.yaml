@@ -1,19 +1,11 @@
-scenario: '102504ee-88ba-4163-bd3c-0dce8b6aee24
-
-  Random word: cotton
-
-  Scope: Interstellar
-
-  Severity: Typical
-
-  Region: Pacific
-
-  Category: Environmental issue
-
-  Domain: Social
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Environmental issue
+Domain: Social
+Random word: cotton
+Region: Pacific
+Scenario: 17a8386a-d366-41e3-bd20-f3a55208f12d
+Scope: Interstellar
+Severity: Typical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

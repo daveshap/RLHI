@@ -1,19 +1,11 @@
-scenario: '267bbbe6-b1f1-4911-9992-792b8bab89d4
-
-  Random word: keep
-
-  Scope: Global
-
-  Severity: Dangerous
-
-  Region: North Africa
-
-  Category: Social challenge
-
-  Domain: Emotional
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Social challenge
+Domain: Emotional
+Random word: keep
+Region: North Africa
+Scenario: b2c1d613-6fe8-4a84-995a-6abeb7ef9f50
+Scope: Global
+Severity: Dangerous
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

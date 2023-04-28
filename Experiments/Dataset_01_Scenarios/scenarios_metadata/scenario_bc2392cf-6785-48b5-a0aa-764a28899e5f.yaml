@@ -1,19 +1,11 @@
-scenario: '05a9e42a-2940-44e3-b67a-4fefd0b13270
-
-  Random word: who
-
-  Scope: Global
-
-  Severity: Annoyance
-
-  Region: South Pacific
-
-  Category: Social challenge
-
-  Domain: Educational
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Social challenge
+Domain: Educational
+Random word: who
+Region: South Pacific
+Scenario: bc2392cf-6785-48b5-a0aa-764a28899e5f
+Scope: Global
+Severity: Annoyance
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

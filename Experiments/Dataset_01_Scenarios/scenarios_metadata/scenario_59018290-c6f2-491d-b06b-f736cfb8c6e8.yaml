@@ -1,19 +1,11 @@
-scenario: '45b448da-dd17-445d-bc3b-3cbb6a026581
-
-  Random word: because
-
-  Scope: Personal or Individual
-
-  Severity: Critical
-
-  Region: South America
-
-  Category: Environmental issue
-
-  Domain: Economic
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Environmental issue
+Domain: Economic
+Random word: because
+Region: South America
+Scenario: 59018290-c6f2-491d-b06b-f736cfb8c6e8
+Scope: Personal or Individual
+Severity: Critical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

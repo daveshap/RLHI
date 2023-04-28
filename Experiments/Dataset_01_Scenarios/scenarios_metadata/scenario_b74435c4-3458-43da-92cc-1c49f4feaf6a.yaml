@@ -1,18 +1,10 @@
-scenario: '303a6269-874a-4951-a06c-4e4e9f400f33
-
-  Random word: violent
-
-  Scope: Chosen Family
-
-  Severity: Insignificant
-
-  Region: South Asia
-
-  Category: Natural disaster
-
-  Domain: Environmental
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Natural disaster
+Domain: Environmental
+Random word: violent
+Region: South Asia
+Scenario: b74435c4-3458-43da-92cc-1c49f4feaf6a
+Scope: Chosen Family
+Severity: Insignificant
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

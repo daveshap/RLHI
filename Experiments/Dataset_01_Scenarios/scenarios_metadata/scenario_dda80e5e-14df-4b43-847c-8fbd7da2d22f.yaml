@@ -1,18 +1,10 @@
-scenario: '1a07c76d-929c-42eb-a73c-c1d6588a23f4
-
-  Random word: yell
-
-  Scope: Extended Family
-
-  Severity: Life-threatening
-
-  Region: Middle East
-
-  Category: Conflict or Violence
-
-  Domain: Intellectual
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Conflict or Violence
+Domain: Intellectual
+Random word: yell
+Region: Middle East
+Scenario: dda80e5e-14df-4b43-847c-8fbd7da2d22f
+Scope: Extended Family
+Severity: Life-threatening
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

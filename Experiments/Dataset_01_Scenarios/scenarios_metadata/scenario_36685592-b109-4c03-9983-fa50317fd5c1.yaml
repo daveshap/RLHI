@@ -1,19 +1,11 @@
-scenario: '3d622daa-572c-47ed-be82-9cec256f5fd8
-
-  Random word: surprise
-
-  Scope: Regional or Statewide
-
-  Severity: Catastrophic
-
-  Region: Subsaharan Africa
-
-  Category: Mundane issue
-
-  Domain: Cultural
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Mundane issue
+Domain: Cultural
+Random word: surprise
+Region: Subsaharan Africa
+Scenario: 36685592-b109-4c03-9983-fa50317fd5c1
+Scope: Regional or Statewide
+Severity: Catastrophic
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

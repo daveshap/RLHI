@@ -1,18 +1,10 @@
-scenario: 'f65efb54-c645-4fe5-9904-7bf340ebacd6
-
-  Random word: go
-
-  Scope: Regional or Statewide
-
-  Severity: Dangerous
-
-  Region: North America
-
-  Category: Social challenge
-
-  Domain: Economic
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Social challenge
+Domain: Economic
+Random word: go
+Region: North America
+Scenario: 73098f92-2a42-4bb2-858b-1a16d6cf6e1a
+Scope: Regional or Statewide
+Severity: Dangerous
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

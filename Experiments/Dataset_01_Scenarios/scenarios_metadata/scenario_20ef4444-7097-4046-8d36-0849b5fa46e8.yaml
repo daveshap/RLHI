@@ -1,19 +1,11 @@
-scenario: '5fafd273-709d-4c09-a441-087e0bdfee26
-
-  Random word: he
-
-  Scope: Local community or Neighborhood
-
-  Severity: Long-lasting
-
-  Region: South Asia
-
-  Category: Natural disaster
-
-  Domain: Economic
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Natural disaster
+Domain: Economic
+Random word: he
+Region: South Asia
+Scenario: 20ef4444-7097-4046-8d36-0849b5fa46e8
+Scope: Local community or Neighborhood
+Severity: Long-lasting
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

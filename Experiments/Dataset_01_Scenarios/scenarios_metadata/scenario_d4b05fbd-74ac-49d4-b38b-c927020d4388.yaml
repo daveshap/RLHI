@@ -1,19 +1,11 @@
-scenario: '29187d22-3328-4bdc-abb5-04c5718e7331
-
-  Random word: popular
-
-  Scope: Regional or Statewide
-
-  Severity: Annoyance
-
-  Region: Eurasia
-
-  Category: Financial crisis
-
-  Domain: Scientific
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Financial crisis
+Domain: Scientific
+Random word: popular
+Region: Eurasia
+Scenario: d4b05fbd-74ac-49d4-b38b-c927020d4388
+Scope: Regional or Statewide
+Severity: Annoyance
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

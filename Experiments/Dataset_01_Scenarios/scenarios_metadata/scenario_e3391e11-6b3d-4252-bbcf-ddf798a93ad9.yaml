@@ -1,19 +1,11 @@
-scenario: 'f45ca934-b20d-4394-a9b9-d5d9e9bf1ca6
-
-  Random word: never
-
-  Scope: Professional
-
-  Severity: Dangerous
-
-  Region: North America
-
-  Category: Conflict or Violence
-
-  Domain: Emotional
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Conflict or Violence
+Domain: Emotional
+Random word: never
+Region: North America
+Scenario: e3391e11-6b3d-4252-bbcf-ddf798a93ad9
+Scope: Professional
+Severity: Dangerous
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

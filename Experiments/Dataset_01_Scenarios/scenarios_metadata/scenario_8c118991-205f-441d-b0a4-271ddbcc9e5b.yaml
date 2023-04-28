@@ -1,19 +1,11 @@
-scenario: '87394e04-d6e0-4db1-b000-6778ad3a3489
-
-  Random word: taxpayer
-
-  Scope: Local community or Neighborhood
-
-  Severity: Annoyance
-
-  Region: South America
-
-  Category: Conflict or Violence
-
-  Domain: Cultural
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Conflict or Violence
+Domain: Cultural
+Random word: taxpayer
+Region: South America
+Scenario: 8c118991-205f-441d-b0a4-271ddbcc9e5b
+Scope: Local community or Neighborhood
+Severity: Annoyance
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

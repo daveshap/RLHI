@@ -1,19 +1,11 @@
-scenario: '04c61af4-dee2-455a-91ef-d25516bdc248
-
-  Random word: thanks
-
-  Scope: Interstellar
-
-  Severity: Insignificant
-
-  Region: Pacific
-
-  Category: Technological failure
-
-  Domain: Intellectual
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Technological failure
+Domain: Intellectual
+Random word: thanks
+Region: Pacific
+Scenario: c5474452-9371-4944-b917-222af70e96ba
+Scope: Interstellar
+Severity: Insignificant
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

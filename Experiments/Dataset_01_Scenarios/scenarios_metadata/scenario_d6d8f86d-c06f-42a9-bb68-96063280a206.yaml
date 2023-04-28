@@ -1,19 +1,11 @@
-scenario: '24d9cf31-f6bc-434d-b2ad-ba8550011268
-
-  Random word: bright
-
-  Scope: Global
-
-  Severity: Annoyance
-
-  Region: Pacific
-
-  Category: Health concern
-
-  Domain: Technological
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Health concern
+Domain: Technological
+Random word: bright
+Region: Pacific
+Scenario: d6d8f86d-c06f-42a9-bb68-96063280a206
+Scope: Global
+Severity: Annoyance
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

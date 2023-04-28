@@ -1,19 +1,11 @@
-scenario: 'f6fb66a5-eb92-4108-b9c0-2cd666ee5517
-
-  Random word: Japanese
-
-  Scope: Online
-
-  Severity: Ordinary
-
-  Region: South Pacific
-
-  Category: Disagreement or Argument
-
-  Domain: Legal
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Disagreement or Argument
+Domain: Legal
+Random word: Japanese
+Region: South Pacific
+Scenario: f09ce1c1-0152-4e57-81c2-e05d7822964e
+Scope: Online
+Severity: Ordinary
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

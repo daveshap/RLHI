@@ -1,18 +1,10 @@
-scenario: '9a7418c6-0da8-4f4a-9c38-38c2f3a8272a
-
-  Random word: have
-
-  Scope: Continental
-
-  Severity: Critical
-
-  Region: South Pacific
-
-  Category: AI Control Problem
-
-  Domain: Physical
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: AI Control Problem
+Domain: Physical
+Random word: have
+Region: South Pacific
+Scenario: e4d86472-0b5e-4c49-9353-5f14abe6d16a
+Scope: Continental
+Severity: Critical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

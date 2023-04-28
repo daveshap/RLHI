@@ -1,19 +1,11 @@
-scenario: 'f33255ce-ef2f-42eb-b642-b0c6abfa9573
-
-  Random word: property
-
-  Scope: City or Village
-
-  Severity: Annoyance
-
-  Region: Eurasia
-
-  Category: Social challenge
-
-  Domain: Technological
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Social challenge
+Domain: Technological
+Random word: property
+Region: Eurasia
+Scenario: b8101289-da13-4397-a45d-96d60706ce63
+Scope: City or Village
+Severity: Annoyance
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

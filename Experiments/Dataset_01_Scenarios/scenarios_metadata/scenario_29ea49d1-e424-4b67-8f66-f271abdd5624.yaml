@@ -1,19 +1,11 @@
-scenario: '75a87f13-3f5d-4d58-88be-1dbe28e711b9
-
-  Random word: list
-
-  Scope: Interstellar
-
-  Severity: Dangerous
-
-  Region: North America
-
-  Category: Technological failure
-
-  Domain: Spiritual or Religious
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Technological failure
+Domain: Spiritual or Religious
+Random word: list
+Region: North America
+Scenario: 29ea49d1-e424-4b67-8f66-f271abdd5624
+Scope: Interstellar
+Severity: Dangerous
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

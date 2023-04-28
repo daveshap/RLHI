@@ -1,19 +1,11 @@
-scenario: '2613e2e1-e4d8-48a5-b9d5-7bdeda1ab02f
-
-  Random word: repeat
-
-  Scope: City or Village
-
-  Severity: Serious
-
-  Region: South Pacific
-
-  Category: Financial crisis
-
-  Domain: Economic
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Financial crisis
+Domain: Economic
+Random word: repeat
+Region: South Pacific
+Scenario: ed21b11b-022e-4fb3-9320-3de44123cc6e
+Scope: City or Village
+Severity: Serious
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

@@ -1,19 +1,11 @@
-scenario: '5ba8ea8a-bcad-45a6-a294-73406ddb645d
-
-  Random word: paint
-
-  Scope: Interpersonal
-
-  Severity: Dangerous
-
-  Region: Subsaharan Africa
-
-  Category: Disagreement or Argument
-
-  Domain: Social
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Disagreement or Argument
+Domain: Social
+Random word: paint
+Region: Subsaharan Africa
+Scenario: 25a94b7b-a596-4d06-9a45-f001285aea08
+Scope: Interpersonal
+Severity: Dangerous
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

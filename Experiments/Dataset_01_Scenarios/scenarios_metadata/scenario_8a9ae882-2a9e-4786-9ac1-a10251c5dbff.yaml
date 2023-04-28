@@ -1,19 +1,11 @@
-scenario: '1b4f71a0-eaff-497e-90e2-f7e178957aca
-
-  Random word: product
-
-  Scope: Cosmic or Universal
-
-  Severity: Catastrophic
-
-  Region: North America
-
-  Category: Disagreement or Argument
-
-  Domain: Educational
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Disagreement or Argument
+Domain: Educational
+Random word: product
+Region: North America
+Scenario: 8a9ae882-2a9e-4786-9ac1-a10251c5dbff
+Scope: Cosmic or Universal
+Severity: Catastrophic
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,19 +1,11 @@
-scenario: '4ccbc97a-484a-4734-8f45-684a31f21199
-
-  Random word: entry
-
-  Scope: Online
-
-  Severity: Life-threatening
-
-  Region: Middle East
-
-  Category: Disagreement or Argument
-
-  Domain: Cultural
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Disagreement or Argument
+Domain: Cultural
+Random word: entry
+Region: Middle East
+Scenario: a5a01237-685f-434b-b6c3-cc302281a923
+Scope: Online
+Severity: Life-threatening
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

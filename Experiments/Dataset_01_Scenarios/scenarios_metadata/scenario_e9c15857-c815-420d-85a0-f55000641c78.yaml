@@ -1,19 +1,11 @@
-scenario: '28d75e58-d5b5-4cb2-85b2-97b066f7e0a3
-
-  Random word: sight
-
-  Scope: Online
-
-  Severity: Annoyance
-
-  Region: North America
-
-  Category: Technological failure
-
-  Domain: Economic
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Technological failure
+Domain: Economic
+Random word: sight
+Region: North America
+Scenario: e9c15857-c815-420d-85a0-f55000641c78
+Scope: Online
+Severity: Annoyance
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

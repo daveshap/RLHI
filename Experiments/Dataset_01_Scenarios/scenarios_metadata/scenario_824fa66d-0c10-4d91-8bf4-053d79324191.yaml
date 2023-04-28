@@ -1,19 +1,11 @@
-scenario: 'b0e4cb6a-1a3a-401c-830d-768913239e21
-
-  Random word: salad
-
-  Scope: National or Federal
-
-  Severity: Insignificant
-
-  Region: Subsaharan Africa
-
-  Category: Ethical dilemma
-
-  Domain: Political
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Ethical dilemma
+Domain: Political
+Random word: salad
+Region: Subsaharan Africa
+Scenario: 824fa66d-0c10-4d91-8bf4-053d79324191
+Scope: National or Federal
+Severity: Insignificant
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

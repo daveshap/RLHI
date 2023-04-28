@@ -1,19 +1,11 @@
-scenario: '3e237509-34d6-401b-a309-5ce890ef6941
-
-  Random word: flight
-
-  Scope: Cosmic or Universal
-
-  Severity: Irreversible
-
-  Region: South Asia
-
-  Category: Health concern
-
-  Domain: Environmental
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Health concern
+Domain: Environmental
+Random word: flight
+Region: South Asia
+Scenario: 60d33df3-ff2d-45f5-8882-04c4b5406626
+Scope: Cosmic or Universal
+Severity: Irreversible
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

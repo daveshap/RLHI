@@ -1,19 +1,11 @@
-scenario: '53e36c7f-4e69-485c-9df0-f1d8880740a9
-
-  Random word: he
-
-  Scope: Professional
-
-  Severity: Irreversible
-
-  Region: Eurasia
-
-  Category: Mundane issue
-
-  Domain: Intellectual
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Mundane issue
+Domain: Intellectual
+Random word: he
+Region: Eurasia
+Scenario: 818786f9-7ecb-4c60-99be-76fc7ddf3e92
+Scope: Professional
+Severity: Irreversible
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

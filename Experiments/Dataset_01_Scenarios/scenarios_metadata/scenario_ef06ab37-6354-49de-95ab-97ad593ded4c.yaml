@@ -1,19 +1,11 @@
-scenario: 'ed81b2b0-8314-476f-88d8-4deed0c4a647
-
-  Random word: ahead
-
-  Scope: Continental
-
-  Severity: Life-threatening
-
-  Region: South Asia
-
-  Category: Ethical dilemma
-
-  Domain: Educational
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Ethical dilemma
+Domain: Educational
+Random word: ahead
+Region: South Asia
+Scenario: ef06ab37-6354-49de-95ab-97ad593ded4c
+Scope: Continental
+Severity: Life-threatening
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

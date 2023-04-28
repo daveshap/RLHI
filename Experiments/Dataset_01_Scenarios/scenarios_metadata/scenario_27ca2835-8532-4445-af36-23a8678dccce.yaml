@@ -1,19 +1,11 @@
-scenario: 'a658a986-493e-4e45-bce7-b2371017fed4
-
-  Random word: rock
-
-  Scope: International
-
-  Severity: Catastrophic
-
-  Region: South Pacific
-
-  Category: Natural disaster
-
-  Domain: Social
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Natural disaster
+Domain: Social
+Random word: rock
+Region: South Pacific
+Scenario: 27ca2835-8532-4445-af36-23a8678dccce
+Scope: International
+Severity: Catastrophic
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

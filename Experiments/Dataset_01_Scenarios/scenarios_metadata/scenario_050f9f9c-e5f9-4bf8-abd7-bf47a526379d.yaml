@@ -1,18 +1,10 @@
-scenario: 'ac3ece73-0d36-4c7d-8a1c-99b823c15a9f
-
-  Random word: fairly
-
-  Scope: Extended Family
-
-  Severity: Long-lasting
-
-  Region: South America
-
-  Category: Conflict or Violence
-
-  Domain: Social
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Conflict or Violence
+Domain: Social
+Random word: fairly
+Region: South America
+Scenario: 050f9f9c-e5f9-4bf8-abd7-bf47a526379d
+Scope: Extended Family
+Severity: Long-lasting
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

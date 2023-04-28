@@ -1,19 +1,11 @@
-scenario: 'e706bfbd-d652-4167-a589-b3e7988a578a
-
-  Random word: compare
-
-  Scope: Nuclear Family
-
-  Severity: Life-threatening
-
-  Region: Middle East
-
-  Category: Conflict or Violence
-
-  Domain: Physical
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Conflict or Violence
+Domain: Physical
+Random word: compare
+Region: Middle East
+Scenario: 6eda7946-9575-4d88-9887-833c020ed44b
+Scope: Nuclear Family
+Severity: Life-threatening
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

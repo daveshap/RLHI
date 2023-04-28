@@ -1,19 +1,11 @@
-scenario: '0b0746db-1829-4f9a-976e-c2b3686a0434
-
-  Random word: instead
-
-  Scope: Online
-
-  Severity: Disruptive
-
-  Region: Subsaharan Africa
-
-  Category: Social challenge
-
-  Domain: Emotional
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Social challenge
+Domain: Emotional
+Random word: instead
+Region: Subsaharan Africa
+Scenario: a3014704-4044-4d7a-ae4a-cc3864428092
+Scope: Online
+Severity: Disruptive
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

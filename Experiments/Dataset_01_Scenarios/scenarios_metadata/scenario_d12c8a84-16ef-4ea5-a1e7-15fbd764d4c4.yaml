@@ -1,18 +1,10 @@
-scenario: 'cdb602d7-0fc9-440b-93fd-37ceca06e03c
-
-  Random word: animal
-
-  Scope: City or Village
-
-  Severity: Long-lasting
-
-  Region: South America
-
-  Category: Environmental issue
-
-  Domain: Emotional
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Environmental issue
+Domain: Emotional
+Random word: animal
+Region: South America
+Scenario: d12c8a84-16ef-4ea5-a1e7-15fbd764d4c4
+Scope: City or Village
+Severity: Long-lasting
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

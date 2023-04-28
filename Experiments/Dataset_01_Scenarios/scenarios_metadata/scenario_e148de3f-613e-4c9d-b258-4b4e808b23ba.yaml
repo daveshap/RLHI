@@ -1,19 +1,11 @@
-scenario: '53fbdc55-68e4-424c-91b7-a07cd53def93
-
-  Random word: urban
-
-  Scope: Extended Family
-
-  Severity: Life-threatening
-
-  Region: Eurasia
-
-  Category: Environmental issue
-
-  Domain: Philosophical
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Environmental issue
+Domain: Philosophical
+Random word: urban
+Region: Eurasia
+Scenario: e148de3f-613e-4c9d-b258-4b4e808b23ba
+Scope: Extended Family
+Severity: Life-threatening
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

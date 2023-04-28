@@ -1,19 +1,11 @@
-scenario: 'f1e6fee1-9240-46d5-ae06-cda6827d7e9c
-
-  Random word: danger
-
-  Scope: Intergalactic
-
-  Severity: Serious
-
-  Region: North America
-
-  Category: Ethical dilemma
-
-  Domain: Educational
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Ethical dilemma
+Domain: Educational
+Random word: danger
+Region: North America
+Scenario: 72697367-9d9d-4062-b58c-cc5bd42b6899
+Scope: Intergalactic
+Severity: Serious
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

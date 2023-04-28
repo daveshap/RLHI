@@ -1,19 +1,11 @@
-scenario: '2b45a466-db58-41a6-b0af-ed77aab8c351
-
-  Random word: visual
-
-  Scope: International
-
-  Severity: Dangerous
-
-  Region: Eurasia
-
-  Category: Financial crisis
-
-  Domain: Social
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Financial crisis
+Domain: Social
+Random word: visual
+Region: Eurasia
+Scenario: b9fe1b31-f40f-4014-ba8c-0cd5488c2662
+Scope: International
+Severity: Dangerous
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

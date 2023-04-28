@@ -1,19 +1,11 @@
-scenario: 'c5cf8b79-0a68-4366-aeeb-d2c41b1164a4
-
-  Random word: off
-
-  Scope: City or Village
-
-  Severity: Typical
-
-  Region: Pacific
-
-  Category: Accident or Incident
-
-  Domain: Philosophical
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Accident or Incident
+Domain: Philosophical
+Random word: false
+Region: Pacific
+Scenario: 07723a9d-a329-4527-a22b-76cc22fb8200
+Scope: City or Village
+Severity: Typical
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

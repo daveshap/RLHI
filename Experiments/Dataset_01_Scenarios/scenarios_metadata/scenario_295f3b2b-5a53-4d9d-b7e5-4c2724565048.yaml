@@ -1,19 +1,11 @@
-scenario: '359c7b7a-f2c7-4c74-acd6-f44e1b597d85
-
-  Random word: steady
-
-  Scope: Local community or Neighborhood
-
-  Severity: Life-threatening
-
-  Region: South Asia
-
-  Category: Natural disaster
-
-  Domain: Cultural
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Natural disaster
+Domain: Cultural
+Random word: steady
+Region: South Asia
+Scenario: 295f3b2b-5a53-4d9d-b7e5-4c2724565048
+Scope: Local community or Neighborhood
+Severity: Life-threatening
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

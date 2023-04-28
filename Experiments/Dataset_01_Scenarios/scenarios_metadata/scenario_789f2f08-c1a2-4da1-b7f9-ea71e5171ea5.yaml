@@ -1,19 +1,11 @@
-scenario: '31b17384-8538-49ca-be3a-cf4f0226ca18
-
-  Random word: alcohol
-
-  Scope: Professional
-
-  Severity: Typical
-
-  Region: Middle East
-
-  Category: Technological failure
-
-  Domain: Philosophical
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Technological failure
+Domain: Philosophical
+Random word: alcohol
+Region: Middle East
+Scenario: 789f2f08-c1a2-4da1-b7f9-ea71e5171ea5
+Scope: Professional
+Severity: Typical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

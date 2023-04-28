@@ -1,18 +1,10 @@
-scenario: '1afd3066-aacb-41de-804b-7540a20345fb
-
-  Random word: plane
-
-  Scope: National or Federal
-
-  Severity: Ordinary
-
-  Region: Pacific
-
-  Category: Social challenge
-
-  Domain: Cultural
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Social challenge
+Domain: Cultural
+Random word: plane
+Region: Pacific
+Scenario: b40e0cd3-8d69-4e48-ad4b-3a9e945cf698
+Scope: National or Federal
+Severity: Ordinary
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

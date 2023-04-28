@@ -1,19 +1,11 @@
-scenario: '1252090b-e3d0-4347-b59a-4b352b35671a
-
-  Random word: window
-
-  Scope: National or Federal
-
-  Severity: Long-lasting
-
-  Region: South America
-
-  Category: Political unrest
-
-  Domain: Intellectual
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Political unrest
+Domain: Intellectual
+Random word: window
+Region: South America
+Scenario: 8a7c7592-e8f5-4fa0-8b93-6c97165e9802
+Scope: National or Federal
+Severity: Long-lasting
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

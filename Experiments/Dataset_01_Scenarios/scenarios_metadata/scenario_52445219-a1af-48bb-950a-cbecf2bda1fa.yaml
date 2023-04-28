@@ -1,19 +1,11 @@
-scenario: 'd85d8792-547b-4ee3-974c-d647edc62953
-
-  Random word: code
-
-  Scope: City or Village
-
-  Severity: Disruptive
-
-  Region: South Asia
-
-  Category: AI Control Problem
-
-  Domain: Technological
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: AI Control Problem
+Domain: Technological
+Random word: code
+Region: South Asia
+Scenario: 52445219-a1af-48bb-950a-cbecf2bda1fa
+Scope: City or Village
+Severity: Disruptive
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

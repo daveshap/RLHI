@@ -1,19 +1,11 @@
-scenario: '8d051729-66b2-4cbd-be76-c005618c5c6e
-
-  Random word: decade
-
-  Scope: Online
-
-  Severity: Typical
-
-  Region: North Africa
-
-  Category: Health concern
-
-  Domain: Spiritual or Religious
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Health concern
+Domain: Spiritual or Religious
+Random word: decade
+Region: North Africa
+Scenario: d84d5ec3-3f42-43a9-a08b-0f8c77e09681
+Scope: Online
+Severity: Typical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

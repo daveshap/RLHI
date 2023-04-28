@@ -1,19 +1,11 @@
-scenario: '6d10903f-07a2-480e-affc-f682cdceb2cb
-
-  Random word: CEO
-
-  Scope: Extended Family
-
-  Severity: Serious
-
-  Region: North Africa
-
-  Category: Political unrest
-
-  Domain: Political
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Political unrest
+Domain: Political
+Random word: CEO
+Region: North Africa
+Scenario: c723cd98-cc8b-42fe-aa5f-d6afca3fd43e
+Scope: Extended Family
+Severity: Serious
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

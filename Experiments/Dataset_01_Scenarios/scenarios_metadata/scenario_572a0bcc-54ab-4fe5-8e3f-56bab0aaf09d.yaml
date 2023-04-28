@@ -1,18 +1,10 @@
-scenario: '041c730c-03df-4935-a55e-78187d0c297a
-
-  Random word: commander
-
-  Scope: Interpersonal
-
-  Severity: Life-threatening
-
-  Region: Middle East
-
-  Category: Mundane issue
-
-  Domain: Physical
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Mundane issue
+Domain: Physical
+Random word: commander
+Region: Middle East
+Scenario: 572a0bcc-54ab-4fe5-8e3f-56bab0aaf09d
+Scope: Interpersonal
+Severity: Life-threatening
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

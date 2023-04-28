@@ -1,19 +1,11 @@
-scenario: '5480daaf-ad43-4937-b0fb-c5d80e3b80bb
-
-  Random word: enforcement
-
-  Scope: Professional
-
-  Severity: Catastrophic
-
-  Region: North Africa
-
-  Category: Financial crisis
-
-  Domain: Physical
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Financial crisis
+Domain: Physical
+Random word: enforcement
+Region: North Africa
+Scenario: f4c93ff9-4dc6-4a6f-883b-1cd683967657
+Scope: Professional
+Severity: Catastrophic
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

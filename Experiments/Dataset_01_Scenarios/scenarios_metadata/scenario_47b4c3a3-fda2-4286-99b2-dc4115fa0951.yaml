@@ -1,19 +1,11 @@
-scenario: '4c036786-7fbc-4528-848c-daae637b7d4b
-
-  Random word: cream
-
-  Scope: Chosen Family
-
-  Severity: Catastrophic
-
-  Region: Europe
-
-  Category: Technological failure
-
-  Domain: Technological
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Technological failure
+Domain: Technological
+Random word: cream
+Region: Europe
+Scenario: 47b4c3a3-fda2-4286-99b2-dc4115fa0951
+Scope: Chosen Family
+Severity: Catastrophic
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

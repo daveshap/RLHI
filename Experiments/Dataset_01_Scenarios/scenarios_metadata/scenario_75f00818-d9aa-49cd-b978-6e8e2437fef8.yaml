@@ -1,19 +1,11 @@
-scenario: '8dae6fe7-56b7-4ae8-afd1-1c9ca376e04c
-
-  Random word: sector
-
-  Scope: Professional
-
-  Severity: Long-lasting
-
-  Region: North Africa
-
-  Category: Mundane issue
-
-  Domain: Intellectual
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Mundane issue
+Domain: Intellectual
+Random word: sector
+Region: North Africa
+Scenario: 75f00818-d9aa-49cd-b978-6e8e2437fef8
+Scope: Professional
+Severity: Long-lasting
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

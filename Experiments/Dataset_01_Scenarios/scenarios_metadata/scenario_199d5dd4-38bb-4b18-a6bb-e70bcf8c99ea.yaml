@@ -1,18 +1,10 @@
-scenario: '843dd391-e04b-4f73-828c-e186cabeacd6
-
-  Random word: recruit
-
-  Scope: Regional or Statewide
-
-  Severity: Life-threatening
-
-  Region: South Asia
-
-  Category: Accident or Incident
-
-  Domain: Legal
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Accident or Incident
+Domain: Legal
+Random word: recruit
+Region: South Asia
+Scenario: 199d5dd4-38bb-4b18-a6bb-e70bcf8c99ea
+Scope: Regional or Statewide
+Severity: Life-threatening
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

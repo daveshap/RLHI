@@ -1,19 +1,11 @@
-scenario: '39e8cfba-4235-4df6-ab19-d7992fa6f7ce
-
-  Random word: seem
-
-  Scope: Interpersonal
-
-  Severity: Serious
-
-  Region: Europe
-
-  Category: Mundane issue
-
-  Domain: Intellectual
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Mundane issue
+Domain: Intellectual
+Random word: seem
+Region: Europe
+Scenario: 52162704-5f6e-4953-b7c5-02a375f6ac9c
+Scope: Interpersonal
+Severity: Serious
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

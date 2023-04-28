@@ -1,19 +1,11 @@
-scenario: '74a84f8a-b46a-4ad4-97e6-7dddc03494e2
-
-  Random word: cognitive
-
-  Scope: Intergalactic
-
-  Severity: Catastrophic
-
-  Region: Eurasia
-
-  Category: Mundane issue
-
-  Domain: Emotional
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Mundane issue
+Domain: Emotional
+Random word: cognitive
+Region: Eurasia
+Scenario: 05c2cdaf-9084-44ce-950e-df59207fee70
+Scope: Intergalactic
+Severity: Catastrophic
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

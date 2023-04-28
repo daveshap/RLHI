@@ -1,19 +1,11 @@
-scenario: '07eb2e02-877c-49f7-a7d4-2ce93eb36a56
-
-  Random word: Italian
-
-  Scope: Cosmic or Universal
-
-  Severity: Serious
-
-  Region: South America
-
-  Category: Environmental issue
-
-  Domain: Legal
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Environmental issue
+Domain: Legal
+Random word: Italian
+Region: South America
+Scenario: d279ea59-b804-4d24-bb69-52b23e3cf799
+Scope: Cosmic or Universal
+Severity: Serious
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

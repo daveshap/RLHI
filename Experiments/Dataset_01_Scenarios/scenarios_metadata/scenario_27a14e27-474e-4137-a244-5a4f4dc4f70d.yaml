@@ -1,19 +1,11 @@
-scenario: '5e2459f7-a60f-4554-94b8-deeb331826ed
-
-  Random word: within
-
-  Scope: Interstellar
-
-  Severity: Catastrophic
-
-  Region: South Asia
-
-  Category: Social challenge
-
-  Domain: Philosophical
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Social challenge
+Domain: Philosophical
+Random word: within
+Region: South Asia
+Scenario: 27a14e27-474e-4137-a244-5a4f4dc4f70d
+Scope: Interstellar
+Severity: Catastrophic
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

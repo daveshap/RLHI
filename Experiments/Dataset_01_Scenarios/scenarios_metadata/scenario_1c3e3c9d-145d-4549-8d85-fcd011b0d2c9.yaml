@@ -1,19 +1,11 @@
-scenario: '96e0818a-0dab-41dd-858b-d2f48492f0f2
-
-  Random word: straight
-
-  Scope: Interpersonal
-
-  Severity: Critical
-
-  Region: South Pacific
-
-  Category: Mundane issue
-
-  Domain: Educational
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Mundane issue
+Domain: Educational
+Random word: straight
+Region: South Pacific
+Scenario: 1c3e3c9d-145d-4549-8d85-fcd011b0d2c9
+Scope: Interpersonal
+Severity: Critical
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

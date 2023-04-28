@@ -1,18 +1,10 @@
-scenario: 'e6180565-824b-4866-848c-ab1ff4659b5d
-
-  Random word: anymore
-
-  Scope: Local community or Neighborhood
-
-  Severity: Disruptive
-
-  Region: Subsaharan Africa
-
-  Category: Disagreement or Argument
-
-  Domain: Political
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Disagreement or Argument
+Domain: Political
+Random word: anymore
+Region: Subsaharan Africa
+Scenario: 7553017e-4023-4106-9d85-51121dc353a9
+Scope: Local community or Neighborhood
+Severity: Disruptive
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

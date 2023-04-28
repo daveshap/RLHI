@@ -1,19 +1,11 @@
-scenario: 'd75405b7-9b10-4b4a-b0f9-2bca751db12b
-
-  Random word: travel
-
-  Scope: Local community or Neighborhood
-
-  Severity: Critical
-
-  Region: Pacific
-
-  Category: Financial crisis
-
-  Domain: Educational
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Financial crisis
+Domain: Educational
+Random word: travel
+Region: Pacific
+Scenario: 3d889e3f-2e77-4938-972d-809101d5987a
+Scope: Local community or Neighborhood
+Severity: Critical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

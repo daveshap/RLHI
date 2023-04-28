@@ -1,19 +1,11 @@
-scenario: '5932d1f7-56bc-4400-b152-a127e4c52596
-
-  Random word: however
-
-  Scope: City or Village
-
-  Severity: Annoyance
-
-  Region: Eurasia
-
-  Category: Conflict or Violence
-
-  Domain: Economic
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Conflict or Violence
+Domain: Economic
+Random word: however
+Region: Eurasia
+Scenario: d353c5a6-fec0-403c-8e2c-3e732b755e4c
+Scope: City or Village
+Severity: Annoyance
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

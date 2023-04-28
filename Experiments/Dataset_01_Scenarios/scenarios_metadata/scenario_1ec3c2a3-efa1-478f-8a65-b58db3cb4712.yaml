@@ -1,19 +1,11 @@
-scenario: '828b4a05-05c1-4c8f-8caa-06025a22c622
-
-  Random word: which
-
-  Scope: Local community or Neighborhood
-
-  Severity: Typical
-
-  Region: Eurasia
-
-  Category: Financial crisis
-
-  Domain: Philosophical
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Financial crisis
+Domain: Philosophical
+Random word: which
+Region: Eurasia
+Scenario: 1ec3c2a3-efa1-478f-8a65-b58db3cb4712
+Scope: Local community or Neighborhood
+Severity: Typical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

@@ -1,18 +1,10 @@
-scenario: '122697a6-593c-4305-86a2-69956beecbe3
-
-  Random word: efficiency
-
-  Scope: Global
-
-  Severity: Insignificant
-
-  Region: Europe
-
-  Category: Environmental issue
-
-  Domain: Emotional
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Environmental issue
+Domain: Emotional
+Random word: efficiency
+Region: Europe
+Scenario: 9452a38f-e3f1-40e4-9a3e-f1f28bdf6af9
+Scope: Global
+Severity: Insignificant
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

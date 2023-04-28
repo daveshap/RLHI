@@ -1,19 +1,11 @@
-scenario: '6ba92e45-8d86-4eac-b7c7-9128f421cf03
-
-  Random word: gifted
-
-  Scope: Regional or Statewide
-
-  Severity: Typical
-
-  Region: Middle East
-
-  Category: AI Control Problem
-
-  Domain: Cultural
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: AI Control Problem
+Domain: Cultural
+Random word: gifted
+Region: Middle East
+Scenario: 6286e027-d7f3-48c8-9a9f-953b654b3622
+Scope: Regional or Statewide
+Severity: Typical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

@@ -1,18 +1,10 @@
-scenario: 'e8ef5318-3649-417a-b29d-8653d97ffac0
-
-  Random word: ahead
-
-  Scope: Nuclear Family
-
-  Severity: Life-threatening
-
-  Region: North America
-
-  Category: Health concern
-
-  Domain: Environmental
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Health concern
+Domain: Environmental
+Random word: ahead
+Region: North America
+Scenario: baccc138-2fd9-49cc-9b1a-f0388d80b4e9
+Scope: Nuclear Family
+Severity: Life-threatening
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

@@ -1,19 +1,11 @@
-scenario: '16b24fd2-96e6-4116-8be7-c24e44529f3c
-
-  Random word: breakfast
-
-  Scope: Personal or Individual
-
-  Severity: Critical
-
-  Region: North Africa
-
-  Category: Conflict or Violence
-
-  Domain: Cultural
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Conflict or Violence
+Domain: Cultural
+Random word: breakfast
+Region: North Africa
+Scenario: 097170f0-8321-4ac9-a522-6473c2a8cd80
+Scope: Personal or Individual
+Severity: Critical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

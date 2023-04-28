@@ -1,19 +1,11 @@
-scenario: '3a6e618b-c686-4fc5-840a-7b4f8b7d5bca
-
-  Random word: task
-
-  Scope: Nuclear Family
-
-  Severity: Catastrophic
-
-  Region: Asia
-
-  Category: Health concern
-
-  Domain: Philosophical
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Health concern
+Domain: Philosophical
+Random word: task
+Region: Asia
+Scenario: 501f689d-640d-41d5-a29e-43343dfb0f48
+Scope: Nuclear Family
+Severity: Catastrophic
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

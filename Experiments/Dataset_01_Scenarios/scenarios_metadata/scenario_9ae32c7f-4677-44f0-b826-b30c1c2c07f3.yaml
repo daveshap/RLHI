@@ -1,19 +1,11 @@
-scenario: '1d038dff-eec0-4d10-9e8f-42addb7c7a4c
-
-  Random word: consequence
-
-  Scope: International
-
-  Severity: Irreversible
-
-  Region: South Asia
-
-  Category: Natural disaster
-
-  Domain: Emotional
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Natural disaster
+Domain: Emotional
+Random word: consequence
+Region: South Asia
+Scenario: 9ae32c7f-4677-44f0-b826-b30c1c2c07f3
+Scope: International
+Severity: Irreversible
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

@@ -1,19 +1,11 @@
-scenario: '6e32a00e-2067-467b-b4fe-5436de6c4442
-
-  Random word: assessment
-
-  Scope: Intergalactic
-
-  Severity: Critical
-
-  Region: South America
-
-  Category: Technological failure
-
-  Domain: Legal
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Technological failure
+Domain: Legal
+Random word: assessment
+Region: South America
+Scenario: a2484952-ca08-44e8-8c11-9ce642901b08
+Scope: Intergalactic
+Severity: Critical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

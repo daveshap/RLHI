@@ -1,19 +1,11 @@
-scenario: '36167970-e8db-4b78-bbb4-8c74d5e48cca
-
-  Random word: critic
-
-  Scope: Local community or Neighborhood
-
-  Severity: Ordinary
-
-  Region: South America
-
-  Category: Conflict or Violence
-
-  Domain: Environmental
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Conflict or Violence
+Domain: Environmental
+Random word: critic
+Region: South America
+Scenario: 322fd4d0-1dc6-4769-a1f2-a4507c8eb4db
+Scope: Local community or Neighborhood
+Severity: Ordinary
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

@@ -1,18 +1,10 @@
-scenario: '9675193a-388d-4324-81ff-9b5eb376a859
-
-  Random word: peak
-
-  Scope: Interstellar
-
-  Severity: Dangerous
-
-  Region: Middle East
-
-  Category: Social challenge
-
-  Domain: Intellectual
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Social challenge
+Domain: Intellectual
+Random word: peak
+Region: Middle East
+Scenario: 2955c5a0-fd2d-4032-a63e-ae376ee47754
+Scope: Interstellar
+Severity: Dangerous
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

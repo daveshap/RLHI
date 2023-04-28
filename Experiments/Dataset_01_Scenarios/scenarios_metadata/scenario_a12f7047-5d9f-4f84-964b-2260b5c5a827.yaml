@@ -1,18 +1,10 @@
-scenario: '6937a715-bfee-4f8c-89be-1f6e043d2397
-
-  Random word: assistance
-
-  Scope: City or Village
-
-  Severity: Serious
-
-  Region: North America
-
-  Category: Disagreement or Argument
-
-  Domain: Technological
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Disagreement or Argument
+Domain: Technological
+Random word: assistance
+Region: North America
+Scenario: a12f7047-5d9f-4f84-964b-2260b5c5a827
+Scope: City or Village
+Severity: Serious
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

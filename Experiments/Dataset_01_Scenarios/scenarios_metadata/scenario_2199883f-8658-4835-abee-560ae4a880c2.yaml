@@ -1,19 +1,11 @@
-scenario: '89a3c6ab-4bc0-46a1-9c6b-807edeb682d5
-
-  Random word: Soviet
-
-  Scope: Cosmic or Universal
-
-  Severity: Irreversible
-
-  Region: Europe
-
-  Category: Natural disaster
-
-  Domain: Scientific
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Natural disaster
+Domain: Scientific
+Random word: Soviet
+Region: Europe
+Scenario: 2199883f-8658-4835-abee-560ae4a880c2
+Scope: Cosmic or Universal
+Severity: Irreversible
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,19 +1,11 @@
-scenario: '02eac6c7-99a2-44b3-ae3f-9e63628d0199
-
-  Random word: golden
-
-  Scope: Personal or Individual
-
-  Severity: Irreversible
-
-  Region: Middle East
-
-  Category: Political unrest
-
-  Domain: Educational
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Political unrest
+Domain: Educational
+Random word: golden
+Region: Middle East
+Scenario: 9122e5d5-63b0-4646-aa2f-be2f134ab08a
+Scope: Personal or Individual
+Severity: Irreversible
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

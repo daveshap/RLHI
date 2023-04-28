@@ -1,19 +1,11 @@
-scenario: '6a555690-c8f1-4cf4-a0a8-adcebf9f38b7
-
-  Random word: earn
-
-  Scope: City or Village
-
-  Severity: Irreversible
-
-  Region: Middle East
-
-  Category: Technological failure
-
-  Domain: Cultural
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Technological failure
+Domain: Cultural
+Random word: earn
+Region: Middle East
+Scenario: 48a0e868-fe2a-4b48-96d5-a59d0097aa40
+Scope: City or Village
+Severity: Irreversible
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

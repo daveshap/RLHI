@@ -1,19 +1,11 @@
-scenario: '8449785c-5fc5-4d5a-8f6f-6bc3b4659b8f
-
-  Random word: pot
-
-  Scope: Personal or Individual
-
-  Severity: Typical
-
-  Region: Middle East
-
-  Category: Technological failure
-
-  Domain: Philosophical
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Technological failure
+Domain: Philosophical
+Random word: pot
+Region: Middle East
+Scenario: 32f6ac70-9228-471a-853b-e31d82a59483
+Scope: Personal or Individual
+Severity: Typical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

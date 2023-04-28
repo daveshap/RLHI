@@ -1,19 +1,11 @@
-scenario: '9c24e928-ef99-4bb6-8fab-c29e1a2c339b
-
-  Random word: shell
-
-  Scope: Interpersonal
-
-  Severity: Disruptive
-
-  Region: South America
-
-  Category: Social challenge
-
-  Domain: Legal
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Social challenge
+Domain: Legal
+Random word: shell
+Region: South America
+Scenario: 67c705b7-4e38-4562-af2d-89705b6894e3
+Scope: Interpersonal
+Severity: Disruptive
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

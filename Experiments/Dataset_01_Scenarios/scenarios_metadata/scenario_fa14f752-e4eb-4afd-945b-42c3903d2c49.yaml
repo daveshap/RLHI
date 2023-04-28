@@ -1,19 +1,11 @@
-scenario: 'cf4a3a2f-c021-4786-ace5-91f8c714ea2d
-
-  Random word: accept
-
-  Scope: Cosmic or Universal
-
-  Severity: Ordinary
-
-  Region: North America
-
-  Category: Technological failure
-
-  Domain: Educational
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Technological failure
+Domain: Educational
+Random word: accept
+Region: North America
+Scenario: fa14f752-e4eb-4afd-945b-42c3903d2c49
+Scope: Cosmic or Universal
+Severity: Ordinary
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

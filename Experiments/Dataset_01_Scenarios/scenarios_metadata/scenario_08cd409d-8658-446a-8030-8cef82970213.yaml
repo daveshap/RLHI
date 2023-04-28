@@ -1,19 +1,11 @@
-scenario: '6c58b4ba-b532-4561-adcd-90ef31147c44
-
-  Random word: TV
-
-  Scope: Chosen Family
-
-  Severity: Critical
-
-  Region: Europe
-
-  Category: Political unrest
-
-  Domain: Emotional
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Political unrest
+Domain: Emotional
+Random word: TV
+Region: Europe
+Scenario: 08cd409d-8658-446a-8030-8cef82970213
+Scope: Chosen Family
+Severity: Critical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

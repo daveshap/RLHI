@@ -1,18 +1,10 @@
-scenario: '2095d949-16f4-41b8-9ac8-14d321142342
-
-  Random word: online
-
-  Scope: National or Federal
-
-  Severity: Ordinary
-
-  Region: Middle East
-
-  Category: Accident or Incident
-
-  Domain: Emotional
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Accident or Incident
+Domain: Emotional
+Random word: online
+Region: Middle East
+Scenario: 4457c722-766e-4ae8-9650-d8604f1e91db
+Scope: National or Federal
+Severity: Ordinary
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

@@ -1,19 +1,11 @@
-scenario: '7ceaddad-0f27-420c-89d0-2e52986ed406
-
-  Random word: five
-
-  Scope: Global
-
-  Severity: Annoyance
-
-  Region: Europe
-
-  Category: Financial crisis
-
-  Domain: Environmental
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Financial crisis
+Domain: Environmental
+Random word: five
+Region: Europe
+Scenario: 8e04e14d-be54-41e0-8ee3-7eae5aced9a1
+Scope: Global
+Severity: Annoyance
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

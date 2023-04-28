@@ -1,19 +1,11 @@
-scenario: '214d20b5-755e-498a-92c1-c0c1286d4525
-
-  Random word: governor
-
-  Scope: National or Federal
-
-  Severity: Irreversible
-
-  Region: Pacific
-
-  Category: Social challenge
-
-  Domain: Emotional
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Social challenge
+Domain: Emotional
+Random word: governor
+Region: Pacific
+Scenario: 9f3f3fe7-f0ed-4b59-a395-277b81a0bf9e
+Scope: National or Federal
+Severity: Irreversible
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

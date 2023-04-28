@@ -1,19 +1,11 @@
-scenario: '5350bf51-b8ac-4ae3-846d-f3b1d1086619
-
-  Random word: night
-
-  Scope: Intergalactic
-
-  Severity: Life-threatening
-
-  Region: South Asia
-
-  Category: Natural disaster
-
-  Domain: Cultural
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Natural disaster
+Domain: Cultural
+Random word: night
+Region: South Asia
+Scenario: 65e97ea1-d044-46a6-9f8b-243b2221bbd9
+Scope: Intergalactic
+Severity: Life-threatening
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

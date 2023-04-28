@@ -1,19 +1,11 @@
-scenario: 'b5d0c268-82b6-4ece-84fe-33d51315eaab
-
-  Random word: camera
-
-  Scope: Intergalactic
-
-  Severity: Insignificant
-
-  Region: Europe
-
-  Category: Health concern
-
-  Domain: Spiritual or Religious
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Health concern
+Domain: Spiritual or Religious
+Random word: camera
+Region: Europe
+Scenario: 9ba1c526-f9e4-432b-a5bb-2de04c6de1e7
+Scope: Intergalactic
+Severity: Insignificant
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

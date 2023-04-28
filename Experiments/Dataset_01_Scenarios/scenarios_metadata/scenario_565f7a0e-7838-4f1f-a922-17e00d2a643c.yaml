@@ -1,19 +1,11 @@
-scenario: '9e89abe8-8705-4677-9084-6b5faa4a8434
-
-  Random word: mixture
-
-  Scope: City or Village
-
-  Severity: Critical
-
-  Region: Asia
-
-  Category: Health concern
-
-  Domain: Philosophical
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Health concern
+Domain: Philosophical
+Random word: mixture
+Region: Asia
+Scenario: 565f7a0e-7838-4f1f-a922-17e00d2a643c
+Scope: City or Village
+Severity: Critical
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

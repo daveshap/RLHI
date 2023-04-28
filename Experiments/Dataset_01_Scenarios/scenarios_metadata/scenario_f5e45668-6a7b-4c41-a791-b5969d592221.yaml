@@ -1,19 +1,11 @@
-scenario: 'c8d7a505-54ad-431b-8b15-1b50c6e50e58
-
-  Random word: empty
-
-  Scope: Extended Family
-
-  Severity: Critical
-
-  Region: Europe
-
-  Category: Financial crisis
-
-  Domain: Philosophical
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Financial crisis
+Domain: Philosophical
+Random word: empty
+Region: Europe
+Scenario: f5e45668-6a7b-4c41-a791-b5969d592221
+Scope: Extended Family
+Severity: Critical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

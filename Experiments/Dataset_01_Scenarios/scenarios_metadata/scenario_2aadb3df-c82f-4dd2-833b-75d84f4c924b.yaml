@@ -1,19 +1,11 @@
-scenario: 'd25b5606-445b-479a-a420-536a718bc4a0
-
-  Random word: tone
-
-  Scope: Nuclear Family
-
-  Severity: Catastrophic
-
-  Region: Europe
-
-  Category: Social challenge
-
-  Domain: Social
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Social challenge
+Domain: Social
+Random word: tone
+Region: Europe
+Scenario: 2aadb3df-c82f-4dd2-833b-75d84f4c924b
+Scope: Nuclear Family
+Severity: Catastrophic
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

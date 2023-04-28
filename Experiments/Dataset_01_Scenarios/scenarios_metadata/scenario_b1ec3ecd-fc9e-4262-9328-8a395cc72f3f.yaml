@@ -1,19 +1,11 @@
-scenario: '3dab5d76-3a80-425a-b253-38623ca9f584
-
-  Random word: entire
-
-  Scope: Chosen Family
-
-  Severity: Serious
-
-  Region: South Pacific
-
-  Category: Technological failure
-
-  Domain: Physical
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Technological failure
+Domain: Physical
+Random word: entire
+Region: South Pacific
+Scenario: b1ec3ecd-fc9e-4262-9328-8a395cc72f3f
+Scope: Chosen Family
+Severity: Serious
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

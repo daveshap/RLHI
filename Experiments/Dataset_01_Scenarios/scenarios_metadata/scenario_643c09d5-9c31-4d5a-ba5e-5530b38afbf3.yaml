@@ -1,18 +1,10 @@
-scenario: '347aa579-64ea-453e-a0bc-017064262648
-
-  Random word: soil
-
-  Scope: Regional or Statewide
-
-  Severity: Annoyance
-
-  Region: Asia
-
-  Category: Natural disaster
-
-  Domain: Philosophical
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Natural disaster
+Domain: Philosophical
+Random word: soil
+Region: Asia
+Scenario: 643c09d5-9c31-4d5a-ba5e-5530b38afbf3
+Scope: Regional or Statewide
+Severity: Annoyance
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

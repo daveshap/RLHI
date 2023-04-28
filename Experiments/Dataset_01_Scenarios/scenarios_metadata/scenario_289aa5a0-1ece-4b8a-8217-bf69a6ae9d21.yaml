@@ -1,18 +1,10 @@
-scenario: 'b11125aa-51f6-42e9-88dc-492bdb26f8d7
-
-  Random word: describe
-
-  Scope: National or Federal
-
-  Severity: Insignificant
-
-  Region: North Africa
-
-  Category: Disagreement or Argument
-
-  Domain: Philosophical
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Disagreement or Argument
+Domain: Philosophical
+Random word: describe
+Region: North Africa
+Scenario: 289aa5a0-1ece-4b8a-8217-bf69a6ae9d21
+Scope: National or Federal
+Severity: Insignificant
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

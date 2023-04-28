@@ -1,19 +1,11 @@
-scenario: '285bab37-4100-416b-8198-c71a9e9a3e39
-
-  Random word: shell
-
-  Scope: Cosmic or Universal
-
-  Severity: Disruptive
-
-  Region: Asia
-
-  Category: AI Control Problem
-
-  Domain: Intellectual
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: AI Control Problem
+Domain: Intellectual
+Random word: shell
+Region: Asia
+Scenario: ef11a7a6-d585-4129-aaf6-45ec1719a0e4
+Scope: Cosmic or Universal
+Severity: Disruptive
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

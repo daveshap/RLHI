@@ -1,19 +1,11 @@
-scenario: '9f2712aa-b0c5-4c1c-ac5a-723e7bd1f023
-
-  Random word: citizen
-
-  Scope: Nuclear Family
-
-  Severity: Serious
-
-  Region: South Pacific
-
-  Category: Ethical dilemma
-
-  Domain: Physical
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Ethical dilemma
+Domain: Physical
+Random word: citizen
+Region: South Pacific
+Scenario: 7cb372d7-3717-41bf-a147-f6a3a4ceed4f
+Scope: Nuclear Family
+Severity: Serious
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

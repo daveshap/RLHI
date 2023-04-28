@@ -1,18 +1,10 @@
-scenario: '24be9770-0d84-4036-a7af-e0ef2fba8f9f
-
-  Random word: attach
-
-  Scope: Professional
-
-  Severity: Irreversible
-
-  Region: South America
-
-  Category: Health concern
-
-  Domain: Physical
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Health concern
+Domain: Physical
+Random word: attach
+Region: South America
+Scenario: 5b6026cb-75c6-445d-9fe9-ca8dd1d2e1cf
+Scope: Professional
+Severity: Irreversible
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

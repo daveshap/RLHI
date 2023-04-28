@@ -1,19 +1,11 @@
-scenario: '55f8a5a5-a88c-46d6-bc51-a730f18e1b56
-
-  Random word: physically
-
-  Scope: Interpersonal
-
-  Severity: Catastrophic
-
-  Region: South America
-
-  Category: Conflict or Violence
-
-  Domain: Educational
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Conflict or Violence
+Domain: Educational
+Random word: physically
+Region: South America
+Scenario: c65ff80d-a2da-494a-881c-46b6d4638e3b
+Scope: Interpersonal
+Severity: Catastrophic
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

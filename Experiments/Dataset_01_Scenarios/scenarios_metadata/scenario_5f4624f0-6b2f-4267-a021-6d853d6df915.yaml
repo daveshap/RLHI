@@ -1,19 +1,11 @@
-scenario: '54a8686a-cbcf-4acb-832c-cec7b3f742b3
-
-  Random word: coat
-
-  Scope: Nuclear Family
-
-  Severity: Annoyance
-
-  Region: Asia
-
-  Category: Disagreement or Argument
-
-  Domain: Economic
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Disagreement or Argument
+Domain: Economic
+Random word: coat
+Region: Asia
+Scenario: 5f4624f0-6b2f-4267-a021-6d853d6df915
+Scope: Nuclear Family
+Severity: Annoyance
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

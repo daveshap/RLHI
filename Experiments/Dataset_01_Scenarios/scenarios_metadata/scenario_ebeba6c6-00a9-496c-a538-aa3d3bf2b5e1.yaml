@@ -1,19 +1,11 @@
-scenario: '1b589306-5643-4e2d-b776-21eb137e83c4
-
-  Random word: tradition
-
-  Scope: National or Federal
-
-  Severity: Catastrophic
-
-  Region: North America
-
-  Category: Conflict or Violence
-
-  Domain: Social
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Conflict or Violence
+Domain: Social
+Random word: tradition
+Region: North America
+Scenario: ebeba6c6-00a9-496c-a538-aa3d3bf2b5e1
+Scope: National or Federal
+Severity: Catastrophic
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

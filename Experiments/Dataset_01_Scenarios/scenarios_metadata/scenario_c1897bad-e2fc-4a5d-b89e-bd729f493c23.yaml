@@ -1,19 +1,11 @@
-scenario: '3e3de894-2bc8-4998-bfda-7fbae88fd6f9
-
-  Random word: instead
-
-  Scope: Professional
-
-  Severity: Dangerous
-
-  Region: South America
-
-  Category: Disagreement or Argument
-
-  Domain: Intellectual
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Disagreement or Argument
+Domain: Intellectual
+Random word: instead
+Region: South America
+Scenario: c1897bad-e2fc-4a5d-b89e-bd729f493c23
+Scope: Professional
+Severity: Dangerous
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

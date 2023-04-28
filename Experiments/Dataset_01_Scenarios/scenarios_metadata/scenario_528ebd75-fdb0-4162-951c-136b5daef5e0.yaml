@@ -1,19 +1,11 @@
-scenario: '6e902af3-8ef8-4577-8237-b736d0851c53
-
-  Random word: satisfy
-
-  Scope: Interpersonal
-
-  Severity: Typical
-
-  Region: Asia
-
-  Category: Health concern
-
-  Domain: Technological
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Health concern
+Domain: Technological
+Random word: satisfy
+Region: Asia
+Scenario: 528ebd75-fdb0-4162-951c-136b5daef5e0
+Scope: Interpersonal
+Severity: Typical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

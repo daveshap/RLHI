@@ -1,18 +1,10 @@
-scenario: 'c1bfc953-f160-466b-a17c-9d05598e3b48
-
-  Random word: judge
-
-  Scope: International
-
-  Severity: Ordinary
-
-  Region: Asia
-
-  Category: Health concern
-
-  Domain: Educational
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Health concern
+Domain: Educational
+Random word: judge
+Region: Asia
+Scenario: 89a813f1-8099-497f-9e14-40f57aa4a980
+Scope: International
+Severity: Ordinary
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

@@ -1,18 +1,10 @@
-scenario: '8f2874d1-9a96-42db-b106-7347fb067bf6
-
-  Random word: edition
-
-  Scope: Continental
-
-  Severity: Ordinary
-
-  Region: South America
-
-  Category: Health concern
-
-  Domain: Scientific
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Health concern
+Domain: Scientific
+Random word: edition
+Region: South America
+Scenario: 825878ed-78d7-42d8-beba-d69aad1c1e1a
+Scope: Continental
+Severity: Ordinary
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

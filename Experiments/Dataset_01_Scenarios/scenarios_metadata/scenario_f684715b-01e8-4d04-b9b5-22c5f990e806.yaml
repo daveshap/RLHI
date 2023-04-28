@@ -1,19 +1,11 @@
-scenario: 'd0faa07f-46b3-414b-a967-b57433fd3f57
-
-  Random word: atmosphere
-
-  Scope: Regional or Statewide
-
-  Severity: Dangerous
-
-  Region: North Africa
-
-  Category: Social challenge
-
-  Domain: Environmental
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Social challenge
+Domain: Environmental
+Random word: atmosphere
+Region: North Africa
+Scenario: f684715b-01e8-4d04-b9b5-22c5f990e806
+Scope: Regional or Statewide
+Severity: Dangerous
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,19 +1,11 @@
-scenario: 'c18edb81-3782-4c9b-abd1-00be4e6b6ae0
-
-  Random word: much
-
-  Scope: Global
-
-  Severity: Insignificant
-
-  Region: Europe
-
-  Category: Accident or Incident
-
-  Domain: Philosophical
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Accident or Incident
+Domain: Philosophical
+Random word: much
+Region: Europe
+Scenario: e9a630a5-06a7-4e2c-8aa5-24a60264196b
+Scope: Global
+Severity: Insignificant
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

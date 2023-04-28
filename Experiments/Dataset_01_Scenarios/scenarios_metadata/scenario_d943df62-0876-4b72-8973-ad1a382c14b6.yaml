@@ -1,19 +1,11 @@
-scenario: 'db994d54-0133-4faf-9e3e-5bc6fa279829
-
-  Random word: agent
-
-  Scope: International
-
-  Severity: Dangerous
-
-  Region: Pacific
-
-  Category: Health concern
-
-  Domain: Political
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Health concern
+Domain: Political
+Random word: agent
+Region: Pacific
+Scenario: d943df62-0876-4b72-8973-ad1a382c14b6
+Scope: International
+Severity: Dangerous
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

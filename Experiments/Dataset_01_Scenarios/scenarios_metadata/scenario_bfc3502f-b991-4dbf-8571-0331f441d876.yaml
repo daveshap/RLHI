@@ -1,18 +1,10 @@
-scenario: 'd506c6cd-7c6e-47ed-aae1-44e0325a6338
-
-  Random word: exception
-
-  Scope: Global
-
-  Severity: Annoyance
-
-  Region: Pacific
-
-  Category: Ethical dilemma
-
-  Domain: Spiritual or Religious
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Ethical dilemma
+Domain: Spiritual or Religious
+Random word: exception
+Region: Pacific
+Scenario: bfc3502f-b991-4dbf-8571-0331f441d876
+Scope: Global
+Severity: Annoyance
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

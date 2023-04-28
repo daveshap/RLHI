@@ -1,19 +1,11 @@
-scenario: '3348bd98-dd97-4561-a988-64a76d27a48c
-
-  Random word: retain
-
-  Scope: Chosen Family
-
-  Severity: Life-threatening
-
-  Region: Europe
-
-  Category: Natural disaster
-
-  Domain: Educational
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Natural disaster
+Domain: Educational
+Random word: retain
+Region: Europe
+Scenario: d7c0d4fb-dc4c-4cb3-82f2-4c6f16507c31
+Scope: Chosen Family
+Severity: Life-threatening
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

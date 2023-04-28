@@ -1,19 +1,11 @@
-scenario: '3328510a-bef1-4101-bfce-74df0422c2ce
-
-  Random word: out
-
-  Scope: Continental
-
-  Severity: Ordinary
-
-  Region: Asia
-
-  Category: Financial crisis
-
-  Domain: Economic
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Financial crisis
+Domain: Economic
+Random word: out
+Region: Asia
+Scenario: 45d17283-3f61-42ed-a44d-c8934b3b7724
+Scope: Continental
+Severity: Ordinary
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

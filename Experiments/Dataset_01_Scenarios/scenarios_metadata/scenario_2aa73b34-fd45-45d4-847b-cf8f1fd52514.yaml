@@ -1,19 +1,11 @@
-scenario: '26683cac-d3f9-4551-81da-d71ff9214b1a
-
-  Random word: clearly
-
-  Scope: Global
-
-  Severity: Annoyance
-
-  Region: Subsaharan Africa
-
-  Category: Political unrest
-
-  Domain: Spiritual or Religious
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Political unrest
+Domain: Spiritual or Religious
+Random word: clearly
+Region: Subsaharan Africa
+Scenario: 2aa73b34-fd45-45d4-847b-cf8f1fd52514
+Scope: Global
+Severity: Annoyance
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,19 +1,11 @@
-scenario: '07100ee7-5c4f-4391-a58e-171cbc8652d3
-
-  Random word: lap
-
-  Scope: Interpersonal
-
-  Severity: Annoyance
-
-  Region: North America
-
-  Category: Political unrest
-
-  Domain: Physical
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Political unrest
+Domain: Physical
+Random word: lap
+Region: North America
+Scenario: 3f208edd-c600-483b-b3c4-87c11a993a68
+Scope: Interpersonal
+Severity: Annoyance
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

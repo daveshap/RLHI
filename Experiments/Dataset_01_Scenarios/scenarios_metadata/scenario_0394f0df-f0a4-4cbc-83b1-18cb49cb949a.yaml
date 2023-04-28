@@ -1,19 +1,11 @@
-scenario: 'f348d81f-0083-487c-857e-991f915d07c9
-
-  Random word: modern
-
-  Scope: Interpersonal
-
-  Severity: Insignificant
-
-  Region: South Asia
-
-  Category: Technological failure
-
-  Domain: Scientific
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Technological failure
+Domain: Scientific
+Random word: modern
+Region: South Asia
+Scenario: 0394f0df-f0a4-4cbc-83b1-18cb49cb949a
+Scope: Interpersonal
+Severity: Insignificant
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

@@ -1,19 +1,11 @@
-scenario: '7a30db96-aea8-4125-b796-a9912fec930f
-
-  Random word: cool
-
-  Scope: National or Federal
-
-  Severity: Typical
-
-  Region: North America
-
-  Category: Health concern
-
-  Domain: Scientific
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Health concern
+Domain: Scientific
+Random word: cool
+Region: North America
+Scenario: 1c4e76ae-b8df-4e6e-960c-712c9aed03d5
+Scope: National or Federal
+Severity: Typical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

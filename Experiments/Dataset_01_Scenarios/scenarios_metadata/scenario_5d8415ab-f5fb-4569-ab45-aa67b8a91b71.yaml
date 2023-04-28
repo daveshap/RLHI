@@ -1,19 +1,11 @@
-scenario: 'e0bcef8e-be93-48f3-91dd-4e0dc33960f2
-
-  Random word: boat
-
-  Scope: Regional or Statewide
-
-  Severity: Disruptive
-
-  Region: Pacific
-
-  Category: Accident or Incident
-
-  Domain: Political
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Accident or Incident
+Domain: Political
+Random word: boat
+Region: Pacific
+Scenario: 5d8415ab-f5fb-4569-ab45-aa67b8a91b71
+Scope: Regional or Statewide
+Severity: Disruptive
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

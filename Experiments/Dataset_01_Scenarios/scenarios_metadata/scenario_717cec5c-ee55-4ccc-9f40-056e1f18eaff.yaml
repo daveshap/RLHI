@@ -1,19 +1,11 @@
-scenario: 'a0128ddd-feea-4ae1-9548-1e112b6cb67a
-
-  Random word: rather
-
-  Scope: Interstellar
-
-  Severity: Dangerous
-
-  Region: Eurasia
-
-  Category: Mundane issue
-
-  Domain: Educational
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Mundane issue
+Domain: Educational
+Random word: rather
+Region: Eurasia
+Scenario: 717cec5c-ee55-4ccc-9f40-056e1f18eaff
+Scope: Interstellar
+Severity: Dangerous
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

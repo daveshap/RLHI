@@ -1,19 +1,11 @@
-scenario: '8f64d8f6-cbab-4acd-9b80-f7395c351965
-
-  Random word: atmosphere
-
-  Scope: Extended Family
-
-  Severity: Annoyance
-
-  Region: Asia
-
-  Category: Ethical dilemma
-
-  Domain: Political
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Ethical dilemma
+Domain: Political
+Random word: atmosphere
+Region: Asia
+Scenario: a63c2079-f333-44a6-9e5a-1835945db463
+Scope: Extended Family
+Severity: Annoyance
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

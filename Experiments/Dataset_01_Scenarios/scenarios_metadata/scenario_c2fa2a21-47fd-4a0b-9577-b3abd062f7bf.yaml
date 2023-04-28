@@ -1,19 +1,11 @@
-scenario: '903fd9c8-3718-4db2-a628-d2d6f04b1ceb
-
-  Random word: beach
-
-  Scope: Local community or Neighborhood
-
-  Severity: Ordinary
-
-  Region: Eurasia
-
-  Category: Political unrest
-
-  Domain: Emotional
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Political unrest
+Domain: Emotional
+Random word: beach
+Region: Eurasia
+Scenario: c2fa2a21-47fd-4a0b-9577-b3abd062f7bf
+Scope: Local community or Neighborhood
+Severity: Ordinary
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

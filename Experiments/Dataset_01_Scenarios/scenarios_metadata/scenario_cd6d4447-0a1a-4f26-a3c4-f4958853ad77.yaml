@@ -1,19 +1,11 @@
-scenario: '44dae299-bf84-43d8-b830-3b706b05b35a
-
-  Random word: blame
-
-  Scope: Continental
-
-  Severity: Disruptive
-
-  Region: South Asia
-
-  Category: Accident or Incident
-
-  Domain: Legal
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Accident or Incident
+Domain: Legal
+Random word: blame
+Region: South Asia
+Scenario: cd6d4447-0a1a-4f26-a3c4-f4958853ad77
+Scope: Continental
+Severity: Disruptive
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

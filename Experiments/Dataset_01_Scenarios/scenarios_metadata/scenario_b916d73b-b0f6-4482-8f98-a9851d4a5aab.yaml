@@ -1,19 +1,11 @@
-scenario: 'befbb015-5044-40a1-aef8-05e7e9b302ab
-
-  Random word: forward
-
-  Scope: City or Village
-
-  Severity: Irreversible
-
-  Region: North America
-
-  Category: Political unrest
-
-  Domain: Emotional
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Political unrest
+Domain: Emotional
+Random word: forward
+Region: North America
+Scenario: b916d73b-b0f6-4482-8f98-a9851d4a5aab
+Scope: City or Village
+Severity: Irreversible
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

@@ -1,19 +1,11 @@
-scenario: '4d6a9874-4175-4171-a1e7-e3081174b1a8
-
-  Random word: convince
-
-  Scope: Professional
-
-  Severity: Annoyance
-
-  Region: Pacific
-
-  Category: Political unrest
-
-  Domain: Political
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Political unrest
+Domain: Political
+Random word: convince
+Region: Pacific
+Scenario: e324edb4-2a0f-4354-906b-23a8e679fe5a
+Scope: Professional
+Severity: Annoyance
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

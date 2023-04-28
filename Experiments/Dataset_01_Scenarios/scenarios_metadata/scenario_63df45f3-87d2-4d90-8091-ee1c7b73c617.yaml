@@ -1,18 +1,10 @@
-scenario: '74cb0bf7-c8da-4c76-bdba-de4477b14e8a
-
-  Random word: somewhat
-
-  Scope: Professional
-
-  Severity: Typical
-
-  Region: Europe
-
-  Category: Political unrest
-
-  Domain: Educational
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Political unrest
+Domain: Educational
+Random word: somewhat
+Region: Europe
+Scenario: 63df45f3-87d2-4d90-8091-ee1c7b73c617
+Scope: Professional
+Severity: Typical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

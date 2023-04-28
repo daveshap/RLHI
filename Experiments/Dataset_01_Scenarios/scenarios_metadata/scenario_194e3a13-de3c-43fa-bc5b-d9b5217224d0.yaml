@@ -1,19 +1,11 @@
-scenario: '2d69aafd-d5f7-42a1-a8aa-0703502cd1b5
-
-  Random word: bright
-
-  Scope: Interpersonal
-
-  Severity: Catastrophic
-
-  Region: South America
-
-  Category: Mundane issue
-
-  Domain: Cultural
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Mundane issue
+Domain: Cultural
+Random word: bright
+Region: South America
+Scenario: 194e3a13-de3c-43fa-bc5b-d9b5217224d0
+Scope: Interpersonal
+Severity: Catastrophic
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

@@ -1,19 +1,11 @@
-scenario: '3e00459a-8c56-423d-80cc-48fcfb5266f8
-
-  Random word: sense
-
-  Scope: Regional or Statewide
-
-  Severity: Insignificant
-
-  Region: South America
-
-  Category: Political unrest
-
-  Domain: Spiritual or Religious
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Political unrest
+Domain: Spiritual or Religious
+Random word: sense
+Region: South America
+Scenario: 6d4da4fa-3c9a-42c4-b3b8-d2ed612a5c38
+Scope: Regional or Statewide
+Severity: Insignificant
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

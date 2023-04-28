@@ -1,19 +1,11 @@
-scenario: '6021ef29-ec3f-418d-9643-7df002b5efa8
-
-  Random word: valuable
-
-  Scope: City or Village
-
-  Severity: Critical
-
-  Region: Asia
-
-  Category: Natural disaster
-
-  Domain: Political
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Natural disaster
+Domain: Political
+Random word: valuable
+Region: Asia
+Scenario: 229dddaf-903f-4969-a57c-3c281ba00421
+Scope: City or Village
+Severity: Critical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,19 +1,11 @@
-scenario: '69d25fe9-4fbc-4179-af35-bc19e22eba74
-
-  Random word: we
-
-  Scope: Interpersonal
-
-  Severity: Annoyance
-
-  Region: Asia
-
-  Category: Health concern
-
-  Domain: Technological
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Health concern
+Domain: Technological
+Random word: we
+Region: Asia
+Scenario: 1ca05ff4-3f51-49bb-af59-d0a12bbe81bc
+Scope: Interpersonal
+Severity: Annoyance
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

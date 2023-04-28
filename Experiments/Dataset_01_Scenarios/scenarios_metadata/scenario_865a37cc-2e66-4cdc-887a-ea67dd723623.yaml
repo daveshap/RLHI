@@ -1,19 +1,11 @@
-scenario: '64a965e8-36bd-4787-a814-4a39a156855d
-
-  Random word: forest
-
-  Scope: Online
-
-  Severity: Long-lasting
-
-  Region: Europe
-
-  Category: Environmental issue
-
-  Domain: Environmental
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Environmental issue
+Domain: Environmental
+Random word: forest
+Region: Europe
+Scenario: 865a37cc-2e66-4cdc-887a-ea67dd723623
+Scope: Online
+Severity: Long-lasting
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

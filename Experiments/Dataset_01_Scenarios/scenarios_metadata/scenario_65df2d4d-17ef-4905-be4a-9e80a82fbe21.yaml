@@ -1,19 +1,11 @@
-scenario: '5cb6a30d-5f51-471f-928f-5786cfae8de2
-
-  Random word: lap
-
-  Scope: Intergalactic
-
-  Severity: Dangerous
-
-  Region: South Pacific
-
-  Category: Financial crisis
-
-  Domain: Legal
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Financial crisis
+Domain: Legal
+Random word: lap
+Region: South Pacific
+Scenario: 65df2d4d-17ef-4905-be4a-9e80a82fbe21
+Scope: Intergalactic
+Severity: Dangerous
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

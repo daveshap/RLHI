@@ -1,19 +1,11 @@
-scenario: 'b0375def-f3f9-4b44-8e3a-fea4bcba4ec5
-
-  Random word: earnings
-
-  Scope: Extended Family
-
-  Severity: Life-threatening
-
-  Region: Subsaharan Africa
-
-  Category: AI Control Problem
-
-  Domain: Educational
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: AI Control Problem
+Domain: Educational
+Random word: earnings
+Region: Subsaharan Africa
+Scenario: d11c16c7-2d3a-458a-bbb8-dfeac1a0522f
+Scope: Extended Family
+Severity: Life-threatening
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

@@ -1,19 +1,11 @@
-scenario: '7d8e9400-58b3-4d49-9fbc-6b2c58603028
-
-  Random word: shore
-
-  Scope: Intergalactic
-
-  Severity: Disruptive
-
-  Region: Eurasia
-
-  Category: Technological failure
-
-  Domain: Physical
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Technological failure
+Domain: Physical
+Random word: shore
+Region: Eurasia
+Scenario: 7691661a-d73a-4ed5-b90f-51730e413a71
+Scope: Intergalactic
+Severity: Disruptive
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

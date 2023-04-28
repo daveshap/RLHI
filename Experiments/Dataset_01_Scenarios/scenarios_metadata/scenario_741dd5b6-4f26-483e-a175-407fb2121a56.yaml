@@ -1,19 +1,11 @@
-scenario: '41110153-af64-4600-bf4a-2cdce080a087
-
-  Random word: long
-
-  Scope: Global
-
-  Severity: Disruptive
-
-  Region: Asia
-
-  Category: Political unrest
-
-  Domain: Economic
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Political unrest
+Domain: Economic
+Random word: long
+Region: Asia
+Scenario: 741dd5b6-4f26-483e-a175-407fb2121a56
+Scope: Global
+Severity: Disruptive
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

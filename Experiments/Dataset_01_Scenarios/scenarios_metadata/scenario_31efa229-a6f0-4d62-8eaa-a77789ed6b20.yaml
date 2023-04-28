@@ -1,19 +1,11 @@
-scenario: 'd0e205f7-81e1-43ee-aba6-e7b5c0ec1ea9
-
-  Random word: bone
-
-  Scope: Extended Family
-
-  Severity: Ordinary
-
-  Region: North Africa
-
-  Category: Natural disaster
-
-  Domain: Cultural
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Natural disaster
+Domain: Cultural
+Random word: bone
+Region: North Africa
+Scenario: 31efa229-a6f0-4d62-8eaa-a77789ed6b20
+Scope: Extended Family
+Severity: Ordinary
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

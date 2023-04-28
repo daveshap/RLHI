@@ -1,19 +1,11 @@
-scenario: 'c82cb002-7c56-4f71-a924-b7d588b48676
-
-  Random word: crop
-
-  Scope: Personal or Individual
-
-  Severity: Dangerous
-
-  Region: North Africa
-
-  Category: Political unrest
-
-  Domain: Technological
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Political unrest
+Domain: Technological
+Random word: crop
+Region: North Africa
+Scenario: e339e4fc-1c5f-4488-81d2-9acfb4d9024d
+Scope: Personal or Individual
+Severity: Dangerous
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

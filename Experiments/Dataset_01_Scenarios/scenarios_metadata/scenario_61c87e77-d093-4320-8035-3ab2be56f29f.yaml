@@ -1,19 +1,11 @@
-scenario: 'b5ea7128-b977-4885-8c81-79f335d531af
-
-  Random word: society
-
-  Scope: Extended Family
-
-  Severity: Typical
-
-  Region: South America
-
-  Category: Conflict or Violence
-
-  Domain: Educational
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Conflict or Violence
+Domain: Educational
+Random word: society
+Region: South America
+Scenario: 61c87e77-d093-4320-8035-3ab2be56f29f
+Scope: Extended Family
+Severity: Typical
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

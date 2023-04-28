@@ -1,19 +1,11 @@
-scenario: 'e1787e5c-7582-493b-be06-b158d76f25c2
-
-  Random word: swim
-
-  Scope: City or Village
-
-  Severity: Insignificant
-
-  Region: Pacific
-
-  Category: Ethical dilemma
-
-  Domain: Physical
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Ethical dilemma
+Domain: Physical
+Random word: swim
+Region: Pacific
+Scenario: 532bef0e-6e84-4360-b9f4-d649831d216e
+Scope: City or Village
+Severity: Insignificant
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

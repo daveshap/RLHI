@@ -1,19 +1,11 @@
-scenario: '07701572-5ea0-4be0-b8d6-b13307ac0929
-
-  Random word: differ
-
-  Scope: Personal or Individual
-
-  Severity: Dangerous
-
-  Region: South America
-
-  Category: Political unrest
-
-  Domain: Intellectual
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Political unrest
+Domain: Intellectual
+Random word: differ
+Region: South America
+Scenario: f0fb8dde-80d4-4f77-978f-50bf79866ffc
+Scope: Personal or Individual
+Severity: Dangerous
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

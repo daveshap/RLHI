@@ -1,19 +1,11 @@
-scenario: '45b60e55-802d-4d36-8f00-6e490ceb1d4e
-
-  Random word: recording
-
-  Scope: Cosmic or Universal
-
-  Severity: Critical
-
-  Region: North Africa
-
-  Category: AI Control Problem
-
-  Domain: Social
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: AI Control Problem
+Domain: Social
+Random word: recording
+Region: North Africa
+Scenario: 7534851e-6347-4001-b6ed-49bbf08b11eb
+Scope: Cosmic or Universal
+Severity: Critical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

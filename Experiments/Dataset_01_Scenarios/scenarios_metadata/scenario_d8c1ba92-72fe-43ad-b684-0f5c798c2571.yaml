@@ -1,19 +1,11 @@
-scenario: '91b9fb0c-b388-4c43-ba1b-81d8d2abc9c2
-
-  Random word: senator
-
-  Scope: Personal or Individual
-
-  Severity: Disruptive
-
-  Region: Europe
-
-  Category: Social challenge
-
-  Domain: Political
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Social challenge
+Domain: Political
+Random word: senator
+Region: Europe
+Scenario: d8c1ba92-72fe-43ad-b684-0f5c798c2571
+Scope: Personal or Individual
+Severity: Disruptive
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

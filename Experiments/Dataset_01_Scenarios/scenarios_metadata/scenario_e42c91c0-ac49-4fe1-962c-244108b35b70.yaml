@@ -1,18 +1,10 @@
-scenario: '82b270d2-cfa8-43da-92d9-050dbcea1b97
-
-  Random word: broken
-
-  Scope: International
-
-  Severity: Dangerous
-
-  Region: South America
-
-  Category: Disagreement or Argument
-
-  Domain: Economic
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Disagreement or Argument
+Domain: Economic
+Random word: broken
+Region: South America
+Scenario: e42c91c0-ac49-4fe1-962c-244108b35b70
+Scope: International
+Severity: Dangerous
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

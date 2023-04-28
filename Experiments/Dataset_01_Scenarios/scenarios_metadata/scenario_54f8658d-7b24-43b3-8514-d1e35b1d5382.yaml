@@ -1,19 +1,11 @@
-scenario: '6a044804-f56d-43e7-8344-073316d7a334
-
-  Random word: statement
-
-  Scope: Online
-
-  Severity: Critical
-
-  Region: South Pacific
-
-  Category: Political unrest
-
-  Domain: Social
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Political unrest
+Domain: Social
+Random word: statement
+Region: South Pacific
+Scenario: 54f8658d-7b24-43b3-8514-d1e35b1d5382
+Scope: Online
+Severity: Critical
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

@@ -1,19 +1,11 @@
-scenario: '6e12dd68-e9f2-4234-9afe-c8a740f95de5
-
-  Random word: theme
-
-  Scope: Global
-
-  Severity: Annoyance
-
-  Region: North America
-
-  Category: Conflict or Violence
-
-  Domain: Intellectual
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Conflict or Violence
+Domain: Intellectual
+Random word: theme
+Region: North America
+Scenario: 045b6404-3167-473c-b1c5-ee7c5a190992
+Scope: Global
+Severity: Annoyance
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

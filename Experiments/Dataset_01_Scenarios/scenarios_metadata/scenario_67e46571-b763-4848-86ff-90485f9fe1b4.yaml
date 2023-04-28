@@ -1,18 +1,10 @@
-scenario: '6a694fd8-3ed5-44b2-976d-f5eaa1f1214b
-
-  Random word: gently
-
-  Scope: Regional or Statewide
-
-  Severity: Dangerous
-
-  Region: Eurasia
-
-  Category: Environmental issue
-
-  Domain: Intellectual
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Environmental issue
+Domain: Intellectual
+Random word: gently
+Region: Eurasia
+Scenario: 67e46571-b763-4848-86ff-90485f9fe1b4
+Scope: Regional or Statewide
+Severity: Dangerous
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

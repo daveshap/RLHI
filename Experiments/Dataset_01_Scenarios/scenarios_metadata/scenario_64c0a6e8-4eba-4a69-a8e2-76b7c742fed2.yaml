@@ -1,18 +1,10 @@
-scenario: '87c4eb39-809a-4342-9edc-ddc7f4159024
-
-  Random word: part
-
-  Scope: Interpersonal
-
-  Severity: Catastrophic
-
-  Region: Eurasia
-
-  Category: Disagreement or Argument
-
-  Domain: Social
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Disagreement or Argument
+Domain: Social
+Random word: part
+Region: Eurasia
+Scenario: 64c0a6e8-4eba-4a69-a8e2-76b7c742fed2
+Scope: Interpersonal
+Severity: Catastrophic
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

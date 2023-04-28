@@ -1,19 +1,11 @@
-scenario: '17c632ac-fb05-456d-af78-bd5ec8b3f11a
-
-  Random word: mere
-
-  Scope: National or Federal
-
-  Severity: Insignificant
-
-  Region: North Africa
-
-  Category: Mundane issue
-
-  Domain: Environmental
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Mundane issue
+Domain: Environmental
+Random word: mere
+Region: North Africa
+Scenario: 5f9699ed-cf14-4531-bb01-ff420a9cb087
+Scope: National or Federal
+Severity: Insignificant
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

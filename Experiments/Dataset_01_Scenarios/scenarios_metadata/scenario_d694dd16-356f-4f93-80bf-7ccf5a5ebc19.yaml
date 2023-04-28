@@ -1,18 +1,10 @@
-scenario: 'afd75b40-2aab-4d15-85ec-5c8b680f9ca5
-
-  Random word: item
-
-  Scope: Local community or Neighborhood
-
-  Severity: Catastrophic
-
-  Region: Europe
-
-  Category: Accident or Incident
-
-  Domain: Intellectual
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Accident or Incident
+Domain: Intellectual
+Random word: item
+Region: Europe
+Scenario: d694dd16-356f-4f93-80bf-7ccf5a5ebc19
+Scope: Local community or Neighborhood
+Severity: Catastrophic
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

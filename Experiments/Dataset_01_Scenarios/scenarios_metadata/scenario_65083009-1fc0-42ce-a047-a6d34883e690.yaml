@@ -1,19 +1,11 @@
-scenario: 'fbb49f2a-ecec-41a6-ab8b-a94163b074c7
-
-  Random word: wrong
-
-  Scope: Online
-
-  Severity: Catastrophic
-
-  Region: North America
-
-  Category: AI Control Problem
-
-  Domain: Cultural
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: AI Control Problem
+Domain: Cultural
+Random word: wrong
+Region: North America
+Scenario: 65083009-1fc0-42ce-a047-a6d34883e690
+Scope: Online
+Severity: Catastrophic
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

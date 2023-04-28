@@ -1,19 +1,11 @@
-scenario: '45048c74-00ea-48ad-bbf9-556cde7e4bd1
-
-  Random word: singer
-
-  Scope: Global
-
-  Severity: Dangerous
-
-  Region: South Pacific
-
-  Category: Accident or Incident
-
-  Domain: Environmental
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Accident or Incident
+Domain: Environmental
+Random word: singer
+Region: South Pacific
+Scenario: 897b1002-607f-470d-9314-f15114b7be30
+Scope: Global
+Severity: Dangerous
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

@@ -1,19 +1,11 @@
-scenario: 'fb668ad1-1e04-454a-b229-9f076b64f96a
-
-  Random word: cash
-
-  Scope: National or Federal
-
-  Severity: Life-threatening
-
-  Region: South Asia
-
-  Category: Political unrest
-
-  Domain: Economic
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Political unrest
+Domain: Economic
+Random word: cash
+Region: South Asia
+Scenario: 8e53e6ff-995b-42ba-81a0-3261eb391ade
+Scope: National or Federal
+Severity: Life-threatening
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

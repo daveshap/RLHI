@@ -1,19 +1,11 @@
-scenario: '41df241e-f8ab-4e3b-b834-7f2e718ea4f6
-
-  Random word: historian
-
-  Scope: Extended Family
-
-  Severity: Ordinary
-
-  Region: North Africa
-
-  Category: Social challenge
-
-  Domain: Scientific
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Social challenge
+Domain: Scientific
+Random word: historian
+Region: North Africa
+Scenario: c461fbd3-54db-4bfc-8770-60ae2c2bdf06
+Scope: Extended Family
+Severity: Ordinary
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

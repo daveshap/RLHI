@@ -1,19 +1,11 @@
-scenario: '5f39dcfb-a674-463c-81f6-8e50d861864a
-
-  Random word: there
-
-  Scope: Personal or Individual
-
-  Severity: Dangerous
-
-  Region: North Africa
-
-  Category: Natural disaster
-
-  Domain: Environmental
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Natural disaster
+Domain: Environmental
+Random word: there
+Region: North Africa
+Scenario: 0039c448-871e-4a02-a19b-f7bdf28f3e36
+Scope: Personal or Individual
+Severity: Dangerous
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

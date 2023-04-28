@@ -1,18 +1,10 @@
-scenario: '832215dd-784d-40e8-ae09-ee541827c956
-
-  Random word: any
-
-  Scope: National or Federal
-
-  Severity: Critical
-
-  Region: North America
-
-  Category: Accident or Incident
-
-  Domain: Technological
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Accident or Incident
+Domain: Technological
+Random word: any
+Region: North America
+Scenario: 752efa25-1787-428c-942f-08169725722c
+Scope: National or Federal
+Severity: Critical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

@@ -1,18 +1,10 @@
-scenario: '825bc586-ae86-4722-9ba4-b184807de9ea
-
-  Random word: file
-
-  Scope: Global
-
-  Severity: Serious
-
-  Region: South Pacific
-
-  Category: Financial crisis
-
-  Domain: Political
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Financial crisis
+Domain: Political
+Random word: file
+Region: South Pacific
+Scenario: f8ffdfbf-8f46-457e-a3e9-198d38de3a1c
+Scope: Global
+Severity: Serious
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

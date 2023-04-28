@@ -1,19 +1,11 @@
-scenario: 'cd687df4-0baa-43ec-a8c5-412b90b8f14f
-
-  Random word: actor
-
-  Scope: Chosen Family
-
-  Severity: Catastrophic
-
-  Region: Eurasia
-
-  Category: AI Control Problem
-
-  Domain: Scientific
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: AI Control Problem
+Domain: Scientific
+Random word: actor
+Region: Eurasia
+Scenario: d9f44eaf-0929-4b95-a2b2-a4ccd94a565e
+Scope: Chosen Family
+Severity: Catastrophic
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

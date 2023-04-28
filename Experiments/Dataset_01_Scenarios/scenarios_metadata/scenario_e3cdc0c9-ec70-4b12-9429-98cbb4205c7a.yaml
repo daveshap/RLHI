@@ -1,19 +1,11 @@
-scenario: '25e8970c-29cd-4215-be2a-69ff893eb0f0
-
-  Random word: frequent
-
-  Scope: Extended Family
-
-  Severity: Insignificant
-
-  Region: South Pacific
-
-  Category: Environmental issue
-
-  Domain: Social
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Environmental issue
+Domain: Social
+Random word: frequent
+Region: South Pacific
+Scenario: e3cdc0c9-ec70-4b12-9429-98cbb4205c7a
+Scope: Extended Family
+Severity: Insignificant
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

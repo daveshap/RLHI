@@ -1,18 +1,10 @@
-scenario: '59a64b07-333d-419e-b1fc-55f579983258
-
-  Random word: apart
-
-  Scope: Regional or Statewide
-
-  Severity: Typical
-
-  Region: Europe
-
-  Category: Conflict or Violence
-
-  Domain: Physical
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Conflict or Violence
+Domain: Physical
+Random word: apart
+Region: Europe
+Scenario: 71e6afe8-00aa-4df1-89a7-31689c37f571
+Scope: Regional or Statewide
+Severity: Typical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

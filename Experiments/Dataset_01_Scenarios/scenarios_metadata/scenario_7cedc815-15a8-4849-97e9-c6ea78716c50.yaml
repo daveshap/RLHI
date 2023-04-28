@@ -1,19 +1,11 @@
-scenario: '34eefd2f-714b-4198-b47e-22f84f35b3d2
-
-  Random word: variable
-
-  Scope: Regional or Statewide
-
-  Severity: Serious
-
-  Region: Europe
-
-  Category: Technological failure
-
-  Domain: Legal
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Technological failure
+Domain: Legal
+Random word: variable
+Region: Europe
+Scenario: 7cedc815-15a8-4849-97e9-c6ea78716c50
+Scope: Regional or Statewide
+Severity: Serious
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

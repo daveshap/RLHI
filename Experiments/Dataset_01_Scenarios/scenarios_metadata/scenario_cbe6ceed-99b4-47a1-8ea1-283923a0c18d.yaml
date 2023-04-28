@@ -1,18 +1,10 @@
-scenario: 'a8d3d7f3-d00b-43cd-92e0-a0e615392338
-
-  Random word: remote
-
-  Scope: Intergalactic
-
-  Severity: Typical
-
-  Region: Subsaharan Africa
-
-  Category: Technological failure
-
-  Domain: Educational
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Technological failure
+Domain: Educational
+Random word: remote
+Region: Subsaharan Africa
+Scenario: cbe6ceed-99b4-47a1-8ea1-283923a0c18d
+Scope: Intergalactic
+Severity: Typical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

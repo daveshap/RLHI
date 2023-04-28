@@ -1,19 +1,11 @@
-scenario: 'c9726613-3b08-4e54-ae6c-75d8c78e7d58
-
-  Random word: Asian
-
-  Scope: Interstellar
-
-  Severity: Serious
-
-  Region: South Pacific
-
-  Category: Ethical dilemma
-
-  Domain: Spiritual or Religious
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Ethical dilemma
+Domain: Spiritual or Religious
+Random word: Asian
+Region: South Pacific
+Scenario: bccf739a-ff91-49c7-91f7-0e44623baf1b
+Scope: Interstellar
+Severity: Serious
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

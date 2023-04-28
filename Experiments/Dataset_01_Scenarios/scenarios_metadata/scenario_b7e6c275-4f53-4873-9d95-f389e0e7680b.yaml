@@ -1,19 +1,11 @@
-scenario: 'b6c1be98-6cfe-400e-b292-94235daee08a
-
-  Random word: death
-
-  Scope: Chosen Family
-
-  Severity: Long-lasting
-
-  Region: Middle East
-
-  Category: Mundane issue
-
-  Domain: Social
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Mundane issue
+Domain: Social
+Random word: death
+Region: Middle East
+Scenario: b7e6c275-4f53-4873-9d95-f389e0e7680b
+Scope: Chosen Family
+Severity: Long-lasting
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

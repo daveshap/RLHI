@@ -1,19 +1,11 @@
-scenario: '208b80c8-6b9a-4a3a-aa4e-95340504db72
-
-  Random word: park
-
-  Scope: Personal or Individual
-
-  Severity: Catastrophic
-
-  Region: Asia
-
-  Category: AI Control Problem
-
-  Domain: Educational
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: AI Control Problem
+Domain: Educational
+Random word: park
+Region: Asia
+Scenario: 9bde04f4-aa2f-40a3-bbf1-3e00ce76efee
+Scope: Personal or Individual
+Severity: Catastrophic
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,19 +1,11 @@
-scenario: '474eaca4-2eed-435b-bcc6-28692bb8bb49
-
-  Random word: hypothesis
-
-  Scope: Local community or Neighborhood
-
-  Severity: Ordinary
-
-  Region: Eurasia
-
-  Category: Health concern
-
-  Domain: Environmental
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Health concern
+Domain: Environmental
+Random word: hypothesis
+Region: Eurasia
+Scenario: 4097c88c-8197-47f0-9502-f563e76d8d02
+Scope: Local community or Neighborhood
+Severity: Ordinary
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,18 +1,10 @@
-scenario: '59005654-e571-4dcf-958e-16af5768019a
-
-  Random word: defeat
-
-  Scope: Interpersonal
-
-  Severity: Dangerous
-
-  Region: Europe
-
-  Category: Health concern
-
-  Domain: Spiritual or Religious
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Health concern
+Domain: Spiritual or Religious
+Random word: defeat
+Region: Europe
+Scenario: dbe9bff0-a346-4fc7-90d8-eb7511029e74
+Scope: Interpersonal
+Severity: Dangerous
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

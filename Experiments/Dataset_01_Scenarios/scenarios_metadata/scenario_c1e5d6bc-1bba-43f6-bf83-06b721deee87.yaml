@@ -1,19 +1,11 @@
-scenario: '0ff261c6-e010-4d5b-bda5-f479b2cecba9
-
-  Random word: bus
-
-  Scope: Nuclear Family
-
-  Severity: Catastrophic
-
-  Region: Eurasia
-
-  Category: Natural disaster
-
-  Domain: Political
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Natural disaster
+Domain: Political
+Random word: bus
+Region: Eurasia
+Scenario: c1e5d6bc-1bba-43f6-bf83-06b721deee87
+Scope: Nuclear Family
+Severity: Catastrophic
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

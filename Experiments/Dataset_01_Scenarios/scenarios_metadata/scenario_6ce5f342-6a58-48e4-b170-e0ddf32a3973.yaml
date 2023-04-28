@@ -1,19 +1,11 @@
-scenario: '447252b5-0f96-41eb-b5ed-9d9310b92b3e
-
-  Random word: constant
-
-  Scope: Intergalactic
-
-  Severity: Disruptive
-
-  Region: Eurasia
-
-  Category: Technological failure
-
-  Domain: Political
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Technological failure
+Domain: Political
+Random word: constant
+Region: Eurasia
+Scenario: 6ce5f342-6a58-48e4-b170-e0ddf32a3973
+Scope: Intergalactic
+Severity: Disruptive
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

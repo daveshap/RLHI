@@ -1,19 +1,11 @@
-scenario: '7f2c2b3a-61e7-4fdb-9099-808b8c874f8b
-
-  Random word: bag
-
-  Scope: Extended Family
-
-  Severity: Catastrophic
-
-  Region: Pacific
-
-  Category: Environmental issue
-
-  Domain: Environmental
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Environmental issue
+Domain: Environmental
+Random word: bag
+Region: Pacific
+Scenario: 8dcf7fa4-18d4-4bef-982d-7a3a85367069
+Scope: Extended Family
+Severity: Catastrophic
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

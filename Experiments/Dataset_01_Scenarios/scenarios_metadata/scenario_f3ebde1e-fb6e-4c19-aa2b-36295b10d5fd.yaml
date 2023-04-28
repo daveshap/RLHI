@@ -1,19 +1,11 @@
-scenario: '9e6c26c8-f0ff-4775-ab65-fbd9c005bcc0
-
-  Random word: way
-
-  Scope: Nuclear Family
-
-  Severity: Dangerous
-
-  Region: South America
-
-  Category: Political unrest
-
-  Domain: Scientific
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Political unrest
+Domain: Scientific
+Random word: way
+Region: South America
+Scenario: f3ebde1e-fb6e-4c19-aa2b-36295b10d5fd
+Scope: Nuclear Family
+Severity: Dangerous
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

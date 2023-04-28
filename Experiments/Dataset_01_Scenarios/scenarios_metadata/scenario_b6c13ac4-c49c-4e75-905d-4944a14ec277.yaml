@@ -1,18 +1,10 @@
-scenario: 'c1c1049a-7d54-4f13-88f1-e5163831448f
-
-  Random word: concept
-
-  Scope: Online
-
-  Severity: Serious
-
-  Region: North Africa
-
-  Category: Ethical dilemma
-
-  Domain: Technological
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Ethical dilemma
+Domain: Technological
+Random word: concept
+Region: North Africa
+Scenario: b6c13ac4-c49c-4e75-905d-4944a14ec277
+Scope: Online
+Severity: Serious
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

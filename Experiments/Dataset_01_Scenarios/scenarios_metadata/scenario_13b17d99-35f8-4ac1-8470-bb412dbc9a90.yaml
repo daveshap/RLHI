@@ -1,19 +1,11 @@
-scenario: 'a880aa93-0350-4327-b485-dfa783cbb99d
-
-  Random word: championship
-
-  Scope: Professional
-
-  Severity: Catastrophic
-
-  Region: North America
-
-  Category: Disagreement or Argument
-
-  Domain: Technological
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Disagreement or Argument
+Domain: Technological
+Random word: championship
+Region: North America
+Scenario: 13b17d99-35f8-4ac1-8470-bb412dbc9a90
+Scope: Professional
+Severity: Catastrophic
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

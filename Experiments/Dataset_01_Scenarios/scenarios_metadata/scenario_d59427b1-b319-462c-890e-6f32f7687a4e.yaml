@@ -1,19 +1,11 @@
-scenario: '8743d3aa-3f65-4273-8a7f-3fe9d0a5c02c
-
-  Random word: guess
-
-  Scope: Regional or Statewide
-
-  Severity: Irreversible
-
-  Region: Asia
-
-  Category: Health concern
-
-  Domain: Legal
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Health concern
+Domain: Legal
+Random word: guess
+Region: Asia
+Scenario: d59427b1-b319-462c-890e-6f32f7687a4e
+Scope: Regional or Statewide
+Severity: Irreversible
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

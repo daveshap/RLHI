@@ -1,19 +1,11 @@
-scenario: '7ddb027d-4954-4058-8e8f-78b69cc2ac38
-
-  Random word: serve
-
-  Scope: Regional or Statewide
-
-  Severity: Ordinary
-
-  Region: South Asia
-
-  Category: AI Control Problem
-
-  Domain: Legal
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: AI Control Problem
+Domain: Legal
+Random word: serve
+Region: South Asia
+Scenario: 16fdf3bf-df0e-4908-bcac-1109022cbcbe
+Scope: Regional or Statewide
+Severity: Ordinary
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

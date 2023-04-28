@@ -1,19 +1,11 @@
-scenario: '039edb69-7594-47a0-b728-1a70611925fc
-
-  Random word: shower
-
-  Scope: Regional or Statewide
-
-  Severity: Life-threatening
-
-  Region: Europe
-
-  Category: Technological failure
-
-  Domain: Legal
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Technological failure
+Domain: Legal
+Random word: shower
+Region: Europe
+Scenario: f30be88a-13b6-42af-9371-394f92ef6669
+Scope: Regional or Statewide
+Severity: Life-threatening
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

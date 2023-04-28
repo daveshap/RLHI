@@ -1,19 +1,11 @@
-scenario: '8663b085-d61d-4910-8133-c0fc19a30ae7
-
-  Random word: newly
-
-  Scope: Interstellar
-
-  Severity: Dangerous
-
-  Region: North Africa
-
-  Category: Financial crisis
-
-  Domain: Political
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Financial crisis
+Domain: Political
+Random word: newly
+Region: North Africa
+Scenario: 8994b9c1-5e89-4509-8cc3-29eefe9953b3
+Scope: Interstellar
+Severity: Dangerous
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

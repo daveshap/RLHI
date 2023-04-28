@@ -1,19 +1,11 @@
-scenario: '0a67d272-cd2f-49ed-b8be-05e0a5357cd5
-
-  Random word: statement
-
-  Scope: Extended Family
-
-  Severity: Critical
-
-  Region: North Africa
-
-  Category: Financial crisis
-
-  Domain: Intellectual
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Financial crisis
+Domain: Intellectual
+Random word: statement
+Region: North Africa
+Scenario: 09f11d06-f2bd-463e-af74-5ae884380df8
+Scope: Extended Family
+Severity: Critical
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

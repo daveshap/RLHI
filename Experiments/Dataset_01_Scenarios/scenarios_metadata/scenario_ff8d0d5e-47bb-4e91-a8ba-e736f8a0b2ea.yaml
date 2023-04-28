@@ -1,18 +1,10 @@
-scenario: '5216bf0e-41bc-4530-b63c-fddc7f5baae3
-
-  Random word: surprise
-
-  Scope: National or Federal
-
-  Severity: Life-threatening
-
-  Region: Pacific
-
-  Category: Accident or Incident
-
-  Domain: Intellectual
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Accident or Incident
+Domain: Intellectual
+Random word: surprise
+Region: Pacific
+Scenario: ff8d0d5e-47bb-4e91-a8ba-e736f8a0b2ea
+Scope: National or Federal
+Severity: Life-threatening
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

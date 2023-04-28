@@ -1,19 +1,11 @@
-scenario: '40ef7d8d-c4dc-448f-8c00-f43a004c94a6
-
-  Random word: debt
-
-  Scope: National or Federal
-
-  Severity: Typical
-
-  Region: Europe
-
-  Category: Conflict or Violence
-
-  Domain: Cultural
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Conflict or Violence
+Domain: Cultural
+Random word: debt
+Region: Europe
+Scenario: 630d8c28-b550-4ee4-9d7a-9a05dc93ee3a
+Scope: National or Federal
+Severity: Typical
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

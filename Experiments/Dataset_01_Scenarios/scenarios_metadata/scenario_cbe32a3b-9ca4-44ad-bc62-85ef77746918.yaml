@@ -1,19 +1,11 @@
-scenario: 'a58c98d6-8bf8-4cfd-83c4-0eccbe6b88ac
-
-  Random word: error
-
-  Scope: Interstellar
-
-  Severity: Disruptive
-
-  Region: Eurasia
-
-  Category: Environmental issue
-
-  Domain: Emotional
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Environmental issue
+Domain: Emotional
+Random word: error
+Region: Eurasia
+Scenario: cbe32a3b-9ca4-44ad-bc62-85ef77746918
+Scope: Interstellar
+Severity: Disruptive
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

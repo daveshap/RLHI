@@ -1,19 +1,11 @@
-scenario: '68856a94-f73d-497b-b653-a4565738d74a
-
-  Random word: fact
-
-  Scope: Interstellar
-
-  Severity: Serious
-
-  Region: South Asia
-
-  Category: Mundane issue
-
-  Domain: Legal
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Mundane issue
+Domain: Legal
+Random word: fact
+Region: South Asia
+Scenario: 379f32f6-1795-4a9a-863d-4714888d4376
+Scope: Interstellar
+Severity: Serious
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

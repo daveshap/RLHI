@@ -1,18 +1,10 @@
-scenario: '93ab0188-3bc0-4ae2-87db-e0cf5c960b1a
-
-  Random word: century
-
-  Scope: Nuclear Family
-
-  Severity: Annoyance
-
-  Region: Eurasia
-
-  Category: Natural disaster
-
-  Domain: Economic
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Natural disaster
+Domain: Economic
+Random word: century
+Region: Eurasia
+Scenario: d8604b17-65a5-4c70-ae5c-63cc0fbec85b
+Scope: Nuclear Family
+Severity: Annoyance
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

@@ -1,19 +1,11 @@
-scenario: '31de965a-bf69-47f9-b556-b360b6b2aae5
-
-  Random word: unit
-
-  Scope: Personal or Individual
-
-  Severity: Disruptive
-
-  Region: Europe
-
-  Category: Natural disaster
-
-  Domain: Political
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Natural disaster
+Domain: Political
+Random word: unit
+Region: Europe
+Scenario: 7d4d4bde-d6d4-4b9b-b9bd-d5df063727f0
+Scope: Personal or Individual
+Severity: Disruptive
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

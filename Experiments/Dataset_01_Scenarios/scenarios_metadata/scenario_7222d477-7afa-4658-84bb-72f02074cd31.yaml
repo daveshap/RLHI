@@ -1,19 +1,11 @@
-scenario: '9f9e1e37-6f71-4cd7-93c4-0ad9bd499d9d
-
-  Random word: forget
-
-  Scope: Continental
-
-  Severity: Typical
-
-  Region: Eurasia
-
-  Category: Health concern
-
-  Domain: Philosophical
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Health concern
+Domain: Philosophical
+Random word: forget
+Region: Eurasia
+Scenario: 7222d477-7afa-4658-84bb-72f02074cd31
+Scope: Continental
+Severity: Typical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

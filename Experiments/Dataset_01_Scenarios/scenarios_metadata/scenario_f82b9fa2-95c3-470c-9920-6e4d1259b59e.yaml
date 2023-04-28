@@ -1,19 +1,11 @@
-scenario: '29900445-d580-4f41-a98e-a055f85d3801
-
-  Random word: ground
-
-  Scope: Personal or Individual
-
-  Severity: Life-threatening
-
-  Region: Asia
-
-  Category: Natural disaster
-
-  Domain: Social
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Natural disaster
+Domain: Social
+Random word: ground
+Region: Asia
+Scenario: f82b9fa2-95c3-470c-9920-6e4d1259b59e
+Scope: Personal or Individual
+Severity: Life-threatening
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

@@ -1,19 +1,11 @@
-scenario: '547fe174-f305-424f-9561-fb90859e552d
-
-  Random word: rain
-
-  Scope: Cosmic or Universal
-
-  Severity: Critical
-
-  Region: Subsaharan Africa
-
-  Category: Political unrest
-
-  Domain: Economic
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Political unrest
+Domain: Economic
+Random word: rain
+Region: Subsaharan Africa
+Scenario: 9501a97e-1002-49b1-b037-88e0c9cb64fe
+Scope: Cosmic or Universal
+Severity: Critical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

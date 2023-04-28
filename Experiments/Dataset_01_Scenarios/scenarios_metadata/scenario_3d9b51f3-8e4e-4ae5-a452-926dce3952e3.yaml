@@ -1,19 +1,11 @@
-scenario: '6c746ae2-c03e-4e05-bcac-ddabb4bbb93b
-
-  Random word: complaint
-
-  Scope: National or Federal
-
-  Severity: Disruptive
-
-  Region: Eurasia
-
-  Category: Health concern
-
-  Domain: Physical
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Health concern
+Domain: Physical
+Random word: complaint
+Region: Eurasia
+Scenario: 3d9b51f3-8e4e-4ae5-a452-926dce3952e3
+Scope: National or Federal
+Severity: Disruptive
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

@@ -1,19 +1,11 @@
-scenario: '898c877e-8a13-47ef-8375-f1ad8fe4f2d9
-
-  Random word: too
-
-  Scope: National or Federal
-
-  Severity: Serious
-
-  Region: Middle East
-
-  Category: Accident or Incident
-
-  Domain: Technological
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Accident or Incident
+Domain: Technological
+Random word: too
+Region: Middle East
+Scenario: dbb3abba-9744-4ec5-91cb-89210ccb2eea
+Scope: National or Federal
+Severity: Serious
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

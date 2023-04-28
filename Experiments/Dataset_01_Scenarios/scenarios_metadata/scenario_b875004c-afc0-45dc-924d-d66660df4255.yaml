@@ -1,19 +1,11 @@
-scenario: '0c0c171b-5eaf-4ba5-a5c6-c90ba91ddaf8
-
-  Random word: squeeze
-
-  Scope: National or Federal
-
-  Severity: Long-lasting
-
-  Region: Eurasia
-
-  Category: Natural disaster
-
-  Domain: Technological
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Natural disaster
+Domain: Technological
+Random word: squeeze
+Region: Eurasia
+Scenario: b875004c-afc0-45dc-924d-d66660df4255
+Scope: National or Federal
+Severity: Long-lasting
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

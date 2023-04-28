@@ -1,18 +1,10 @@
-scenario: '9e860057-80de-434f-b1e1-7e5b5e616fc6
-
-  Random word: wall
-
-  Scope: Chosen Family
-
-  Severity: Critical
-
-  Region: South Pacific
-
-  Category: Social challenge
-
-  Domain: Environmental
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Social challenge
+Domain: Environmental
+Random word: wall
+Region: South Pacific
+Scenario: 49f013bf-6145-43a3-841f-16156d7009fd
+Scope: Chosen Family
+Severity: Critical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

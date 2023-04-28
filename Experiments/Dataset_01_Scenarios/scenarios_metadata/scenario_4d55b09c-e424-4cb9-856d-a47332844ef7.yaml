@@ -1,19 +1,11 @@
-scenario: 'fde322d2-0873-44b9-9c68-3790d46d17a3
-
-  Random word: everyone
-
-  Scope: National or Federal
-
-  Severity: Dangerous
-
-  Region: Pacific
-
-  Category: Ethical dilemma
-
-  Domain: Emotional
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Ethical dilemma
+Domain: Emotional
+Random word: everyone
+Region: Pacific
+Scenario: 4d55b09c-e424-4cb9-856d-a47332844ef7
+Scope: National or Federal
+Severity: Dangerous
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

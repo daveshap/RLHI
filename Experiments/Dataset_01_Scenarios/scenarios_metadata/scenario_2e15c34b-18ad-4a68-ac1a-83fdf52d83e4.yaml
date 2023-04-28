@@ -1,18 +1,10 @@
-scenario: 'b04d5808-1de5-4fe4-a816-39efa370d34d
-
-  Random word: diet
-
-  Scope: Chosen Family
-
-  Severity: Annoyance
-
-  Region: Europe
-
-  Category: Accident or Incident
-
-  Domain: Cultural
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Accident or Incident
+Domain: Cultural
+Random word: diet
+Region: Europe
+Scenario: 2e15c34b-18ad-4a68-ac1a-83fdf52d83e4
+Scope: Chosen Family
+Severity: Annoyance
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

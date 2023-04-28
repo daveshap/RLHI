@@ -1,19 +1,11 @@
-scenario: 'f59f076e-bf0d-44f9-92b3-fe1501dfcc4f
-
-  Random word: pause
-
-  Scope: City or Village
-
-  Severity: Ordinary
-
-  Region: South Asia
-
-  Category: Technological failure
-
-  Domain: Emotional
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Technological failure
+Domain: Emotional
+Random word: pause
+Region: South Asia
+Scenario: 9fec8dd5-7b33-463a-bfd5-fd8d531c411c
+Scope: City or Village
+Severity: Ordinary
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

@@ -1,19 +1,11 @@
-scenario: '1fc3155a-6ac8-4003-9113-e33723b565f8
-
-  Random word: article
-
-  Scope: Professional
-
-  Severity: Critical
-
-  Region: Pacific
-
-  Category: Environmental issue
-
-  Domain: Environmental
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Environmental issue
+Domain: Environmental
+Random word: article
+Region: Pacific
+Scenario: f9df39bc-ec4d-4ebe-9e5f-6518384991ae
+Scope: Professional
+Severity: Critical
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

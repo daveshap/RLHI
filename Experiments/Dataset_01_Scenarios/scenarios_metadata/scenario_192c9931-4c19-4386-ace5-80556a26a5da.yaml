@@ -1,19 +1,11 @@
-scenario: 'a4190dc8-8402-4002-a8cb-193613f5e0a4
-
-  Random word: communicate
-
-  Scope: Online
-
-  Severity: Dangerous
-
-  Region: South Pacific
-
-  Category: Ethical dilemma
-
-  Domain: Physical
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Ethical dilemma
+Domain: Physical
+Random word: communicate
+Region: South Pacific
+Scenario: 192c9931-4c19-4386-ace5-80556a26a5da
+Scope: Online
+Severity: Dangerous
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

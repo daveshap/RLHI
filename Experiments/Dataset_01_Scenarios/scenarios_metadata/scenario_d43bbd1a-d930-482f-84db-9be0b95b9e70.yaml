@@ -1,19 +1,11 @@
-scenario: 'e2d88d10-5317-48fe-8b71-b5c732892331
-
-  Random word: dare
-
-  Scope: Intergalactic
-
-  Severity: Irreversible
-
-  Region: Subsaharan Africa
-
-  Category: Accident or Incident
-
-  Domain: Social
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Accident or Incident
+Domain: Social
+Random word: dare
+Region: Subsaharan Africa
+Scenario: d43bbd1a-d930-482f-84db-9be0b95b9e70
+Scope: Intergalactic
+Severity: Irreversible
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

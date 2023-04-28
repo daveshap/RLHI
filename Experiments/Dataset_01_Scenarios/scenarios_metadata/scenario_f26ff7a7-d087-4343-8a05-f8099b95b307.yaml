@@ -1,19 +1,11 @@
-scenario: '9c1f6486-379f-413e-ae4b-60550ee45854
-
-  Random word: cable
-
-  Scope: Extended Family
-
-  Severity: Long-lasting
-
-  Region: South Asia
-
-  Category: Mundane issue
-
-  Domain: Cultural
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Mundane issue
+Domain: Cultural
+Random word: cable
+Region: South Asia
+Scenario: f26ff7a7-d087-4343-8a05-f8099b95b307
+Scope: Extended Family
+Severity: Long-lasting
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

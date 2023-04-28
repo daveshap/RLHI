@@ -1,18 +1,10 @@
-scenario: '6c26b7f1-cd9d-44f9-be09-9b9be9ba1a0a
-
-  Random word: error
-
-  Scope: Nuclear Family
-
-  Severity: Annoyance
-
-  Region: South America
-
-  Category: Technological failure
-
-  Domain: Environmental
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Technological failure
+Domain: Environmental
+Random word: error
+Region: South America
+Scenario: 92c00021-1f78-4210-a544-1b6de2b634e8
+Scope: Nuclear Family
+Severity: Annoyance
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

@@ -1,18 +1,10 @@
-scenario: '2d66aaf7-ea4d-4ec5-8070-801d2116c44c
-
-  Random word: African-American
-
-  Scope: Intergalactic
-
-  Severity: Irreversible
-
-  Region: North Africa
-
-  Category: Disagreement or Argument
-
-  Domain: Intellectual
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Disagreement or Argument
+Domain: Intellectual
+Random word: African-American
+Region: North Africa
+Scenario: 94c74e0b-bb1f-4b22-b419-5d9741b45adf
+Scope: Intergalactic
+Severity: Irreversible
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

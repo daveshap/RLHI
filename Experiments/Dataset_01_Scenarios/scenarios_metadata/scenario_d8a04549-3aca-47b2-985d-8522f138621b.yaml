@@ -1,19 +1,11 @@
-scenario: '61f33276-9370-41b5-8c37-deca21ba04a6
-
-  Random word: deal
-
-  Scope: National or Federal
-
-  Severity: Catastrophic
-
-  Region: Asia
-
-  Category: Natural disaster
-
-  Domain: Physical
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Natural disaster
+Domain: Physical
+Random word: deal
+Region: Asia
+Scenario: d8a04549-3aca-47b2-985d-8522f138621b
+Scope: National or Federal
+Severity: Catastrophic
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

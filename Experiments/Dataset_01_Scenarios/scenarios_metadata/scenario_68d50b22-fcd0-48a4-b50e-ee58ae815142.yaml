@@ -1,19 +1,11 @@
-scenario: 'c02878e7-e73e-4a61-af9b-5320b3acceef
-
-  Random word: along
-
-  Scope: International
-
-  Severity: Annoyance
-
-  Region: South Pacific
-
-  Category: Health concern
-
-  Domain: Scientific
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Health concern
+Domain: Scientific
+Random word: along
+Region: South Pacific
+Scenario: 68d50b22-fcd0-48a4-b50e-ee58ae815142
+Scope: International
+Severity: Annoyance
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

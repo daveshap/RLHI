@@ -1,19 +1,11 @@
-scenario: '04cf9ce6-b305-4461-bf1a-6f4abd0d07c8
-
-  Random word: decrease
-
-  Scope: Online
-
-  Severity: Irreversible
-
-  Region: North America
-
-  Category: Health concern
-
-  Domain: Intellectual
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Health concern
+Domain: Intellectual
+Random word: decrease
+Region: North America
+Scenario: 680ecdbd-117a-4e06-b9d2-72eaf58c2514
+Scope: Online
+Severity: Irreversible
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

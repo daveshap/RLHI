@@ -1,19 +1,11 @@
-scenario: 'f6590ebe-5324-4eff-b1b1-4aea18306368
-
-  Random word: extra
-
-  Scope: Online
-
-  Severity: Irreversible
-
-  Region: North America
-
-  Category: Social challenge
-
-  Domain: Political
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Social challenge
+Domain: Political
+Random word: extra
+Region: North America
+Scenario: d5dcd2d9-9310-47d0-b7fa-94456ccd098b
+Scope: Online
+Severity: Irreversible
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

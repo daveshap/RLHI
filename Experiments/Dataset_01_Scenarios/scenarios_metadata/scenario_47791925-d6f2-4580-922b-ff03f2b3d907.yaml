@@ -1,19 +1,11 @@
-scenario: 'a5225bbe-35b2-4c58-9cfb-423ad0a6c424
-
-  Random word: sleep
-
-  Scope: City or Village
-
-  Severity: Ordinary
-
-  Region: Pacific
-
-  Category: Ethical dilemma
-
-  Domain: Political
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Ethical dilemma
+Domain: Political
+Random word: sleep
+Region: Pacific
+Scenario: 47791925-d6f2-4580-922b-ff03f2b3d907
+Scope: City or Village
+Severity: Ordinary
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

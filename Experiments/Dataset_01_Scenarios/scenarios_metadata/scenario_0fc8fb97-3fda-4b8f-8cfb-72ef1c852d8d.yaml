@@ -1,19 +1,11 @@
-scenario: '734da59f-9f9e-496d-b2fd-46a7aedf1108
-
-  Random word: thank
-
-  Scope: Local community or Neighborhood
-
-  Severity: Critical
-
-  Region: Europe
-
-  Category: Disagreement or Argument
-
-  Domain: Scientific
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Disagreement or Argument
+Domain: Scientific
+Random word: thank
+Region: Europe
+Scenario: 0fc8fb97-3fda-4b8f-8cfb-72ef1c852d8d
+Scope: Local community or Neighborhood
+Severity: Critical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

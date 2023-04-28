@@ -1,19 +1,11 @@
-scenario: '4268d038-a420-41e6-906b-b08605859e14
-
-  Random word: trial
-
-  Scope: Chosen Family
-
-  Severity: Insignificant
-
-  Region: South America
-
-  Category: Accident or Incident
-
-  Domain: Environmental
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Accident or Incident
+Domain: Environmental
+Random word: trial
+Region: South America
+Scenario: 228c759f-3b35-4cca-bf7c-c6e59b243439
+Scope: Chosen Family
+Severity: Insignificant
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

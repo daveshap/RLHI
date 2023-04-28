@@ -1,19 +1,11 @@
-scenario: 'a2272114-1a80-4e47-9489-91d438b3e46b
-
-  Random word: division
-
-  Scope: International
-
-  Severity: Catastrophic
-
-  Region: Eurasia
-
-  Category: Social challenge
-
-  Domain: Political
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Social challenge
+Domain: Political
+Random word: division
+Region: Eurasia
+Scenario: dd5059c7-31e0-4861-9a7e-4be8d6ccbcd9
+Scope: International
+Severity: Catastrophic
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

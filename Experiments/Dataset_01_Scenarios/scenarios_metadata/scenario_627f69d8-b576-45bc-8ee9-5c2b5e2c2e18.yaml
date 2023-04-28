@@ -1,19 +1,11 @@
-scenario: '3c1b34f2-6db6-4d8b-9d0d-cb2049a380a9
-
-  Random word: naturally
-
-  Scope: National or Federal
-
-  Severity: Disruptive
-
-  Region: Europe
-
-  Category: Disagreement or Argument
-
-  Domain: Economic
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Disagreement or Argument
+Domain: Economic
+Random word: naturally
+Region: Europe
+Scenario: 627f69d8-b576-45bc-8ee9-5c2b5e2c2e18
+Scope: National or Federal
+Severity: Disruptive
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

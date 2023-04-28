@@ -1,19 +1,11 @@
-scenario: '00269248-d0ca-4807-b511-f5984a7fb89a
-
-  Random word: opponent
-
-  Scope: Online
-
-  Severity: Irreversible
-
-  Region: South Pacific
-
-  Category: Disagreement or Argument
-
-  Domain: Philosophical
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Disagreement or Argument
+Domain: Philosophical
+Random word: opponent
+Region: South Pacific
+Scenario: 88ced662-778a-427c-9577-7f049c9ec5f7
+Scope: Online
+Severity: Irreversible
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

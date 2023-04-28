@@ -1,19 +1,11 @@
-scenario: '0e325c8b-de57-46b2-87b3-269abfd63b5c
-
-  Random word: American
-
-  Scope: Nuclear Family
-
-  Severity: Ordinary
-
-  Region: Asia
-
-  Category: Financial crisis
-
-  Domain: Cultural
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Financial crisis
+Domain: Cultural
+Random word: American
+Region: Asia
+Scenario: 2e1d13ce-2d26-4336-90c0-bddea9e0a4ec
+Scope: Nuclear Family
+Severity: Ordinary
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

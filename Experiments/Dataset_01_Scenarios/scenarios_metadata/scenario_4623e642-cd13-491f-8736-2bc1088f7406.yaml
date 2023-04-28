@@ -1,19 +1,11 @@
-scenario: 'f10b8b10-014a-43e7-8d44-06a593dda5d2
-
-  Random word: slice
-
-  Scope: Regional or Statewide
-
-  Severity: Life-threatening
-
-  Region: South America
-
-  Category: Accident or Incident
-
-  Domain: Economic
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Accident or Incident
+Domain: Economic
+Random word: slice
+Region: South America
+Scenario: 4623e642-cd13-491f-8736-2bc1088f7406
+Scope: Regional or Statewide
+Severity: Life-threatening
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

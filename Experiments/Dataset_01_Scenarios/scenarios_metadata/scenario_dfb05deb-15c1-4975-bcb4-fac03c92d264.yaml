@@ -1,19 +1,11 @@
-scenario: '65b9f623-3a4c-41a2-94bf-70443f23e62f
-
-  Random word: tight
-
-  Scope: Regional or Statewide
-
-  Severity: Life-threatening
-
-  Region: Europe
-
-  Category: AI Control Problem
-
-  Domain: Spiritual or Religious
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: AI Control Problem
+Domain: Spiritual or Religious
+Random word: tight
+Region: Europe
+Scenario: dfb05deb-15c1-4975-bcb4-fac03c92d264
+Scope: Regional or Statewide
+Severity: Life-threatening
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

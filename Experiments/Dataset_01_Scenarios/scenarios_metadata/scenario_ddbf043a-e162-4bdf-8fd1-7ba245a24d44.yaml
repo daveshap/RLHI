@@ -1,19 +1,11 @@
-scenario: '9db0df24-2945-49ac-869a-22d5255f4bb5
-
-  Random word: grain
-
-  Scope: Continental
-
-  Severity: Disruptive
-
-  Region: Subsaharan Africa
-
-  Category: Conflict or Violence
-
-  Domain: Technological
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Conflict or Violence
+Domain: Technological
+Random word: grain
+Region: Subsaharan Africa
+Scenario: ddbf043a-e162-4bdf-8fd1-7ba245a24d44
+Scope: Continental
+Severity: Disruptive
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

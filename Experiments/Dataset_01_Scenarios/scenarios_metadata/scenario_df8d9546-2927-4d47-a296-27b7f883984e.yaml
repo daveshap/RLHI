@@ -1,19 +1,11 @@
-scenario: 'f0ea86db-4f55-48b5-a380-4b895b747ff3
-
-  Random word: ask
-
-  Scope: National or Federal
-
-  Severity: Irreversible
-
-  Region: Pacific
-
-  Category: Political unrest
-
-  Domain: Environmental
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Political unrest
+Domain: Environmental
+Random word: ask
+Region: Pacific
+Scenario: df8d9546-2927-4d47-a296-27b7f883984e
+Scope: National or Federal
+Severity: Irreversible
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

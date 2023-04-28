@@ -1,19 +1,11 @@
-scenario: '60c80002-2f66-4370-9a23-55ee812c2839
-
-  Random word: honor
-
-  Scope: Continental
-
-  Severity: Irreversible
-
-  Region: Pacific
-
-  Category: Financial crisis
-
-  Domain: Political
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Financial crisis
+Domain: Political
+Random word: honor
+Region: Pacific
+Scenario: 16b7b123-b8b2-4eb3-8756-0a572733d3bc
+Scope: Continental
+Severity: Irreversible
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

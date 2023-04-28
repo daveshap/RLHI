@@ -1,19 +1,11 @@
-scenario: '90e1a4cd-1cfe-446d-b675-36321780821d
-
-  Random word: suspect
-
-  Scope: Interpersonal
-
-  Severity: Irreversible
-
-  Region: Asia
-
-  Category: Environmental issue
-
-  Domain: Intellectual
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Environmental issue
+Domain: Intellectual
+Random word: suspect
+Region: Asia
+Scenario: 430d5218-f8fc-4c33-9323-9154c9c23ef9
+Scope: Interpersonal
+Severity: Irreversible
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

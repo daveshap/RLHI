@@ -1,19 +1,11 @@
-scenario: 'ba14b971-c17b-4f12-9387-640cd97ebf3c
-
-  Random word: emotion
-
-  Scope: Online
-
-  Severity: Critical
-
-  Region: Europe
-
-  Category: Conflict or Violence
-
-  Domain: Educational
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Conflict or Violence
+Domain: Educational
+Random word: emotion
+Region: Europe
+Scenario: d0fb4b2e-76a8-45e6-8b3a-d2658ce16bb0
+Scope: Online
+Severity: Critical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,18 +1,10 @@
-scenario: 'fae9af91-3456-4925-b50e-bd95f8a509ae
-
-  Random word: happy
-
-  Scope: International
-
-  Severity: Insignificant
-
-  Region: Pacific
-
-  Category: Accident or Incident
-
-  Domain: Educational
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Accident or Incident
+Domain: Educational
+Random word: happy
+Region: Pacific
+Scenario: d6c4ed47-397a-449f-9ca2-721d89190c1e
+Scope: International
+Severity: Insignificant
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

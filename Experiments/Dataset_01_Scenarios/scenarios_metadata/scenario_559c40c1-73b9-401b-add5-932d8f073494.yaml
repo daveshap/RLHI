@@ -1,19 +1,11 @@
-scenario: '85a3bd1b-6545-452d-8cba-495ff240fc57
-
-  Random word: environment
-
-  Scope: City or Village
-
-  Severity: Long-lasting
-
-  Region: Subsaharan Africa
-
-  Category: Financial crisis
-
-  Domain: Technological
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Financial crisis
+Domain: Technological
+Random word: environment
+Region: Subsaharan Africa
+Scenario: 559c40c1-73b9-401b-add5-932d8f073494
+Scope: City or Village
+Severity: Long-lasting
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

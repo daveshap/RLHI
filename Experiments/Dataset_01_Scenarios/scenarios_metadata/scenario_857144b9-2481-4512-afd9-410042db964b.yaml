@@ -1,18 +1,10 @@
-scenario: '697d6384-da1b-448e-b98b-a009825d0630
-
-  Random word: agenda
-
-  Scope: Personal or Individual
-
-  Severity: Dangerous
-
-  Region: North Africa
-
-  Category: Mundane issue
-
-  Domain: Philosophical
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Mundane issue
+Domain: Philosophical
+Random word: agenda
+Region: North Africa
+Scenario: 857144b9-2481-4512-afd9-410042db964b
+Scope: Personal or Individual
+Severity: Dangerous
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

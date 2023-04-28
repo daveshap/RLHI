@@ -1,19 +1,11 @@
-scenario: '42e16013-d948-4c91-a71c-c586734d1a0e
-
-  Random word: earnings
-
-  Scope: Regional or Statewide
-
-  Severity: Dangerous
-
-  Region: South Pacific
-
-  Category: AI Control Problem
-
-  Domain: Technological
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: AI Control Problem
+Domain: Technological
+Random word: earnings
+Region: South Pacific
+Scenario: 75737005-603e-44d8-8f94-1a08d7fd709a
+Scope: Regional or Statewide
+Severity: Dangerous
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

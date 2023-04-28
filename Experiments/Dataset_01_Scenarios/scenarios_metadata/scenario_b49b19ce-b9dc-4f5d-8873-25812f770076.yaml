@@ -1,19 +1,11 @@
-scenario: '78f37c4c-0cef-4889-a808-d503e606ff8f
-
-  Random word: cut
-
-  Scope: Continental
-
-  Severity: Irreversible
-
-  Region: Eurasia
-
-  Category: Environmental issue
-
-  Domain: Scientific
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Environmental issue
+Domain: Scientific
+Random word: cut
+Region: Eurasia
+Scenario: b49b19ce-b9dc-4f5d-8873-25812f770076
+Scope: Continental
+Severity: Irreversible
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

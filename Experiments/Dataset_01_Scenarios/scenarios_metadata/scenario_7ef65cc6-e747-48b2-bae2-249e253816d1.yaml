@@ -1,19 +1,11 @@
-scenario: '8e41137e-ae41-49d2-aaca-4d2b1b2be450
-
-  Random word: perfectly
-
-  Scope: Chosen Family
-
-  Severity: Dangerous
-
-  Region: South Pacific
-
-  Category: Political unrest
-
-  Domain: Legal
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Political unrest
+Domain: Legal
+Random word: perfectly
+Region: South Pacific
+Scenario: 7ef65cc6-e747-48b2-bae2-249e253816d1
+Scope: Chosen Family
+Severity: Dangerous
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

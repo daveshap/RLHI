@@ -1,18 +1,10 @@
-scenario: 'b683a3f0-3cc4-48fb-88e2-b81d7e405082
-
-  Random word: stable
-
-  Scope: Continental
-
-  Severity: Typical
-
-  Region: Pacific
-
-  Category: Environmental issue
-
-  Domain: Spiritual or Religious
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Environmental issue
+Domain: Spiritual or Religious
+Random word: stable
+Region: Pacific
+Scenario: a8d7ea7b-9a21-4a61-ab4e-04f25e72a8d2
+Scope: Continental
+Severity: Typical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

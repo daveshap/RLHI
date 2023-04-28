@@ -1,18 +1,10 @@
-scenario: '5279437d-1cc5-4876-8a90-75be97d65a3a
-
-  Random word: hip
-
-  Scope: Chosen Family
-
-  Severity: Critical
-
-  Region: North America
-
-  Category: Accident or Incident
-
-  Domain: Cultural
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Accident or Incident
+Domain: Cultural
+Random word: hip
+Region: North America
+Scenario: 8b90b7a4-879d-4856-9a81-734be3cb5215
+Scope: Chosen Family
+Severity: Critical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

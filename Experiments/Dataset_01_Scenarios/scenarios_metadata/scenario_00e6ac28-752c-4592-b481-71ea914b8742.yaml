@@ -1,18 +1,10 @@
-scenario: '720325bb-3708-4c4e-8004-2ecb8e5df15d
-
-  Random word: properly
-
-  Scope: Interpersonal
-
-  Severity: Life-threatening
-
-  Region: Middle East
-
-  Category: Disagreement or Argument
-
-  Domain: Cultural
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Disagreement or Argument
+Domain: Cultural
+Random word: properly
+Region: Middle East
+Scenario: 00e6ac28-752c-4592-b481-71ea914b8742
+Scope: Interpersonal
+Severity: Life-threatening
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

@@ -1,19 +1,11 @@
-scenario: 'af0828bd-bd4d-4019-b5d1-1c1ac0311c4f
-
-  Random word: music
-
-  Scope: Local community or Neighborhood
-
-  Severity: Catastrophic
-
-  Region: Eurasia
-
-  Category: Mundane issue
-
-  Domain: Environmental
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Mundane issue
+Domain: Environmental
+Random word: music
+Region: Eurasia
+Scenario: 893e48db-e3fa-4621-a548-524adc9f5447
+Scope: Local community or Neighborhood
+Severity: Catastrophic
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

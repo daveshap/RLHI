@@ -1,18 +1,10 @@
-scenario: '12fa188d-d3dd-41e5-b787-fe8386ed1303
-
-  Random word: preserve
-
-  Scope: Local community or Neighborhood
-
-  Severity: Long-lasting
-
-  Region: Subsaharan Africa
-
-  Category: Mundane issue
-
-  Domain: Scientific
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Mundane issue
+Domain: Scientific
+Random word: preserve
+Region: Subsaharan Africa
+Scenario: e7c39e99-7df6-4d52-8ece-b3e13c2abf33
+Scope: Local community or Neighborhood
+Severity: Long-lasting
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

@@ -1,18 +1,10 @@
-scenario: '023b4dc6-0b12-4884-a6b2-2cfb58b11c5d
-
-  Random word: everybody
-
-  Scope: Regional or Statewide
-
-  Severity: Disruptive
-
-  Region: Pacific
-
-  Category: Health concern
-
-  Domain: Physical
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Health concern
+Domain: Physical
+Random word: everybody
+Region: Pacific
+Scenario: e79cecaf-c844-4d88-9d8a-b8abb758a641
+Scope: Regional or Statewide
+Severity: Disruptive
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

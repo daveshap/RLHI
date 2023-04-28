@@ -1,19 +1,11 @@
-scenario: '61243670-ba13-4af1-8a09-f2ac879996b7
-
-  Random word: weak
-
-  Scope: Continental
-
-  Severity: Long-lasting
-
-  Region: Asia
-
-  Category: Natural disaster
-
-  Domain: Educational
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Natural disaster
+Domain: Educational
+Random word: weak
+Region: Asia
+Scenario: 32f2d63e-849d-4939-a479-5f9a6dabf088
+Scope: Continental
+Severity: Long-lasting
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

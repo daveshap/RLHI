@@ -1,19 +1,11 @@
-scenario: '5a68b073-c31d-4cec-b07a-326e5e5f4405
-
-  Random word: night
-
-  Scope: Personal or Individual
-
-  Severity: Serious
-
-  Region: South America
-
-  Category: Natural disaster
-
-  Domain: Cultural
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Natural disaster
+Domain: Cultural
+Random word: night
+Region: South America
+Scenario: aec9fc73-926a-4dbf-8752-97a215dfb26a
+Scope: Personal or Individual
+Severity: Serious
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

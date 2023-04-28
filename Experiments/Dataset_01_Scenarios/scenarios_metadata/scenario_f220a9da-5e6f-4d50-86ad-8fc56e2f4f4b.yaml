@@ -1,19 +1,11 @@
-scenario: 'a4c5f556-5ea5-46ab-94b3-446548f10043
-
-  Random word: introduce
-
-  Scope: Online
-
-  Severity: Insignificant
-
-  Region: South Pacific
-
-  Category: Environmental issue
-
-  Domain: Political
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Environmental issue
+Domain: Political
+Random word: introduce
+Region: South Pacific
+Scenario: f220a9da-5e6f-4d50-86ad-8fc56e2f4f4b
+Scope: Online
+Severity: Insignificant
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

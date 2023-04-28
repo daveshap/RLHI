@@ -1,18 +1,10 @@
-scenario: '5b54e1e3-10e6-4899-9dd3-f806e7b3ee11
-
-  Random word: accomplish
-
-  Scope: National or Federal
-
-  Severity: Disruptive
-
-  Region: Asia
-
-  Category: Political unrest
-
-  Domain: Scientific
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Political unrest
+Domain: Scientific
+Random word: accomplish
+Region: Asia
+Scenario: 8564d7ea-0e1c-4b3d-b314-a8f2d2c48a91
+Scope: National or Federal
+Severity: Disruptive
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

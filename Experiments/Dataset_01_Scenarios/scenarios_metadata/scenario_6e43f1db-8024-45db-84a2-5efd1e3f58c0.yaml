@@ -1,19 +1,11 @@
-scenario: '58459b60-f5b0-43b8-b673-405f9cef4722
-
-  Random word: select
-
-  Scope: Professional
-
-  Severity: Long-lasting
-
-  Region: Europe
-
-  Category: Political unrest
-
-  Domain: Social
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Political unrest
+Domain: Social
+Random word: select
+Region: Europe
+Scenario: 6e43f1db-8024-45db-84a2-5efd1e3f58c0
+Scope: Professional
+Severity: Long-lasting
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

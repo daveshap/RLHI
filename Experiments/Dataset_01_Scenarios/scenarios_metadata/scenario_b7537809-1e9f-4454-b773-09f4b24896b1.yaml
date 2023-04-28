@@ -1,19 +1,11 @@
-scenario: 'b067d123-ab95-46e3-908b-6617d9b02496
-
-  Random word: bond
-
-  Scope: Extended Family
-
-  Severity: Insignificant
-
-  Region: North America
-
-  Category: Disagreement or Argument
-
-  Domain: Physical
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Disagreement or Argument
+Domain: Physical
+Random word: bond
+Region: North America
+Scenario: b7537809-1e9f-4454-b773-09f4b24896b1
+Scope: Extended Family
+Severity: Insignificant
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

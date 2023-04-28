@@ -1,19 +1,11 @@
-scenario: 'a3ed64ed-8bc0-4b7f-95f3-5aa3a297fdb5
-
-  Random word: able
-
-  Scope: Interpersonal
-
-  Severity: Life-threatening
-
-  Region: North America
-
-  Category: Natural disaster
-
-  Domain: Cultural
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Natural disaster
+Domain: Cultural
+Random word: able
+Region: North America
+Scenario: 1bf57703-72b8-4f1b-98ef-f1a919b866d0
+Scope: Interpersonal
+Severity: Life-threatening
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

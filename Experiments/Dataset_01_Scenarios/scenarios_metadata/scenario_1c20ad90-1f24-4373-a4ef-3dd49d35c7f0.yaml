@@ -1,18 +1,10 @@
-scenario: '9613a9d0-ef6a-4c8d-b8b5-8e79d5822067
-
-  Random word: born
-
-  Scope: Professional
-
-  Severity: Ordinary
-
-  Region: Europe
-
-  Category: AI Control Problem
-
-  Domain: Emotional
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: AI Control Problem
+Domain: Emotional
+Random word: born
+Region: Europe
+Scenario: 1c20ad90-1f24-4373-a4ef-3dd49d35c7f0
+Scope: Professional
+Severity: Ordinary
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

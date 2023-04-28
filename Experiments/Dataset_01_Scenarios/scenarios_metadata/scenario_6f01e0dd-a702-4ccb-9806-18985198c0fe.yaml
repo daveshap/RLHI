@@ -1,19 +1,11 @@
-scenario: 'd9ac2cea-14f0-4f84-afcb-9ad3a89661b3
-
-  Random word: special
-
-  Scope: Professional
-
-  Severity: Disruptive
-
-  Region: South Asia
-
-  Category: Natural disaster
-
-  Domain: Environmental
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Natural disaster
+Domain: Environmental
+Random word: special
+Region: South Asia
+Scenario: 6f01e0dd-a702-4ccb-9806-18985198c0fe
+Scope: Professional
+Severity: Disruptive
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

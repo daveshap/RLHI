@@ -1,19 +1,11 @@
-scenario: '20853e0c-4db3-4083-a38a-52c08d62c5b6
-
-  Random word: idea
-
-  Scope: Professional
-
-  Severity: Irreversible
-
-  Region: South Asia
-
-  Category: Technological failure
-
-  Domain: Legal
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Technological failure
+Domain: Legal
+Random word: idea
+Region: South Asia
+Scenario: df5597b2-b753-49c6-9f05-9232603986af
+Scope: Professional
+Severity: Irreversible
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

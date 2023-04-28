@@ -1,19 +1,11 @@
-scenario: 'e2a76baf-37a9-4d51-8078-0741e5b6d3dd
-
-  Random word: debate
-
-  Scope: National or Federal
-
-  Severity: Ordinary
-
-  Region: North Africa
-
-  Category: Health concern
-
-  Domain: Legal
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Health concern
+Domain: Legal
+Random word: debate
+Region: North Africa
+Scenario: 68700031-bdbc-43ef-9708-ad9af83900c0
+Scope: National or Federal
+Severity: Ordinary
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

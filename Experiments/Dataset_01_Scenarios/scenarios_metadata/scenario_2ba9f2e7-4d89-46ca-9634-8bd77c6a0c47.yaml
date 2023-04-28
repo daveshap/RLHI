@@ -1,19 +1,11 @@
-scenario: 'a8aee782-5068-4342-92dd-f8f4256157e4
-
-  Random word: print
-
-  Scope: Continental
-
-  Severity: Disruptive
-
-  Region: Pacific
-
-  Category: Natural disaster
-
-  Domain: Environmental
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Natural disaster
+Domain: Environmental
+Random word: print
+Region: Pacific
+Scenario: 2ba9f2e7-4d89-46ca-9634-8bd77c6a0c47
+Scope: Continental
+Severity: Disruptive
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

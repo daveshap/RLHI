@@ -1,19 +1,11 @@
-scenario: '5f629ddd-f4ce-42bf-99e5-de64fa1f6572
-
-  Random word: CEO
-
-  Scope: International
-
-  Severity: Irreversible
-
-  Region: Asia
-
-  Category: Financial crisis
-
-  Domain: Technological
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Financial crisis
+Domain: Technological
+Random word: CEO
+Region: Asia
+Scenario: f788c74d-896a-4efa-acb8-729691b2ec16
+Scope: International
+Severity: Irreversible
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

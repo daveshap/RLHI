@@ -1,19 +1,11 @@
-scenario: '4ffc7166-e1e7-4e1d-b57f-85d7f25dfb88
-
-  Random word: size
-
-  Scope: Chosen Family
-
-  Severity: Dangerous
-
-  Region: South America
-
-  Category: Environmental issue
-
-  Domain: Philosophical
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Environmental issue
+Domain: Philosophical
+Random word: size
+Region: South America
+Scenario: f102b524-e46f-428f-bc16-56747ffbddbf
+Scope: Chosen Family
+Severity: Dangerous
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,18 +1,10 @@
-scenario: '4a746e4e-1549-4796-972d-f814942de0ae
-
-  Random word: works
-
-  Scope: Online
-
-  Severity: Catastrophic
-
-  Region: Subsaharan Africa
-
-  Category: Social challenge
-
-  Domain: Educational
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Social challenge
+Domain: Educational
+Random word: works
+Region: Subsaharan Africa
+Scenario: 99b47eba-c41c-4704-8233-a533c3761c30
+Scope: Online
+Severity: Catastrophic
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

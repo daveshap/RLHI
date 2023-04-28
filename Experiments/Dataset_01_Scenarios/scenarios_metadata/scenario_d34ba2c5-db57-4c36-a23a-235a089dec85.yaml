@@ -1,19 +1,11 @@
-scenario: '8a3e5b7c-10a9-4611-90af-384eb97b6895
-
-  Random word: poor
-
-  Scope: Interpersonal
-
-  Severity: Irreversible
-
-  Region: South America
-
-  Category: Technological failure
-
-  Domain: Legal
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Technological failure
+Domain: Legal
+Random word: poor
+Region: South America
+Scenario: d34ba2c5-db57-4c36-a23a-235a089dec85
+Scope: Interpersonal
+Severity: Irreversible
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

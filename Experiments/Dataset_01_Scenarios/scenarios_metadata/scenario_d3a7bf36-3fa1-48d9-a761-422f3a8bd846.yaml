@@ -1,18 +1,10 @@
-scenario: '39cccf4b-b195-4e19-a3b0-852264ee7bc9
-
-  Random word: some
-
-  Scope: Interstellar
-
-  Severity: Long-lasting
-
-  Region: Middle East
-
-  Category: Disagreement or Argument
-
-  Domain: Emotional
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Disagreement or Argument
+Domain: Emotional
+Random word: some
+Region: Middle East
+Scenario: d3a7bf36-3fa1-48d9-a761-422f3a8bd846
+Scope: Interstellar
+Severity: Long-lasting
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

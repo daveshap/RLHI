@@ -1,19 +1,11 @@
-scenario: 'bfdc623c-e3e2-4808-903e-07276fa71c04
-
-  Random word: style
-
-  Scope: Extended Family
-
-  Severity: Dangerous
-
-  Region: North America
-
-  Category: Health concern
-
-  Domain: Emotional
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Health concern
+Domain: Emotional
+Random word: style
+Region: North America
+Scenario: 4cc4a577-8ced-48d1-b468-a6e9008db2cf
+Scope: Extended Family
+Severity: Dangerous
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

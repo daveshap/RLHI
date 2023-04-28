@@ -1,18 +1,10 @@
-scenario: '2f3826fe-4312-4064-b5e3-622f767f2ab3
-
-  Random word: choice
-
-  Scope: National or Federal
-
-  Severity: Serious
-
-  Region: Subsaharan Africa
-
-  Category: Accident or Incident
-
-  Domain: Legal
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Accident or Incident
+Domain: Legal
+Random word: choice
+Region: Subsaharan Africa
+Scenario: 872f0862-5d9a-40f5-8156-3a8e21707957
+Scope: National or Federal
+Severity: Serious
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

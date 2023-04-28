@@ -1,18 +1,10 @@
-scenario: '99d6bf20-e9a8-4ed6-8a43-e0c5ec4bfaad
-
-  Random word: feed
-
-  Scope: Intergalactic
-
-  Severity: Serious
-
-  Region: Subsaharan Africa
-
-  Category: Social challenge
-
-  Domain: Legal
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Social challenge
+Domain: Legal
+Random word: feed
+Region: Subsaharan Africa
+Scenario: f239dda8-9011-4eb7-bb44-d24fa2b45b6e
+Scope: Intergalactic
+Severity: Serious
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

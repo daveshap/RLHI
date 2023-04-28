@@ -1,19 +1,11 @@
-scenario: '3166f17b-4dc1-4edf-9e65-4f0db834bf98
-
-  Random word: news
-
-  Scope: Personal or Individual
-
-  Severity: Disruptive
-
-  Region: South Pacific
-
-  Category: Natural disaster
-
-  Domain: Scientific
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Natural disaster
+Domain: Scientific
+Random word: news
+Region: South Pacific
+Scenario: 63c8c351-2856-4e5c-89fb-68b9e70711c0
+Scope: Personal or Individual
+Severity: Disruptive
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

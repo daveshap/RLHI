@@ -1,19 +1,11 @@
-scenario: '85d048f8-c418-4917-8425-2ed53872b5bb
-
-  Random word: flag
-
-  Scope: Interpersonal
-
-  Severity: Life-threatening
-
-  Region: Middle East
-
-  Category: Mundane issue
-
-  Domain: Technological
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Mundane issue
+Domain: Technological
+Random word: flag
+Region: Middle East
+Scenario: 4533e799-978e-4fa4-9c68-d4745ebc3c30
+Scope: Interpersonal
+Severity: Life-threatening
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

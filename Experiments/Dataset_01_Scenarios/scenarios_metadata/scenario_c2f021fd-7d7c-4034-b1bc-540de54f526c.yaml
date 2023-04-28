@@ -1,19 +1,11 @@
-scenario: '9f4021ab-2eaf-48bb-8a50-86f04955c260
-
-  Random word: advice
-
-  Scope: Chosen Family
-
-  Severity: Dangerous
-
-  Region: Asia
-
-  Category: Natural disaster
-
-  Domain: Scientific
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Natural disaster
+Domain: Scientific
+Random word: advice
+Region: Asia
+Scenario: c2f021fd-7d7c-4034-b1bc-540de54f526c
+Scope: Chosen Family
+Severity: Dangerous
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

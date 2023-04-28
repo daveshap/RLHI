@@ -1,19 +1,11 @@
-scenario: '901c4442-5856-4c73-b9a6-8ba583f73c37
-
-  Random word: athletic
-
-  Scope: Local community or Neighborhood
-
-  Severity: Critical
-
-  Region: South Pacific
-
-  Category: AI Control Problem
-
-  Domain: Educational
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: AI Control Problem
+Domain: Educational
+Random word: athletic
+Region: South Pacific
+Scenario: 899a6578-6f92-422e-8c2c-aa51d3390e0e
+Scope: Local community or Neighborhood
+Severity: Critical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

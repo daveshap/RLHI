@@ -1,18 +1,10 @@
-scenario: 'd35e32ce-2bd4-46cc-9b45-5dc19c2cdd75
-
-  Random word: shift
-
-  Scope: Personal or Individual
-
-  Severity: Long-lasting
-
-  Region: Eurasia
-
-  Category: Mundane issue
-
-  Domain: Technological
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Mundane issue
+Domain: Technological
+Random word: shift
+Region: Eurasia
+Scenario: 449dc23c-9a34-4013-aef8-36def0c0121a
+Scope: Personal or Individual
+Severity: Long-lasting
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

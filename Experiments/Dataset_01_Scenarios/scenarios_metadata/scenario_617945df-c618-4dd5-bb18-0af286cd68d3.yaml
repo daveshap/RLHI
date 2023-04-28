@@ -1,19 +1,11 @@
-scenario: 'ca80c64f-47cc-48c9-b3e2-9aee1ae70de4
-
-  Random word: shoulder
-
-  Scope: National or Federal
-
-  Severity: Irreversible
-
-  Region: Eurasia
-
-  Category: Health concern
-
-  Domain: Emotional
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Health concern
+Domain: Emotional
+Random word: shoulder
+Region: Eurasia
+Scenario: 617945df-c618-4dd5-bb18-0af286cd68d3
+Scope: National or Federal
+Severity: Irreversible
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

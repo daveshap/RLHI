@@ -1,19 +1,11 @@
-scenario: '64abbb93-0b7b-4168-900f-0a7d055d17b9
-
-  Random word: motion
-
-  Scope: Extended Family
-
-  Severity: Annoyance
-
-  Region: North Africa
-
-  Category: Ethical dilemma
-
-  Domain: Environmental
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Ethical dilemma
+Domain: Environmental
+Random word: motion
+Region: North Africa
+Scenario: 0de2ed97-c094-4b0b-aec6-5ff0bbc74b0c
+Scope: Extended Family
+Severity: Annoyance
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

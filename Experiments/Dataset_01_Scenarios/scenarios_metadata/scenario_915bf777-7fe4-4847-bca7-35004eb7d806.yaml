@@ -1,19 +1,11 @@
-scenario: '048656cb-648c-4b8f-9905-14f6eb3689c9
-
-  Random word: useful
-
-  Scope: Intergalactic
-
-  Severity: Catastrophic
-
-  Region: North Africa
-
-  Category: Conflict or Violence
-
-  Domain: Cultural
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Conflict or Violence
+Domain: Cultural
+Random word: useful
+Region: North Africa
+Scenario: 915bf777-7fe4-4847-bca7-35004eb7d806
+Scope: Intergalactic
+Severity: Catastrophic
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

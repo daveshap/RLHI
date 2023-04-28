@@ -1,19 +1,11 @@
-scenario: 'ab612915-afd2-417f-9f88-9185f8acf2ab
-
-  Random word: scandal
-
-  Scope: Personal or Individual
-
-  Severity: Long-lasting
-
-  Region: Subsaharan Africa
-
-  Category: Disagreement or Argument
-
-  Domain: Philosophical
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Disagreement or Argument
+Domain: Philosophical
+Random word: scandal
+Region: Subsaharan Africa
+Scenario: 2bc898e9-317d-4e30-9064-e07ab1caf082
+Scope: Personal or Individual
+Severity: Long-lasting
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

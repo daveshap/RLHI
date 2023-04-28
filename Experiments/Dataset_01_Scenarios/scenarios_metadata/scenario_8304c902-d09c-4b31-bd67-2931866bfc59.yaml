@@ -1,19 +1,11 @@
-scenario: '1c4c776c-bf6c-40a5-9721-c46119b653cf
-
-  Random word: ourselves
-
-  Scope: Interstellar
-
-  Severity: Annoyance
-
-  Region: Europe
-
-  Category: Natural disaster
-
-  Domain: Philosophical
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Natural disaster
+Domain: Philosophical
+Random word: ourselves
+Region: Europe
+Scenario: 8304c902-d09c-4b31-bd67-2931866bfc59
+Scope: Interstellar
+Severity: Annoyance
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

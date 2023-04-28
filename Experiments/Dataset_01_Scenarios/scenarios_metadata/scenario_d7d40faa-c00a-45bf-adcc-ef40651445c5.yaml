@@ -1,18 +1,10 @@
-scenario: '64a272a0-6781-422b-8da1-f29a058f3efc
-
-  Random word: overall
-
-  Scope: Local community or Neighborhood
-
-  Severity: Long-lasting
-
-  Region: Pacific
-
-  Category: Health concern
-
-  Domain: Physical
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Health concern
+Domain: Physical
+Random word: overall
+Region: Pacific
+Scenario: d7d40faa-c00a-45bf-adcc-ef40651445c5
+Scope: Local community or Neighborhood
+Severity: Long-lasting
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

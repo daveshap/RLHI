@@ -1,19 +1,11 @@
-scenario: '21bf598d-0856-4faf-9c6f-201e34884bc7
-
-  Random word: stranger
-
-  Scope: Regional or Statewide
-
-  Severity: Irreversible
-
-  Region: Pacific
-
-  Category: Technological failure
-
-  Domain: Social
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Technological failure
+Domain: Social
+Random word: stranger
+Region: Pacific
+Scenario: 43003ded-ff89-4a06-9929-6c90e2c63abc
+Scope: Regional or Statewide
+Severity: Irreversible
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

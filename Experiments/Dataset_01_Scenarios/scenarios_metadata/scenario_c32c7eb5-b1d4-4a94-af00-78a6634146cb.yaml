@@ -1,19 +1,11 @@
-scenario: '9524fa18-cdce-4c63-9fcc-317e0226a1ea
-
-  Random word: demonstrate
-
-  Scope: Local community or Neighborhood
-
-  Severity: Life-threatening
-
-  Region: North America
-
-  Category: Environmental issue
-
-  Domain: Environmental
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Environmental issue
+Domain: Environmental
+Random word: demonstrate
+Region: North America
+Scenario: c32c7eb5-b1d4-4a94-af00-78a6634146cb
+Scope: Local community or Neighborhood
+Severity: Life-threatening
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

@@ -1,19 +1,11 @@
-scenario: '56b6f331-2208-4ecd-862d-5d659b658b54
-
-  Random word: real
-
-  Scope: Interpersonal
-
-  Severity: Dangerous
-
-  Region: Eurasia
-
-  Category: Disagreement or Argument
-
-  Domain: Educational
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Disagreement or Argument
+Domain: Educational
+Random word: real
+Region: Eurasia
+Scenario: f20d25f7-52b2-4a8c-82db-de50b9034f52
+Scope: Interpersonal
+Severity: Dangerous
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

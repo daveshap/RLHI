@@ -1,19 +1,11 @@
-scenario: '1a5315d7-a8f3-43d4-81e7-6117d50734d9
-
-  Random word: extraordinary
-
-  Scope: Interpersonal
-
-  Severity: Irreversible
-
-  Region: Europe
-
-  Category: Technological failure
-
-  Domain: Environmental
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Technological failure
+Domain: Environmental
+Random word: extraordinary
+Region: Europe
+Scenario: f4950d3a-57ce-4c9d-966b-005b27cd7b53
+Scope: Interpersonal
+Severity: Irreversible
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

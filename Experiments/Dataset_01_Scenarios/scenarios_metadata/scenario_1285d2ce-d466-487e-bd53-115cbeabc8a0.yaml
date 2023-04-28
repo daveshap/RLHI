@@ -1,19 +1,11 @@
-scenario: 'd78895b6-bb5f-4f1b-a61b-855c8a2316f3
-
-  Random word: quite
-
-  Scope: Global
-
-  Severity: Typical
-
-  Region: Subsaharan Africa
-
-  Category: Health concern
-
-  Domain: Spiritual or Religious
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Health concern
+Domain: Spiritual or Religious
+Random word: quite
+Region: Subsaharan Africa
+Scenario: 1285d2ce-d466-487e-bd53-115cbeabc8a0
+Scope: Global
+Severity: Typical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

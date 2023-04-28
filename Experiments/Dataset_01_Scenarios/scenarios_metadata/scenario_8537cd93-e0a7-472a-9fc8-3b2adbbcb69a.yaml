@@ -1,19 +1,11 @@
-scenario: '5c0a38e9-4368-4064-afff-b4cfb257145c
-
-  Random word: army
-
-  Scope: Chosen Family
-
-  Severity: Typical
-
-  Region: Europe
-
-  Category: Social challenge
-
-  Domain: Intellectual
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Social challenge
+Domain: Intellectual
+Random word: army
+Region: Europe
+Scenario: 8537cd93-e0a7-472a-9fc8-3b2adbbcb69a
+Scope: Chosen Family
+Severity: Typical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

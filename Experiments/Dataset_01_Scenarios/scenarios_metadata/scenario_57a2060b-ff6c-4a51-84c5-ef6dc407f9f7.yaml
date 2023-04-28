@@ -1,19 +1,11 @@
-scenario: 'da67ebdf-53ac-40fb-aafc-9911cc4dac2f
-
-  Random word: compare
-
-  Scope: Online
-
-  Severity: Irreversible
-
-  Region: Middle East
-
-  Category: Political unrest
-
-  Domain: Physical
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Political unrest
+Domain: Physical
+Random word: compare
+Region: Middle East
+Scenario: 57a2060b-ff6c-4a51-84c5-ef6dc407f9f7
+Scope: Online
+Severity: Irreversible
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

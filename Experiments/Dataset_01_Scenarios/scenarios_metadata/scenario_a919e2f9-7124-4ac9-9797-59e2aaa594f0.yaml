@@ -1,19 +1,11 @@
-scenario: '6443caea-a2ff-4075-9b3c-885e7f3c3416
-
-  Random word: mission
-
-  Scope: Extended Family
-
-  Severity: Serious
-
-  Region: Eurasia
-
-  Category: Financial crisis
-
-  Domain: Legal
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Financial crisis
+Domain: Legal
+Random word: mission
+Region: Eurasia
+Scenario: a919e2f9-7124-4ac9-9797-59e2aaa594f0
+Scope: Extended Family
+Severity: Serious
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

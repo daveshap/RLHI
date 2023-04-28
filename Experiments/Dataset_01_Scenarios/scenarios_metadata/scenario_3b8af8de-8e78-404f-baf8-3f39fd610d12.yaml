@@ -1,19 +1,11 @@
-scenario: '59e75dd7-fef9-4598-9aba-a10d1a2e49f2
-
-  Random word: qualify
-
-  Scope: Global
-
-  Severity: Critical
-
-  Region: Subsaharan Africa
-
-  Category: Technological failure
-
-  Domain: Social
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Technological failure
+Domain: Social
+Random word: qualify
+Region: Subsaharan Africa
+Scenario: 3b8af8de-8e78-404f-baf8-3f39fd610d12
+Scope: Global
+Severity: Critical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

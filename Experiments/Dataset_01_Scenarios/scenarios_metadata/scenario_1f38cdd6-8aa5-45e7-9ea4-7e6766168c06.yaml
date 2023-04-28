@@ -1,18 +1,10 @@
-scenario: 'c54cd898-afc1-4134-8c02-f673a682e64f
-
-  Random word: reflection
-
-  Scope: Global
-
-  Severity: Life-threatening
-
-  Region: South Asia
-
-  Category: Social challenge
-
-  Domain: Philosophical
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Social challenge
+Domain: Philosophical
+Random word: reflection
+Region: South Asia
+Scenario: 1f38cdd6-8aa5-45e7-9ea4-7e6766168c06
+Scope: Global
+Severity: Life-threatening
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

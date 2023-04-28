@@ -1,19 +1,11 @@
-scenario: '712dadd8-b21f-4b9e-91ae-7cb6f44ad04c
-
-  Random word: regime
-
-  Scope: Online
-
-  Severity: Critical
-
-  Region: Pacific
-
-  Category: Environmental issue
-
-  Domain: Social
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Environmental issue
+Domain: Social
+Random word: regime
+Region: Pacific
+Scenario: 0eb9e866-0fc2-4941-92bb-039c2a3f8165
+Scope: Online
+Severity: Critical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

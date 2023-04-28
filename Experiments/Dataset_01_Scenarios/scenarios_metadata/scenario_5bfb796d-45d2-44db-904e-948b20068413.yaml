@@ -1,19 +1,11 @@
-scenario: '93eabbee-2237-4296-b828-17cd2bf5a366
-
-  Random word: American
-
-  Scope: Professional
-
-  Severity: Disruptive
-
-  Region: Pacific
-
-  Category: Disagreement or Argument
-
-  Domain: Cultural
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Disagreement or Argument
+Domain: Cultural
+Random word: American
+Region: Pacific
+Scenario: 5bfb796d-45d2-44db-904e-948b20068413
+Scope: Professional
+Severity: Disruptive
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

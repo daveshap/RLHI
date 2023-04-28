@@ -1,19 +1,11 @@
-scenario: '945f5b0b-36c2-4f77-b13b-856df1ea65ff
-
-  Random word: butter
-
-  Scope: Regional or Statewide
-
-  Severity: Annoyance
-
-  Region: Eurasia
-
-  Category: Health concern
-
-  Domain: Cultural
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Health concern
+Domain: Cultural
+Random word: butter
+Region: Eurasia
+Scenario: bd1ab8ac-dd3a-4140-971f-a91ae966f19d
+Scope: Regional or Statewide
+Severity: Annoyance
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

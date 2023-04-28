@@ -1,19 +1,11 @@
-scenario: '930d85ba-cdbc-4498-a0a0-1e0ca5890ce5
-
-  Random word: danger
-
-  Scope: Personal or Individual
-
-  Severity: Ordinary
-
-  Region: South Pacific
-
-  Category: Disagreement or Argument
-
-  Domain: Cultural
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Disagreement or Argument
+Domain: Cultural
+Random word: danger
+Region: South Pacific
+Scenario: 73a43834-9a62-449e-8c22-be628a0011bc
+Scope: Personal or Individual
+Severity: Ordinary
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

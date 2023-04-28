@@ -1,19 +1,11 @@
-scenario: 'bd9341b0-4c53-4de2-beaa-875194fdf3c9
-
-  Random word: remove
-
-  Scope: Local community or Neighborhood
-
-  Severity: Typical
-
-  Region: North America
-
-  Category: Mundane issue
-
-  Domain: Social
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Mundane issue
+Domain: Social
+Random word: remove
+Region: North America
+Scenario: 87bf04af-0c7e-4c87-84a2-3be884b926f6
+Scope: Local community or Neighborhood
+Severity: Typical
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

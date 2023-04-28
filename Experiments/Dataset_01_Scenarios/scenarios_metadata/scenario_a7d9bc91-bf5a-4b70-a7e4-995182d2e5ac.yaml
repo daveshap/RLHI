@@ -1,19 +1,11 @@
-scenario: '9f74e07d-1385-48bc-8fa1-92689967ec2d
-
-  Random word: brain
-
-  Scope: Cosmic or Universal
-
-  Severity: Typical
-
-  Region: Europe
-
-  Category: Accident or Incident
-
-  Domain: Intellectual
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Accident or Incident
+Domain: Intellectual
+Random word: brain
+Region: Europe
+Scenario: a7d9bc91-bf5a-4b70-a7e4-995182d2e5ac
+Scope: Cosmic or Universal
+Severity: Typical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

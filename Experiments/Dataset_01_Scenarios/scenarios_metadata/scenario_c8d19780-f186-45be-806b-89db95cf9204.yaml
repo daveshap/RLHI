@@ -1,19 +1,11 @@
-scenario: 'b80122bc-524f-47ce-83c2-356651eceb15
-
-  Random word: accompany
-
-  Scope: Interpersonal
-
-  Severity: Critical
-
-  Region: North America
-
-  Category: Accident or Incident
-
-  Domain: Spiritual or Religious
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Accident or Incident
+Domain: Spiritual or Religious
+Random word: accompany
+Region: North America
+Scenario: c8d19780-f186-45be-806b-89db95cf9204
+Scope: Interpersonal
+Severity: Critical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

@@ -1,19 +1,11 @@
-scenario: '8d152596-ac6e-4d62-ae22-ff0a94f874b5
-
-  Random word: girlfriend
-
-  Scope: Interpersonal
-
-  Severity: Ordinary
-
-  Region: Pacific
-
-  Category: Accident or Incident
-
-  Domain: Intellectual
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Accident or Incident
+Domain: Intellectual
+Random word: girlfriend
+Region: Pacific
+Scenario: bdad1b3f-34f3-42d7-9c55-24dd73a9de32
+Scope: Interpersonal
+Severity: Ordinary
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

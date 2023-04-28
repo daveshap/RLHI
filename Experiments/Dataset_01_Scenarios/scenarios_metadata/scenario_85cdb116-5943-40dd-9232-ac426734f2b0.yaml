@@ -1,19 +1,11 @@
-scenario: '01153cc5-2cdb-4cc0-8fd4-dc9bd9d9e23e
-
-  Random word: shop
-
-  Scope: Continental
-
-  Severity: Disruptive
-
-  Region: Subsaharan Africa
-
-  Category: AI Control Problem
-
-  Domain: Political
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: AI Control Problem
+Domain: Political
+Random word: shop
+Region: Subsaharan Africa
+Scenario: 85cdb116-5943-40dd-9232-ac426734f2b0
+Scope: Continental
+Severity: Disruptive
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

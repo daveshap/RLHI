@@ -1,19 +1,11 @@
-scenario: 'bc433f90-2cd0-4694-bba7-340b15489ced
-
-  Random word: introduction
-
-  Scope: Global
-
-  Severity: Disruptive
-
-  Region: South America
-
-  Category: Financial crisis
-
-  Domain: Intellectual
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Financial crisis
+Domain: Intellectual
+Random word: introduction
+Region: South America
+Scenario: 3e9e82f7-ab06-4684-b4c9-12a3797f0096
+Scope: Global
+Severity: Disruptive
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

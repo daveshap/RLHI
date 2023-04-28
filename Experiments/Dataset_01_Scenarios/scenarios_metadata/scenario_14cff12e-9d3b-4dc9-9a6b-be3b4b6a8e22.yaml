@@ -1,19 +1,11 @@
-scenario: '0d054b8d-2761-497c-b53f-4cfeacc2dfa9
-
-  Random word: scared
-
-  Scope: Global
-
-  Severity: Disruptive
-
-  Region: Subsaharan Africa
-
-  Category: Mundane issue
-
-  Domain: Emotional
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Mundane issue
+Domain: Emotional
+Random word: scared
+Region: Subsaharan Africa
+Scenario: 14cff12e-9d3b-4dc9-9a6b-be3b4b6a8e22
+Scope: Global
+Severity: Disruptive
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

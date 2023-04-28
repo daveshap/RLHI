@@ -1,19 +1,11 @@
-scenario: '68fc64f2-0c06-472e-86b3-4a8cba4e4a23
-
-  Random word: motivation
-
-  Scope: Interstellar
-
-  Severity: Long-lasting
-
-  Region: Middle East
-
-  Category: Conflict or Violence
-
-  Domain: Emotional
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Conflict or Violence
+Domain: Emotional
+Random word: motivation
+Region: Middle East
+Scenario: 4eb95de7-7b16-4b48-8830-29d8ef70b782
+Scope: Interstellar
+Severity: Long-lasting
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

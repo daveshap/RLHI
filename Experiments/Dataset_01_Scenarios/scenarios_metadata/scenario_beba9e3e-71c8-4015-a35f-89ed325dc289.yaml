@@ -1,19 +1,11 @@
-scenario: '18bc6e4a-5950-4724-afc2-dae5fb863450
-
-  Random word: meet
-
-  Scope: City or Village
-
-  Severity: Life-threatening
-
-  Region: South Asia
-
-  Category: Social challenge
-
-  Domain: Spiritual or Religious
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Social challenge
+Domain: Spiritual or Religious
+Random word: meet
+Region: South Asia
+Scenario: beba9e3e-71c8-4015-a35f-89ed325dc289
+Scope: City or Village
+Severity: Life-threatening
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

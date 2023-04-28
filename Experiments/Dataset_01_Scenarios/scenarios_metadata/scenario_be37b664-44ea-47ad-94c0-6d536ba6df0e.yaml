@@ -1,19 +1,11 @@
-scenario: '6f4399e7-bc52-4fcd-a517-8fe70e519f59
-
-  Random word: gender
-
-  Scope: Chosen Family
-
-  Severity: Life-threatening
-
-  Region: Asia
-
-  Category: Accident or Incident
-
-  Domain: Cultural
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Accident or Incident
+Domain: Cultural
+Random word: gender
+Region: Asia
+Scenario: be37b664-44ea-47ad-94c0-6d536ba6df0e
+Scope: Chosen Family
+Severity: Life-threatening
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

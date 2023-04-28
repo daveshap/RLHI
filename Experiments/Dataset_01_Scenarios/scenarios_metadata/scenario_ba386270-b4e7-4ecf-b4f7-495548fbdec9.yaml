@@ -1,19 +1,11 @@
-scenario: '4927f79a-1f14-48ea-b6f1-25db088f36d0
-
-  Random word: manage
-
-  Scope: Global
-
-  Severity: Critical
-
-  Region: Pacific
-
-  Category: Political unrest
-
-  Domain: Scientific
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Political unrest
+Domain: Scientific
+Random word: manage
+Region: Pacific
+Scenario: ba386270-b4e7-4ecf-b4f7-495548fbdec9
+Scope: Global
+Severity: Critical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

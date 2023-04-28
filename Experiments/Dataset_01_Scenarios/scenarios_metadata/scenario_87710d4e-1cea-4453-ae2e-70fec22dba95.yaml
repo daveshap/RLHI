@@ -1,18 +1,10 @@
-scenario: 'c8185532-fe24-4df0-b1de-a0aaf42aa1e2
-
-  Random word: favor
-
-  Scope: National or Federal
-
-  Severity: Dangerous
-
-  Region: South America
-
-  Category: Ethical dilemma
-
-  Domain: Social
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Ethical dilemma
+Domain: Social
+Random word: favor
+Region: South America
+Scenario: 87710d4e-1cea-4453-ae2e-70fec22dba95
+Scope: National or Federal
+Severity: Dangerous
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

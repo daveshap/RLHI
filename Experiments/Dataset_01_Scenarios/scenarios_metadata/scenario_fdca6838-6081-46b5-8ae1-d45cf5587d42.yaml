@@ -1,19 +1,11 @@
-scenario: '395dd62c-034b-40dd-bb61-d7c55b0cf059
-
-  Random word: side
-
-  Scope: Professional
-
-  Severity: Catastrophic
-
-  Region: Europe
-
-  Category: Conflict or Violence
-
-  Domain: Physical
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Conflict or Violence
+Domain: Physical
+Random word: side
+Region: Europe
+Scenario: fdca6838-6081-46b5-8ae1-d45cf5587d42
+Scope: Professional
+Severity: Catastrophic
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

@@ -1,19 +1,11 @@
-scenario: 'f47a830c-2cd0-44c2-8d53-0d9bde1ba4fb
-
-  Random word: divorce
-
-  Scope: Extended Family
-
-  Severity: Irreversible
-
-  Region: Pacific
-
-  Category: Accident or Incident
-
-  Domain: Technological
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Accident or Incident
+Domain: Technological
+Random word: divorce
+Region: Pacific
+Scenario: 4a7efb91-3348-40e6-a101-df48e99de139
+Scope: Extended Family
+Severity: Irreversible
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

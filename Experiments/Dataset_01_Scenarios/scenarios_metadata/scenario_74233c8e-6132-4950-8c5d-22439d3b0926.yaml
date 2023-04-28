@@ -1,18 +1,10 @@
-scenario: '1941de01-174d-48d9-b2f2-facf73064d0d
-
-  Random word: production
-
-  Scope: Extended Family
-
-  Severity: Disruptive
-
-  Region: Eurasia
-
-  Category: AI Control Problem
-
-  Domain: Political
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: AI Control Problem
+Domain: Political
+Random word: production
+Region: Eurasia
+Scenario: 74233c8e-6132-4950-8c5d-22439d3b0926
+Scope: Extended Family
+Severity: Disruptive
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

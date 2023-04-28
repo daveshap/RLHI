@@ -1,19 +1,11 @@
-scenario: '3ad17d48-5500-419a-a88c-10c30664dd33
-
-  Random word: mistake
-
-  Scope: Local community or Neighborhood
-
-  Severity: Disruptive
-
-  Region: North America
-
-  Category: Natural disaster
-
-  Domain: Physical
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Natural disaster
+Domain: Physical
+Random word: mistake
+Region: North America
+Scenario: d43d6181-e349-4434-9a0f-9d39a713b330
+Scope: Local community or Neighborhood
+Severity: Disruptive
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

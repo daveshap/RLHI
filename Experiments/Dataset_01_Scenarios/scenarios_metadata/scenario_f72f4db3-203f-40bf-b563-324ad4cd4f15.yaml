@@ -1,19 +1,11 @@
-scenario: '1fcca37c-1d0e-4e35-b59f-c03cd82e31a6
-
-  Random word: besides
-
-  Scope: Cosmic or Universal
-
-  Severity: Disruptive
-
-  Region: South America
-
-  Category: Financial crisis
-
-  Domain: Scientific
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Financial crisis
+Domain: Scientific
+Random word: besides
+Region: South America
+Scenario: f72f4db3-203f-40bf-b563-324ad4cd4f15
+Scope: Cosmic or Universal
+Severity: Disruptive
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

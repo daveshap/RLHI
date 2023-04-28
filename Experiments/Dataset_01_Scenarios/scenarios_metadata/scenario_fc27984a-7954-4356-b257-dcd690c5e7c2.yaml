@@ -1,18 +1,10 @@
-scenario: '03b1f8ff-8ad8-498a-a568-653c7b5718d1
-
-  Random word: and
-
-  Scope: Nuclear Family
-
-  Severity: Catastrophic
-
-  Region: North America
-
-  Category: Conflict or Violence
-
-  Domain: Cultural
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Conflict or Violence
+Domain: Cultural
+Random word: and
+Region: North America
+Scenario: fc27984a-7954-4356-b257-dcd690c5e7c2
+Scope: Nuclear Family
+Severity: Catastrophic
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

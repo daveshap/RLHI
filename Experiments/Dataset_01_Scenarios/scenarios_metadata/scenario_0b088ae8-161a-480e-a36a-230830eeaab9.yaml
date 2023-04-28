@@ -1,18 +1,10 @@
-scenario: 'a17a6076-75db-4706-896d-85582e40b215
-
-  Random word: cheap
-
-  Scope: Intergalactic
-
-  Severity: Ordinary
-
-  Region: South Pacific
-
-  Category: Financial crisis
-
-  Domain: Educational
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Financial crisis
+Domain: Educational
+Random word: cheap
+Region: South Pacific
+Scenario: 0b088ae8-161a-480e-a36a-230830eeaab9
+Scope: Intergalactic
+Severity: Ordinary
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

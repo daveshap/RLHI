@@ -1,19 +1,11 @@
-scenario: 'dcb97f6b-5a6f-416e-860a-8f297ad504c0
-
-  Random word: success
-
-  Scope: Global
-
-  Severity: Catastrophic
-
-  Region: Pacific
-
-  Category: Natural disaster
-
-  Domain: Technological
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Natural disaster
+Domain: Technological
+Random word: success
+Region: Pacific
+Scenario: 1a3a88d8-42a4-4694-a4b2-00c9d07df599
+Scope: Global
+Severity: Catastrophic
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

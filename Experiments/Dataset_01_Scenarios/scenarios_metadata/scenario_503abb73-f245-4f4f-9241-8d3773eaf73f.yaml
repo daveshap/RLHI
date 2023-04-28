@@ -1,19 +1,11 @@
-scenario: 'eb91ae5f-5bfe-4b9c-a4d5-043748358b82
-
-  Random word: rural
-
-  Scope: Interpersonal
-
-  Severity: Serious
-
-  Region: South America
-
-  Category: Social challenge
-
-  Domain: Environmental
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Social challenge
+Domain: Environmental
+Random word: rural
+Region: South America
+Scenario: 503abb73-f245-4f4f-9241-8d3773eaf73f
+Scope: Interpersonal
+Severity: Serious
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

@@ -1,19 +1,11 @@
-scenario: 'e87d3ac3-b125-4787-a79f-6876802749f3
-
-  Random word: dominant
-
-  Scope: Regional or Statewide
-
-  Severity: Typical
-
-  Region: North America
-
-  Category: Social challenge
-
-  Domain: Political
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Social challenge
+Domain: Political
+Random word: dominant
+Region: North America
+Scenario: f5d6a768-9043-40e7-876b-f17a084bb91f
+Scope: Regional or Statewide
+Severity: Typical
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

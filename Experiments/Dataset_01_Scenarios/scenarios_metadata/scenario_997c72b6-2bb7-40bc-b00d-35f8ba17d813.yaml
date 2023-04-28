@@ -1,18 +1,10 @@
-scenario: 'e6e3da1e-b383-45cf-beb7-c6d1eb6b0129
-
-  Random word: stretch
-
-  Scope: Chosen Family
-
-  Severity: Long-lasting
-
-  Region: Middle East
-
-  Category: Health concern
-
-  Domain: Social
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Health concern
+Domain: Social
+Random word: stretch
+Region: Middle East
+Scenario: 997c72b6-2bb7-40bc-b00d-35f8ba17d813
+Scope: Chosen Family
+Severity: Long-lasting
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

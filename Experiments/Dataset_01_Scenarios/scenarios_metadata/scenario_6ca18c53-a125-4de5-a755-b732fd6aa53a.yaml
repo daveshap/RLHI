@@ -1,19 +1,11 @@
-scenario: '15cfb51c-c553-4e31-b833-57f34c7aed47
-
-  Random word: look
-
-  Scope: Continental
-
-  Severity: Catastrophic
-
-  Region: South Asia
-
-  Category: Conflict or Violence
-
-  Domain: Cultural
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Conflict or Violence
+Domain: Cultural
+Random word: look
+Region: South Asia
+Scenario: 6ca18c53-a125-4de5-a755-b732fd6aa53a
+Scope: Continental
+Severity: Catastrophic
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

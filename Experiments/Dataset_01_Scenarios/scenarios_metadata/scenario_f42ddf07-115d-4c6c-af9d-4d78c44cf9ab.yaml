@@ -1,19 +1,11 @@
-scenario: '16f86dbe-9279-4a06-9039-ed9cacfc1df4
-
-  Random word: essay
-
-  Scope: Local community or Neighborhood
-
-  Severity: Dangerous
-
-  Region: South Asia
-
-  Category: Health concern
-
-  Domain: Technological
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Health concern
+Domain: Technological
+Random word: essay
+Region: South Asia
+Scenario: f42ddf07-115d-4c6c-af9d-4d78c44cf9ab
+Scope: Local community or Neighborhood
+Severity: Dangerous
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

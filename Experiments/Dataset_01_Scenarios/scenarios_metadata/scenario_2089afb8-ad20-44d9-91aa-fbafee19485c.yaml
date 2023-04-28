@@ -1,18 +1,10 @@
-scenario: '33c3714b-22bf-4456-9fb9-a1d4e270b3cd
-
-  Random word: enhance
-
-  Scope: Global
-
-  Severity: Irreversible
-
-  Region: Asia
-
-  Category: Ethical dilemma
-
-  Domain: Educational
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Ethical dilemma
+Domain: Educational
+Random word: enhance
+Region: Asia
+Scenario: 2089afb8-ad20-44d9-91aa-fbafee19485c
+Scope: Global
+Severity: Irreversible
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

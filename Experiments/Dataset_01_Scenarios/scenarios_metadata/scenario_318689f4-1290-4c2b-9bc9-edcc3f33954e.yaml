@@ -1,19 +1,11 @@
-scenario: 'a1a716e5-0c15-4999-96dd-ec586f4c249b
-
-  Random word: golf
-
-  Scope: Regional or Statewide
-
-  Severity: Irreversible
-
-  Region: Eurasia
-
-  Category: Political unrest
-
-  Domain: Legal
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Political unrest
+Domain: Legal
+Random word: golf
+Region: Eurasia
+Scenario: 318689f4-1290-4c2b-9bc9-edcc3f33954e
+Scope: Regional or Statewide
+Severity: Irreversible
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

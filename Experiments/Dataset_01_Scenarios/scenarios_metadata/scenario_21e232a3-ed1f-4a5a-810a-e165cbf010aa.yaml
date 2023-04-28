@@ -1,19 +1,11 @@
-scenario: '78ed6111-8d49-45c7-b081-ed8a9a9b5706
-
-  Random word: force
-
-  Scope: Interstellar
-
-  Severity: Long-lasting
-
-  Region: Asia
-
-  Category: Accident or Incident
-
-  Domain: Cultural
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Accident or Incident
+Domain: Cultural
+Random word: force
+Region: Asia
+Scenario: 21e232a3-ed1f-4a5a-810a-e165cbf010aa
+Scope: Interstellar
+Severity: Long-lasting
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

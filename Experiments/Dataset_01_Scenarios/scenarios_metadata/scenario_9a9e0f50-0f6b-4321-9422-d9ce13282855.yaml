@@ -1,18 +1,10 @@
-scenario: '60092276-b778-44b6-8feb-10d2d7f7ed30
-
-  Random word: daily
-
-  Scope: International
-
-  Severity: Typical
-
-  Region: North America
-
-  Category: Social challenge
-
-  Domain: Environmental
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Social challenge
+Domain: Environmental
+Random word: daily
+Region: North America
+Scenario: 9a9e0f50-0f6b-4321-9422-d9ce13282855
+Scope: International
+Severity: Typical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

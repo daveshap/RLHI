@@ -1,19 +1,11 @@
-scenario: '5f031b3f-f046-45fe-b549-fe274f4d58df
-
-  Random word: distance
-
-  Scope: National or Federal
-
-  Severity: Insignificant
-
-  Region: North America
-
-  Category: Financial crisis
-
-  Domain: Emotional
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Financial crisis
+Domain: Emotional
+Random word: distance
+Region: North America
+Scenario: a3e7c1bf-0b55-4647-9ba9-134808b0bb95
+Scope: National or Federal
+Severity: Insignificant
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

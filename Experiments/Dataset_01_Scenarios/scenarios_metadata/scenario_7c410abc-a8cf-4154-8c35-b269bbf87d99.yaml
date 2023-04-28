@@ -1,19 +1,11 @@
-scenario: 'bd52a51c-1fb2-4331-bc96-6dbb23d59fec
-
-  Random word: graduate
-
-  Scope: National or Federal
-
-  Severity: Annoyance
-
-  Region: South Asia
-
-  Category: Political unrest
-
-  Domain: Environmental
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Political unrest
+Domain: Environmental
+Random word: graduate
+Region: South Asia
+Scenario: 7c410abc-a8cf-4154-8c35-b269bbf87d99
+Scope: National or Federal
+Severity: Annoyance
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

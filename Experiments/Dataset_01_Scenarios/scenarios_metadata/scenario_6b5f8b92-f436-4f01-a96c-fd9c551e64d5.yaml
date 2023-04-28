@@ -1,19 +1,11 @@
-scenario: 'c79ee506-6062-4bbc-8343-a1174bd27d92
-
-  Random word: catch
-
-  Scope: International
-
-  Severity: Insignificant
-
-  Region: Eurasia
-
-  Category: Accident or Incident
-
-  Domain: Emotional
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Accident or Incident
+Domain: Emotional
+Random word: catch
+Region: Eurasia
+Scenario: 6b5f8b92-f436-4f01-a96c-fd9c551e64d5
+Scope: International
+Severity: Insignificant
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

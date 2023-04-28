@@ -1,19 +1,11 @@
-scenario: 'b9ab817b-0d1b-42d2-81c0-a1f9a789e342
-
-  Random word: commitment
-
-  Scope: Nuclear Family
-
-  Severity: Ordinary
-
-  Region: South Pacific
-
-  Category: Technological failure
-
-  Domain: Physical
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Technological failure
+Domain: Physical
+Random word: commitment
+Region: South Pacific
+Scenario: e83e7476-8d3e-48af-858a-89075959394c
+Scope: Nuclear Family
+Severity: Ordinary
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

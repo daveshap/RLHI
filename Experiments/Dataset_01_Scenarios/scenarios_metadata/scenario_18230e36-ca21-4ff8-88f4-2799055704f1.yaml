@@ -1,19 +1,11 @@
-scenario: 'e17fd1be-b2af-49c3-98f4-3c37b0bac21b
-
-  Random word: no
-
-  Scope: Chosen Family
-
-  Severity: Irreversible
-
-  Region: Pacific
-
-  Category: Environmental issue
-
-  Domain: Political
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Environmental issue
+Domain: Political
+Random word: false
+Region: Pacific
+Scenario: 18230e36-ca21-4ff8-88f4-2799055704f1
+Scope: Chosen Family
+Severity: Irreversible
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

@@ -1,19 +1,11 @@
-scenario: 'c0386c05-8dab-4c67-a417-d9ce446e0d8f
-
-  Random word: wish
-
-  Scope: Chosen Family
-
-  Severity: Ordinary
-
-  Region: Europe
-
-  Category: Disagreement or Argument
-
-  Domain: Technological
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Disagreement or Argument
+Domain: Technological
+Random word: wish
+Region: Europe
+Scenario: bfe0785d-2961-432e-8196-ffd563552408
+Scope: Chosen Family
+Severity: Ordinary
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

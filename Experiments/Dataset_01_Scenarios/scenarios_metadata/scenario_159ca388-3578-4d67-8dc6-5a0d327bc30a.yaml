@@ -1,19 +1,11 @@
-scenario: '092c5907-7b17-45dd-8044-0deaf1254ca1
-
-  Random word: simple
-
-  Scope: Professional
-
-  Severity: Ordinary
-
-  Region: Eurasia
-
-  Category: Social challenge
-
-  Domain: Intellectual
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Social challenge
+Domain: Intellectual
+Random word: simple
+Region: Eurasia
+Scenario: 159ca388-3578-4d67-8dc6-5a0d327bc30a
+Scope: Professional
+Severity: Ordinary
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

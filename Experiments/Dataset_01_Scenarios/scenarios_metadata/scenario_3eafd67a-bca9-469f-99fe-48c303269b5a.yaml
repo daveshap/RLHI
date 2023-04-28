@@ -1,19 +1,11 @@
-scenario: '22cbe984-f94b-4423-a736-0b616ea5de00
-
-  Random word: abortion
-
-  Scope: Personal or Individual
-
-  Severity: Annoyance
-
-  Region: Subsaharan Africa
-
-  Category: Natural disaster
-
-  Domain: Economic
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Natural disaster
+Domain: Economic
+Random word: abortion
+Region: Subsaharan Africa
+Scenario: 3eafd67a-bca9-469f-99fe-48c303269b5a
+Scope: Personal or Individual
+Severity: Annoyance
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

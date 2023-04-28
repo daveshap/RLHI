@@ -1,19 +1,11 @@
-scenario: 'a9f614b6-5b28-4e20-95c5-213d2c8aa306
-
-  Random word: temperature
-
-  Scope: Online
-
-  Severity: Ordinary
-
-  Region: North America
-
-  Category: Technological failure
-
-  Domain: Philosophical
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Technological failure
+Domain: Philosophical
+Random word: temperature
+Region: North America
+Scenario: 4643263b-8df7-401a-98a1-a7ceaa5fa6e3
+Scope: Online
+Severity: Ordinary
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

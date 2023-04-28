@@ -1,18 +1,10 @@
-scenario: 'b0e380c7-70a9-4269-bff2-e84c9b17d24d
-
-  Random word: obtain
-
-  Scope: Local community or Neighborhood
-
-  Severity: Annoyance
-
-  Region: Middle East
-
-  Category: Technological failure
-
-  Domain: Technological
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Technological failure
+Domain: Technological
+Random word: obtain
+Region: Middle East
+Scenario: a394b4ec-7c58-4e3f-9948-87a15b42d79d
+Scope: Local community or Neighborhood
+Severity: Annoyance
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

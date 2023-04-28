@@ -1,19 +1,11 @@
-scenario: 'b2cf5e98-08a8-40f8-8bf2-b7ee0e00f633
-
-  Random word: developing
-
-  Scope: National or Federal
-
-  Severity: Catastrophic
-
-  Region: Middle East
-
-  Category: Disagreement or Argument
-
-  Domain: Political
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Disagreement or Argument
+Domain: Political
+Random word: developing
+Region: Middle East
+Scenario: e8ec2227-1c66-424c-990a-d28dfb1e0992
+Scope: National or Federal
+Severity: Catastrophic
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

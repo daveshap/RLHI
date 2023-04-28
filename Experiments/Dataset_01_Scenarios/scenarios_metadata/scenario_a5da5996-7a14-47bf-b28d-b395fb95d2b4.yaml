@@ -1,19 +1,11 @@
-scenario: '2b0f3519-496c-487b-a15a-743bb9977e7e
-
-  Random word: observe
-
-  Scope: Interpersonal
-
-  Severity: Serious
-
-  Region: South Asia
-
-  Category: Ethical dilemma
-
-  Domain: Cultural
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Ethical dilemma
+Domain: Cultural
+Random word: observe
+Region: South Asia
+Scenario: a5da5996-7a14-47bf-b28d-b395fb95d2b4
+Scope: Interpersonal
+Severity: Serious
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

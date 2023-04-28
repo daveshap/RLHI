@@ -1,19 +1,11 @@
-scenario: '8a56dd43-a201-4d9a-9cbf-dfbf8bed002a
-
-  Random word: remain
-
-  Scope: City or Village
-
-  Severity: Typical
-
-  Region: North Africa
-
-  Category: Environmental issue
-
-  Domain: Technological
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Environmental issue
+Domain: Technological
+Random word: remain
+Region: North Africa
+Scenario: 1bb07e25-d8f5-47c8-aacd-a2ff58989086
+Scope: City or Village
+Severity: Typical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

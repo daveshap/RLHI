@@ -1,19 +1,11 @@
-scenario: 'bf2fe58e-2db4-48df-9c83-e9dd0b3c8dad
-
-  Random word: hotel
-
-  Scope: Online
-
-  Severity: Critical
-
-  Region: South Asia
-
-  Category: Natural disaster
-
-  Domain: Economic
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Natural disaster
+Domain: Economic
+Random word: hotel
+Region: South Asia
+Scenario: 0ebac9cd-563f-401c-91f8-3bb9a9d94c2c
+Scope: Online
+Severity: Critical
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

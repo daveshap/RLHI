@@ -1,19 +1,11 @@
-scenario: '75b16de0-4893-4e67-be32-ba2e8dea40ac
-
-  Random word: drag
-
-  Scope: Interstellar
-
-  Severity: Annoyance
-
-  Region: North Africa
-
-  Category: Environmental issue
-
-  Domain: Technological
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Environmental issue
+Domain: Technological
+Random word: drag
+Region: North Africa
+Scenario: f0029fb9-9b91-463c-8843-41cac576db03
+Scope: Interstellar
+Severity: Annoyance
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

@@ -1,19 +1,11 @@
-scenario: '69f55359-96af-4bd7-b785-9005ca7d2267
-
-  Random word: evidence
-
-  Scope: Interstellar
-
-  Severity: Catastrophic
-
-  Region: Eurasia
-
-  Category: Accident or Incident
-
-  Domain: Emotional
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Accident or Incident
+Domain: Emotional
+Random word: evidence
+Region: Eurasia
+Scenario: 46bc3ffa-ea86-4e9b-ab82-5db4ff793c21
+Scope: Interstellar
+Severity: Catastrophic
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

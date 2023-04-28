@@ -1,19 +1,11 @@
-scenario: '878b3213-c828-4df7-8f68-27e76dc4cc4e
-
-  Random word: unfortunately
-
-  Scope: Continental
-
-  Severity: Critical
-
-  Region: Subsaharan Africa
-
-  Category: Technological failure
-
-  Domain: Spiritual or Religious
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Technological failure
+Domain: Spiritual or Religious
+Random word: unfortunately
+Region: Subsaharan Africa
+Scenario: 12c852b9-31fb-4df9-8226-d17d23708297
+Scope: Continental
+Severity: Critical
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

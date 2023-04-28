@@ -1,19 +1,11 @@
-scenario: '067c16f3-5593-48e6-b326-7c411b1c5795
-
-  Random word: thus
-
-  Scope: City or Village
-
-  Severity: Irreversible
-
-  Region: Eurasia
-
-  Category: Technological failure
-
-  Domain: Educational
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Technological failure
+Domain: Educational
+Random word: thus
+Region: Eurasia
+Scenario: f139f5a1-890b-48aa-bf9d-3c9250ce9590
+Scope: City or Village
+Severity: Irreversible
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

@@ -1,18 +1,10 @@
-scenario: 'cb3418fe-e21c-4ac2-96ef-cfd682d4c55c
-
-  Random word: hair
-
-  Scope: Cosmic or Universal
-
-  Severity: Life-threatening
-
-  Region: Eurasia
-
-  Category: Ethical dilemma
-
-  Domain: Economic
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Ethical dilemma
+Domain: Economic
+Random word: hair
+Region: Eurasia
+Scenario: c212b0d3-5de1-4f97-8dd5-83f1fbcc986a
+Scope: Cosmic or Universal
+Severity: Life-threatening
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

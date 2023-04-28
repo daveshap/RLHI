@@ -1,19 +1,11 @@
-scenario: 'd7ca4774-5a38-4e09-aac2-a4efd0e264df
-
-  Random word: establish
-
-  Scope: Intergalactic
-
-  Severity: Typical
-
-  Region: Europe
-
-  Category: Political unrest
-
-  Domain: Intellectual
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Political unrest
+Domain: Intellectual
+Random word: establish
+Region: Europe
+Scenario: e7386220-3b38-4815-a964-0889711fb3ef
+Scope: Intergalactic
+Severity: Typical
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

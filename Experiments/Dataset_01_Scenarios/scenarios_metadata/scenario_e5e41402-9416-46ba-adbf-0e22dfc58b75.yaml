@@ -1,19 +1,11 @@
-scenario: '2c46ffde-0247-43db-ba4a-0ec4a18a577f
-
-  Random word: start
-
-  Scope: Nuclear Family
-
-  Severity: Serious
-
-  Region: North America
-
-  Category: Environmental issue
-
-  Domain: Physical
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Environmental issue
+Domain: Physical
+Random word: start
+Region: North America
+Scenario: e5e41402-9416-46ba-adbf-0e22dfc58b75
+Scope: Nuclear Family
+Severity: Serious
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

@@ -1,19 +1,11 @@
-scenario: '05d453cb-454f-4790-9782-36f82ff4b3f3
-
-  Random word: organic
-
-  Scope: Intergalactic
-
-  Severity: Irreversible
-
-  Region: South Pacific
-
-  Category: Technological failure
-
-  Domain: Economic
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Technological failure
+Domain: Economic
+Random word: organic
+Region: South Pacific
+Scenario: 876a9f60-87d6-4974-8ded-9f0c843547fe
+Scope: Intergalactic
+Severity: Irreversible
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

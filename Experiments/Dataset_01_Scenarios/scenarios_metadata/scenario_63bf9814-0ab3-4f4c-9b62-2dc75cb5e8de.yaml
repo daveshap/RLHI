@@ -1,19 +1,11 @@
-scenario: '1363855e-15a2-444b-bbe7-a7f6fd0fb8b4
-
-  Random word: wage
-
-  Scope: Local community or Neighborhood
-
-  Severity: Dangerous
-
-  Region: Middle East
-
-  Category: Ethical dilemma
-
-  Domain: Scientific
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Ethical dilemma
+Domain: Scientific
+Random word: wage
+Region: Middle East
+Scenario: 63bf9814-0ab3-4f4c-9b62-2dc75cb5e8de
+Scope: Local community or Neighborhood
+Severity: Dangerous
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

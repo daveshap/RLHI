@@ -1,19 +1,11 @@
-scenario: '3bcf4536-e82f-4773-a54a-1ed52ba08f75
-
-  Random word: period
-
-  Scope: Extended Family
-
-  Severity: Critical
-
-  Region: Eurasia
-
-  Category: Natural disaster
-
-  Domain: Spiritual or Religious
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Natural disaster
+Domain: Spiritual or Religious
+Random word: period
+Region: Eurasia
+Scenario: 829044f9-d368-4e36-8fae-e5928da428a7
+Scope: Extended Family
+Severity: Critical
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

@@ -1,19 +1,11 @@
-scenario: 'e210e4ff-a2e0-41e1-8aa2-778c25b07a06
-
-  Random word: king
-
-  Scope: Local community or Neighborhood
-
-  Severity: Dangerous
-
-  Region: Pacific
-
-  Category: Disagreement or Argument
-
-  Domain: Legal
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Disagreement or Argument
+Domain: Legal
+Random word: king
+Region: Pacific
+Scenario: acd4877f-4820-4567-a048-8770ac60918e
+Scope: Local community or Neighborhood
+Severity: Dangerous
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

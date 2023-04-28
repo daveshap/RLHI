@@ -1,19 +1,11 @@
-scenario: '46e4577f-635a-4c0c-9088-eda4406e6477
-
-  Random word: narrative
-
-  Scope: Global
-
-  Severity: Life-threatening
-
-  Region: Pacific
-
-  Category: Health concern
-
-  Domain: Emotional
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Health concern
+Domain: Emotional
+Random word: narrative
+Region: Pacific
+Scenario: 26a9f75b-155d-4d8c-bbbb-3bf8f7ae1af3
+Scope: Global
+Severity: Life-threatening
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

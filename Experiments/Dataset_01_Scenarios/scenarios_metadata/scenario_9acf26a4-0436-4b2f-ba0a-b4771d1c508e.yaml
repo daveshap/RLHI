@@ -1,19 +1,11 @@
-scenario: 'c75765e2-d549-4e09-a686-32567970be6c
-
-  Random word: uncle
-
-  Scope: Extended Family
-
-  Severity: Annoyance
-
-  Region: Pacific
-
-  Category: Technological failure
-
-  Domain: Political
-
-  '
-system: A set of descriptors for a scenario will be given to you. Your task is to
+Category: Technological failure
+Domain: Political
+Random word: uncle
+Region: Pacific
+Scenario: 9acf26a4-0436-4b2f-ba0a-b4771d1c508e
+Scope: Extended Family
+Severity: Annoyance
+System: A set of descriptors for a scenario will be given to you. Your task is to
   weave these elements into a coherent and engaging story narrative. Feel free to
   elaborate on the given descriptors and include any specific details that you think
   would enrich the scenario.

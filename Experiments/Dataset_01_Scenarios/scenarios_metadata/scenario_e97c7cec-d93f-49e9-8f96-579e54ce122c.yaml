@@ -1,19 +1,11 @@
-scenario: '13940d33-d3a6-4df4-9a90-7078f9f921f4
-
-  Random word: plant
-
-  Scope: Professional
-
-  Severity: Long-lasting
-
-  Region: Subsaharan Africa
-
-  Category: Mundane issue
-
-  Domain: Scientific
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Mundane issue
+Domain: Scientific
+Random word: plant
+Region: Subsaharan Africa
+Scenario: e97c7cec-d93f-49e9-8f96-579e54ce122c
+Scope: Professional
+Severity: Long-lasting
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

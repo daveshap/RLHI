@@ -1,18 +1,10 @@
-scenario: 'f77cc294-8bb7-48bb-a142-c400d2ed48a8
-
-  Random word: shower
-
-  Scope: Interstellar
-
-  Severity: Typical
-
-  Region: South Asia
-
-  Category: Political unrest
-
-  Domain: Educational
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Political unrest
+Domain: Educational
+Random word: shower
+Region: South Asia
+Scenario: 6efa0eb3-9e84-4f05-a08a-4fa774b6772c
+Scope: Interstellar
+Severity: Typical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

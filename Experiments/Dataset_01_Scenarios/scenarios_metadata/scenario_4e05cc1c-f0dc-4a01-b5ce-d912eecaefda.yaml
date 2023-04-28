@@ -1,18 +1,10 @@
-scenario: '40b39b00-b570-43f8-aeaa-db53f70261a8
-
-  Random word: finance
-
-  Scope: Extended Family
-
-  Severity: Typical
-
-  Region: South Pacific
-
-  Category: Conflict or Violence
-
-  Domain: Educational
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Conflict or Violence
+Domain: Educational
+Random word: finance
+Region: South Pacific
+Scenario: 4e05cc1c-f0dc-4a01-b5ce-d912eecaefda
+Scope: Extended Family
+Severity: Typical
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

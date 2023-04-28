@@ -1,19 +1,11 @@
-scenario: '2c593087-2daa-4aef-b3c3-7b284fccffa8
-
-  Random word: hat
-
-  Scope: Local community or Neighborhood
-
-  Severity: Serious
-
-  Region: Europe
-
-  Category: Conflict or Violence
-
-  Domain: Emotional
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Conflict or Violence
+Domain: Emotional
+Random word: hat
+Region: Europe
+Scenario: 3a24ee5d-2962-48f9-9638-adaaf37663f1
+Scope: Local community or Neighborhood
+Severity: Serious
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.

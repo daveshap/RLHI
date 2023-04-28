@@ -1,19 +1,11 @@
-scenario: '6890d6e9-0785-4bbc-a721-cdc73b2d0345
-
-  Random word: segment
-
-  Scope: Local community or Neighborhood
-
-  Severity: Critical
-
-  Region: Subsaharan Africa
-
-  Category: AI Control Problem
-
-  Domain: Philosophical
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: AI Control Problem
+Domain: Philosophical
+Random word: segment
+Region: Subsaharan Africa
+Scenario: e773ce3b-a533-4268-9885-be22828e8a7e
+Scope: Local community or Neighborhood
+Severity: Critical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

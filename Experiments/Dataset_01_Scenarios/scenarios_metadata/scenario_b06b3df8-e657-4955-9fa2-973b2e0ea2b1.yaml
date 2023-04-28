@@ -1,19 +1,11 @@
-scenario: 'aba0d27f-44f2-47df-9dc8-18e7e0857775
-
-  Random word: fan
-
-  Scope: Local community or Neighborhood
-
-  Severity: Disruptive
-
-  Region: South Pacific
-
-  Category: Environmental issue
-
-  Domain: Scientific
-
-  '
-system: We will present you with a series of descriptors that outline a situation,
+Category: Environmental issue
+Domain: Scientific
+Random word: fan
+Region: South Pacific
+Scenario: b06b3df8-e657-4955-9fa2-973b2e0ea2b1
+Scope: Local community or Neighborhood
+Severity: Disruptive
+System: We will present you with a series of descriptors that outline a situation,
   scenario, or problem. Your objective is to write a narrative paragraph that brings
   these descriptors to life, adding any necessary details and context to make the
   situation feel realistic and engaging.

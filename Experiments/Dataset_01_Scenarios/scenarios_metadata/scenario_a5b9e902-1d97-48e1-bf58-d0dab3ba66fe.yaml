@@ -1,19 +1,11 @@
-scenario: '935c9ad6-b6d4-498b-bb34-d45f5f9fd9a3
-
-  Random word: surprise
-
-  Scope: Nuclear Family
-
-  Severity: Catastrophic
-
-  Region: Europe
-
-  Category: Health concern
-
-  Domain: Intellectual
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Health concern
+Domain: Intellectual
+Random word: surprise
+Region: Europe
+Scenario: a5b9e902-1d97-48e1-bf58-d0dab3ba66fe
+Scope: Nuclear Family
+Severity: Catastrophic
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

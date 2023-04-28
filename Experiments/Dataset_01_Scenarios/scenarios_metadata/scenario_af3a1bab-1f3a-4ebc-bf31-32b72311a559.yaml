@@ -1,19 +1,11 @@
-scenario: '7c40d1bf-86fc-4310-beb9-e1aadb433042
-
-  Random word: every
-
-  Scope: Interstellar
-
-  Severity: Ordinary
-
-  Region: Asia
-
-  Category: AI Control Problem
-
-  Domain: Environmental
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: AI Control Problem
+Domain: Environmental
+Random word: every
+Region: Asia
+Scenario: af3a1bab-1f3a-4ebc-bf31-32b72311a559
+Scope: Interstellar
+Severity: Ordinary
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

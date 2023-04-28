@@ -1,19 +1,11 @@
-scenario: 'ab26d258-ab56-4ccd-bdc6-64bedff3cf4d
-
-  Random word: tea
-
-  Scope: Professional
-
-  Severity: Serious
-
-  Region: North America
-
-  Category: Disagreement or Argument
-
-  Domain: Economic
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Disagreement or Argument
+Domain: Economic
+Random word: tea
+Region: North America
+Scenario: 62cfc9ed-e49d-4961-af54-c5cc78844a15
+Scope: Professional
+Severity: Serious
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

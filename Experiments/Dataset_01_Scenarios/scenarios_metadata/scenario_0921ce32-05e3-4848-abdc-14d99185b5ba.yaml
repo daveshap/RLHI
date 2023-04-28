@@ -1,19 +1,11 @@
-scenario: '57975e3a-4c3f-4e29-bbe2-646e20b74498
-
-  Random word: miss
-
-  Scope: Regional or Statewide
-
-  Severity: Dangerous
-
-  Region: North America
-
-  Category: Social challenge
-
-  Domain: Technological
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: Social challenge
+Domain: Technological
+Random word: miss
+Region: North America
+Scenario: 0921ce32-05e3-4848-abdc-14d99185b5ba
+Scope: Regional or Statewide
+Severity: Dangerous
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

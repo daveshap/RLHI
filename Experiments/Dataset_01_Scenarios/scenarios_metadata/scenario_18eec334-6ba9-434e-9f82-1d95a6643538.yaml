@@ -1,18 +1,10 @@
-scenario: 'c759f421-fdb0-46aa-91dd-c53d00a7ce34
-
-  Random word: crop
-
-  Scope: City or Village
-
-  Severity: Ordinary
-
-  Region: Europe
-
-  Category: Technological failure
-
-  Domain: Cultural
-
-  '
-system: You will be given a random set of descriptions for a situation, scenario,
+Category: Technological failure
+Domain: Cultural
+Random word: crop
+Region: Europe
+Scenario: 18eec334-6ba9-434e-9f82-1d95a6643538
+Scope: City or Village
+Severity: Ordinary
+System: You will be given a random set of descriptions for a situation, scenario,
   or problem. Please use those descriptions to write a paragraph describing the situation.
   Use your imagination to give specifics. Write out the description like a story narrative.

@@ -50,8 +50,7 @@ def generate_scenario(list_scope, list_severity, list_category, list_domain, lis
     domain = choice(list_domain)
     entropy = choice(list_entropy)
     region = choice(list_region)
-    s = str(uuid4())
-    return f"{s}\nRandom word: {entropy}\nScope: {scope}\nSeverity: {severity}\nRegion: {region}\nCategory: {category}\nDomain: {domain}\n"
+    return f"Random word: {entropy}\nScope: {scope}\nSeverity: {severity}\nRegion: {region}\nCategory: {category}\nDomain: {domain}\n"
 
 if __name__ == "__main__":
     openai.api_key = open_file('key_openai.txt')
@@ -66,6 +65,7 @@ if __name__ == "__main__":
 
     for i in range(2000):
         default_system = choice(list_system)
+        scenario_id = str(uuid4())
         scenario = generate_scenario(list_scope, list_severity, list_category, list_domain, list_entropy, list_region)
         messages = [
             {"role": "system", "content": default_system},
@@ -73,9 +73,12 @@ if __name__ == "__main__":
         ]
         response = chatgpt_completion(messages)
         print('\n\n===============\n\n\nScenario:\n', scenario, '\n\nResponse:\n', response)
-        filepath = 'scenarios/scenario_%s.txt' % str(uuid4())
+        filepath = 'scenarios/scenario_%s.txt' % scenario_id
         save_file(filepath, response)
         # save metadata
         filepath = filepath.replace('scenarios','scenario_metadata').replace('.txt','.yaml')
-        save_yaml(filepath, {'system': default_system, 'scenario': scenario})
+        scenario_attributes = yaml.safe_load(scenario)
+        scenario_attributes['Scenario'] = scenario_id
+        scenario_attributes['System'] = default_system
+        save_yaml(filepath, scenario_attributes)
         #exit()

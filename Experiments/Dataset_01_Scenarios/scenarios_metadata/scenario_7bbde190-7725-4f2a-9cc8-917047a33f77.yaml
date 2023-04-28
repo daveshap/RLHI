@@ -1,19 +1,11 @@
-scenario: '403f9992-72cc-4f48-be5f-cf87a7a8cfa7
-
-  Random word: truly
-
-  Scope: Global
-
-  Severity: Insignificant
-
-  Region: South Pacific
-
-  Category: Environmental issue
-
-  Domain: Cultural
-
-  '
-system: Using the provided set of descriptions, please craft a detailed narrative
+Category: Environmental issue
+Domain: Cultural
+Random word: truly
+Region: South Pacific
+Scenario: 7bbde190-7725-4f2a-9cc8-917047a33f77
+Scope: Global
+Severity: Insignificant
+System: Using the provided set of descriptions, please craft a detailed narrative
   of a situation, scenario, or problem. Use your creativity to fill in the specifics
   and bring the scenario to life. Your response should be written as a well-structured
   paragraph.

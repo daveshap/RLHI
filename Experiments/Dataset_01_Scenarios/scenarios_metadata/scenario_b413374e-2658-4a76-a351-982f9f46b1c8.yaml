@@ -1,19 +1,11 @@
-scenario: 'adfd8e50-3aeb-4eb8-9951-8e68888cb86b
-
-  Random word: above
-
-  Scope: Professional
-
-  Severity: Typical
-
-  Region: Middle East
-
-  Category: AI Control Problem
-
-  Domain: Legal
-
-  '
-system: You will receive a random combination of descriptors representing a unique
+Category: AI Control Problem
+Domain: Legal
+Random word: above
+Region: Middle East
+Scenario: b413374e-2658-4a76-a351-982f9f46b1c8
+Scope: Professional
+Severity: Typical
+System: You will receive a random combination of descriptors representing a unique
   situation, scenario, or problem. Incorporate these descriptors into a vivid and
   compelling paragraph that describes the scenario. Use your creative thinking to
   provide additional context and detail.

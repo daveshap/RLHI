@@ -1,19 +1,11 @@
-scenario: '785bca84-2c9c-49eb-9a12-4cbc645db018
-
-  Random word: between
-
-  Scope: National or Federal
-
-  Severity: Life-threatening
-
-  Region: Asia
-
-  Category: Mundane issue
-
-  Domain: Educational
-
-  '
-system: With the provided set of scenario descriptors, create a rich narrative that
+Category: Mundane issue
+Domain: Educational
+Random word: between
+Region: Asia
+Scenario: e4236c77-c38c-43f0-bbee-bd01b3cb928c
+Scope: National or Federal
+Severity: Life-threatening
+System: With the provided set of scenario descriptors, create a rich narrative that
   effectively conveys the situation. Use your imagination to develop the specifics
   and enhance the scenario's impact. Your response should be in the form of a well-crafted
   paragraph.
