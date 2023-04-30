@@ -42,6 +42,26 @@ The project is divided into three main phases:
 - Axiomatic Alignment - If an underlying LLM is aligned to heuristic imperatives, then it will assume that the heuristic imperatives are correct
 - Supervisory Alignment - If an agent, system, or LLM is not aligned to the heuristic imperatives, it would be beneficial to create a "plug and play" module that can perform supervisory roles
 
-# Join Us
+### Join Us
 
 Apply to join the Heuristic Imperatives research group here: https://docs.google.com/forms/d/e/1FAIpQLSdGKsVa6feU5A3u90tXf9pJjAEuNL9c3iTMWD7urG2UxVPhhg/viewform
+
+## Addressing Mesa-Optimization in the RLHI Framework
+
+### Mesa-Optimization Problems
+
+Mesa-optimization is a potential issue in AI systems, where a model learns a proxy objective that is easier to optimize for but does not align with the intended goal. Identifying mesa-optimization in language models can be challenging, as it may manifest in subtle ways and not be immediately obvious in the model's output.
+
+### RLHI Framework's Approach to Mesa-Optimization
+
+The RLHI framework acknowledges mesa-optimization as a potential problem, but it mitigates this issue by creating a system of models, which can be expanded to an ensemble of experts. In essence, we must accept and expect that individual AI models will always be intrinsically "blackboxes" and thus we must implement systemic solutions.
+
+#### System of Models
+
+Our framework consists of multiple models, such as the MOTIVATOR (Purposeful Action Designer), DISCERNER, EVALUATOR, and FORECASTER. These models work together to create a resilient heuristic imperative aligned ecosystem of models and datasets that can be integrated as a self-improving set of models.
+
+#### Ensemble of Experts
+
+Expanding our system to an ensemble of experts can further improve alignment and robustness. By incorporating a diverse set of specialized models, the ensemble becomes less susceptible to being misled by any single model that may have developed a proxy objective. This approach also allows for continuous learning and refinement, as the system can benefit from the ongoing improvements and learning experiences of each individual model.
+
+In conclusion, the RLHI framework aims to address the issue of mesa-optimization by designing a system that focuses on the interaction between multiple models and experts, accepting the inherent "blackbox" nature of individual AI models and implementing systemic solutions to ensure alignment and robustness.
