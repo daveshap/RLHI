@@ -49,8 +49,8 @@ def finetune_get(ftid):
 
 
 
-resp = file_upload('hi-pad.jsonl')
-finetune_model(resp['id'], 'hi_pad', 'curie')
-#finetune_list()
+#resp = file_upload('hi-pad.jsonl')
+#finetune_model(resp['id'], 'hi_pad', 'curie')
+finetune_list()
 
 #openai.FineTune.cancel("")

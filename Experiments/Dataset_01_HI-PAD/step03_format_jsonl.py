@@ -17,7 +17,7 @@ if __name__ == '__main__':
     for file in files:
         prompt = open_file(prompt_dir + file)
         completion = open_file(completion_dir + file)
-        info = {'prompt': prompt + '\n\nACTION:\n', 'completion': completion}
+        info = {'prompt': prompt + '\n\nACTION:\n', 'completion': completion + ' STOP STOP STOP'}
         data.append(info)
     with open('hi-pad.jsonl', 'w', encoding='utf-8') as outfile:
         for i in data:
